@@ -10,8 +10,8 @@
     color-scheme: light dark;
     --bg: #14110f;
     --fg: #ede6df;
-    --muted: #8c8378;     /* secondary text */
-    --faint: #6f665c;     /* fainter text: hints, footer */
+    --muted: #8c8378;     /* secondary text (AA on --bg) */
+    --faint: #877e72;     /* fainter text: hints, footer (AA on --bg) */
     --bright: #b3a99c;    /* emphasis on muted (segment text, hover) */
     --accent: #d8a657;
     --on-accent: #14110f; /* text on an accent-filled control */
@@ -30,9 +30,9 @@
       --bg: #faf8f5;
       --fg: #1f1b18;
       --muted: #6b6358;
-      --faint: #8c8378;
+      --faint: #726a5f;
       --bright: #4a443d;
-      --accent: #b06a14;
+      --accent: #a5631a;
       --on-accent: #fdfaf6;
       --border: #e3ddd3;
       --surface: #efeae2;
@@ -53,9 +53,12 @@
   }
   .wrap { max-width: 920px; margin: 0 auto; }
   h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
-  h1[data-open] { cursor: pointer; }
-  h1[data-open]:hover { text-decoration: underline; text-decoration-thickness: 2px; }
   .sub { color: var(--muted); margin: 0 0 1.25rem; font-size: .85rem; }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+  .vh {
+    position: absolute; width: 1px; height: 1px; overflow: hidden;
+    clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap;
+  }
   .sublink {
     background: none; border: 0; padding: 0; font: inherit; cursor: pointer;
     color: var(--accent); text-decoration: underline;
@@ -75,10 +78,23 @@
 
   .controls {
     display: flex; flex-wrap: wrap; align-items: center; gap: .5rem;
-    margin: 0 0 .8rem;
+    margin: 0 0 .6rem;
   }
-  .dayband { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 1.5rem; }
-  .dayband:empty { display: none; }
+  .search {
+    flex: 1 1 12rem; min-width: 0; background: var(--bg); color: var(--fg);
+    border: 1px solid var(--border); border-radius: 6px; font: inherit;
+    font-size: .85rem; padding: .45rem .7rem;
+  }
+  .search::placeholder { color: var(--faint); }
+  .dayfilter { margin: 0 0 1.5rem; }
+  .dayfilter > summary {
+    list-style: none; cursor: pointer; color: var(--muted); font-size: .82rem;
+    display: inline-flex; align-items: center; gap: .3rem; padding: .2rem 0;
+  }
+  .dayfilter > summary::-webkit-details-marker { display: none; }
+  .dayfilter > summary::before { content: "▸"; color: var(--faint); }
+  .dayfilter[open] > summary::before { content: "▾"; }
+  .dayband { display: flex; flex-wrap: wrap; gap: .4rem; margin: .5rem 0 0; }
   .day-chip {
     display: inline-flex; align-items: center; gap: .1rem;
     border: 1px solid var(--border); border-radius: 999px;
@@ -104,7 +120,7 @@
   }
   .btn:hover { border-color: var(--accent); color: var(--accent); }
   .btn[disabled] { opacity: .45; cursor: default; }
-  .hint { color: var(--faint); font-size: .8rem; margin-left: auto; }
+  .hint { color: var(--faint); font-size: .8rem; margin: 0 0 1.25rem; }
 
   .health {
     background: var(--health-bg); border: 1px solid var(--health-border); color: var(--health-fg);
@@ -118,6 +134,20 @@
     white-space: nowrap; font-variant-numeric: tabular-nums; font-weight: 600;
   }
   a.rating:hover { text-decoration: underline; }
+  /* Exceptional (IMDb >= 9.0): a filled pill so it pops differently from "soon". */
+  .rating.top {
+    background: var(--accent); color: var(--on-accent);
+    padding: .05rem .4rem; border-radius: 999px;
+  }
+  a.rating.top:hover { text-decoration: none; opacity: .85; }
+  /* Soon (next ~3 days): emphasized by weight + accent, not color alone. */
+  .soon-date { color: var(--accent); font-weight: 600; }
+  h2.soon { border-left: 3px solid var(--accent); padding-left: .6rem; margin-left: -.6rem; }
+  .soon-tag {
+    color: var(--on-accent); background: var(--accent); font-size: .7rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: .03em; padding: .05rem .4rem;
+    border-radius: 4px; margin-right: .5rem; vertical-align: .08em;
+  }
 
   h2 {
     display: flex; align-items: center;
@@ -140,7 +170,7 @@
   @keyframes flash { from { background-color: var(--flash); } to { background-color: transparent; } }
   .flash { animation: flash 1.5s ease-out; border-radius: 6px; }
   .poster {
-    width: 56px; height: 80px; object-fit: cover; border-radius: 4px;
+    width: 67px; height: 96px; object-fit: cover; border-radius: 4px;
     background: var(--surface); flex: none; display: block;
   }
   a:hover > .poster { outline: 2px solid var(--accent); }
@@ -155,7 +185,7 @@
   .theater a:hover { text-decoration: underline; color: var(--bright); }
   .hide {
     flex: none; align-self: center; background: none; border: 0;
-    color: var(--icon-faint); font-size: 1.4rem; line-height: 1; cursor: pointer;
+    color: var(--icon); font-size: 1.4rem; line-height: 1; cursor: pointer;
     padding: .25rem .5rem; border-radius: 4px;
   }
   .showing:hover .hide, .film:hover .hide { color: var(--muted); }
@@ -182,7 +212,7 @@
     position: fixed; left: 0; right: 0; bottom: 0;
     background: var(--surface); border-top: 1px solid var(--border);
     color: var(--faint); font-size: .8rem;
-    display: flex; flex-wrap: wrap; align-items: center; gap: .35rem 1rem;
+    display: flex; flex-wrap: nowrap; align-items: center; gap: 1rem;
     justify-content: space-between; padding: .6rem 1rem;
   }
   #footerbar button {
@@ -190,24 +220,40 @@
     font-size: .8rem; text-decoration: underline; padding: 0 .25rem;
   }
   #footerbar a { color: var(--faint); }
+  #resets { flex: none; }
   #resets:empty { display: none; }
+  /* single line, ellipsis instead of wrapping over the listings */
+  .foot-meta { min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-align: right; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .flash { animation: none; }
+    * { scroll-behavior: auto; }
+  }
 
   @media (max-width: 560px) {
-    body { padding: 1.25rem .8rem 5.5rem; }
+    body { padding: 1.25rem .8rem 5rem; }
     h1 { font-size: 1.35rem; }
     .hint { margin-left: 0; flex-basis: 100%; }
-    .poster { width: 46px; height: 66px; }
+    .search { flex-basis: 100%; }
+    .poster { width: 55px; height: 79px; }
     .showing, .film { gap: .7rem; }
     .hide, .hidet, .hided { color: var(--faint); }  /* always visible: no hover on touch */
-    .go { font-size: 1rem; }                /* bigger tap target on touch */
     .tlist { columns: 1; }
+    /* >=44px touch targets */
+    .hide, .hidet, .hided, .hideday {
+      min-width: 44px; min-height: 44px;
+      display: inline-flex; align-items: center; justify-content: center; padding: 0;
+    }
+    .seg button, .btn, .search, .dayfilter > summary { min-height: 44px; }
+    .go { font-size: 1.1rem; padding: .35rem; }
   }
 </style>
 </head>
 <body data-build="{{ build_id }}">
 <div class="wrap">
-  <h1 data-open="theaters" title="See the theaters covered">Portland Indie Cinema</h1>
-  <p class="sub"><button class="sublink" data-open="theaters">{{ theaters|length }} theaters covered</button></p>
+  <h1>Portland Indie Cinema</h1>
+  <p class="sub">Upcoming repertory &amp; indie screenings — wide releases and non-film
+    events filtered out. <button class="sublink" data-open="theaters">{{ theaters|length }} theaters covered ›</button></p>
 
   {% if health %}
   <div class="health">⚠ Couldn't get current listings from {{ health|join(', ') }} — their site may have changed.</div>
@@ -219,14 +265,20 @@
       <button data-view="film" aria-pressed="false">By film</button>
       <button data-view="theater" aria-pressed="false">By theater</button>
     </div>
+    <input id="q" class="search" type="search" placeholder="Search films…" aria-label="Search films" autocomplete="off">
     <button id="ics" class="btn" title="Download the films you've kept as a calendar file">📅 Add to calendar</button>
-    <span class="hint">× to hide a film, theater, or day · ⌘Z undo / ⇧⌘Z redo</span>
   </div>
 
-  <div class="dayband" id="dayband"></div>
+  <details class="dayfilter">
+    <summary>Hide days of the week<span id="daycount"></span></summary>
+    <div class="dayband" id="dayband"></div>
+  </details>
+
+  <p class="hint">Tap × to hide a film, theater, or day · ⌘Z to undo</p>
 
   <div id="cal"></div>
   <div id="empty" hidden></div>
+  <div id="live" class="vh" aria-live="polite"></div>
 </div>
 
 <dialog id="theaters">
@@ -264,7 +316,9 @@
   var offDays = loadSet(DAYKEY);   // weekdays the viewer has switched off
   var offDates = loadSet(DATEKEY); // specific calendar dates switched off
   var view = localStorage.getItem(VIEWKEY) || "date";
+  var query = "";  // in-page search text (not persisted)
   var cal = document.getElementById("cal");
+  function say(m) { document.getElementById("live").textContent = m; }
 
   function loadSet(k) {
     try { return new Set(JSON.parse(localStorage.getItem(k) || "[]")); }
@@ -302,14 +356,14 @@
     var a = undoStack.pop();
     if (!a) return false;
     redoStack.push(a); saveStk();
-    applyHide(a, false); render(); highlight(a);  // flash what just came back
+    applyHide(a, false); render(); highlight(a); say("Restored.");  // flash what came back
     return true;
   }
   function redo() {
     var a = redoStack.pop();
     if (!a) return false;
     undoStack.push(a); saveStk();
-    applyHide(a, true); render();  // re-hidden -> nothing to highlight
+    applyHide(a, true); render(); say("Hidden again.");  // re-hidden -> nothing to highlight
     return true;
   }
   // Briefly flash the element(s) a just-undone hide restored, and bring the
@@ -354,7 +408,7 @@
       + esc(text) + "</a>";
   }
   function poster(r) {
-    if (!r.poster) return '<div class="poster"></div>';
+    if (!r.poster) return "";  // no placeholder box — keep the list dense
     var img = '<img class="poster" src="' + esc(r.poster) + '" alt="" loading="lazy">';
     return r.imdb
       ? '<a href="' + esc(r.imdb) + '" target="_blank" rel="noopener" title="View on IMDb">'
@@ -368,11 +422,19 @@
   function times(r) { return '<span class="time">' + esc(r.times.join(", ")) + "</span>"; }
   function ratingBadge(r) {
     if (!r.rating) return "";
+    var cls = "rating" + (r.rating >= 9.0 ? " top" : "");  // >=9.0 gets the filled pill
     var label = "★ " + r.rating.toFixed(1);
     return r.imdb
-      ? ' <a class="rating" href="' + esc(r.imdb) + '" target="_blank" rel="noopener"'
+      ? ' <a class="' + cls + '" href="' + esc(r.imdb) + '" target="_blank" rel="noopener"'
         + ' title="IMDb rating">' + label + "</a>"
-      : ' <span class="rating">' + label + "</span>";
+      : ' <span class="' + cls + '">' + label + "</span>";
+  }
+  // Format a date, emphasizing it when it's in the next ~3 days (Today/Tomorrow labelled).
+  function soonify(dateStr) {
+    var s = esc(fmtShort(dateStr)), lab = dayLabel(dateStr);
+    if (lab) return '<span class="soon-date">' + lab + ", " + s + "</span>";
+    if (isSoon(dateStr)) return '<span class="soon-date">' + s + "</span>";
+    return s;
   }
   function goLink(r) {
     if (!r.url) return "";
@@ -380,15 +442,26 @@
       + ' title="Open showtimes / tickets" aria-label="Open showtimes">🔗</a>';
   }
 
-  // visibleRows: from today onward, not hidden, theater switched on, in the
-  // original chronological order.
+  // visibleRows: from today onward, not hidden, theater switched on, matching the
+  // search query, in the original chronological order.
   function visibleRows() {
     var today = todayStr();
     return ROWS.filter(function (r) {
       return r.date >= today && !hidden.has(r.key) && !off.has(r.theater)
-        && !offDays.has(weekday(r)) && !offDates.has(r.date);
+        && !offDays.has(weekday(r)) && !offDates.has(r.date)
+        && (!query || r.title.toLowerCase().indexOf(query) !== -1);
     });
   }
+
+  // "Soon" = today through +2 days; surfaced with a distinct emphasis.
+  function isoOf(d) { return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate()); }
+  function plusDays(n) { var d = new Date(); d.setDate(d.getDate() + n); return isoOf(d); }
+  function dayLabel(dateStr) {
+    if (dateStr === plusDays(0)) return "Today";
+    if (dateStr === plusDays(1)) return "Tomorrow";
+    return null;
+  }
+  function isSoon(dateStr) { return dateStr >= plusDays(0) && dateStr <= plusDays(2); }
 
   function renderDayBand() {
     document.getElementById("dayband").innerHTML = DAYS.filter(function (d) {
@@ -410,8 +483,9 @@
     return order.map(function (k) { return { key: k, rows: map[k] }; });
   }
 
-  function section(label, body, attrs) {
-    return '<section class="group" ' + (attrs || "") + "><h2>" + label + "</h2>" + body + "</section>";
+  function section(label, body, attrs, h2cls) {
+    return '<section class="group" ' + (attrs || "") + "><h2"
+      + (h2cls ? ' class="' + h2cls + '"' : "") + ">" + label + "</h2>" + body + "</section>";
   }
 
   function renderByDate(rows) {
@@ -425,9 +499,11 @@
           + hideBtn(r.key) + "</div>";
       }).join("");
       var label = esc(fmtLong(g.key));
-      var head = label + '<button class="hided" data-date="' + g.key
+      var lab = dayLabel(g.key);
+      var head = (lab ? '<span class="soon-tag">' + lab + "</span>" : "") + label
+        + '<button class="hided" data-date="' + g.key
         + '" title="Hide ' + label + '" aria-label="Hide ' + label + '">×</button>';
-      return section(head, body, 'data-rd-sec="' + g.key + '"');
+      return section(head, body, 'data-rd-sec="' + g.key + '"', isSoon(g.key) ? "soon" : "");
     }).join("");
   }
 
@@ -461,7 +537,7 @@
     ts.sort(function (a, b) { return a.key.localeCompare(b.key); });
     return ts.map(function (t) {
       var films = byTitle(groups(t.rows, function (r) { return r.key; }));
-      var body = filmCards(films, function (r) { return esc(fmtShort(r.date)); }, true, t.key);
+      var body = filmCards(films, function (r) { return soonify(r.date); }, true, t.key);
       var head = link(t.rows[0].home, t.key, "")
         + '<button class="hidet" data-theater="' + esc(t.key)
         + '" title="Hide this theater" aria-label="Hide this theater">×</button>';
@@ -473,7 +549,7 @@
   function renderByFilm(rows) {
     var films = byTitle(groups(rows, function (r) { return r.key; }));
     return filmCards(films, function (r) {
-      return link(r.home, r.theater, "") + " &nbsp;·&nbsp; " + esc(fmtShort(r.date));
+      return link(r.home, r.theater, "") + " &nbsp;·&nbsp; " + soonify(r.date);
     }, false);
   }
 
@@ -557,28 +633,36 @@
     renderDayBand();
     var empty = document.getElementById("empty");
     empty.hidden = rows.length > 0;
-    if (rows.length === 0) empty.innerHTML = easterEgg();
+    if (rows.length === 0) {
+      empty.innerHTML = query
+        ? '<div class="egg"><p class="egg-quip">No films match “' + esc(query) + "”.</p></div>"
+        : easterEgg();
+    }
 
     document.querySelectorAll(".seg button").forEach(function (b) {
       b.setAttribute("aria-pressed", b.dataset.view === view);
     });
+    document.getElementById("daycount").textContent =
+      offDays.size ? " · " + offDays.size + " hidden" : "";
 
     var nshow = rows.reduce(function (a, r) { return a + r.starts.length; }, 0);
     var ics = document.getElementById("ics");
     ics.textContent = nshow ? "📅 Add " + nshow + " to calendar" : "📅 Add to calendar";
     ics.disabled = nshow === 0;
 
-    var parts = [];
-    if (hidden.size) parts.push(hidden.size + " film(s) hidden · "
-      + '<button data-show="films">show all</button>');
-    if (off.size) parts.push(off.size + " theater(s) hidden · "
-      + '<button data-show="theaters">show all</button>');
-    if (offDays.size) parts.push(offDays.size + " day(s) of the week hidden · "
-      + '<button data-show="days">show all</button>');
-    if (offDates.size) parts.push(offDates.size + " date(s) hidden · "
-      + '<button data-show="dates">show all</button>');
-    document.getElementById("resets").innerHTML = parts.join(" &nbsp;·&nbsp; ");
+    // One consolidated tally + reset; per-kind breakdown on hover.
+    var total = hidden.size + off.size + offDays.size + offDates.size;
+    var bd = [];
+    if (hidden.size) bd.push(plural(hidden.size, "film"));
+    if (off.size) bd.push(plural(off.size, "theater"));
+    if (offDays.size) bd.push(plural(offDays.size, "weekday"));
+    if (offDates.size) bd.push(plural(offDates.size, "date"));
+    document.getElementById("resets").innerHTML = total
+      ? '<span title="' + esc(bd.join(", ")) + '">' + total + " hidden</span> · "
+        + '<button data-show="all">show all</button>'
+      : "";
   }
+  function plural(n, w) { return n + " " + w + (n === 1 ? "" : "s"); }
 
   document.addEventListener("click", function (e) {
     var opener = e.target.closest("[data-open]");
@@ -604,24 +688,21 @@
       save(); saveOff(); saveDays(); saveDates(); render();
     } else if (dayEl) {
       var d = +dayEl.dataset.day;
-      if (!offDays.has(d)) { offDays.add(d); saveDays(); pushUndo("day", d); render(); }
+      if (!offDays.has(d)) { offDays.add(d); saveDays(); pushUndo("day", d); render(); say("Weekday hidden."); }
     } else if (hidedEl) {
       var dt = hidedEl.dataset.date;
-      if (!offDates.has(dt)) { offDates.add(dt); saveDates(); pushUndo("date", dt); render(); }
+      if (!offDates.has(dt)) { offDates.add(dt); saveDates(); pushUndo("date", dt); render(); say("Date hidden."); }
     } else if (hidetEl) {
       var th = hidetEl.dataset.theater;
-      if (!off.has(th)) { off.add(th); saveOff(); pushUndo("theater", th); render(); }
+      if (!off.has(th)) { off.add(th); saveOff(); pushUndo("theater", th); render(); say("Theater hidden."); }
     } else if (hideEl) {
       var k = hideEl.dataset.key;
-      if (!hidden.has(k)) { hidden.add(k); save(); pushUndo("film", k); render(); }
+      if (!hidden.has(k)) { hidden.add(k); save(); pushUndo("film", k); render(); say("Film hidden."); }
     } else if (seg) {
-      view = seg.dataset.view; localStorage.setItem(VIEWKEY, view); render();
-    } else if (show) {
-      if (show.dataset.show === "films") { hidden.clear(); save(); }
-      else if (show.dataset.show === "theaters") { off.clear(); saveOff(); }
-      else if (show.dataset.show === "days") { offDays.clear(); saveDays(); }
-      else { offDates.clear(); saveDates(); }
-      render();
+      view = seg.dataset.view; localStorage.setItem(VIEWKEY, view); render(); window.scrollTo(0, 0);
+    } else if (show) {  // single consolidated reset
+      hidden.clear(); off.clear(); offDays.clear(); offDates.clear();
+      save(); saveOff(); saveDays(); saveDates(); render(); say("All showings restored.");
     }
   });
 
@@ -629,10 +710,15 @@
   // No text fields on the page, so claiming these chords clashes with nothing.
   document.addEventListener("keydown", function (e) {
     if (!(e.metaKey || e.ctrlKey) || e.altKey) return;
+    var tag = (e.target.tagName || "").toLowerCase();
+    if (tag === "input" || tag === "textarea" || tag === "select") return;  // let the field's own undo work
     var k = e.key.toLowerCase();
     if (k === "z" && !e.shiftKey) { if (undo()) e.preventDefault(); }
     else if ((k === "z" && e.shiftKey) || (k === "y" && !e.shiftKey)) { if (redo()) e.preventDefault(); }
   });
+
+  var qInput = document.getElementById("q");
+  qInput.addEventListener("input", function () { query = qInput.value.trim().toLowerCase(); render(); });
 
   render();
 })();
@@ -656,17 +742,23 @@
     location.reload();
   }
 
+  // Cheap change-detection: a HEAD request, comparing ETag/Last-Modified, every
+  // 60s. Far lighter than re-downloading the page; first response sets the
+  // baseline. (file:// has no headers, so this simply no-ops there.)
+  var marker = null;
   function check() {
     if (navigator.onLine === false) return;  // offline: keep the cached page as-is
-    fetch(location.href, { cache: "no-store" })
-      .then(function (r) { return r.text(); })
-      .then(function (t) {
-        var m = t.match(/data-build="([^"]*)"/);
-        if (m && m[1] !== BUILD) reload();
+    fetch(location.href, { method: "HEAD", cache: "no-store" })
+      .then(function (r) {
+        var m = r.headers.get("etag") || r.headers.get("last-modified");
+        if (!m) return;
+        if (marker === null) marker = m;        // baseline
+        else if (m !== marker) reload();
       })
       .catch(function () { /* offline or blocked: keep the cached page, try again later */ });
   }
-  setInterval(check, 5000);
+  check();                       // establish the baseline promptly
+  setInterval(check, 60000);
 })();
 </script>
 </body>

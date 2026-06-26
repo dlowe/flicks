@@ -27,8 +27,11 @@ in a fraction of a second.
 
 ## The page
 
+- **Search** filters films by title as you type.
 - **By date / by film / by theater** toggle at the top (your choice is remembered).
   "By theater" lists each film once per theater with all its dates.
+- Screenings in the **next ~3 days** are emphasized (Today/Tomorrow labelled), and
+  films rated **IMDb 9.0+** get a highlighted rating pill.
 - **IMDb ratings** (★) show next to films where known, and the **poster** links to
   IMDb. Each showing's **🔗** opens that theater's showtimes/tickets page; theater
   names link to the theater's homepage. (IMDb links/ratings are resolved at build

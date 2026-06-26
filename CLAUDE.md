@@ -53,7 +53,7 @@ Each platform adapter is parameterized and covers multiple theaters:
 | `omsi` | OMSI Empirical | Ticketure via `wp-json/omsi/v1/ticketure-events` (filter `venue_short == "Empirical Theater"`) |
 | `filmbot` | Tomorrow | Filmbot `wp-json/nj/v1` (uses `_imdb_id`/`_tmdb_id` as a film-vs-live-event flag; `_imdb_id` also becomes the poster's IMDb link) |
 | `formovietickets` | Studio One, Moreland, Laurelhurst, Academy | static `app.formovietickets.com/schedules/scheduleV1/L{rtn}.json` (no per-film deep link — interactive-only; a Title's `webSite` is often an IMDb URL → poster link) |
-| `indy` | Living Room (317), Cinemagic (40), Kiggins (28, Vancouver WA) | INDY/Proludio GraphQL `api-us.indy.systems` with `site-id` header. Drops `published:false` showings (draft placeholders not on the public site). Site-ids are found via `{site(id:N){name}}` (no public hostname resolver). |
+| `indy` | Living Room (317), Cinemagic (40), Kiggins (28, Vancouver WA) | INDY/Proludio GraphQL `api-us.indy.systems` with `site-id` header. `movies` is paginated (defaults to 10, and limits ≳1000 silently fall back to 10) → page with `limit`/`offset`. Keeps only published, upcoming showings (the catalog spans years; drafts like Cinemagic's phantom "Up" are unpublished). Site-ids found via `{site(id:N){name}}` (no public hostname resolver). |
 
 Not yet added: **5th Avenue** (Squarespace Events; showtimes buried in `body` HTML;
 the theater runs on a summer hiatus so payoff is low).

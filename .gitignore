@@ -9,6 +9,8 @@ __pycache__/
 /events.json
 /health.json
 /multiplex.json
+/imdb_ids.json
+/imdb_ratings.tsv.gz
 
 # Local Claude Code settings (machine-specific, e.g. permission mode)
 .claude/settings.local.json

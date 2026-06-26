@@ -35,6 +35,7 @@ THEATER_HOMES = {
     "Academy Theater": "https://academytheaterpdx.com",
     "Living Room Theaters": "https://pdx.livingroomtheaters.com",
     "Cinemagic": "https://thecinemagictheater.com",
+    "Kiggins Theatre": "https://www.kigginstheatre.com",
     "St. Johns Cinema": "https://stjohnscinema.com",
 }
 
@@ -108,6 +109,7 @@ def _fold(events: list[Event]) -> list[dict]:
                 "url": e.url,
                 "poster": e.poster,
                 "imdb": e.imdb,
+                "rating": e.rating,
                 "times": [e.time_label],
                 "starts": [e.start.isoformat()],  # full per-showtime stamps, for .ics export
                 "sort": e.start.isoformat(),
@@ -117,4 +119,5 @@ def _fold(events: list[Event]) -> list[dict]:
             row["starts"].append(e.start.isoformat())
             row["poster"] = row["poster"] or e.poster
             row["imdb"] = row["imdb"] or e.imdb
+            row["rating"] = row["rating"] or e.rating
     return sorted(rows.values(), key=lambda r: (r["sort"], r["theater"], r["title"]))

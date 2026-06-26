@@ -125,11 +125,22 @@ def _resolve_show(slug: str) -> tuple[str | None, str | None]:
 def _verified_url(link: str | None) -> str | None:
     if not link:
         return None
+    if _head_ok(link):
+        return link
+    # Some Hollywood show pages live on the affiliated Movie Madness site instead
+    # (same org, same /show/<slug>/ paths) — try there before giving up.
+    mm = link.replace("hollywoodtheatre.org", "moviemadness.org")
+    if mm != link and _head_ok(mm):
+        return mm
+    return None
+
+
+def _head_ok(url: str) -> bool:
     try:
-        resp = requests.head(link, impersonate=IMPERSONATE, timeout=30, allow_redirects=True)
-        return link if resp.status_code == 200 else None
+        resp = requests.head(url, impersonate=IMPERSONATE, timeout=30, allow_redirects=True)
+        return resp.status_code == 200
     except Exception:
-        return None
+        return False
 
 
 def _poster(show: dict | None) -> str | None:

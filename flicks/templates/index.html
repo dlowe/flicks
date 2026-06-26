@@ -113,6 +113,11 @@
 
   .go { color: var(--icon); text-decoration: none; font-size: .8rem; margin-left: .35rem; }
   .go:hover { color: var(--accent); }
+  .rating {
+    font-size: .8rem; color: var(--accent); text-decoration: none;
+    white-space: nowrap; font-variant-numeric: tabular-nums; font-weight: 600;
+  }
+  a.rating:hover { text-decoration: underline; }
 
   h2 {
     display: flex; align-items: center;
@@ -358,6 +363,14 @@
       + '" title="Hide this film" aria-label="Hide this film">×</button>';
   }
   function times(r) { return '<span class="time">' + esc(r.times.join(", ")) + "</span>"; }
+  function ratingBadge(r) {
+    if (!r.rating) return "";
+    var label = "★ " + r.rating.toFixed(1);
+    return r.imdb
+      ? ' <a class="rating" href="' + esc(r.imdb) + '" target="_blank" rel="noopener"'
+        + ' title="IMDb rating">' + label + "</a>"
+      : ' <span class="rating">' + label + "</span>";
+  }
   function goLink(r) {
     if (!r.url) return "";
     return ' <a class="go" href="' + esc(r.url) + '" target="_blank" rel="noopener"'
@@ -403,7 +416,7 @@
       var body = g.rows.map(function (r) {
         return '<div class="showing" data-rk="' + esc(r.key) + '" data-rt="' + esc(r.theater)
           + '" data-rd="' + r.date + '">' + poster(r)
-          + '<div class="meta"><div class="title">' + link(r.url, r.title, "")
+          + '<div class="meta"><div class="title">' + link(r.url, r.title, "") + ratingBadge(r)
           + '</div><div class="line">' + times(r) + ' &nbsp;·&nbsp; '
           + '<span class="theater">' + link(r.home, r.theater, "") + "</span></div></div>"
           + hideBtn(r.key) + "</div>";
@@ -427,7 +440,7 @@
           + "</span> &nbsp;·&nbsp; " + times(r) + goLink(r) + "</div>";
       }).join("");
       return '<div class="film" data-rk="' + esc(first.key) + '"' + rt + ">" + poster(first)
-        + '<div class="meta"><div class="title">' + title + "</div>" + lines + "</div>"
+        + '<div class="meta"><div class="title">' + title + ratingBadge(first) + "</div>" + lines + "</div>"
         + hideBtn(first.key) + "</div>";
     }).join("");
   }
@@ -623,10 +636,11 @@
 </script>
 
 <script>
-// Auto-reload so a tab left open picks up regenerated listings. Preferred path:
-// poll our own file and reload only when the build marker changes (no flicker).
-// If reading the file is blocked (some file:// setups), fall back to a slow timed
-// reload. Either way we preserve scroll position across the reload.
+// Auto-reload so a tab left open picks up regenerated listings: poll our own
+// URL and reload ONLY when the build marker actually changes (no flicker),
+// preserving scroll. Offline-safe by design — if we're offline or the fetch
+// fails/blocked, we do nothing and keep the cached page, so the page stays fully
+// usable from cache with no network (it never reloads into a dead connection).
 (function () {
   var SKEY = "flicks.scroll";
   var BUILD = document.body.dataset.build;
@@ -639,18 +653,15 @@
     location.reload();
   }
 
-  var timedFallback = false;
   function check() {
+    if (navigator.onLine === false) return;  // offline: keep the cached page as-is
     fetch(location.href, { cache: "no-store" })
       .then(function (r) { return r.text(); })
       .then(function (t) {
         var m = t.match(/data-build="([^"]*)"/);
         if (m && m[1] !== BUILD) reload();
       })
-      .catch(function () {
-        // Can't read the file; switch to a plain periodic reload instead.
-        if (!timedFallback) { timedFallback = true; setInterval(reload, 60000); }
-      });
+      .catch(function () { /* offline or blocked: keep the cached page, try again later */ });
   }
   setInterval(check, 5000);
 })();

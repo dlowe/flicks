@@ -10,6 +10,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from . import filter as filters
+from . import imdb
 from . import multiplex
 from .models import Event
 from .adapters import (
@@ -56,6 +57,8 @@ SOURCES = [
      lambda: indy.fetch("317", "Living Room Theaters", "https://pdx.livingroomtheaters.com")),
     ("Cinemagic",
      lambda: indy.fetch("40", "Cinemagic", "https://tickets.thecinemagictheater.com")),
+    ("Kiggins Theatre",
+     lambda: indy.fetch("28", "Kiggins Theatre", "https://www.kigginstheatre.com")),
     ("St. Johns Cinema", lambda: veezi.fetch("https://stjohnscinema.com/", "St. Johns Cinema")),
 ]
 
@@ -80,6 +83,13 @@ def main() -> None:
     events = _within_horizon(events)
     events.sort(key=lambda e: (e.start, e.theater))
     print(f"{len(events)} showings total")
+
+    try:
+        events = imdb.enrich(events)
+        rated = sum(1 for e in events if e.rating is not None)
+        print(f"imdb: {sum(1 for e in events if e.imdb)} linked, {rated} rated")
+    except Exception as e:  # enrichment is a nicety, never sink the page
+        print(f"imdb enrichment skipped: {e}")
 
     # events.json is the full canonical cache; filtering is applied only to the page.
     events_json = [{**asdict(e), "start": e.start.isoformat()} for e in events]

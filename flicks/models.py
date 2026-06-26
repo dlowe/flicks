@@ -14,6 +14,7 @@ class Event:
     url: str
     poster: str | None = None
     imdb: str | None = None  # canonical https://www.imdb.com/title/tt…/ when known
+    rating: float | None = None  # IMDb average rating, attached at build time
 
     @property
     def date_key(self) -> str:

@@ -29,9 +29,10 @@ in a fraction of a second.
 
 - **By date / by film / by theater** toggle at the top (your choice is remembered).
   "By theater" lists each film once per theater with all its dates.
-- Each showing's **🔗** opens that theater's showtimes/tickets page; theater names
-  link to the theater's homepage; and where an IMDb id is known, the **poster**
-  links to IMDb. Posters are shown where available.
+- **IMDb ratings** (★) show next to films where known, and the **poster** links to
+  IMDb. Each showing's **🔗** opens that theater's showtimes/tickets page; theater
+  names link to the theater's homepage. (IMDb links/ratings are resolved at build
+  time with no API key; see the health/IMDb notes below.) Posters where available.
 - Click the title (or "N theaters covered") to see every theater the page pulls
   from, with links — including ones currently filtered down to nothing.
 - Light or dark theme follows your OS.
@@ -47,8 +48,9 @@ in a fraction of a second.
   weekday via the chips below the controls. All are saved in your browser; the
   floating bar at the bottom tallies each kind and resets them. **⌘Z / Ctrl-Z**
   undoes your last hide (briefly flashing what came back); **⇧⌘Z / Ctrl-Y** redoes.
-- Left open in a tab, the page auto-reloads when it's been regenerated (and falls
-  back to a slow timed reload if it can't poll the file), preserving your scroll.
+- Left open in a tab, the page auto-reloads when it's been regenerated, preserving
+  your scroll. It's offline-safe: with no network it just keeps showing the cached
+  page (it only reloads on a confirmed new build, never into a dead connection).
 - A banner warns if a theater that usually has listings returned none this run
   (a likely sign its website changed) — see the health check below.
 
@@ -84,3 +86,13 @@ has produced listings before suddenly returns none — or its fetch errors — t
 run flags it and the page shows a banner. That's the early warning that a
 theater changed its website and its adapter needs attention. A theater that's
 simply, legitimately empty right now (no history of listings) is not flagged.
+
+## IMDb ratings & links
+
+Done at build time, with no API key. Titles are matched to IMDb ids via IMDb's
+keyless suggestion endpoint (disambiguated by year when the listing has one, and
+only accepted on an exact title match to avoid wrong films), and ratings come from
+IMDb's official `title.ratings.tsv.gz` dataset. Ids are cached in `imdb_ids.json`
+and the ratings file is re-downloaded at most daily, so re-runs are fast. Title-only
+matches can occasionally be wrong for generically-named films; feed-provided ids
+(e.g. ForMovieTickets) are trusted over lookups.

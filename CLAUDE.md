@@ -34,6 +34,10 @@ build time to discover each theater's data source and write its adapter.)
   so a film isn't split from itself; used by both `filter.key()` and rendering.
 - `flicks/filter.py` + `filter.toml` — wide-release / non-film filtering (below).
 - `flicks/multiplex.py` — Cinemark now-playing + coming-soon → wide-release denylist.
+- `flicks/imdb.py` — build-time enrichment (no key): resolves titles to IMDb ids via
+  the keyless suggestion endpoint (year-disambiguated, conservative exact-title match)
+  and attaches ratings from IMDb's official `title.ratings.tsv.gz`. Ids cached in
+  `imdb_ids.json` (incl. negatives); ratings file cached, re-downloaded ≤ daily.
 - `events.json` is the **full** in-window cache (unfiltered); the page is filtered.
   Re-tuning the filter never needs a re-fetch.
 
@@ -44,12 +48,12 @@ Each platform adapter is parameterized and covers multiple theaters:
 | Adapter | Theaters | Source |
 |---|---|---|
 | `events_calendar` | Clinton Street; PAM/Whitsell | WordPress "The Events Calendar" `/wp-json/tribe/events/v1/events` (PAM: `category=screenings-experiences`, drops the Tomorrow venue) |
-| `hollywood` | Hollywood | WordPress custom `event` post type (datetime in the title); poster + link from linked `show`. Links to the `/show/` page when its permalink resolves (verified with a HEAD — series-umbrella shows 404), else the per-screening event page. **Behind Cloudflare → uses `curl_cffi` impersonation.** Parallelized + windowed (~45s). |
+| `hollywood` | Hollywood | WordPress custom `event` post type (datetime in the title); poster + link from linked `show`. Links to the `/show/` page when its permalink resolves (verified with a HEAD — series-umbrella shows 404), else the affiliated Movie Madness `/show/` page (same org), else the per-screening event page. **Behind Cloudflare → uses `curl_cffi` impersonation.** Parallelized + windowed (~45s). |
 | `cinema21` | Cinema 21 | Veezi-backed "Flicks" site `/api/movie/playing-now` |
 | `omsi` | OMSI Empirical | Ticketure via `wp-json/omsi/v1/ticketure-events` (filter `venue_short == "Empirical Theater"`) |
 | `filmbot` | Tomorrow | Filmbot `wp-json/nj/v1` (uses `_imdb_id`/`_tmdb_id` as a film-vs-live-event flag; `_imdb_id` also becomes the poster's IMDb link) |
 | `formovietickets` | Studio One, Moreland, Laurelhurst, Academy | static `app.formovietickets.com/schedules/scheduleV1/L{rtn}.json` (no per-film deep link — interactive-only; a Title's `webSite` is often an IMDb URL → poster link) |
-| `indy` | Living Room (317), Cinemagic (40) | INDY/Proludio GraphQL `api-us.indy.systems` with `site-id` header. Drops `published:false` showings (draft placeholders not on the public site). |
+| `indy` | Living Room (317), Cinemagic (40), Kiggins (28, Vancouver WA) | INDY/Proludio GraphQL `api-us.indy.systems` with `site-id` header. Drops `published:false` showings (draft placeholders not on the public site). Site-ids are found via `{site(id:N){name}}` (no public hostname resolver). |
 
 Not yet added: **5th Avenue** (Squarespace Events; showtimes buried in `body` HTML;
 the theater runs on a summer hiatus so payoff is low).

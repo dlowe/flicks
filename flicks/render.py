@@ -79,6 +79,7 @@ def render(events: list[Event], out: Path, health: list[str] | None = None) -> N
     html = template.render(
         rows_json=rows_json,
         health=health or [],
+        theaters=sorted(THEATER_HOMES.items()),  # all covered theaters, for the modal
         generated=now.strftime("%b %-d, %-I:%M%p"),
         build_id=now.strftime("%Y-%m-%dT%H:%M:%S"),  # for the page's auto-reload check
     )

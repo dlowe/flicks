@@ -53,7 +53,25 @@
   }
   .wrap { max-width: 920px; margin: 0 auto; }
   h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
+  h1[data-open] { cursor: pointer; }
+  h1[data-open]:hover { text-decoration: underline; text-decoration-thickness: 2px; }
   .sub { color: var(--muted); margin: 0 0 1.25rem; font-size: .85rem; }
+  .sublink {
+    background: none; border: 0; padding: 0; font: inherit; cursor: pointer;
+    color: var(--accent); text-decoration: underline;
+  }
+
+  dialog {
+    background: var(--bg); color: var(--fg); border: 1px solid var(--border);
+    border-radius: 10px; max-width: 420px; width: calc(100% - 2rem); padding: 1.5rem;
+  }
+  dialog::backdrop { background: rgba(0, 0, 0, .55); }
+  dialog h2 { margin: 0 0 1rem; border: 0; padding: 0; }
+  .tlist { list-style: none; margin: 0 0 1rem; padding: 0; columns: 2; }
+  .tlist li { margin: .3rem 0; break-inside: avoid; }
+  .tlist a { color: var(--accent); text-decoration: none; }
+  .tlist a:hover { text-decoration: underline; }
+  .dnote { color: var(--muted); font-size: .8rem; margin: 0 0 1.2rem; }
 
   .controls {
     display: flex; flex-wrap: wrap; align-items: center; gap: .5rem;
@@ -174,13 +192,14 @@
     .showing, .film { gap: .7rem; }
     .hide, .hidet, .hided { color: var(--faint); }  /* always visible: no hover on touch */
     .go { font-size: 1rem; }                /* bigger tap target on touch */
+    .tlist { columns: 1; }
   }
 </style>
 </head>
 <body data-build="{{ build_id }}">
 <div class="wrap">
-  <h1>Portland Indie Cinema</h1>
-  <p class="sub">Generated {{ generated }}</p>
+  <h1 data-open="theaters" title="See the theaters covered">Portland Indie Cinema</h1>
+  <p class="sub"><button class="sublink" data-open="theaters">{{ theaters|length }} theaters covered</button></p>
 
   {% if health %}
   <div class="health">⚠ Couldn't get current listings from {{ health|join(', ') }} — their site may have changed.</div>
@@ -202,9 +221,21 @@
   <div id="empty" hidden></div>
 </div>
 
+<dialog id="theaters">
+  <h2>Theaters covered</h2>
+  <ul class="tlist">
+    {% for name, home in theaters %}
+    <li><a href="{{ home }}" target="_blank" rel="noopener">{{ name }}</a></li>
+    {% endfor %}
+  </ul>
+  <p class="dnote">Wide releases and non-film events are filtered out, so a theater
+    here may have nothing showing right now.</p>
+  <form method="dialog"><button class="btn">Close</button></form>
+</dialog>
+
 <div id="footerbar">
   <span id="resets"></span>
-  <span class="foot-meta">Pacific times ·
+  <span class="foot-meta">Generated {{ generated }} · Pacific times ·
     <a href="https://github.com/dlowe/flicks" target="_blank" rel="noopener">source on GitHub</a></span>
 </div>
 
@@ -534,6 +565,15 @@
   }
 
   document.addEventListener("click", function (e) {
+    var opener = e.target.closest("[data-open]");
+    if (opener) {
+      e.preventDefault();
+      var dlg = document.getElementById(opener.dataset.open);
+      if (dlg.showModal) dlg.showModal(); else dlg.setAttribute("open", "");
+      return;
+    }
+    if (e.target.tagName === "DIALOG") { e.target.close(); return; }  // backdrop click
+
     var hideEl = e.target.closest(".hide");
     var hidetEl = e.target.closest(".hidet");
     var hidedEl = e.target.closest(".hided");

@@ -25,7 +25,8 @@ build time to discover each theater's data source and write its adapter.)
   where an id is known, and an `.ics` export of the filtered set (built from each
   row's `starts` stamps, emitted as UTC; no server) — all client-side, so every
   view is available with no re-fetch. `THEATER_HOMES` maps theater names to
-  homepages for the name links.
+  homepages, used for the name links and the "theaters covered" modal (opened from
+  the page title) — which lists all covered theaters, even ones filtered to nothing.
   Palette follows the OS (CSS vars + `prefers-color-scheme`); filtering everything
   out reveals a small "The End" easter egg.
 - `flicks/titles.py` — `normalize()` strips presenter credits ("X Presents:",

@@ -32,6 +32,8 @@ in a fraction of a second.
 - Each showing's **🔗** opens that theater's showtimes/tickets page; theater names
   link to the theater's homepage; and where an IMDb id is known, the **poster**
   links to IMDb. Posters are shown where available.
+- Click the title (or "N theaters covered") to see every theater the page pulls
+  from, with links — including ones currently filtered down to nothing.
 - Light or dark theme follows your OS.
 - **Add to calendar** exports whatever's currently showing (after your hides and
   theater filters) as an `.ics` file — built in your browser, no server. Import it

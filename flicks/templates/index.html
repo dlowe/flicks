@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Flicks — Portland indie cinema</title>
+<style>
+  :root { color-scheme: dark; }
+  body {
+    font: 16px/1.4 -apple-system, system-ui, sans-serif;
+    background: #14110f; color: #ede6df; margin: 0;
+    padding: 2rem 1rem 5rem;
+  }
+  .wrap { max-width: 920px; margin: 0 auto; }
+  h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
+  .sub { color: #8c8378; margin: 0 0 2.5rem; font-size: .85rem; }
+  h2 {
+    font-size: 1.05rem; font-weight: 600; color: #d8a657;
+    border-bottom: 1px solid #2e2925; padding-bottom: .4rem;
+    margin: 2.5rem 0 1rem;
+  }
+  .showing {
+    display: flex; gap: 1rem; align-items: flex-start;
+    padding: .7rem 0; border-bottom: 1px solid #211d1a;
+  }
+  .showing[hidden], .day[hidden] { display: none; }
+  .poster {
+    width: 56px; height: 80px; object-fit: cover; border-radius: 4px;
+    background: #211d1a; flex: none;
+  }
+  .meta { flex: 1; min-width: 0; }
+  .title { font-weight: 600; }
+  .title a { color: #ede6df; text-decoration: none; }
+  .title a:hover { text-decoration: underline; }
+  .line { color: #8c8378; font-size: .85rem; margin-top: .15rem; }
+  .time { color: #ede6df; font-variant-numeric: tabular-nums; }
+  .theater { color: #8c8378; }
+  .hide {
+    flex: none; align-self: center; background: none; border: 0;
+    color: #5a534b; font-size: 1.3rem; line-height: 1; cursor: pointer;
+    padding: .25rem .4rem; border-radius: 4px;
+  }
+  .showing:hover .hide { color: #8c8378; }
+  .hide:hover { color: #e06c5a; background: #211d1a; }
+  #hiddenbar {
+    position: fixed; left: 0; right: 0; bottom: 0;
+    background: #211d1a; border-top: 1px solid #2e2925;
+    color: #8c8378; font-size: .85rem; text-align: center;
+    padding: .6rem 1rem;
+  }
+  #hiddenbar button {
+    background: none; border: 0; color: #d8a657; cursor: pointer;
+    font-size: .85rem; text-decoration: underline; padding: 0 .25rem;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Portland Indie Cinema</h1>
+  <p class="sub">Generated {{ generated }}</p>
+
+  {% for day in days %}
+  <section class="day">
+    <h2>{{ day.label }}</h2>
+    {% for s in day.showings %}
+    <div class="showing" data-film="{{ s.title }}">
+      {% if s.poster %}<img class="poster" src="{{ s.poster }}" alt="" loading="lazy">
+      {% else %}<div class="poster"></div>{% endif %}
+      <div class="meta">
+        <div class="title"><a href="{{ s.url }}">{{ s.title }}</a></div>
+        <div class="line">
+          <span class="time">{{ s.times|join(', ') }}</span>
+          &nbsp;·&nbsp;<span class="theater">{{ s.theater }}</span>
+        </div>
+      </div>
+      <button class="hide" title="Hide this film" aria-label="Hide this film">&times;</button>
+    </div>
+    {% endfor %}
+  </section>
+  {% endfor %}
+</div>
+
+<div id="hiddenbar" hidden>
+  <span class="n">0</span> film(s) hidden · <button id="showall">show all</button>
+</div>
+
+<script>
+(function () {
+  var KEY = "flicks.hidden";
+  var norm = function (t) { return (t || "").trim().toLowerCase(); };
+  var load = function () {
+    try { return new Set(JSON.parse(localStorage.getItem(KEY) || "[]")); }
+    catch (e) { return new Set(); }
+  };
+  var hidden = load();
+  var save = function () { localStorage.setItem(KEY, JSON.stringify([].concat([...hidden]))); };
+
+  function apply() {
+    document.querySelectorAll(".showing").forEach(function (el) {
+      el.hidden = hidden.has(norm(el.dataset.film));
+    });
+    document.querySelectorAll(".day").forEach(function (sec) {
+      var anyVisible = [].some.call(sec.querySelectorAll(".showing"), function (el) { return !el.hidden; });
+      sec.hidden = !anyVisible;
+    });
+    var bar = document.getElementById("hiddenbar");
+    bar.hidden = hidden.size === 0;
+    bar.querySelector(".n").textContent = hidden.size;
+  }
+
+  document.addEventListener("click", function (e) {
+    var btn = e.target.closest(".hide");
+    if (btn) {
+      hidden.add(norm(btn.closest(".showing").dataset.film));
+      save(); apply();
+    } else if (e.target.id === "showall") {
+      hidden.clear(); save(); apply();
+    }
+  });
+
+  apply();
+})();
+</script>
+</body>
+</html>

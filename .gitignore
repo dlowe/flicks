@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated output (rebuild with ./run.sh) — anchored to repo root so the
+# Jinja template at flicks/templates/index.html is NOT ignored.
+/index.html
+/events.json
+
+# Local Claude Code settings (machine-specific, e.g. permission mode)
+.claude/settings.local.json

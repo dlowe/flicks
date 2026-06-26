@@ -1,0 +1,42 @@
+# Filtering rules for the indie-cinema calendar. Edit by hand; re-run ./run.sh.
+# Decision order per film: allow > deny > non-film keyword > wide-release heuristics.
+#
+# Multiplex-subtract (see subtract_multiplex below) handles single-theater and
+# advance wide releases by subtracting Cinemark's now-playing + coming-soon,
+# while sparing genuine revivals (old films aren't in the multiplex slate).
+
+[heuristics]
+# Drop a title showing at this many distinct theaters (wide releases play everywhere).
+wide_release_theater_count = 3
+# Drop a title with at least this many showings in a single day at one theater
+# (multiplex blockbuster cadence; arthouse first-runs in this region sit at <=3/day).
+dense_showings_per_day = 6
+# Subtract titles currently playing or coming soon at a big multiplex (Cinemark).
+# Catches single-theater/advance wide releases the above heuristics can't see.
+subtract_multiplex = true
+
+[lists]
+# Force-KEEP these even if a heuristic would drop them (matched loosely: case,
+# leading "the/a/an", and trailing "(...)" qualifiers are ignored).
+# Old wide releases shown as revivals — keep despite "wide release" signals.
+allow = [
+  "Iron Giant",
+  "Scooby-Doo",
+]
+
+# Force-HIDE these regardless of heuristics (same loose matching).
+deny = []
+
+# Drop any title containing one of these substrings (case-insensitive) — for
+# non-film programming the heuristics can't catch.
+nonfilm_keywords = [
+  "variety show",
+  "miniplex",  # Hollywood's private-rental / "My Own Private Miniplex" programs
+  "soccer",
+  "world cup",
+  "trivia",
+  "burlesque",
+  "drag bingo",
+  "live podcast",
+  "comedy night",
+]

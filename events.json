@@ -1,28 +1,19 @@
 [
   {
-    "title": "OBSESSION",
-    "start": "2026-06-26T12:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.1
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-06-26T12:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
     "title": "DISCLOSURE DAY",
     "start": "2026-06-26T12:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "Disclosure Day",
+    "start": "2026-06-26T12:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
   },
@@ -36,6 +27,15 @@
     "rating": 5.9
   },
   {
+    "title": "Couture",
+    "start": "2026-06-26T12:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-26T12:45:00-07:00",
     "theater": "Academy Theater",
@@ -43,6 +43,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-06-26T12:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
   },
   {
     "title": "NOWHERE (1997)",
@@ -90,6 +99,24 @@
     "rating": null
   },
   {
+    "title": "Supergirl",
+    "start": "2026-06-26T14:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
+    "title": "Girls Like Girls",
+    "start": "2026-06-26T14:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
     "title": "DISCLOSURE DAY",
     "start": "2026-06-26T14:30:00-07:00",
     "theater": "Studio One",
@@ -97,6 +124,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-26T14:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "TOY STORY 5",
@@ -115,6 +151,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt37287335/",
     "rating": 8.1
+  },
+  {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-06-26T15:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
   },
   {
     "title": "SUPERGIRL",
@@ -151,6 +196,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "Disclosure Day",
+    "start": "2026-06-26T15:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
   },
   {
     "title": "DISCLOSURE DAY",
@@ -243,6 +297,15 @@
     "rating": 5.9
   },
   {
+    "title": "Girls Like Girls",
+    "start": "2026-06-26T16:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
     "title": "Leviticus",
     "start": "2026-06-26T16:30:00-07:00",
     "theater": "Cinema 21",
@@ -252,6 +315,15 @@
     "rating": 6.8
   },
   {
+    "title": "Supergirl",
+    "start": "2026-06-26T16:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
     "title": "Toy Story 5",
     "start": "2026-06-26T16:45:00-07:00",
     "theater": "St. Johns Cinema",
@@ -259,6 +331,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "Couture",
+    "start": "2026-06-26T17:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
   },
   {
     "title": "TOY STORY 5",
@@ -277,6 +358,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
     "rating": null
+  },
+  {
+    "title": "LABYRINTH",
+    "start": "2026-06-26T17:10:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/labyrinth",
+    "poster": "https://indy-systems.imgix.net/eumdcskaa912xx6gy8uc87d0rlec?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0091369/",
+    "rating": 7.3
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-26T17:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -360,6 +459,15 @@
     "rating": 7.1
   },
   {
+    "title": "Girls Like Girls",
+    "start": "2026-06-26T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
     "title": "SUPERGIRL",
     "start": "2026-06-26T18:40:00-07:00",
     "theater": "Studio One",
@@ -396,6 +504,15 @@
     "rating": 8.1
   },
   {
+    "title": "Disclosure Day",
+    "start": "2026-06-26T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
     "title": "NOWHERE (1997)",
     "start": "2026-06-26T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -412,6 +529,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_6751b6b9-058d-480d-a0b7-4ecff8a8d606.jpg",
     "imdb": "https://www.imdb.com/title/tt37287335/",
     "rating": 8.1
+  },
+  {
+    "title": "South Park: Bigger, Longer & Uncut",
+    "start": "2026-06-26T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/south-park-bigger-longer-uncut",
+    "poster": "https://indy-systems.imgix.net/kjxj5cr1i3nk0z8y0o9wt51u6jhf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0158983/",
+    "rating": 7.7
   },
   {
     "title": "Sleepaway Camp: The Midnight Mass Experience",
@@ -439,6 +565,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-06-26T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
   },
   {
     "title": "OBSESSION",
@@ -477,6 +612,15 @@
     "rating": null
   },
   {
+    "title": "Couture",
+    "start": "2026-06-26T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-26T19:15:00-07:00",
     "theater": "Moreland Theater",
@@ -493,6 +637,24 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/scream.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0117571/",
     "rating": 7.4
+  },
+  {
+    "title": "SO I MARRIED AN AXE MURDERER",
+    "start": "2026-06-26T19:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/so-i-married-an-axe-murderer",
+    "poster": "https://indy-systems.imgix.net/l7wib5wvancnpry2bo373cbg654d?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0108174/",
+    "rating": 6.5
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-26T19:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "Supergirl",
@@ -522,6 +684,15 @@
     "rating": 7.6
   },
   {
+    "title": "Disclosure Day",
+    "start": "2026-06-26T20:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
     "title": "BACKROOMS",
     "start": "2026-06-26T20:35:00-07:00",
     "theater": "Studio One",
@@ -529,6 +700,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/862465B00485A291327F47F70F685C3E2D22B5AC3C5201842D590892CF6BA422_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt26657236/",
     "rating": 7.1
+  },
+  {
+    "title": "Girls Like Girls",
+    "start": "2026-06-26T20:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
+    "title": "Ebola Syndrome",
+    "start": "2026-06-26T21:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/ebola-syndrome",
+    "poster": "https://indy-systems.imgix.net/vjy5zxidvy1cxzmhc2pbob5eqoq8?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0116163/",
+    "rating": 6.5
   },
   {
     "title": "DISCLOSURE DAY",
@@ -621,6 +810,15 @@
     "rating": 7.1
   },
   {
+    "title": "Supergirl",
+    "start": "2026-06-26T21:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
     "title": "DISCLOSURE DAY",
     "start": "2026-06-26T21:30:00-07:00",
     "theater": "Studio One",
@@ -628,6 +826,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-26T21:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "TOY STORY 5",
@@ -673,6 +880,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
     "rating": 5.9
+  },
+  {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-06-26T22:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
   },
   {
     "title": "CRUISING",
@@ -810,11 +1026,29 @@
     "rating": 7.6
   },
   {
+    "title": "Girls Like Girls",
+    "start": "2026-06-27T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
     "title": "SUPERGIRL",
     "start": "2026-06-27T12:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-06-27T12:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
     "rating": 5.9
   },
@@ -855,6 +1089,15 @@
     "rating": 7.1
   },
   {
+    "title": "Disclosure Day",
+    "start": "2026-06-27T12:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-27T12:35:00-07:00",
     "theater": "Moreland Theater",
@@ -862,6 +1105,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "Couture",
+    "start": "2026-06-27T12:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
   },
   {
     "title": "TOY STORY 5",
@@ -880,6 +1132,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt37287335/",
     "rating": 8.1
+  },
+  {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-06-27T12:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
   },
   {
     "title": "12 ANGRY MEN (1957)",
@@ -999,15 +1260,6 @@
     "rating": 6.7
   },
   {
-    "title": "Turnstile: Never Enough",
-    "start": "2026-06-27T14:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/turnstile-never-enough/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/02101451/xhKw33Hn53cuFkSzvvbZpX1lS2I.jpg",
-    "imdb": "https://www.imdb.com/title/tt37023472/",
-    "rating": 8.1
-  },
-  {
     "title": "Leviticus",
     "start": "2026-06-27T14:10:00-07:00",
     "theater": "Cinema 21",
@@ -1015,6 +1267,15 @@
     "poster": "https://cdn.vwassets.com/cinema21.com/1780427150051_Leviticus-KeyArtPoster-27x40.jpg",
     "imdb": "https://www.imdb.com/title/tt39143902/",
     "rating": 6.8
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-06-27T14:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -1035,6 +1296,15 @@
     "rating": 6.7
   },
   {
+    "title": "Girls Like Girls",
+    "start": "2026-06-27T14:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-27T14:40:00-07:00",
     "theater": "Studio One",
@@ -1051,6 +1321,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_d6b380a3-24ca-49b1-986f-085ded7010c3.jpg",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-27T14:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "TOY STORY 5",
@@ -1071,6 +1350,15 @@
     "rating": 7.1
   },
   {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-06-27T15:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
+  },
+  {
     "title": "SUPERGIRL",
     "start": "2026-06-27T15:00:00-07:00",
     "theater": "Studio One",
@@ -1085,6 +1373,15 @@
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "Disclosure Day",
+    "start": "2026-06-27T15:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
   },
@@ -1123,6 +1420,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt0119809/",
     "rating": 6.6
+  },
+  {
+    "title": "LABYRINTH",
+    "start": "2026-06-27T16:00:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/labyrinth",
+    "poster": "https://indy-systems.imgix.net/eumdcskaa912xx6gy8uc87d0rlec?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0091369/",
+    "rating": 7.3
   },
   {
     "title": "BACKROOMS",
@@ -1188,6 +1494,15 @@
     "rating": 5.9
   },
   {
+    "title": "Girls Like Girls",
+    "start": "2026-06-27T16:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
     "title": "Obsession",
     "start": "2026-06-27T16:30:00-07:00",
     "theater": "Cinema 21",
@@ -1195,6 +1510,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_6751b6b9-058d-480d-a0b7-4ecff8a8d606.jpg",
     "imdb": "https://www.imdb.com/title/tt37287335/",
     "rating": 8.1
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-06-27T16:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
   },
   {
     "title": "Toy Story 5",
@@ -1215,6 +1539,15 @@
     "rating": 7.6
   },
   {
+    "title": "Couture",
+    "start": "2026-06-27T17:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-27T17:00:00-07:00",
     "theater": "Moreland Theater",
@@ -1231,6 +1564,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
     "rating": null
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-27T17:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "TOY STORY 5",
@@ -1296,6 +1638,15 @@
     "rating": 7.6
   },
   {
+    "title": "SO I MARRIED AN AXE MURDERER",
+    "start": "2026-06-27T18:20:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/so-i-married-an-axe-murderer",
+    "poster": "https://indy-systems.imgix.net/l7wib5wvancnpry2bo373cbg654d?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0108174/",
+    "rating": 6.5
+  },
+  {
     "title": "DISCLOSURE DAY",
     "start": "2026-06-27T18:20:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -1312,6 +1663,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/BE03262706DE84C621F9FD69B4B5C1D983AC9DC188AA0EA0E34A42CC3931C13D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt26657236/",
     "rating": 7.1
+  },
+  {
+    "title": "Girls Like Girls",
+    "start": "2026-06-27T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -1341,6 +1701,15 @@
     "rating": 8.1
   },
   {
+    "title": "Disclosure Day",
+    "start": "2026-06-27T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
     "title": "LEVITICUS",
     "start": "2026-06-27T18:50:00-07:00",
     "theater": "Studio One",
@@ -1368,6 +1737,15 @@
     "rating": 8.1
   },
   {
+    "title": "Black Dynamite",
+    "start": "2026-06-27T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/black-dynamite",
+    "poster": "https://indy-systems.imgix.net/a4xfdo0pu8urjy27n63bfyb22nzq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt1190536/",
+    "rating": 7.4
+  },
+  {
     "title": "Cult Sensation: But I\u2019m a Cheerleader",
     "start": "2026-06-27T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -1393,6 +1771,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-06-27T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
   },
   {
     "title": "Toy Story 5",
@@ -1431,6 +1818,15 @@
     "rating": null
   },
   {
+    "title": "Couture",
+    "start": "2026-06-27T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-27T19:15:00-07:00",
     "theater": "Moreland Theater",
@@ -1438,6 +1834,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-27T19:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "Supergirl",
@@ -1476,6 +1881,15 @@
     "rating": 7.6
   },
   {
+    "title": "Disclosure Day",
+    "start": "2026-06-27T20:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
     "title": "BACKROOMS",
     "start": "2026-06-27T20:35:00-07:00",
     "theater": "Studio One",
@@ -1483,6 +1897,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/862465B00485A291327F47F70F685C3E2D22B5AC3C5201842D590892CF6BA422_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt26657236/",
     "rating": 7.1
+  },
+  {
+    "title": "Girls Like Girls",
+    "start": "2026-06-27T20:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
   },
   {
     "title": "SUPERGIRL",
@@ -1494,6 +1917,15 @@
     "rating": 5.9
   },
   {
+    "title": "Black Past",
+    "start": "2026-06-27T21:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/black-past",
+    "poster": "https://indy-systems.imgix.net/e50m4i2vkrn2o2ysvdn7h3hcu89x?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0163554/",
+    "rating": 5.2
+  },
+  {
     "title": "DISCLOSURE DAY",
     "start": "2026-06-27T21:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -1501,6 +1933,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
+  },
+  {
+    "title": "THE ROCKY HORROR PICTURE SHOW with the Denton Delinquents",
+    "start": "2026-06-27T21:00:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-rocky-horror-picture-show-with-the-denton-delinquents",
+    "poster": "https://indy-systems.imgix.net/h0ljb0hgmocqco3k112vctmhocer?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "DISCLOSURE DAY",
@@ -1584,6 +2025,24 @@
     "rating": 7.1
   },
   {
+    "title": "Supergirl",
+    "start": "2026-06-27T21:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-27T21:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
+  },
+  {
     "title": "NOWHERE (1997)",
     "start": "2026-06-27T21:45:00-07:00",
     "theater": "Academy Theater",
@@ -1627,6 +2086,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-06-27T22:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
   },
   {
     "title": "OBSESSION",
@@ -1737,6 +2205,15 @@
     "rating": 7.6
   },
   {
+    "title": "Girls Like Girls",
+    "start": "2026-06-28T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
     "title": "World-Class Soccer 2026",
     "start": "2026-06-28T12:00:00-07:00",
     "theater": "OMSI Empirical Theater",
@@ -1751,6 +2228,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-06-28T12:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
     "rating": 5.9
   },
@@ -1783,6 +2269,15 @@
   },
   {
     "title": "Disclosure Day",
+    "start": "2026-06-28T12:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "Disclosure Day",
     "start": "2026-06-28T12:35:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/disclosure-day",
@@ -1798,6 +2293,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "Couture",
+    "start": "2026-06-28T12:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -1825,6 +2329,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt37287335/",
     "rating": 8.1
+  },
+  {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-06-28T12:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
   },
   {
     "title": "NOWHERE (1997)",
@@ -1944,6 +2457,15 @@
     "rating": 6.7
   },
   {
+    "title": "Supergirl",
+    "start": "2026-06-28T14:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
     "title": "JACKASS BEST AND LAST",
     "start": "2026-06-28T14:20:00-07:00",
     "theater": "Studio One",
@@ -1962,6 +2484,15 @@
     "rating": 6.7
   },
   {
+    "title": "Girls Like Girls",
+    "start": "2026-06-28T14:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-28T14:40:00-07:00",
     "theater": "Studio One",
@@ -1969,6 +2500,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-28T14:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "TOY STORY 5",
@@ -1989,6 +2529,15 @@
     "rating": 7.1
   },
   {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-06-28T15:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
+  },
+  {
     "title": "SUPERGIRL",
     "start": "2026-06-28T15:00:00-07:00",
     "theater": "Studio One",
@@ -1998,11 +2547,29 @@
     "rating": 5.9
   },
   {
+    "title": "Scenes From A Marriage",
+    "start": "2026-06-28T15:30:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/scenes-from-a-marriage",
+    "poster": "https://indy-systems.imgix.net/u7j4n3jsqpabh6c2oclgq2082b2i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt6725014/",
+    "rating": 8.3
+  },
+  {
     "title": "DISCLOSURE DAY",
     "start": "2026-06-28T15:30:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "Disclosure Day",
+    "start": "2026-06-28T15:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
   },
@@ -2106,6 +2673,24 @@
     "rating": 5.9
   },
   {
+    "title": "SO I MARRIED AN AXE MURDERER",
+    "start": "2026-06-28T16:20:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/so-i-married-an-axe-murderer",
+    "poster": "https://indy-systems.imgix.net/l7wib5wvancnpry2bo373cbg654d?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0108174/",
+    "rating": 6.5
+  },
+  {
+    "title": "Girls Like Girls",
+    "start": "2026-06-28T16:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-28T16:25:00-07:00",
     "theater": "Studio One",
@@ -2124,6 +2709,15 @@
     "rating": 5.9
   },
   {
+    "title": "Supergirl",
+    "start": "2026-06-28T16:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
     "title": "Toy Story 5",
     "start": "2026-06-28T16:45:00-07:00",
     "theater": "St. Johns Cinema",
@@ -2131,6 +2725,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "Couture",
+    "start": "2026-06-28T17:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
   },
   {
     "title": "TOY STORY 5",
@@ -2149,6 +2752,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
     "rating": null
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-28T17:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -2232,6 +2844,15 @@
     "rating": 6.6
   },
   {
+    "title": "LABYRINTH",
+    "start": "2026-06-28T18:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/labyrinth",
+    "poster": "https://indy-systems.imgix.net/eumdcskaa912xx6gy8uc87d0rlec?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0091369/",
+    "rating": 7.3
+  },
+  {
     "title": "BACKROOMS",
     "start": "2026-06-28T18:30:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -2239,6 +2860,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/BE03262706DE84C621F9FD69B4B5C1D983AC9DC188AA0EA0E34A42CC3931C13D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt26657236/",
     "rating": 7.1
+  },
+  {
+    "title": "Girls Like Girls",
+    "start": "2026-06-28T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
   },
   {
     "title": "Disclosure Day",
@@ -2259,6 +2889,15 @@
     "rating": 8.1
   },
   {
+    "title": "Disclosure Day",
+    "start": "2026-06-28T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
     "title": "12 ANGRY MEN (1957)",
     "start": "2026-06-28T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -2277,6 +2916,15 @@
     "rating": 8.1
   },
   {
+    "title": "Paths of Glory",
+    "start": "2026-06-28T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/paths-of-glory",
+    "poster": "https://indy-systems.imgix.net/t2atz68s5607so1ohg03drq0xm12?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0050825/",
+    "rating": 8.4
+  },
+  {
     "title": "BACKROOMS",
     "start": "2026-06-28T19:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -2284,6 +2932,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
     "imdb": "https://www.imdb.com/title/tt26657236/",
     "rating": 7.1
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-06-28T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
   },
   {
     "title": "OBSESSION",
@@ -2340,6 +2997,15 @@
     "rating": null
   },
   {
+    "title": "Couture",
+    "start": "2026-06-28T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-28T19:15:00-07:00",
     "theater": "Moreland Theater",
@@ -2365,6 +3031,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-28T19:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "Supergirl",
@@ -2401,6 +3076,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/862465B00485A291327F47F70F685C3E2D22B5AC3C5201842D590892CF6BA422_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt26657236/",
     "rating": 7.1
+  },
+  {
+    "title": "964 Pinnochio",
+    "start": "2026-06-28T21:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/964-pinnochio",
+    "poster": "https://indy-systems.imgix.net/68st22zghp74nz6q6dj87hgb0pj3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "DISCLOSURE DAY",
@@ -2484,6 +3168,15 @@
     "rating": 7.6
   },
   {
+    "title": "Girls Like Girls",
+    "start": "2026-06-29T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-29T12:00:00-07:00",
     "theater": "Studio One",
@@ -2498,6 +3191,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-06-29T12:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
     "rating": 5.9
   },
@@ -2520,6 +3222,24 @@
     "rating": 6.7
   },
   {
+    "title": "Disclosure Day",
+    "start": "2026-06-29T12:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "Couture",
+    "start": "2026-06-29T12:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-29T12:45:00-07:00",
     "theater": "Academy Theater",
@@ -2527,6 +3247,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-06-29T12:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
   },
   {
     "title": "I DRINK YOUR BLOOD (1971)",
@@ -2583,6 +3312,15 @@
     "rating": 6.7
   },
   {
+    "title": "Supergirl",
+    "start": "2026-06-29T14:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
     "title": "JACKASS BEST AND LAST",
     "start": "2026-06-29T14:20:00-07:00",
     "theater": "Studio One",
@@ -2590,6 +3328,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
     "rating": null
+  },
+  {
+    "title": "Girls Like Girls",
+    "start": "2026-06-29T14:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
   },
   {
     "title": "TOY STORY 5",
@@ -2601,6 +3348,15 @@
     "rating": 7.6
   },
   {
+    "title": "I Love Boosters",
+    "start": "2026-06-29T14:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-29T14:50:00-07:00",
     "theater": "Moreland Theater",
@@ -2608,6 +3364,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-06-29T15:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
   },
   {
     "title": "SUPERGIRL",
@@ -2633,6 +3398,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "Disclosure Day",
+    "start": "2026-06-29T15:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
   },
@@ -2671,6 +3445,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_dcc58e20-0085-4141-aca8-23ee50f5a429.jpg",
     "imdb": "https://www.imdb.com/title/tt26657236/",
     "rating": 7.1
+  },
+  {
+    "title": "The Furious",
+    "start": "2026-06-29T16:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-furious",
+    "poster": "https://indy-systems.imgix.net/wlo2nfranpx6hksfm6cjbwrmotfo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33311069/",
+    "rating": 7.9
   },
   {
     "title": "BACKROOMS",
@@ -2736,6 +3519,15 @@
     "rating": 5.9
   },
   {
+    "title": "Girls Like Girls",
+    "start": "2026-06-29T16:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
     "title": "NOWHERE (1997)",
     "start": "2026-06-29T16:30:00-07:00",
     "theater": "Academy Theater",
@@ -2745,6 +3537,15 @@
     "rating": 6.6
   },
   {
+    "title": "Supergirl",
+    "start": "2026-06-29T16:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
     "title": "Toy Story 5",
     "start": "2026-06-29T16:45:00-07:00",
     "theater": "St. Johns Cinema",
@@ -2752,6 +3553,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "Couture",
+    "start": "2026-06-29T17:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
   },
   {
     "title": "TOY STORY 5",
@@ -2770,6 +3580,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
     "rating": null
+  },
+  {
+    "title": "LABYRINTH",
+    "start": "2026-06-29T17:10:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/labyrinth",
+    "poster": "https://indy-systems.imgix.net/eumdcskaa912xx6gy8uc87d0rlec?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0091369/",
+    "rating": 7.3
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-29T17:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -2853,6 +3681,15 @@
     "rating": 7.1
   },
   {
+    "title": "Girls Like Girls",
+    "start": "2026-06-29T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
     "title": "Disclosure Day",
     "start": "2026-06-29T18:45:00-07:00",
     "theater": "Cinema 21",
@@ -2869,6 +3706,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt37287335/",
     "rating": 8.1
+  },
+  {
+    "title": "Disclosure Day",
+    "start": "2026-06-29T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
   },
   {
     "title": "LEVITICUS",
@@ -2898,6 +3744,15 @@
     "rating": 8.1
   },
   {
+    "title": "The Movie Quiz",
+    "start": "2026-06-29T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-movie-quiz",
+    "poster": "https://indy-systems.imgix.net/bi5t92kdu8fb5t5gozpk3i6l8kqn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "BACKROOMS",
     "start": "2026-06-29T19:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -2914,6 +3769,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/MMU%40PSU_The_Disaster_Film_IMAGE_June_2026.png?fit=540%2C303&ssl=1",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-06-29T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
   },
   {
     "title": "Toy Story 5",
@@ -2961,6 +3825,15 @@
     "rating": null
   },
   {
+    "title": "Couture",
+    "start": "2026-06-29T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-29T19:15:00-07:00",
     "theater": "Moreland Theater",
@@ -2986,6 +3859,24 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/1986_Year_In_Video_thumb_Jun_2026.jpg?fit=540%2C304&ssl=1",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "SO I MARRIED AN AXE MURDERER",
+    "start": "2026-06-29T19:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/so-i-married-an-axe-murderer",
+    "poster": "https://indy-systems.imgix.net/l7wib5wvancnpry2bo373cbg654d?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0108174/",
+    "rating": 6.5
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-29T19:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "Supergirl",
@@ -3114,6 +4005,15 @@
     "rating": 7.6
   },
   {
+    "title": "Girls Like Girls",
+    "start": "2026-06-30T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-30T12:00:00-07:00",
     "theater": "Studio One",
@@ -3128,6 +4028,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-06-30T12:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
     "rating": 5.9
   },
@@ -3150,6 +4059,24 @@
     "rating": 6.7
   },
   {
+    "title": "Disclosure Day",
+    "start": "2026-06-30T12:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "Couture",
+    "start": "2026-06-30T12:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-30T12:45:00-07:00",
     "theater": "Academy Theater",
@@ -3157,6 +4084,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-06-30T12:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
   },
   {
     "title": "12 ANGRY MEN (1957)",
@@ -3213,6 +4149,15 @@
     "rating": 6.7
   },
   {
+    "title": "Supergirl",
+    "start": "2026-06-30T14:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
     "title": "JACKASS BEST AND LAST",
     "start": "2026-06-30T14:20:00-07:00",
     "theater": "Studio One",
@@ -3220,6 +4165,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
     "rating": null
+  },
+  {
+    "title": "Girls Like Girls",
+    "start": "2026-06-30T14:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
   },
   {
     "title": "TOY STORY 5",
@@ -3231,6 +4185,24 @@
     "rating": 7.6
   },
   {
+    "title": "LABYRINTH",
+    "start": "2026-06-30T14:50:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/labyrinth",
+    "poster": "https://indy-systems.imgix.net/eumdcskaa912xx6gy8uc87d0rlec?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0091369/",
+    "rating": 7.3
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-30T14:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-30T14:50:00-07:00",
     "theater": "Moreland Theater",
@@ -3238,6 +4210,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-06-30T15:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
   },
   {
     "title": "SUPERGIRL",
@@ -3263,6 +4244,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "Disclosure Day",
+    "start": "2026-06-30T15:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
   },
@@ -3357,6 +4347,15 @@
     "rating": 5.9
   },
   {
+    "title": "Girls Like Girls",
+    "start": "2026-06-30T16:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
+    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32432654/",
+    "rating": 6.9
+  },
+  {
     "title": "I DRINK YOUR BLOOD (1971)",
     "start": "2026-06-30T16:30:00-07:00",
     "theater": "Academy Theater",
@@ -3375,6 +4374,15 @@
     "rating": 6.8
   },
   {
+    "title": "Supergirl",
+    "start": "2026-06-30T16:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
     "title": "Toy Story 5",
     "start": "2026-06-30T16:45:00-07:00",
     "theater": "St. Johns Cinema",
@@ -3382,6 +4390,24 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "Paths of Glory",
+    "start": "2026-06-30T17:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/paths-of-glory",
+    "poster": "https://indy-systems.imgix.net/t2atz68s5607so1ohg03drq0xm12?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0050825/",
+    "rating": 8.4
+  },
+  {
+    "title": "Couture",
+    "start": "2026-06-30T17:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
   },
   {
     "title": "TOY STORY 5",
@@ -3400,6 +4426,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
     "rating": null
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-30T17:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
+  },
+  {
+    "title": "SO I MARRIED AN AXE MURDERER",
+    "start": "2026-06-30T17:15:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/so-i-married-an-axe-murderer",
+    "poster": "https://indy-systems.imgix.net/l7wib5wvancnpry2bo373cbg654d?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0108174/",
+    "rating": 6.5
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -3483,6 +4527,15 @@
     "rating": 7.1
   },
   {
+    "title": "Supergirl",
+    "start": "2026-06-30T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
     "title": "Disclosure Day",
     "start": "2026-06-30T18:45:00-07:00",
     "theater": "Cinema 21",
@@ -3526,6 +4579,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_6751b6b9-058d-480d-a0b7-4ecff8a8d606.jpg",
     "imdb": "https://www.imdb.com/title/tt37287335/",
     "rating": 8.1
+  },
+  {
+    "title": "Scenes From A Marriage",
+    "start": "2026-06-30T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/scenes-from-a-marriage",
+    "poster": "https://indy-systems.imgix.net/u7j4n3jsqpabh6c2oclgq2082b2i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt6725014/",
+    "rating": 8.3
   },
   {
     "title": "Happy Together",
@@ -3591,6 +4653,15 @@
     "rating": null
   },
   {
+    "title": "Couture",
+    "start": "2026-06-30T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-30T19:15:00-07:00",
     "theater": "Moreland Theater",
@@ -3616,6 +4687,24 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/creepshowking2.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0083767/",
     "rating": 6.8
+  },
+  {
+    "title": "LABYRINTH",
+    "start": "2026-06-30T19:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/labyrinth",
+    "poster": "https://indy-systems.imgix.net/eumdcskaa912xx6gy8uc87d0rlec?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0091369/",
+    "rating": 7.3
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-06-30T19:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "Supergirl",
@@ -3744,6 +4833,15 @@
     "rating": 7.6
   },
   {
+    "title": "Minions & Monsters",
+    "start": "2026-07-01T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
+    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32890033/",
+    "rating": 6.3
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-01T12:00:00-07:00",
     "theater": "Studio One",
@@ -3751,6 +4849,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-07-01T12:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -3762,6 +4869,24 @@
     "rating": 6.7
   },
   {
+    "title": "Disclosure Day",
+    "start": "2026-07-01T12:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "Couture",
+    "start": "2026-07-01T12:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-07-01T12:45:00-07:00",
     "theater": "Academy Theater",
@@ -3769,6 +4894,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-07-01T12:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
   },
   {
     "title": "NOWHERE (1997)",
@@ -3798,6 +4932,24 @@
     "rating": 6.7
   },
   {
+    "title": "Supergirl",
+    "start": "2026-07-01T14:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
+    "title": "Minions & Monsters",
+    "start": "2026-07-01T14:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
+    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32890033/",
+    "rating": 6.3
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-01T14:35:00-07:00",
     "theater": "Studio One",
@@ -3805,6 +4957,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-07-01T14:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "TOY STORY 5",
@@ -3816,11 +4977,29 @@
     "rating": 7.6
   },
   {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-07-01T15:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
+  },
+  {
     "title": "DISCLOSURE DAY (OPEN CAPTION)",
     "start": "2026-07-01T15:30:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": null,
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "Disclosure Day",
+    "start": "2026-07-01T15:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
   },
@@ -3924,6 +5103,24 @@
     "rating": 9.0
   },
   {
+    "title": "Minions & Monsters",
+    "start": "2026-07-01T16:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
+    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32890033/",
+    "rating": 6.3
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-07-01T16:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
     "title": "Toy Story 5",
     "start": "2026-07-01T16:45:00-07:00",
     "theater": "St. Johns Cinema",
@@ -3942,6 +5139,15 @@
     "rating": 7.6
   },
   {
+    "title": "Couture",
+    "start": "2026-07-01T17:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-07-01T17:00:00-07:00",
     "theater": "Moreland Theater",
@@ -3958,6 +5164,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-07-01T17:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "DISCLOSURE DAY with Open Captions",
@@ -4014,6 +5229,15 @@
     "rating": 7.1
   },
   {
+    "title": "Minions & Monsters",
+    "start": "2026-07-01T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
+    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32890033/",
+    "rating": 6.3
+  },
+  {
     "title": "Disclosure Day",
     "start": "2026-07-01T18:45:00-07:00",
     "theater": "Cinema 21",
@@ -4030,6 +5254,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt37287335/",
     "rating": 8.1
+  },
+  {
+    "title": "Disclosure Day",
+    "start": "2026-07-01T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
   },
   {
     "title": "I DRINK YOUR BLOOD (1971)",
@@ -4050,6 +5283,15 @@
     "rating": 8.1
   },
   {
+    "title": "Paths of Glory",
+    "start": "2026-07-01T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/paths-of-glory",
+    "poster": "https://indy-systems.imgix.net/t2atz68s5607so1ohg03drq0xm12?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0050825/",
+    "rating": 8.4
+  },
+  {
     "title": "BACKROOMS",
     "start": "2026-07-01T19:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -4057,6 +5299,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
     "imdb": "https://www.imdb.com/title/tt26657236/",
     "rating": 7.1
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-07-01T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -4104,6 +5355,15 @@
     "rating": null
   },
   {
+    "title": "Couture",
+    "start": "2026-07-01T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-07-01T19:15:00-07:00",
     "theater": "Moreland Theater",
@@ -4131,6 +5391,15 @@
     "rating": 7.4
   },
   {
+    "title": "I Love Boosters",
+    "start": "2026-07-01T19:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
+  },
+  {
     "title": "Supergirl",
     "start": "2026-07-01T19:30:00-07:00",
     "theater": "St. Johns Cinema",
@@ -4147,6 +5416,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
     "rating": 5.9
+  },
+  {
+    "title": "Black Dynamite",
+    "start": "2026-07-01T21:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/black-dynamite",
+    "poster": "https://indy-systems.imgix.net/a4xfdo0pu8urjy27n63bfyb22nzq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt1190536/",
+    "rating": 7.4
   },
   {
     "title": "DISCLOSURE DAY",
@@ -4203,6 +5481,15 @@
     "rating": 7.6
   },
   {
+    "title": "Minions & Monsters",
+    "start": "2026-07-02T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
+    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32890033/",
+    "rating": 6.3
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-02T12:00:00-07:00",
     "theater": "Studio One",
@@ -4210,6 +5497,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-07-02T12:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -4221,6 +5517,24 @@
     "rating": 6.7
   },
   {
+    "title": "Disclosure Day",
+    "start": "2026-07-02T12:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "Couture",
+    "start": "2026-07-02T12:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-07-02T12:45:00-07:00",
     "theater": "Academy Theater",
@@ -4228,6 +5542,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-07-02T12:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
   },
   {
     "title": "12 ANGRY MEN (1957)",
@@ -4257,6 +5580,24 @@
     "rating": 6.7
   },
   {
+    "title": "Supergirl",
+    "start": "2026-07-02T14:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
+    "title": "Minions & Monsters",
+    "start": "2026-07-02T14:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
+    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32890033/",
+    "rating": 6.3
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-02T14:35:00-07:00",
     "theater": "Studio One",
@@ -4264,6 +5605,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-07-02T14:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "TOY STORY 5",
@@ -4275,11 +5625,29 @@
     "rating": 7.6
   },
   {
+    "title": "STOP! THAT! TRAIN!",
+    "start": "2026-07-02T15:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
+    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt38128726/",
+    "rating": 6.4
+  },
+  {
     "title": "DISCLOSURE DAY",
     "start": "2026-07-02T15:30:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "Disclosure Day",
+    "start": "2026-07-02T15:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
   },
@@ -4392,6 +5760,24 @@
     "rating": 6.8
   },
   {
+    "title": "Minions & Monsters",
+    "start": "2026-07-02T16:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
+    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32890033/",
+    "rating": 6.3
+  },
+  {
+    "title": "Supergirl",
+    "start": "2026-07-02T16:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
     "title": "Toy Story 5",
     "start": "2026-07-02T16:45:00-07:00",
     "theater": "St. Johns Cinema",
@@ -4399,6 +5785,24 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "Black Dynamite",
+    "start": "2026-07-02T17:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/black-dynamite",
+    "poster": "https://indy-systems.imgix.net/a4xfdo0pu8urjy27n63bfyb22nzq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt1190536/",
+    "rating": 7.4
+  },
+  {
+    "title": "Couture",
+    "start": "2026-07-02T17:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
   },
   {
     "title": "TOY STORY 5",
@@ -4417,6 +5821,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-07-02T17:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
+    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 7.1
   },
   {
     "title": "DISCLOSURE DAY",
@@ -4473,6 +5886,15 @@
     "rating": 7.1
   },
   {
+    "title": "Minions & Monsters",
+    "start": "2026-07-02T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
+    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32890033/",
+    "rating": 6.3
+  },
+  {
     "title": "DISCLOSURE DAY",
     "start": "2026-07-02T18:45:00-07:00",
     "theater": "Academy Theater",
@@ -4498,6 +5920,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt37287335/",
     "rating": 8.1
+  },
+  {
+    "title": "Disclosure Day",
+    "start": "2026-07-02T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
+    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
   },
   {
     "title": "12 ANGRY MEN (1957)",
@@ -4545,6 +5976,15 @@
     "rating": 7.1
   },
   {
+    "title": "Supergirl",
+    "start": "2026-07-02T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
+    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt8814476/",
+    "rating": 5.9
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-02T19:00:00-07:00",
     "theater": "Studio One",
@@ -4590,6 +6030,15 @@
     "rating": null
   },
   {
+    "title": "Couture",
+    "start": "2026-07-02T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/couture",
+    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34688195/",
+    "rating": 5.7
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-07-02T19:15:00-07:00",
     "theater": "Moreland Theater",
@@ -4608,6 +6057,15 @@
     "rating": 8.1
   },
   {
+    "title": "O Horizon",
+    "start": "2026-07-02T19:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/o-horizon",
+    "poster": "https://indy-systems.imgix.net/2g169fdtrv3q9hgu3vnq1a236gyl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt25971256/",
+    "rating": 6.9
+  },
+  {
     "title": "Supergirl",
     "start": "2026-07-02T19:30:00-07:00",
     "theater": "St. Johns Cinema",
@@ -4624,6 +6082,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
     "rating": 5.9
+  },
+  {
+    "title": "South Park: Bigger, Longer & Uncut",
+    "start": "2026-07-02T21:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/south-park-bigger-longer-uncut",
+    "poster": "https://indy-systems.imgix.net/kjxj5cr1i3nk0z8y0o9wt51u6jhf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0158983/",
+    "rating": 7.7
   },
   {
     "title": "DISCLOSURE DAY",
@@ -4734,6 +6201,15 @@
     "rating": 7.4
   },
   {
+    "title": "INDEPENDENCE DAY",
+    "start": "2026-07-03T14:15:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/independence-day",
+    "poster": "https://indy-systems.imgix.net/qrf05iiwf85yd4abo49wqztj9we2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0116629/",
+    "rating": 7.0
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-03T14:30:00-07:00",
     "theater": "Studio One",
@@ -4779,6 +6255,15 @@
     "rating": null
   },
   {
+    "title": "MOCKBUSTER",
+    "start": "2026-07-03T17:20:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/mockbuster",
+    "poster": "https://indy-systems.imgix.net/tgpp3rynx04lw3g7e7y2vj92501o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32377397/",
+    "rating": 8.6
+  },
+  {
     "title": "An Evening with Alex Cox: Dead Souls & Walker",
     "start": "2026-07-03T18:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -4815,6 +6300,15 @@
     "rating": 6.1
   },
   {
+    "title": "Big Trouble In Little China",
+    "start": "2026-07-03T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/big-trouble-in-little-china",
+    "poster": "https://indy-systems.imgix.net/35vhxeg756c72v4ubhvuhzfwvsqa?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0090728/",
+    "rating": 7.2
+  },
+  {
     "title": "WAKING UP FROM A NAP",
     "start": "2026-07-03T19:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -4842,6 +6336,15 @@
     "rating": 7.6
   },
   {
+    "title": "O Horizon",
+    "start": "2026-07-03T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/o-horizon",
+    "poster": "https://indy-systems.imgix.net/2g169fdtrv3q9hgu3vnq1a236gyl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt25971256/",
+    "rating": 6.9
+  },
+  {
     "title": "THE THIRD MAN in 35mm",
     "start": "2026-07-03T19:30:00-07:00",
     "theater": "Hollywood Theatre",
@@ -4849,6 +6352,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/third-man1.jpg?fit=540%2C298&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0041959/",
     "rating": 8.1
+  },
+  {
+    "title": "INDEPENDENCE DAY",
+    "start": "2026-07-03T19:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/independence-day",
+    "poster": "https://indy-systems.imgix.net/qrf05iiwf85yd4abo49wqztj9we2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0116629/",
+    "rating": 7.0
   },
   {
     "title": "SUPERGIRL",
@@ -4903,6 +6415,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/ACEFBAF8D7E49A6C3D89C455D3F4CCA72B188237D68C1017B3D60614E1C9BFED_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0105695/",
     "rating": 8.2
+  },
+  {
+    "title": "O Horizon",
+    "start": "2026-07-03T21:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/o-horizon",
+    "poster": "https://indy-systems.imgix.net/2g169fdtrv3q9hgu3vnq1a236gyl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt25971256/",
+    "rating": 6.9
   },
   {
     "title": "Live Wire",
@@ -4986,6 +6507,15 @@
     "rating": 6.9
   },
   {
+    "title": "INDEPENDENCE DAY",
+    "start": "2026-07-04T13:45:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/independence-day",
+    "poster": "https://indy-systems.imgix.net/qrf05iiwf85yd4abo49wqztj9we2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0116629/",
+    "rating": 7.0
+  },
+  {
     "title": "My Own Private Miniplex",
     "start": "2026-07-04T14:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -5040,6 +6570,24 @@
     "rating": 6.9
   },
   {
+    "title": "Big Trouble In Little China",
+    "start": "2026-07-04T16:40:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/big-trouble-in-little-china",
+    "poster": "https://indy-systems.imgix.net/35vhxeg756c72v4ubhvuhzfwvsqa?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0090728/",
+    "rating": 7.2
+  },
+  {
+    "title": "MOCKBUSTER",
+    "start": "2026-07-04T16:50:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/mockbuster",
+    "poster": "https://indy-systems.imgix.net/tgpp3rynx04lw3g7e7y2vj92501o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32377397/",
+    "rating": 8.6
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-04T17:00:00-07:00",
     "theater": "Studio One",
@@ -5067,6 +6615,15 @@
     "rating": 8.2
   },
   {
+    "title": "In the Mouth of Madness",
+    "start": "2026-07-04T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/in-the-mouth-of-madness",
+    "poster": "https://indy-systems.imgix.net/4bnn3pqapkeihxnextesdoifnt1u?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0113409/",
+    "rating": 7.1
+  },
+  {
     "title": "UNCLE SAM (1996) ON THE FOURTH OF JULY",
     "start": "2026-07-04T19:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -5085,6 +6642,15 @@
     "rating": null
   },
   {
+    "title": "INDEPENDENCE DAY",
+    "start": "2026-07-04T19:00:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/independence-day",
+    "poster": "https://indy-systems.imgix.net/qrf05iiwf85yd4abo49wqztj9we2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0116629/",
+    "rating": 7.0
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-04T19:00:00-07:00",
     "theater": "Studio One",
@@ -5101,6 +6667,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "O Horizon",
+    "start": "2026-07-04T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/o-horizon",
+    "poster": "https://indy-systems.imgix.net/2g169fdtrv3q9hgu3vnq1a236gyl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt25971256/",
+    "rating": 6.9
   },
   {
     "title": "SUPERGIRL",
@@ -5146,6 +6721,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E0E40D7293C7F614FB44622971DE8DDDCBA71062B9C2EEF8815A9784E6BB4CA6_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0082085/",
     "rating": 7.4
+  },
+  {
+    "title": "O Horizon",
+    "start": "2026-07-04T21:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/o-horizon",
+    "poster": "https://indy-systems.imgix.net/2g169fdtrv3q9hgu3vnq1a236gyl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt25971256/",
+    "rating": 6.9
   },
   {
     "title": "The Rocky Horror Picture Show with the Clinton Street Cabaret",
@@ -5238,6 +6822,15 @@
     "rating": 6.4
   },
   {
+    "title": "Before Sunrise",
+    "start": "2026-07-05T14:20:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/before-sunrise",
+    "poster": "https://indy-systems.imgix.net/mwtevrpzq37pd4w5meci30uh80zp?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0112471/",
+    "rating": 8.1
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-05T14:35:00-07:00",
     "theater": "Studio One",
@@ -5254,6 +6847,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/third-man1.jpg?fit=540%2C298&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0041959/",
     "rating": 8.1
+  },
+  {
+    "title": "INDEPENDENCE DAY",
+    "start": "2026-07-05T15:20:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/independence-day",
+    "poster": "https://indy-systems.imgix.net/qrf05iiwf85yd4abo49wqztj9we2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0116629/",
+    "rating": 7.0
   },
   {
     "title": "TOY STORY 5",
@@ -5274,6 +6876,15 @@
     "rating": 6.9
   },
   {
+    "title": "Raiders of the Lost Ark",
+    "start": "2026-07-05T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/raiders-of-the-lost-ark/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/06160426/ceG9VzoRAVGwivFU403Wc3AHRys-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0082971/",
+    "rating": 8.4
+  },
+  {
     "title": "GODZILLA VS. HEDORAH",
     "start": "2026-07-05T16:30:00-07:00",
     "theater": "Academy Theater",
@@ -5281,6 +6892,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt0067148/",
     "rating": 6.1
+  },
+  {
+    "title": "Autumn Sonata",
+    "start": "2026-07-05T16:40:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/autumn-sonata",
+    "poster": "https://indy-systems.imgix.net/6a8xzzdjm7vhj2l3abfg40t68bpk?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0077711/",
+    "rating": 8.1
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -5301,6 +6921,15 @@
     "rating": null
   },
   {
+    "title": "MOCKBUSTER",
+    "start": "2026-07-05T18:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/mockbuster",
+    "poster": "https://indy-systems.imgix.net/tgpp3rynx04lw3g7e7y2vj92501o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32377397/",
+    "rating": 8.6
+  },
+  {
     "title": "Rose of Nevada",
     "start": "2026-07-05T18:45:00-07:00",
     "theater": "Cinema 21",
@@ -5319,6 +6948,15 @@
     "rating": 7.4
   },
   {
+    "title": "The Furious",
+    "start": "2026-07-05T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-furious",
+    "poster": "https://indy-systems.imgix.net/wlo2nfranpx6hksfm6cjbwrmotfo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33311069/",
+    "rating": 7.9
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-05T19:00:00-07:00",
     "theater": "Studio One",
@@ -5328,15 +6966,6 @@
     "rating": null
   },
   {
-    "title": "Indiana Jones and the Temple of Doom",
-    "start": "2026-07-05T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/indiana-jones-and-the-temple-of-doom/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/06161012/gpdVNUaa4LhRMLfJOPj1AZdhAZ3-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt0087469/",
-    "rating": 7.5
-  },
-  {
     "title": "TOY STORY 5",
     "start": "2026-07-05T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -5344,6 +6973,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "O Horizon",
+    "start": "2026-07-05T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/o-horizon",
+    "poster": "https://indy-systems.imgix.net/2g169fdtrv3q9hgu3vnq1a236gyl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt25971256/",
+    "rating": 6.9
   },
   {
     "title": "DARK ANGEL",
@@ -5499,6 +7137,15 @@
     "rating": 8.2
   },
   {
+    "title": "In the Mouth of Madness",
+    "start": "2026-07-06T16:50:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/in-the-mouth-of-madness",
+    "poster": "https://indy-systems.imgix.net/4bnn3pqapkeihxnextesdoifnt1u?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0113409/",
+    "rating": 7.1
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-06T18:20:00-07:00",
     "theater": "Studio One",
@@ -5517,6 +7164,15 @@
     "rating": 6.9
   },
   {
+    "title": "Before Sunrise",
+    "start": "2026-07-06T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/before-sunrise",
+    "poster": "https://indy-systems.imgix.net/mwtevrpzq37pd4w5meci30uh80zp?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0112471/",
+    "rating": 8.1
+  },
+  {
     "title": "O BROTHER, WHERE ART THOU?",
     "start": "2026-07-06T19:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -5524,6 +7180,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/obrother1.jpg?fit=540%2C324&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0190590/",
     "rating": 7.7
+  },
+  {
+    "title": "MOCKBUSTER",
+    "start": "2026-07-06T19:00:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/mockbuster",
+    "poster": "https://indy-systems.imgix.net/tgpp3rynx04lw3g7e7y2vj92501o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32377397/",
+    "rating": 8.6
   },
   {
     "title": "TOY STORY 5",
@@ -5634,6 +7299,15 @@
     "rating": 7.4
   },
   {
+    "title": "INDEPENDENCE DAY",
+    "start": "2026-07-07T16:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/independence-day",
+    "poster": "https://indy-systems.imgix.net/qrf05iiwf85yd4abo49wqztj9we2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0116629/",
+    "rating": 7.0
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-07T18:20:00-07:00",
     "theater": "Studio One",
@@ -5661,6 +7335,15 @@
     "rating": 6.9
   },
   {
+    "title": "Autumn Sonata",
+    "start": "2026-07-07T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/autumn-sonata",
+    "poster": "https://indy-systems.imgix.net/6a8xzzdjm7vhj2l3abfg40t68bpk?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0077711/",
+    "rating": 8.1
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-07-07T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -5686,6 +7369,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/yesmadam_16x9.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0093229/",
     "rating": 6.6
+  },
+  {
+    "title": "MOCKBUSTER",
+    "start": "2026-07-07T19:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/mockbuster",
+    "poster": "https://indy-systems.imgix.net/tgpp3rynx04lw3g7e7y2vj92501o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32377397/",
+    "rating": 8.6
   },
   {
     "title": "IRON GIANT",
@@ -5769,6 +7461,15 @@
     "rating": 8.2
   },
   {
+    "title": "The Furious",
+    "start": "2026-07-08T16:30:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-furious",
+    "poster": "https://indy-systems.imgix.net/wlo2nfranpx6hksfm6cjbwrmotfo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33311069/",
+    "rating": 7.9
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-08T18:20:00-07:00",
     "theater": "Studio One",
@@ -5794,6 +7495,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_62804aa8-84ed-4aff-9d66-ffc46dfa7702.jpg",
     "imdb": "https://www.imdb.com/title/tt35674521/",
     "rating": 6.9
+  },
+  {
+    "title": "In the Mouth of Madness",
+    "start": "2026-07-08T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/in-the-mouth-of-madness",
+    "poster": "https://indy-systems.imgix.net/4bnn3pqapkeihxnextesdoifnt1u?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0113409/",
+    "rating": 7.1
+  },
+  {
+    "title": "SCIENCE ON TAP - POKING THE SQUID: WHAT WE CAN LEARN FROM ANIMAL SEX",
+    "start": "2026-07-08T19:00:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/science-on-tap---poking-the-squid-what-we-can-learn-from-animal-sex",
+    "poster": "https://indy-systems.imgix.net/l0assog7rszkviaks105p44mohqo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "TOY STORY 5",
@@ -5985,6 +7704,15 @@
     "rating": 7.2
   },
   {
+    "title": "Big Trouble In Little China",
+    "start": "2026-07-09T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/big-trouble-in-little-china",
+    "poster": "https://indy-systems.imgix.net/35vhxeg756c72v4ubhvuhzfwvsqa?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0090728/",
+    "rating": 7.2
+  },
+  {
     "title": "Solaris (1972)",
     "start": "2026-07-09T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -6001,6 +7729,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.2
+  },
+  {
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "start": "2026-07-09T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
+    "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36834010/",
+    "rating": 6.2
   },
   {
     "title": "EMPLOYEES\u2019 ENTRANCE",
@@ -6066,6 +7803,15 @@
     "rating": 8.2
   },
   {
+    "title": "GREASE",
+    "start": "2026-07-10T13:00:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/grease-2",
+    "poster": "https://indy-systems.imgix.net/3giii7kis6i65hsljneacixg299m?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0077631/",
+    "rating": 7.2
+  },
+  {
     "title": "MOANA",
     "start": "2026-07-10T15:00:00-07:00",
     "theater": "Studio One",
@@ -6129,6 +7875,15 @@
     "rating": 7.2
   },
   {
+    "title": "Escape From New York",
+    "start": "2026-07-10T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/escape-from-new-york",
+    "poster": "https://indy-systems.imgix.net/7eilqrdtvez5vewue19fpkp4pp3r?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0082340/",
+    "rating": 7.1
+  },
+  {
     "title": "Barbarella",
     "start": "2026-07-10T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -6145,6 +7900,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "start": "2026-07-10T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
+    "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36834010/",
+    "rating": 6.2
   },
   {
     "title": "MORE PAY-LESS WORK: A Roaring Night Out for the Columbia River Theatre Organ Society",
@@ -6172,6 +7936,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.2
+  },
+  {
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "start": "2026-07-10T21:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
+    "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36834010/",
+    "rating": 6.2
   },
   {
     "title": "HOUR OF THE WOLF",
@@ -6309,6 +8082,15 @@
     "rating": 7.2
   },
   {
+    "title": "Before Sunset",
+    "start": "2026-07-11T17:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/before-sunset",
+    "poster": "https://indy-systems.imgix.net/ymkfzmyk47fda4e94npzisczscr0?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0381681/",
+    "rating": 8.1
+  },
+  {
     "title": "THE INVITE",
     "start": "2026-07-11T18:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -6316,6 +8098,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.2
+  },
+  {
+    "title": "DETECTIVE PIKACHU GO FEST 2026",
+    "start": "2026-07-11T18:00:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/detective-pikachu-go-fest-2026",
+    "poster": "https://indy-systems.imgix.net/0jfrat4q5xzkm2ex2h0wvb1sixhb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "MOANA",
@@ -6354,6 +8145,15 @@
     "rating": 8.2
   },
   {
+    "title": "Christine",
+    "start": "2026-07-11T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/christinejc",
+    "poster": "https://indy-systems.imgix.net/cx7a257c48ald11a811xenxfnsm6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0085333/",
+    "rating": 6.8
+  },
+  {
     "title": "40 Years of Fuckin\u2019 Up",
     "start": "2026-07-11T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -6381,6 +8181,15 @@
     "rating": null
   },
   {
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "start": "2026-07-11T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
+    "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36834010/",
+    "rating": 6.2
+  },
+  {
     "title": "THE INVITE",
     "start": "2026-07-11T20:45:00-07:00",
     "theater": "Hollywood Theatre",
@@ -6399,6 +8208,15 @@
     "rating": 7.2
   },
   {
+    "title": "Escape From New York",
+    "start": "2026-07-11T21:30:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/escape-from-new-york",
+    "poster": "https://indy-systems.imgix.net/7eilqrdtvez5vewue19fpkp4pp3r?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0082340/",
+    "rating": 7.1
+  },
+  {
     "title": "EVIL DEAD 2 in 35mm",
     "start": "2026-07-11T21:30:00-07:00",
     "theater": "Hollywood Theatre",
@@ -6406,6 +8224,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/evil-dead-updated.jpg?fit=540%2C292&ssl=1",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "start": "2026-07-11T21:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
+    "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36834010/",
+    "rating": 6.2
   },
   {
     "title": "A KNIGHT'S TALE (2001)",
@@ -6552,6 +8379,15 @@
     "rating": 7.2
   },
   {
+    "title": "Hour of the Wolf",
+    "start": "2026-07-12T16:50:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/hour-of-the-wolf",
+    "poster": "https://indy-systems.imgix.net/h1k13y9ggzhe3ifd1mhbbbyxrkr8?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0063759/",
+    "rating": 7.5
+  },
+  {
     "title": "THE INVITE",
     "start": "2026-07-12T18:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -6595,6 +8431,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.2
+  },
+  {
+    "title": "Bring It On x Portland Arts Week",
+    "start": "2026-07-12T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/bring-it-on-2/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/08101801/bnVby0qI0dS7YunbShP7mw68HY3.jpg",
+    "imdb": "https://www.imdb.com/title/tt0204946/",
+    "rating": 6.2
+  },
+  {
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "start": "2026-07-12T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
+    "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36834010/",
+    "rating": 6.2
   },
   {
     "title": "THE INVITE",
@@ -6705,6 +8559,15 @@
     "rating": 7.2
   },
   {
+    "title": "Before Sunset",
+    "start": "2026-07-13T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/before-sunset",
+    "poster": "https://indy-systems.imgix.net/ymkfzmyk47fda4e94npzisczscr0?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0381681/",
+    "rating": 8.1
+  },
+  {
     "title": "MMU@PSU: The Nolan Tenets \u2013 Decoding the Cinema of Christopher Nolan",
     "start": "2026-07-13T19:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -6811,6 +8674,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_903b400a-df41-46ed-a551-938fe968b6ca.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Hour of the Wolf",
+    "start": "2026-07-14T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/hour-of-the-wolf",
+    "poster": "https://indy-systems.imgix.net/h1k13y9ggzhe3ifd1mhbbbyxrkr8?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0063759/",
+    "rating": 7.5
   },
   {
     "title": "The Invite",
@@ -6937,6 +8809,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.2
+  },
+  {
+    "title": "Christine",
+    "start": "2026-07-15T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/christinejc",
+    "poster": "https://indy-systems.imgix.net/cx7a257c48ald11a811xenxfnsm6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0085333/",
+    "rating": 6.8
+  },
+  {
+    "title": "SUMMER SCI-FI SOUND & CINEMA",
+    "start": "2026-07-15T19:00:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/summer-sci-fi-sound-cinema",
+    "poster": "https://indy-systems.imgix.net/i66l5vrqelsih50rhoqk8w2qw1gu?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "FOR A FEW DOLLARS MORE (1965)",
@@ -7074,6 +8964,15 @@
     "rating": null
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-07-16T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-07-16T18:50:00-07:00",
     "theater": "Moreland Theater",
@@ -7101,6 +9000,15 @@
     "rating": null
   },
   {
+    "title": "Escape From New York",
+    "start": "2026-07-16T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/escape-from-new-york",
+    "poster": "https://indy-systems.imgix.net/7eilqrdtvez5vewue19fpkp4pp3r?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0082340/",
+    "rating": 7.1
+  },
+  {
     "title": "My 20th Century",
     "start": "2026-07-16T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -7108,6 +9016,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/04/My-20th-Century.jpeg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Pink Narcissus w/ Live Score by kraftwitch",
+    "start": "2026-07-16T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/pink-narcissus-w-live-score-by-kraftwitch/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/03/26105559/kaZiiGE6820KyFF9XkzPB9Rx9qn.jpg",
+    "imdb": "https://www.imdb.com/title/tt0067580/",
+    "rating": 6.6
   },
   {
     "title": "The Invite",
@@ -7353,6 +9270,15 @@
     "rating": null
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-07-17T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-07-17T18:50:00-07:00",
     "theater": "Moreland Theater",
@@ -7369,6 +9295,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt0097576/",
     "rating": 8.2
+  },
+  {
+    "title": "Escape From LA",
+    "start": "2026-07-17T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/escape-from-la",
+    "poster": "https://indy-systems.imgix.net/jnpycrt4pyj4g8wucoezwv40vyvx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "Donnie Darko",
@@ -7457,6 +9392,24 @@
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "Prince of Darkness",
+    "start": "2026-07-17T21:15:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/prince-of-darkness",
+    "poster": "https://indy-systems.imgix.net/lcs2trx0d72hqo4yt1il3eknrv7h?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0093777/",
+    "rating": 6.7
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-07-17T21:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -7704,6 +9657,15 @@
     "rating": 8.2
   },
   {
+    "title": "Before Midnight",
+    "start": "2026-07-18T16:30:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/before-midnight",
+    "poster": "https://indy-systems.imgix.net/sndlzchqslxn6rsicaaky1p94h3g?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt2209418/",
+    "rating": 7.9
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-18T17:20:00-07:00",
     "theater": "Studio One",
@@ -7749,6 +9711,15 @@
     "rating": null
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-07-18T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-18T18:40:00-07:00",
     "theater": "Studio One",
@@ -7776,6 +9747,15 @@
     "rating": 6.2
   },
   {
+    "title": "Prince of Darkness",
+    "start": "2026-07-18T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/prince-of-darkness",
+    "poster": "https://indy-systems.imgix.net/lcs2trx0d72hqo4yt1il3eknrv7h?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0093777/",
+    "rating": 6.7
+  },
+  {
     "title": "Seconds",
     "start": "2026-07-18T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -7792,15 +9772,6 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/mikey-nicky1.jpg?fit=540%2C290&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0074901/",
     "rating": 7.3
-  },
-  {
-    "title": "The Adventures of Priscilla, Queen of the Desert",
-    "start": "2026-07-18T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/the-adventures-of-priscilla-queen-of-the-desert-2/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/06161449/kJ7syYXEJgSBmBfSnF3Can9cK1J-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt0109045/",
-    "rating": 7.5
   },
   {
     "title": "The Odyssey",
@@ -7839,12 +9810,30 @@
     "rating": null
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-07-18T21:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-07-18T21:20:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "Escape From LA",
+    "start": "2026-07-18T21:20:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/escape-from-la",
+    "poster": "https://indy-systems.imgix.net/jnpycrt4pyj4g8wucoezwv40vyvx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
     "rating": null
   },
   {
@@ -8010,6 +9999,15 @@
     "rating": null
   },
   {
+    "title": "The Envisionaries",
+    "start": "2026-07-19T14:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-envisionaries-2",
+    "poster": "https://indy-systems.imgix.net/a71aa7fwbfi48n5tmhucjad6w5ht?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Safe",
     "start": "2026-07-19T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -8109,6 +10107,15 @@
     "rating": 6.2
   },
   {
+    "title": "The Seventh Seal",
+    "start": "2026-07-19T16:40:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-seventh-seal",
+    "poster": "https://indy-systems.imgix.net/oww8juziamtytmpi5vi43dieehi0?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0050976/",
+    "rating": 8.1
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-19T17:15:00-07:00",
     "theater": "Studio One",
@@ -8159,6 +10166,15 @@
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-odyssey",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-07-19T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -8460,6 +10476,15 @@
     "rating": null
   },
   {
+    "title": "Before Midnight",
+    "start": "2026-07-20T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/before-midnight",
+    "poster": "https://indy-systems.imgix.net/sndlzchqslxn6rsicaaky1p94h3g?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt2209418/",
+    "rating": 7.9
+  },
+  {
     "title": "Mothlight NW Presents: Nathaniel Dorsky\u2019s Hours For Jerome in 16mm",
     "start": "2026-07-20T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -8739,6 +10764,15 @@
     "rating": null
   },
   {
+    "title": "The Seventh Seal",
+    "start": "2026-07-21T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-seventh-seal",
+    "poster": "https://indy-systems.imgix.net/oww8juziamtytmpi5vi43dieehi0?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0050976/",
+    "rating": 8.1
+  },
+  {
     "title": "Redline (2009)",
     "start": "2026-07-21T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -9006,6 +11040,24 @@
     "url": "https://www.cinema21.com/movie/the-odyssey",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "Prince of Darkness",
+    "start": "2026-07-22T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/prince-of-darkness",
+    "poster": "https://indy-systems.imgix.net/lcs2trx0d72hqo4yt1il3eknrv7h?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0093777/",
+    "rating": 6.7
+  },
+  {
+    "title": "The Envisionaries",
+    "start": "2026-07-22T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-envisionaries-2",
+    "poster": "https://indy-systems.imgix.net/a71aa7fwbfi48n5tmhucjad6w5ht?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
     "rating": null
   },
   {
@@ -9279,6 +11331,15 @@
     "rating": 8.9
   },
   {
+    "title": "Escape From LA",
+    "start": "2026-07-23T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/escape-from-la",
+    "poster": "https://indy-systems.imgix.net/jnpycrt4pyj4g8wucoezwv40vyvx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "DJ AHMET",
     "start": "2026-07-23T19:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -9486,6 +11547,15 @@
     "rating": null
   },
   {
+    "title": "They Live",
+    "start": "2026-07-24T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/they-live",
+    "poster": "https://indy-systems.imgix.net/t9jaiu8xs6q4cg20qfd0aqjrsifu?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0096256/",
+    "rating": 7.2
+  },
+  {
     "title": "BACK TO THE FUTURE (1985)",
     "start": "2026-07-24T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -9520,6 +11590,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/06/uncaged-nic-cage.jpeg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "The Thing",
+    "start": "2026-07-24T20:42:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-thing",
+    "poster": "https://indy-systems.imgix.net/0g67eognbccm69y0yicj40ituvkt?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0084787/",
+    "rating": 8.2
   },
   {
     "title": "ODYSSEY",
@@ -9720,6 +11799,15 @@
     "rating": null
   },
   {
+    "title": "They Live",
+    "start": "2026-07-25T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/they-live",
+    "poster": "https://indy-systems.imgix.net/t9jaiu8xs6q4cg20qfd0aqjrsifu?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0096256/",
+    "rating": 7.2
+  },
+  {
     "title": "Dune (1984)",
     "start": "2026-07-25T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -9745,6 +11833,24 @@
     "poster": "https://indy-systems.imgix.net/zbbt14l1om2ypgamuwoimhnhsw1j?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
     "rating": 3.8
+  },
+  {
+    "title": "The Thing",
+    "start": "2026-07-25T20:42:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-thing",
+    "poster": "https://indy-systems.imgix.net/0g67eognbccm69y0yicj40ituvkt?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0084787/",
+    "rating": 8.2
+  },
+  {
+    "title": "THE ROCKY HORROR PICTURE SHOW with the Denton Delinquents",
+    "start": "2026-07-25T21:00:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-rocky-horror-picture-show-with-the-denton-delinquents",
+    "poster": "https://indy-systems.imgix.net/h0ljb0hgmocqco3k112vctmhocer?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "ODYSSEY",
@@ -9934,6 +12040,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/118A43B7ED3AE9ACD951F266B44DEAAD4E8F3973775ECF4BC99C1F8E0B60CF03_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0053221/",
     "rating": 7.9
+  },
+  {
+    "title": "There Will Be Blood",
+    "start": "2026-07-26T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/there-will-be-blood",
+    "poster": "https://indy-systems.imgix.net/9fcy5725tjr0htmtrd3ibddjxmsu?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0469494/",
+    "rating": 8.2
   },
   {
     "title": "Her Private Hell",

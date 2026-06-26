@@ -20,6 +20,8 @@
     --icon: #5a534b;      /* faint glyphs (×, 🔗) */
     --icon-faint: #4a443d;
     --danger: #e06c5a;
+    --soon: #6cc0d1;      /* "happening soon" — a cool channel, distinct from gold */
+    --on-soon: #14110f;
     --health-bg: #2a211a;
     --health-border: #5a4a2e;
     --health-fg: #e0b072;
@@ -39,6 +41,8 @@
       --icon: #b3a99c;
       --icon-faint: #c7bfb4;
       --danger: #c0392b;
+      --soon: #1f7a8c;
+      --on-soon: #fdfaf6;
       --health-bg: #fbf0db;
       --health-border: #e0c389;
       --health-fg: #8a5a12;
@@ -69,7 +73,7 @@
     border-radius: 10px; max-width: 420px; width: calc(100% - 2rem); padding: 1.5rem;
   }
   dialog::backdrop { background: rgba(0, 0, 0, .55); }
-  dialog h2 { margin: 0 0 1rem; border: 0; padding: 0; }
+  dialog h2 { margin: 0 0 1rem; border: 0; padding: 0; position: static; background: none; }
   .tlist { list-style: none; margin: 0 0 1rem; padding: 0; columns: 2; }
   .tlist li { margin: .3rem 0; break-inside: avoid; }
   .tlist a { color: var(--accent); text-decoration: none; }
@@ -140,11 +144,12 @@
     padding: .05rem .4rem; border-radius: 999px;
   }
   a.rating.top:hover { text-decoration: none; opacity: .85; }
-  /* Soon (next ~3 days): emphasized by weight + accent, not color alone. */
-  .soon-date { color: var(--accent); font-weight: 600; }
-  h2.soon { border-left: 3px solid var(--accent); padding-left: .6rem; margin-left: -.6rem; }
+  /* Soon (next ~3 days): a cool channel (--soon), distinct from the gold used for
+     ratings/headers; emphasized by weight too, not color alone. */
+  .soon-date { color: var(--soon); font-weight: 600; }
+  h2.soon { border-left: 3px solid var(--soon); padding-left: .6rem; margin-left: -.6rem; }
   .soon-tag {
-    color: var(--on-accent); background: var(--accent); font-size: .7rem; font-weight: 700;
+    color: var(--on-soon); background: var(--soon); font-size: .7rem; font-weight: 700;
     text-transform: uppercase; letter-spacing: .03em; padding: .05rem .4rem;
     border-radius: 4px; margin-right: .5rem; vertical-align: .08em;
   }
@@ -152,8 +157,9 @@
   h2 {
     display: flex; align-items: center;
     font-size: 1.05rem; font-weight: 600; color: var(--accent);
-    border-bottom: 1px solid var(--border); padding-bottom: .4rem;
-    margin: 2rem 0 1rem;
+    border-bottom: 1px solid var(--border);
+    margin: 2rem 0 0; padding: .35rem 0 .4rem;
+    position: sticky; top: 0; z-index: 2; background: var(--bg);  /* keep current group header in view */
   }
   h2 a { color: inherit; text-decoration: none; }
   h2 a:hover { text-decoration: underline; }
@@ -173,6 +179,9 @@
     width: 67px; height: 96px; object-fit: cover; border-radius: 4px;
     background: var(--surface); flex: none; display: block;
   }
+  /* Reserve the poster column even when absent, so titles align — but stay
+     invisible (no gray box) to keep the list clean. */
+  .poster.empty { background: none; }
   a:hover > .poster { outline: 2px solid var(--accent); }
   .meta { flex: 1; min-width: 0; }
   .title { font-weight: 600; }
@@ -246,6 +255,7 @@
     }
     .seg button, .btn, .search, .dayfilter > summary { min-height: 44px; }
     .go { font-size: 1.1rem; padding: .35rem; }
+    .ics-label { display: none; }   /* calendar button -> icon only, to slim the header */
   }
 </style>
 </head>
@@ -346,6 +356,22 @@
     else if (a.t === "theater") { on ? off.add(a.v) : off.delete(a.v); saveOff(); }
     else if (a.t === "day") { on ? offDays.add(a.v) : offDays.delete(a.v); saveDays(); }
     else if (a.t === "date") { on ? offDates.add(a.v) : offDates.delete(a.v); saveDates(); }
+    else if (a.t === "reset") {  // a "show all" — undo restores the whole snapshot
+      if (on) { hidden.clear(); off.clear(); offDays.clear(); offDates.clear(); }
+      else {
+        hidden = new Set(a.v.hidden); off = new Set(a.v.off);
+        offDays = new Set(a.v.offDays); offDates = new Set(a.v.offDates);
+      }
+      save(); saveOff(); saveDays(); saveDates();
+    }
+  }
+  // "Show all" clears every hide — but as one undoable step, so a mis-click is recoverable.
+  function resetAll() {
+    if (!(hidden.size || off.size || offDays.size || offDates.size)) return;
+    pushUndo("reset", { hidden: [...hidden], off: [...off], offDays: [...offDays], offDates: [...offDates] });
+    hidden.clear(); off.clear(); offDays.clear(); offDates.clear();
+    save(); saveOff(); saveDays(); saveDates();
+    render(); say("Everything shown — press ⌘Z to undo.");
   }
   function pushUndo(type, value) {
     undoStack.push({ t: type, v: value });
@@ -408,7 +434,7 @@
       + esc(text) + "</a>";
   }
   function poster(r) {
-    if (!r.poster) return "";  // no placeholder box — keep the list dense
+    if (!r.poster) return '<div class="poster empty"></div>';  // invisible spacer keeps titles aligned
     var img = '<img class="poster" src="' + esc(r.poster) + '" alt="" loading="lazy">';
     return r.imdb
       ? '<a href="' + esc(r.imdb) + '" target="_blank" rel="noopener" title="View on IMDb">'
@@ -449,7 +475,8 @@
     return ROWS.filter(function (r) {
       return r.date >= today && !hidden.has(r.key) && !off.has(r.theater)
         && !offDays.has(weekday(r)) && !offDates.has(r.date)
-        && (!query || r.title.toLowerCase().indexOf(query) !== -1);
+        && (!query || r.title.toLowerCase().indexOf(query) !== -1
+            || r.theater.toLowerCase().indexOf(query) !== -1);
     });
   }
 
@@ -647,19 +674,20 @@
 
     var nshow = rows.reduce(function (a, r) { return a + r.starts.length; }, 0);
     var ics = document.getElementById("ics");
-    ics.textContent = nshow ? "📅 Add " + nshow + " to calendar" : "📅 Add to calendar";
+    var lbl = nshow ? "Add " + nshow + " to calendar" : "Add to calendar";
+    ics.innerHTML = '<span aria-hidden="true">📅</span> <span class="ics-label">' + lbl + "</span>";
+    ics.setAttribute("aria-label", lbl);
     ics.disabled = nshow === 0;
 
-    // One consolidated tally + reset; per-kind breakdown on hover.
-    var total = hidden.size + off.size + offDays.size + offDates.size;
+    // One consolidated reset; the per-kind breakdown is the visible label (so it
+    // works on touch, where there's no hover).
     var bd = [];
     if (hidden.size) bd.push(plural(hidden.size, "film"));
     if (off.size) bd.push(plural(off.size, "theater"));
     if (offDays.size) bd.push(plural(offDays.size, "weekday"));
     if (offDates.size) bd.push(plural(offDates.size, "date"));
-    document.getElementById("resets").innerHTML = total
-      ? '<span title="' + esc(bd.join(", ")) + '">' + total + " hidden</span> · "
-        + '<button data-show="all">show all</button>'
+    document.getElementById("resets").innerHTML = bd.length
+      ? esc(bd.join(", ")) + ' hidden · <button data-show="all">show all</button>'
       : "";
   }
   function plural(n, w) { return n + " " + w + (n === 1 ? "" : "s"); }
@@ -684,8 +712,7 @@
     if (e.target.closest("#ics")) {
       downloadICS();
     } else if (egg) {
-      hidden.clear(); off.clear(); offDays.clear(); offDates.clear();
-      save(); saveOff(); saveDays(); saveDates(); render();
+      resetAll();
     } else if (dayEl) {
       var d = +dayEl.dataset.day;
       if (!offDays.has(d)) { offDays.add(d); saveDays(); pushUndo("day", d); render(); say("Weekday hidden."); }
@@ -700,9 +727,8 @@
       if (!hidden.has(k)) { hidden.add(k); save(); pushUndo("film", k); render(); say("Film hidden."); }
     } else if (seg) {
       view = seg.dataset.view; localStorage.setItem(VIEWKEY, view); render(); window.scrollTo(0, 0);
-    } else if (show) {  // single consolidated reset
-      hidden.clear(); off.clear(); offDays.clear(); offDates.clear();
-      save(); saveOff(); saveDays(); saveDates(); render(); say("All showings restored.");
+    } else if (show) {
+      resetAll();  // undoable
     }
   });
 
@@ -718,7 +744,13 @@
   });
 
   var qInput = document.getElementById("q");
-  qInput.addEventListener("input", function () { query = qInput.value.trim().toLowerCase(); render(); });
+  var savedQ = sessionStorage.getItem("flicks.q");  // survive the auto-reload
+  if (savedQ) { qInput.value = savedQ; query = savedQ.trim().toLowerCase(); }
+  qInput.addEventListener("input", function () {
+    query = qInput.value.trim().toLowerCase();
+    sessionStorage.setItem("flicks.q", qInput.value);
+    render();
+  });
 
   render();
 })();
@@ -745,15 +777,26 @@
   // Cheap change-detection: a HEAD request, comparing ETag/Last-Modified, every
   // 60s. Far lighter than re-downloading the page; first response sets the
   // baseline. (file:// has no headers, so this simply no-ops there.)
-  var marker = null;
+  var marker = null, lastActive = Date.now();
+  ["keydown", "pointerdown", "input"].forEach(function (ev) {
+    document.addEventListener(ev, function () { lastActive = Date.now(); }, true);
+  });
+  // Don't yank the page out from under an active filtering session: hold off while
+  // a dialog is open, a field is focused, or there was input in the last 30s. The
+  // change is remembered, so the reload just happens once things go idle.
+  function busy() {
+    return !!document.querySelector("dialog[open]")
+      || (document.activeElement && document.activeElement.tagName === "INPUT")
+      || (Date.now() - lastActive < 30000);
+  }
   function check() {
     if (navigator.onLine === false) return;  // offline: keep the cached page as-is
     fetch(location.href, { method: "HEAD", cache: "no-store" })
       .then(function (r) {
         var m = r.headers.get("etag") || r.headers.get("last-modified");
         if (!m) return;
-        if (marker === null) marker = m;        // baseline
-        else if (m !== marker) reload();
+        if (marker === null) marker = m;                 // baseline
+        else if (m !== marker && !busy()) reload();       // changed + idle -> reload
       })
       .catch(function () { /* offline or blocked: keep the cached page, try again later */ });
   }

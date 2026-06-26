@@ -27,7 +27,8 @@ in a fraction of a second.
 
 ## The page
 
-- **Search** filters films by title as you type.
+- **Search** filters by film title or theater as you type (kept across refreshes).
+- The current day/theater header stays pinned while you scroll.
 - **By date / by film / by theater** toggle at the top (your choice is remembered).
   "By theater" lists each film once per theater with all its dates.
 - Screenings in the **next ~3 days** are emphasized (Today/Tomorrow labelled), and

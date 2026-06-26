@@ -160,6 +160,9 @@
   }
   .showing:hover .hide, .film:hover .hide { color: var(--muted); }
   .hide:hover { color: var(--danger); background: var(--surface); }
+  /* On (tall) film cards, pin × to the top so you can x down a column without
+     moving the mouse; single-line showing rows stay centered. */
+  .film > .hide { align-self: flex-start; }
 
   #empty { padding: 2rem 0; }
   .egg { text-align: center; padding: 2.5rem 1rem; }

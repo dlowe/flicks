@@ -5,120 +5,543 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Flicks — Portland indie cinema</title>
 <style>
-  :root { color-scheme: dark; }
+  /* Dark is the default palette; the light override below follows the OS. */
+  :root {
+    color-scheme: light dark;
+    --bg: #14110f;
+    --fg: #ede6df;
+    --muted: #8c8378;     /* secondary text */
+    --faint: #6f665c;     /* fainter text: hints, footer */
+    --bright: #b3a99c;    /* emphasis on muted (segment text, hover) */
+    --accent: #d8a657;
+    --on-accent: #14110f; /* text on an accent-filled control */
+    --border: #2e2925;
+    --surface: #211d1a;   /* raised bg + row dividers + hover */
+    --icon: #5a534b;      /* faint glyphs (×, 🔗) */
+    --icon-faint: #4a443d;
+    --danger: #e06c5a;
+    --health-bg: #2a211a;
+    --health-border: #5a4a2e;
+    --health-fg: #e0b072;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg: #faf8f5;
+      --fg: #1f1b18;
+      --muted: #6b6358;
+      --faint: #8c8378;
+      --bright: #4a443d;
+      --accent: #b06a14;
+      --on-accent: #fdfaf6;
+      --border: #e3ddd3;
+      --surface: #efeae2;
+      --icon: #b3a99c;
+      --icon-faint: #c7bfb4;
+      --danger: #c0392b;
+      --health-bg: #fbf0db;
+      --health-border: #e0c389;
+      --health-fg: #8a5a12;
+    }
+  }
+  * { box-sizing: border-box; }
   body {
     font: 16px/1.4 -apple-system, system-ui, sans-serif;
-    background: #14110f; color: #ede6df; margin: 0;
+    background: var(--bg); color: var(--fg); margin: 0;
     padding: 2rem 1rem 5rem;
   }
   .wrap { max-width: 920px; margin: 0 auto; }
   h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
-  .sub { color: #8c8378; margin: 0 0 2.5rem; font-size: .85rem; }
+  .sub { color: var(--muted); margin: 0 0 1.25rem; font-size: .85rem; }
+
+  .controls {
+    display: flex; flex-wrap: wrap; align-items: center; gap: .5rem;
+    margin: 0 0 .8rem;
+  }
+  .dayband { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 1.5rem; }
+  .dayband:empty { display: none; }
+  .day-chip {
+    display: inline-flex; align-items: center; gap: .1rem;
+    border: 1px solid var(--border); border-radius: 999px;
+    color: var(--bright); font-size: .8rem; padding: .25rem .3rem .25rem .7rem;
+  }
+  .hideday {
+    background: none; border: 0; color: var(--icon); cursor: pointer;
+    font-size: 1.05rem; line-height: 1; padding: 0 .2rem; border-radius: 50%;
+  }
+  .hideday:hover { color: var(--danger); }
+  .seg { display: inline-flex; border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
+  .seg button {
+    background: none; border: 0; border-left: 1px solid var(--border);
+    color: var(--bright); font: inherit; font-size: .85rem; cursor: pointer;
+    padding: .45rem .8rem;
+  }
+  .seg button:first-child { border-left: 0; }
+  .seg button[aria-pressed="true"] { background: var(--accent); color: var(--on-accent); font-weight: 600; }
+  .btn {
+    background: none; border: 1px solid var(--border); border-radius: 6px;
+    color: var(--bright); font: inherit; font-size: .85rem; cursor: pointer;
+    padding: .45rem .8rem;
+  }
+  .btn:hover { border-color: var(--accent); color: var(--accent); }
+  .btn[disabled] { opacity: .45; cursor: default; }
+  .hint { color: var(--faint); font-size: .8rem; margin-left: auto; }
+
+  .health {
+    background: var(--health-bg); border: 1px solid var(--health-border); color: var(--health-fg);
+    border-radius: 6px; padding: .5rem .8rem; font-size: .8rem; margin: 0 0 1.25rem;
+  }
+
+  .go { color: var(--icon); text-decoration: none; font-size: .8rem; margin-left: .35rem; }
+  .go:hover { color: var(--accent); }
+
   h2 {
-    font-size: 1.05rem; font-weight: 600; color: #d8a657;
-    border-bottom: 1px solid #2e2925; padding-bottom: .4rem;
-    margin: 2.5rem 0 1rem;
+    display: flex; align-items: center;
+    font-size: 1.05rem; font-weight: 600; color: var(--accent);
+    border-bottom: 1px solid var(--border); padding-bottom: .4rem;
+    margin: 2rem 0 1rem;
   }
-  .showing {
+  h2 a { color: inherit; text-decoration: none; }
+  h2 a:hover { text-decoration: underline; }
+  .hidet, .hided {
+    margin-left: auto; background: none; border: 0; color: var(--icon);
+    font-size: 1.3rem; line-height: 1; cursor: pointer; padding: 0 .3rem; border-radius: 4px;
+  }
+  .hidet:hover, .hided:hover { color: var(--danger); background: var(--surface); }
+
+  .showing, .film {
     display: flex; gap: 1rem; align-items: flex-start;
-    padding: .7rem 0; border-bottom: 1px solid #211d1a;
+    padding: .7rem 0; border-bottom: 1px solid var(--surface);
   }
-  .showing[hidden], .day[hidden] { display: none; }
   .poster {
     width: 56px; height: 80px; object-fit: cover; border-radius: 4px;
-    background: #211d1a; flex: none;
+    background: var(--surface); flex: none; display: block;
   }
+  a:hover > .poster { outline: 2px solid var(--accent); }
   .meta { flex: 1; min-width: 0; }
   .title { font-weight: 600; }
-  .title a { color: #ede6df; text-decoration: none; }
+  .title a { color: var(--fg); text-decoration: none; }
   .title a:hover { text-decoration: underline; }
-  .line { color: #8c8378; font-size: .85rem; margin-top: .15rem; }
-  .time { color: #ede6df; font-variant-numeric: tabular-nums; }
-  .theater { color: #8c8378; }
+  .line { color: var(--muted); font-size: .85rem; margin-top: .15rem; }
+  .time { color: var(--fg); font-variant-numeric: tabular-nums; }
+  .theater, .theater a { color: var(--muted); }
+  .theater a { text-decoration: none; }
+  .theater a:hover { text-decoration: underline; color: var(--bright); }
   .hide {
     flex: none; align-self: center; background: none; border: 0;
-    color: #5a534b; font-size: 1.3rem; line-height: 1; cursor: pointer;
-    padding: .25rem .4rem; border-radius: 4px;
+    color: var(--icon-faint); font-size: 1.4rem; line-height: 1; cursor: pointer;
+    padding: .25rem .5rem; border-radius: 4px;
   }
-  .showing:hover .hide { color: #8c8378; }
-  .hide:hover { color: #e06c5a; background: #211d1a; }
-  #hiddenbar {
+  .showing:hover .hide, .film:hover .hide { color: var(--muted); }
+  .hide:hover { color: var(--danger); background: var(--surface); }
+
+  #empty { padding: 2rem 0; }
+  .egg { text-align: center; padding: 2.5rem 1rem; }
+  .egg-card {
+    font: 700 2.4rem/1 Georgia, "Times New Roman", serif;
+    letter-spacing: .18em; text-transform: uppercase; color: var(--fg);
+    display: inline-block; padding: 2.6rem 3.2rem; border-radius: 50% / 42%;
+    background: radial-gradient(ellipse at center, var(--surface), transparent 72%);
+  }
+  .egg-quip { color: var(--muted); font-style: italic; margin: 1.3rem 0 .4rem; }
+  .egg-act button {
+    background: none; border: 0; color: var(--accent); cursor: pointer;
+    font: inherit; text-decoration: underline; padding: 0;
+  }
+
+  #footerbar {
     position: fixed; left: 0; right: 0; bottom: 0;
-    background: #211d1a; border-top: 1px solid #2e2925;
-    color: #8c8378; font-size: .85rem; text-align: center;
-    padding: .6rem 1rem;
+    background: var(--surface); border-top: 1px solid var(--border);
+    color: var(--faint); font-size: .8rem;
+    display: flex; flex-wrap: wrap; align-items: center; gap: .35rem 1rem;
+    justify-content: space-between; padding: .6rem 1rem;
   }
-  #hiddenbar button {
-    background: none; border: 0; color: #d8a657; cursor: pointer;
-    font-size: .85rem; text-decoration: underline; padding: 0 .25rem;
+  #footerbar button {
+    background: none; border: 0; color: var(--accent); cursor: pointer;
+    font-size: .8rem; text-decoration: underline; padding: 0 .25rem;
+  }
+  #footerbar a { color: var(--faint); }
+  #resets:empty { display: none; }
+
+  @media (max-width: 560px) {
+    body { padding: 1.25rem .8rem 5.5rem; }
+    h1 { font-size: 1.35rem; }
+    .hint { margin-left: 0; flex-basis: 100%; }
+    .poster { width: 46px; height: 66px; }
+    .showing, .film { gap: .7rem; }
+    .hide, .hidet, .hided { color: var(--faint); }  /* always visible: no hover on touch */
+    .go { font-size: 1rem; }                /* bigger tap target on touch */
   }
 </style>
 </head>
-<body>
+<body data-build="{{ build_id }}">
 <div class="wrap">
   <h1>Portland Indie Cinema</h1>
   <p class="sub">Generated {{ generated }}</p>
 
-  {% for day in days %}
-  <section class="day">
-    <h2>{{ day.label }}</h2>
-    {% for s in day.showings %}
-    <div class="showing" data-film="{{ s.title }}">
-      {% if s.poster %}<img class="poster" src="{{ s.poster }}" alt="" loading="lazy">
-      {% else %}<div class="poster"></div>{% endif %}
-      <div class="meta">
-        <div class="title"><a href="{{ s.url }}">{{ s.title }}</a></div>
-        <div class="line">
-          <span class="time">{{ s.times|join(', ') }}</span>
-          &nbsp;·&nbsp;<span class="theater">{{ s.theater }}</span>
-        </div>
-      </div>
-      <button class="hide" title="Hide this film" aria-label="Hide this film">&times;</button>
+  {% if health %}
+  <div class="health">⚠ Couldn't get current listings from {{ health|join(', ') }} — their site may have changed.</div>
+  {% endif %}
+
+  <div class="controls">
+    <div class="seg" role="group" aria-label="Group showings by">
+      <button data-view="date" aria-pressed="true">By date</button>
+      <button data-view="film" aria-pressed="false">By film</button>
+      <button data-view="theater" aria-pressed="false">By theater</button>
     </div>
-    {% endfor %}
-  </section>
-  {% endfor %}
+    <button id="ics" class="btn" title="Download the films you've kept as a calendar file">📅 Add to calendar</button>
+    <span class="hint">Tap × to hide a film, theater, or day</span>
+  </div>
+
+  <div class="dayband" id="dayband"></div>
+
+  <div id="cal"></div>
+  <div id="empty" hidden></div>
 </div>
 
-<div id="hiddenbar" hidden>
-  <span class="n">0</span> film(s) hidden · <button id="showall">show all</button>
+<div id="footerbar">
+  <span id="resets"></span>
+  <span class="foot-meta">Pacific times ·
+    <a href="https://github.com/dlowe/flicks" target="_blank" rel="noopener">source on GitHub</a></span>
 </div>
 
 <script>
 (function () {
+  var ROWS = {{ rows_json|safe }};
   var KEY = "flicks.hidden";
-  var norm = function (t) { return (t || "").trim().toLowerCase(); };
-  var load = function () {
-    try { return new Set(JSON.parse(localStorage.getItem(KEY) || "[]")); }
-    catch (e) { return new Set(); }
-  };
-  var hidden = load();
-  var save = function () { localStorage.setItem(KEY, JSON.stringify([].concat([...hidden]))); };
+  var VIEWKEY = "flicks.view";
+  var OFFKEY = "flicks.theaters.off";
+  var DAYKEY = "flicks.days.off";
+  var DATEKEY = "flicks.dates.off";
+  // Weekday chips, Monday-first; values are JS getDay() indices (Sun=0).
+  var DAYS = [[1, "Monday"], [2, "Tuesday"], [3, "Wednesday"], [4, "Thursday"],
+    [5, "Friday"], [6, "Saturday"], [0, "Sunday"]];
 
-  function apply() {
-    document.querySelectorAll(".showing").forEach(function (el) {
-      el.hidden = hidden.has(norm(el.dataset.film));
+  var hidden = loadSet(KEY);
+  var off = loadSet(OFFKEY);       // theaters the viewer has switched off
+  var offDays = loadSet(DAYKEY);   // weekdays the viewer has switched off
+  var offDates = loadSet(DATEKEY); // specific calendar dates switched off
+  var view = localStorage.getItem(VIEWKEY) || "date";
+  var cal = document.getElementById("cal");
+
+  function loadSet(k) {
+    try { return new Set(JSON.parse(localStorage.getItem(k) || "[]")); }
+    catch (e) { return new Set(); }
+  }
+  function save() { localStorage.setItem(KEY, JSON.stringify([...hidden])); }
+  function saveOff() { localStorage.setItem(OFFKEY, JSON.stringify([...off])); }
+  function saveDays() { localStorage.setItem(DAYKEY, JSON.stringify([...offDays])); }
+  function saveDates() { localStorage.setItem(DATEKEY, JSON.stringify([...offDates])); }
+  function weekday(r) { return parseDate(r.date).getDay(); }
+
+  function esc(s) {
+    return (s == null ? "" : String(s)).replace(/[&<>"]/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
     });
-    document.querySelectorAll(".day").forEach(function (sec) {
-      var anyVisible = [].some.call(sec.querySelectorAll(".showing"), function (el) { return !el.hidden; });
-      sec.hidden = !anyVisible;
+  }
+  function pad(n) { return n < 10 ? "0" + n : "" + n; }
+  function todayStr() {
+    var d = new Date();
+    return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate());
+  }
+  function parseDate(s) { var p = s.split("-"); return new Date(+p[0], +p[1] - 1, +p[2]); }
+  function fmtLong(s) {
+    return parseDate(s).toLocaleDateString(undefined,
+      { weekday: "long", month: "long", day: "numeric" });
+  }
+  function fmtShort(s) {
+    return parseDate(s).toLocaleDateString(undefined,
+      { weekday: "short", month: "short", day: "numeric" });
+  }
+
+  function link(url, text, cls) {
+    if (!url) return '<span class="' + cls + '">' + esc(text) + "</span>";
+    return '<a class="' + cls + '" href="' + esc(url) + '" target="_blank" rel="noopener">'
+      + esc(text) + "</a>";
+  }
+  function poster(r) {
+    if (!r.poster) return '<div class="poster"></div>';
+    var img = '<img class="poster" src="' + esc(r.poster) + '" alt="" loading="lazy">';
+    return r.imdb
+      ? '<a href="' + esc(r.imdb) + '" target="_blank" rel="noopener" title="View on IMDb">'
+        + img + "</a>"
+      : img;
+  }
+  function hideBtn(key) {
+    return '<button class="hide" data-key="' + esc(key)
+      + '" title="Hide this film" aria-label="Hide this film">×</button>';
+  }
+  function times(r) { return '<span class="time">' + esc(r.times.join(", ")) + "</span>"; }
+  function goLink(r) {
+    if (!r.url) return "";
+    return ' <a class="go" href="' + esc(r.url) + '" target="_blank" rel="noopener"'
+      + ' title="Open showtimes / tickets" aria-label="Open showtimes">🔗</a>';
+  }
+
+  // visibleRows: from today onward, not hidden, theater switched on, in the
+  // original chronological order.
+  function visibleRows() {
+    var today = todayStr();
+    return ROWS.filter(function (r) {
+      return r.date >= today && !hidden.has(r.key) && !off.has(r.theater)
+        && !offDays.has(weekday(r)) && !offDates.has(r.date);
     });
-    var bar = document.getElementById("hiddenbar");
-    bar.hidden = hidden.size === 0;
-    bar.querySelector(".n").textContent = hidden.size;
+  }
+
+  function renderDayBand() {
+    document.getElementById("dayband").innerHTML = DAYS.filter(function (d) {
+      return !offDays.has(d[0]);
+    }).map(function (d) {
+      return '<span class="day-chip">' + d[1]
+        + '<button class="hideday" data-day="' + d[0] + '" title="Hide ' + d[1]
+        + 's" aria-label="Hide ' + d[1] + 's">×</button></span>';
+    }).join("");
+  }
+
+  function groups(rows, keyFn) {
+    var order = [], map = {};
+    rows.forEach(function (r) {
+      var k = keyFn(r);
+      if (!(k in map)) { map[k] = []; order.push(k); }
+      map[k].push(r);
+    });
+    return order.map(function (k) { return { key: k, rows: map[k] }; });
+  }
+
+  function section(label, body) {
+    return '<section class="group"><h2>' + label + "</h2>" + body + "</section>";
+  }
+
+  function renderByDate(rows) {
+    return groups(rows, function (r) { return r.date; }).map(function (g) {
+      var body = g.rows.map(function (r) {
+        return '<div class="showing">' + poster(r)
+          + '<div class="meta"><div class="title">' + link(r.url, r.title, "")
+          + '</div><div class="line">' + times(r) + ' &nbsp;·&nbsp; '
+          + '<span class="theater">' + link(r.home, r.theater, "") + "</span></div></div>"
+          + hideBtn(r.key) + "</div>";
+      }).join("");
+      var label = esc(fmtLong(g.key));
+      var head = label + '<button class="hided" data-date="' + g.key
+        + '" title="Hide ' + label + '" aria-label="Hide ' + label + '">×</button>';
+      return section(head, body);
+    }).join("");
+  }
+
+  // Render films as cards: one card per film, each line a "<lead> · times" row.
+  // `lead(row)` supplies the per-line context (date, or theater + date).
+  function filmCards(filmGroups, lead, linkTitle) {
+    return filmGroups.map(function (g) {
+      var first = g.rows[0];
+      var title = linkTitle ? link(first.url, first.title, "") : esc(first.title);
+      var lines = g.rows.map(function (r) {
+        return '<div class="line"><span class="theater">' + lead(r)
+          + "</span> &nbsp;·&nbsp; " + times(r) + goLink(r) + "</div>";
+      }).join("");
+      return '<div class="film">' + poster(first)
+        + '<div class="meta"><div class="title">' + title + "</div>" + lines + "</div>"
+        + hideBtn(first.key) + "</div>";
+    }).join("");
+  }
+
+  function byTitle(filmGroups) {
+    return filmGroups.sort(function (a, b) {
+      return a.rows[0].title.localeCompare(b.rows[0].title);
+    });
+  }
+
+  // Group by theater, then by film within each theater (a film appears once per
+  // theater, listing all its dates there).
+  function renderByTheater(rows) {
+    var ts = groups(rows, function (r) { return r.theater; });
+    ts.sort(function (a, b) { return a.key.localeCompare(b.key); });
+    return ts.map(function (t) {
+      var films = byTitle(groups(t.rows, function (r) { return r.key; }));
+      var body = filmCards(films, function (r) { return esc(fmtShort(r.date)); }, true);
+      var head = link(t.rows[0].home, t.key, "")
+        + '<button class="hidet" data-theater="' + esc(t.key)
+        + '" title="Hide this theater" aria-label="Hide this theater">×</button>';
+      return section(head, body);
+    }).join("");
+  }
+
+  // Group by film across all theaters; each line names the theater and date.
+  function renderByFilm(rows) {
+    var films = byTitle(groups(rows, function (r) { return r.key; }));
+    return filmCards(films, function (r) {
+      return link(r.home, r.theater, "") + " &nbsp;·&nbsp; " + esc(fmtShort(r.date));
+    }, false);
+  }
+
+  // --- Calendar export (.ics), built entirely client-side from the filtered set.
+  // Showtimes are emitted in UTC (the embedded stamps carry the Pacific offset),
+  // so any calendar app places them correctly without a VTIMEZONE block.
+  var EVENT_HOURS = 2;  // we don't have runtimes; a 2h block is a sane default.
+
+  function icsEscape(s) {
+    return String(s == null ? "" : s)
+      .replace(/\\/g, "\\\\").replace(/;/g, "\\;").replace(/,/g, "\\,").replace(/\n/g, "\\n");
+  }
+  function dtUTC(d) {
+    function p(n) { return String(n).padStart(2, "0"); }
+    return d.getUTCFullYear() + p(d.getUTCMonth() + 1) + p(d.getUTCDate()) + "T"
+      + p(d.getUTCHours()) + p(d.getUTCMinutes()) + p(d.getUTCSeconds()) + "Z";
+  }
+  function fold(line) {  // RFC 5545: lines SHOULD wrap at 75 octets
+    var out = [], s = line;
+    while (s.length > 73) { out.push(s.slice(0, 73)); s = " " + s.slice(73); }
+    out.push(s);
+    return out.join("\r\n");
+  }
+  function buildICS(rows) {
+    var stamp = dtUTC(new Date());
+    var L = ["BEGIN:VCALENDAR", "VERSION:2.0",
+      "PRODID:-//flicks//Portland indie cinema//EN", "CALSCALE:GREGORIAN", "METHOD:PUBLISH"];
+    rows.forEach(function (r) {
+      r.starts.forEach(function (iso) {
+        var start = new Date(iso), end = new Date(start.getTime() + EVENT_HOURS * 3600000);
+        var uid = (r.key + "-" + r.theater + "-" + iso).replace(/[^a-zA-Z0-9_-]/g, "") + "@flicks";
+        var desc = r.theater + (r.url ? "\n" + r.url : "") + (r.imdb ? "\nIMDb: " + r.imdb : "");
+        L.push("BEGIN:VEVENT", "UID:" + uid, "DTSTAMP:" + stamp,
+          "DTSTART:" + dtUTC(start), "DTEND:" + dtUTC(end),
+          "SUMMARY:" + icsEscape(r.title), "LOCATION:" + icsEscape(r.theater));
+        if (r.url) L.push("URL:" + icsEscape(r.url));
+        L.push("DESCRIPTION:" + icsEscape(desc), "END:VEVENT");
+      });
+    });
+    L.push("END:VCALENDAR");
+    return L.map(fold).join("\r\n");
+  }
+  function downloadICS() {
+    var rows = visibleRows();
+    if (!rows.length) return;
+    var blob = new Blob([buildICS(rows)], { type: "text/calendar;charset=utf-8" });
+    var url = URL.createObjectURL(blob);
+    var a = document.createElement("a");
+    a.href = url; a.download = "flicks.ics";
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+    setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
+  }
+
+  // Shown when every showing is filtered/hidden away — a little end-of-reel gag.
+  var QUIPS = [
+    "You filtered out every last frame.",
+    "House lights up — the marquee's gone dark.",
+    "The projectionist has left the booth. 🎞️",
+    "Cutting-room floor: everything.",
+    "Roll credits. There's nothing else playing.",
+    "An empty theater is its own kind of art film.",
+    "Even the popcorn's gone cold. 🍿",
+  ];
+  function easterEgg() {
+    var quip = QUIPS[Math.floor(Math.random() * QUIPS.length)];
+    var act = (hidden.size || off.size || offDays.size || offDates.size)
+      ? '<p class="egg-act"><button data-egg="reset">roll the reels again</button></p>'
+      : "";
+    return '<div class="egg"><div class="egg-card">The End</div>'
+      + '<p class="egg-quip">' + esc(quip) + "</p>" + act + "</div>";
+  }
+
+  function render() {
+    var rows = visibleRows();
+    var html = "";
+    if (view === "film") html = renderByFilm(rows);
+    else if (view === "theater") html = renderByTheater(rows);
+    else html = renderByDate(rows);
+
+    cal.innerHTML = html;
+    renderDayBand();
+    var empty = document.getElementById("empty");
+    empty.hidden = rows.length > 0;
+    if (rows.length === 0) empty.innerHTML = easterEgg();
+
+    document.querySelectorAll(".seg button").forEach(function (b) {
+      b.setAttribute("aria-pressed", b.dataset.view === view);
+    });
+
+    var nshow = rows.reduce(function (a, r) { return a + r.starts.length; }, 0);
+    var ics = document.getElementById("ics");
+    ics.textContent = nshow ? "📅 Add " + nshow + " to calendar" : "📅 Add to calendar";
+    ics.disabled = nshow === 0;
+
+    var parts = [];
+    if (hidden.size) parts.push(hidden.size + " film(s) hidden · "
+      + '<button data-show="films">show all</button>');
+    if (off.size) parts.push(off.size + " theater(s) hidden · "
+      + '<button data-show="theaters">show all</button>');
+    if (offDays.size) parts.push(offDays.size + " day(s) of the week hidden · "
+      + '<button data-show="days">show all</button>');
+    if (offDates.size) parts.push(offDates.size + " date(s) hidden · "
+      + '<button data-show="dates">show all</button>');
+    document.getElementById("resets").innerHTML = parts.join(" &nbsp;·&nbsp; ");
   }
 
   document.addEventListener("click", function (e) {
-    var btn = e.target.closest(".hide");
-    if (btn) {
-      hidden.add(norm(btn.closest(".showing").dataset.film));
-      save(); apply();
-    } else if (e.target.id === "showall") {
-      hidden.clear(); save(); apply();
+    var hideEl = e.target.closest(".hide");
+    var hidetEl = e.target.closest(".hidet");
+    var hidedEl = e.target.closest(".hided");
+    var dayEl = e.target.closest(".hideday");
+    var seg = e.target.closest(".seg button");
+    var show = e.target.closest("[data-show]");
+    var egg = e.target.closest("[data-egg]");
+    if (e.target.closest("#ics")) {
+      downloadICS();
+    } else if (egg) {
+      hidden.clear(); off.clear(); offDays.clear(); offDates.clear();
+      save(); saveOff(); saveDays(); saveDates(); render();
+    } else if (dayEl) {
+      offDays.add(+dayEl.dataset.day); saveDays(); render();
+    } else if (hidedEl) {
+      offDates.add(hidedEl.dataset.date); saveDates(); render();
+    } else if (hidetEl) {
+      off.add(hidetEl.dataset.theater); saveOff(); render();
+    } else if (hideEl) {
+      hidden.add(hideEl.dataset.key); save(); render();
+    } else if (seg) {
+      view = seg.dataset.view; localStorage.setItem(VIEWKEY, view); render();
+    } else if (show) {
+      if (show.dataset.show === "films") { hidden.clear(); save(); }
+      else if (show.dataset.show === "theaters") { off.clear(); saveOff(); }
+      else if (show.dataset.show === "days") { offDays.clear(); saveDays(); }
+      else { offDates.clear(); saveDates(); }
+      render();
     }
   });
 
-  apply();
+  render();
+})();
+</script>
+
+<script>
+// Auto-reload so a tab left open picks up regenerated listings. Preferred path:
+// poll our own file and reload only when the build marker changes (no flicker).
+// If reading the file is blocked (some file:// setups), fall back to a slow timed
+// reload. Either way we preserve scroll position across the reload.
+(function () {
+  var SKEY = "flicks.scroll";
+  var BUILD = document.body.dataset.build;
+
+  var y = sessionStorage.getItem(SKEY);
+  if (y !== null) { window.scrollTo(0, +y); sessionStorage.removeItem(SKEY); }
+
+  function reload() {
+    sessionStorage.setItem(SKEY, window.scrollY);
+    location.reload();
+  }
+
+  var timedFallback = false;
+  function check() {
+    fetch(location.href, { cache: "no-store" })
+      .then(function (r) { return r.text(); })
+      .then(function (t) {
+        var m = t.match(/data-build="([^"]*)"/);
+        if (m && m[1] !== BUILD) reload();
+      })
+      .catch(function () {
+        // Can't read the file; switch to a plain periodic reload instead.
+        if (!timedFallback) { timedFallback = true; setInterval(reload, 60000); }
+      });
+  }
+  setInterval(check, 5000);
 })();
 </script>
 </body>

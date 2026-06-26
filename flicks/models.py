@@ -13,6 +13,7 @@ class Event:
     theater: str
     url: str
     poster: str | None = None
+    imdb: str | None = None  # canonical https://www.imdb.com/title/tt…/ when known
 
     @property
     def date_key(self) -> str:

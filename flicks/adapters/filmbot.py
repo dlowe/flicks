@@ -38,6 +38,7 @@ def fetch(base_url: str, theater: str) -> list[Event]:
         if show is None or not _is_film(show):
             continue
         start = datetime.strptime(s["datetime"], "%Y%m%d%H%M%S").replace(tzinfo=TZ)
+        imdb_id = (show.get("_imdb_id") or "").strip()
         events.append(
             Event(
                 title=html.unescape((show.get("title") or {}).get("raw") or "").strip(),
@@ -45,6 +46,7 @@ def fetch(base_url: str, theater: str) -> list[Event]:
                 theater=theater,
                 url=show.get("link") or "",
                 poster=show.get("featured_media_url"),
+                imdb=f"https://www.imdb.com/title/{imdb_id}/" if imdb_id.startswith("tt") else None,
             )
         )
     return events

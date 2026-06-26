@@ -7,6 +7,8 @@ __pycache__/
 # Jinja template at flicks/templates/index.html is NOT ignored.
 /index.html
 /events.json
+/health.json
+/multiplex.json
 
 # Local Claude Code settings (machine-specific, e.g. permission mode)
 .claude/settings.local.json

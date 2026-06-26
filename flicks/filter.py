@@ -14,6 +14,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from .models import Event
+from .titles import normalize
 
 CONFIG = Path(__file__).parent.parent / "filter.toml"
 
@@ -36,7 +37,7 @@ _QUALIFIER = re.compile(
 
 
 def key(title: str) -> str:
-    t = _TRAILING_PAREN.sub("", title.strip().lower())
+    t = _TRAILING_PAREN.sub("", normalize(title).strip().lower())
     t = re.sub(r"[^\w\s]", " ", t)  # punctuation -> space (colons, apostrophes, etc.)
     t = _QUALIFIER.sub(" ", t)
     t = re.sub(r"\s+", " ", t).strip()

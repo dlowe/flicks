@@ -1,0 +1,39 @@
+name: Publish
+
+# Rebuilds the calendar and publishes it to the gh-pages branch, served at
+# https://dlowe.github.io/flicks/. Runs on every push to main, weekly to keep
+# listings fresh, and on demand.
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 14 * * 1"  # Mondays ~07:00 Pacific
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Build the page
+        run: python -m flicks.main
+      - name: Stage site
+        run: |
+          mkdir -p site
+          cp index.html events.json site/
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          publish_branch: gh-pages

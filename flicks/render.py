@@ -1,16 +1,42 @@
-"""Render a list of Events into a static index.html, grouped by date then theater."""
+"""Render a list of Events into a static index.html.
+
+The page is data-driven: we emit one folded row per film+theater+day as JSON
+and the page groups, orders (by date / film / theater), date-filters, and hides
+client-side. That keeps every view available without a re-fetch and lets a stale
+page still trim itself to "from today" when opened days later.
+"""
 
 from __future__ import annotations
 
+import json
 from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
+from . import filter as filters
 from .models import Event
+from .titles import normalize
 
 _TEMPLATES = Path(__file__).parent / "templates"
+
+# Theater display name -> public homepage, for linking theater names on the page.
+THEATER_HOMES = {
+    "Clinton Street Theater": "https://cstpdx.com",
+    "Hollywood Theatre": "https://hollywoodtheatre.org",
+    "Cinema 21": "https://www.cinema21.com",
+    "OMSI Empirical Theater": "https://omsi.edu",
+    "PAM CUT / Whitsell": "https://portlandartmuseum.org",
+    "Tomorrow Theater": "https://tomorrowtheater.org",
+    "Studio One": "https://studio1theaters.com",
+    "Moreland Theater": "https://morelandtheater.com",
+    "Laurelhurst Theater": "https://laurelhursttheater.com",
+    "Academy Theater": "https://academytheaterpdx.com",
+    "Living Room Theaters": "https://pdx.livingroomtheaters.com",
+    "Cinemagic": "https://thecinemagictheater.com",
+    "St. Johns Cinema": "https://stjohnscinema.com",
+}
 
 # Words kept lowercase mid-title, and tokens kept uppercase (roman numerals),
 # when prettifying ALL-CAPS titles from sources like ForMovieTickets/Hollywood.
@@ -40,45 +66,54 @@ def smart_titlecase(title: str) -> str:
     return " ".join(out)
 
 
-def render(events: list[Event], out: Path) -> None:
-    by_date: dict[str, list[Event]] = defaultdict(list)
-    for e in events:
-        by_date[e.date_key].append(e)
-
-    days = []
-    for date_key in sorted(by_date):
-        days.append(
-            {
-                "label": datetime.strptime(date_key, "%Y-%m-%d").strftime("%A, %B %-d"),
-                "showings": _fold(by_date[date_key]),
-            }
-        )
-
+def render(events: list[Event], out: Path, health: list[str] | None = None) -> None:
+    rows = _fold(events)
     env = Environment(
         loader=FileSystemLoader(_TEMPLATES),
         autoescape=select_autoescape(["html"]),
     )
+    # Escape "<" so the blob can't terminate the <script> it lives in.
+    rows_json = json.dumps(rows, ensure_ascii=False).replace("<", "\\u003c")
+    now = datetime.now()
     template = env.get_template("index.html")
-    html = template.render(days=days, generated=datetime.now().strftime("%b %-d, %-I:%M%p"))
+    html = template.render(
+        rows_json=rows_json,
+        health=health or [],
+        generated=now.strftime("%b %-d, %-I:%M%p"),
+        build_id=now.strftime("%Y-%m-%dT%H:%M:%S"),  # for the page's auto-reload check
+    )
     out.write_text(html, encoding="utf-8")
 
 
 def _fold(events: list[Event]) -> list[dict]:
-    """Collapse same-film, same-theater showings on a day into one row of times."""
-    rows: dict[tuple[str, str], dict] = {}
+    """One row per film+theater+day, collapsing that day's showtimes into a list.
+
+    `key` is the loose match key (shared with filtering) used for grouping films
+    and for the per-film hide; `sort` is the earliest start that day, for
+    ordering within a date.
+    """
+    rows: dict[tuple[str, str, str], dict] = {}
     for e in sorted(events, key=lambda e: (e.start, e.theater, e.title)):
-        key = (e.theater, e.title)
-        row = rows.get(key)
+        title = normalize(e.title)
+        slot = (e.date_key, e.theater, title)
+        row = rows.get(slot)
         if row is None:
-            rows[key] = {
-                "title": smart_titlecase(e.title),
+            rows[slot] = {
+                "date": e.date_key,
+                "title": smart_titlecase(title),
+                "key": filters.key(e.title),
                 "theater": e.theater,
+                "home": THEATER_HOMES.get(e.theater),
                 "url": e.url,
                 "poster": e.poster,
+                "imdb": e.imdb,
                 "times": [e.time_label],
-                "earliest": e.start,
+                "starts": [e.start.isoformat()],  # full per-showtime stamps, for .ics export
+                "sort": e.start.isoformat(),
             }
         else:
             row["times"].append(e.time_label)
+            row["starts"].append(e.start.isoformat())
             row["poster"] = row["poster"] or e.poster
-    return sorted(rows.values(), key=lambda r: (r["earliest"], r["theater"], r["title"]))
+            row["imdb"] = row["imdb"] or e.imdb
+    return sorted(rows.values(), key=lambda r: (r["sort"], r["theater"], r["title"]))

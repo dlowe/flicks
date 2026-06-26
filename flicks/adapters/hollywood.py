@@ -52,23 +52,22 @@ def fetch(*, days: int = 30) -> list[Event]:
             seen.add((film, start))
             rows.append((film, start, slug, raw.get("link") or BASE))
 
-    # Fetch each distinct show once, in parallel — this is the slow part.
+    # Resolve each distinct show once, in parallel — this is the slow part.
+    # Each resolution fetches the show (poster) and verifies its /show/ permalink.
     slugs = {slug for _, _, slug, _ in rows if slug}
     with ThreadPoolExecutor(max_workers=8) as pool:
-        shows = dict(zip(slugs, pool.map(_fetch_show, slugs)))
+        resolved = dict(zip(slugs, pool.map(_resolve_show, slugs)))
 
-    # Link to the per-screening event page: it reliably exists, whereas some
-    # show permalinks 404 despite the show post being published.
-    return [
-        Event(
-            title=film,
-            start=start,
-            theater=THEATER,
-            url=link,
-            poster=_poster(shows.get(slug)),
+    # Prefer the /show/ page (description + ticket link live there); fall back to
+    # the per-screening event page when the show permalink 404s, which happens
+    # for series-umbrella posts that exist in the API but have no public page.
+    out: list[Event] = []
+    for film, start, slug, link in rows:
+        show_url, poster = resolved.get(slug, (None, None))
+        out.append(
+            Event(title=film, start=start, theater=THEATER, url=show_url or link, poster=poster)
         )
-        for film, start, slug, link in rows
-    ]
+    return out
 
 
 def _events_for_month(month: str) -> list[dict]:
@@ -104,16 +103,33 @@ def _parse_event(raw: dict):
     return m["film"].strip(), naive.replace(tzinfo=TZ), slug
 
 
-def _fetch_show(slug: str) -> dict | None:
+def _resolve_show(slug: str) -> tuple[str | None, str | None]:
+    """Fetch a show post, returning (verified /show/ url, poster url).
+
+    A show post can be published in the API yet have no public page (series
+    umbrellas like "Jim Jarmusch's America" 404), so the permalink is verified
+    with a cheap HEAD before we trust it as a link target.
+    """
     resp = requests.get(
         f"{BASE}/wp-json/wp/v2/show",
         params={"slug": slug},
         impersonate=IMPERSONATE,
         timeout=30,
     )
-    if resp.status_code == 200 and resp.json():
-        return resp.json()[0]
-    return None
+    show = resp.json()[0] if resp.status_code == 200 and resp.json() else None
+    if show is None:
+        return None, None
+    return _verified_url(show.get("link")), _poster(show)
+
+
+def _verified_url(link: str | None) -> str | None:
+    if not link:
+        return None
+    try:
+        resp = requests.head(link, impersonate=IMPERSONATE, timeout=30, allow_redirects=True)
+        return link if resp.status_code == 200 else None
+    except Exception:
+        return None
 
 
 def _poster(show: dict | None) -> str | None:

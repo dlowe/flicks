@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Flicks — Portland indie cinema</title>
+<style>
+  /* Dark is the default palette; the light override below follows the OS. */
+  :root {
+    color-scheme: light dark;
+    --bg: #14110f;
+    --fg: #ede6df;
+    --muted: #8c8378;     /* secondary text */
+    --faint: #6f665c;     /* fainter text: hints, footer */
+    --bright: #b3a99c;    /* emphasis on muted (segment text, hover) */
+    --accent: #d8a657;
+    --on-accent: #14110f; /* text on an accent-filled control */
+    --border: #2e2925;
+    --surface: #211d1a;   /* raised bg + row dividers + hover */
+    --icon: #5a534b;      /* faint glyphs (×, 🔗) */
+    --icon-faint: #4a443d;
+    --danger: #e06c5a;
+    --health-bg: #2a211a;
+    --health-border: #5a4a2e;
+    --health-fg: #e0b072;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg: #faf8f5;
+      --fg: #1f1b18;
+      --muted: #6b6358;
+      --faint: #8c8378;
+      --bright: #4a443d;
+      --accent: #b06a14;
+      --on-accent: #fdfaf6;
+      --border: #e3ddd3;
+      --surface: #efeae2;
+      --icon: #b3a99c;
+      --icon-faint: #c7bfb4;
+      --danger: #c0392b;
+      --health-bg: #fbf0db;
+      --health-border: #e0c389;
+      --health-fg: #8a5a12;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font: 16px/1.4 -apple-system, system-ui, sans-serif;
+    background: var(--bg); color: var(--fg); margin: 0;
+    padding: 2rem 1rem 5rem;
+  }
+  .wrap { max-width: 920px; margin: 0 auto; }
+  h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
+  .sub { color: var(--muted); margin: 0 0 1.25rem; font-size: .85rem; }
+
+  .controls {
+    display: flex; flex-wrap: wrap; align-items: center; gap: .5rem;
+    margin: 0 0 .8rem;
+  }
+  .dayband { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 1.5rem; }
+  .dayband:empty { display: none; }
+  .day-chip {
+    display: inline-flex; align-items: center; gap: .1rem;
+    border: 1px solid var(--border); border-radius: 999px;
+    color: var(--bright); font-size: .8rem; padding: .25rem .3rem .25rem .7rem;
+  }
+  .hideday {
+    background: none; border: 0; color: var(--icon); cursor: pointer;
+    font-size: 1.05rem; line-height: 1; padding: 0 .2rem; border-radius: 50%;
+  }
+  .hideday:hover { color: var(--danger); }
+  .seg { display: inline-flex; border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
+  .seg button {
+    background: none; border: 0; border-left: 1px solid var(--border);
+    color: var(--bright); font: inherit; font-size: .85rem; cursor: pointer;
+    padding: .45rem .8rem;
+  }
+  .seg button:first-child { border-left: 0; }
+  .seg button[aria-pressed="true"] { background: var(--accent); color: var(--on-accent); font-weight: 600; }
+  .btn {
+    background: none; border: 1px solid var(--border); border-radius: 6px;
+    color: var(--bright); font: inherit; font-size: .85rem; cursor: pointer;
+    padding: .45rem .8rem;
+  }
+  .btn:hover { border-color: var(--accent); color: var(--accent); }
+  .btn[disabled] { opacity: .45; cursor: default; }
+  .hint { color: var(--faint); font-size: .8rem; margin-left: auto; }
+
+  .health {
+    background: var(--health-bg); border: 1px solid var(--health-border); color: var(--health-fg);
+    border-radius: 6px; padding: .5rem .8rem; font-size: .8rem; margin: 0 0 1.25rem;
+  }
+
+  .go { color: var(--icon); text-decoration: none; font-size: .8rem; margin-left: .35rem; }
+  .go:hover { color: var(--accent); }
+
+  h2 {
+    display: flex; align-items: center;
+    font-size: 1.05rem; font-weight: 600; color: var(--accent);
+    border-bottom: 1px solid var(--border); padding-bottom: .4rem;
+    margin: 2rem 0 1rem;
+  }
+  h2 a { color: inherit; text-decoration: none; }
+  h2 a:hover { text-decoration: underline; }
+  .hidet, .hided {
+    margin-left: auto; background: none; border: 0; color: var(--icon);
+    font-size: 1.3rem; line-height: 1; cursor: pointer; padding: 0 .3rem; border-radius: 4px;
+  }
+  .hidet:hover, .hided:hover { color: var(--danger); background: var(--surface); }
+
+  .showing, .film {
+    display: flex; gap: 1rem; align-items: flex-start;
+    padding: .7rem 0; border-bottom: 1px solid var(--surface);
+  }
+  .poster {
+    width: 56px; height: 80px; object-fit: cover; border-radius: 4px;
+    background: var(--surface); flex: none; display: block;
+  }
+  a:hover > .poster { outline: 2px solid var(--accent); }
+  .meta { flex: 1; min-width: 0; }
+  .title { font-weight: 600; }
+  .title a { color: var(--fg); text-decoration: none; }
+  .title a:hover { text-decoration: underline; }
+  .line { color: var(--muted); font-size: .85rem; margin-top: .15rem; }
+  .time { color: var(--fg); font-variant-numeric: tabular-nums; }
+  .theater, .theater a { color: var(--muted); }
+  .theater a { text-decoration: none; }
+  .theater a:hover { text-decoration: underline; color: var(--bright); }
+  .hide {
+    flex: none; align-self: center; background: none; border: 0;
+    color: var(--icon-faint); font-size: 1.4rem; line-height: 1; cursor: pointer;
+    padding: .25rem .5rem; border-radius: 4px;
+  }
+  .showing:hover .hide, .film:hover .hide { color: var(--muted); }
+  .hide:hover { color: var(--danger); background: var(--surface); }
+
+  #empty { padding: 2rem 0; }
+  .egg { text-align: center; padding: 2.5rem 1rem; }
+  .egg-card {
+    font: 700 2.4rem/1 Georgia, "Times New Roman", serif;
+    letter-spacing: .18em; text-transform: uppercase; color: var(--fg);
+    display: inline-block; padding: 2.6rem 3.2rem; border-radius: 50% / 42%;
+    background: radial-gradient(ellipse at center, var(--surface), transparent 72%);
+  }
+  .egg-quip { color: var(--muted); font-style: italic; margin: 1.3rem 0 .4rem; }
+  .egg-act button {
+    background: none; border: 0; color: var(--accent); cursor: pointer;
+    font: inherit; text-decoration: underline; padding: 0;
+  }
+
+  #footerbar {
+    position: fixed; left: 0; right: 0; bottom: 0;
+    background: var(--surface); border-top: 1px solid var(--border);
+    color: var(--faint); font-size: .8rem;
+    display: flex; flex-wrap: wrap; align-items: center; gap: .35rem 1rem;
+    justify-content: space-between; padding: .6rem 1rem;
+  }
+  #footerbar button {
+    background: none; border: 0; color: var(--accent); cursor: pointer;
+    font-size: .8rem; text-decoration: underline; padding: 0 .25rem;
+  }
+  #footerbar a { color: var(--faint); }
+  #resets:empty { display: none; }
+
+  @media (max-width: 560px) {
+    body { padding: 1.25rem .8rem 5.5rem; }
+    h1 { font-size: 1.35rem; }
+    .hint { margin-left: 0; flex-basis: 100%; }
+    .poster { width: 46px; height: 66px; }
+    .showing, .film { gap: .7rem; }
+    .hide, .hidet, .hided { color: var(--faint); }  /* always visible: no hover on touch */
+    .go { font-size: 1rem; }                /* bigger tap target on touch */
+  }
+</style>
+</head>
+<body data-build="2026-06-26T16:36:37">
+<div class="wrap">
+  <h1>Portland Indie Cinema</h1>
+  <p class="sub">Generated Jun 26, 4:36PM</p>
+
+  
+  <div class="health">⚠ Couldn't get current listings from Hollywood Theatre — their site may have changed.</div>
+  
+
+  <div class="controls">
+    <div class="seg" role="group" aria-label="Group showings by">
+      <button data-view="date" aria-pressed="true">By date</button>
+      <button data-view="film" aria-pressed="false">By film</button>
+      <button data-view="theater" aria-pressed="false">By theater</button>
+    </div>
+    <button id="ics" class="btn" title="Download the films you've kept as a calendar file">📅 Add to calendar</button>
+    <span class="hint">Tap × to hide a film, theater, or day</span>
+  </div>
+
+  <div class="dayband" id="dayband"></div>
+
+  <div id="cal"></div>
+  <div id="empty" hidden></div>
+</div>
+
+<div id="footerbar">
+  <span id="resets"></span>
+  <span class="foot-meta">Pacific times ·
+    <a href="https://github.com/dlowe/flicks" target="_blank" rel="noopener">source on GitHub</a></span>
+</div>
+
+<script>
+(function () {
+  var ROWS = [{"date": "2026-06-26", "title": "Nowhere (1997)", "key": "nowhere", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0119809/", "times": ["1:00pm", "7:00pm"], "starts": ["2026-06-26T13:00:00-07:00", "2026-06-26T19:00:00-07:00"], "sort": "2026-06-26T13:00:00-07:00"}, {"date": "2026-06-26", "title": "12 Angry Men (1957)", "key": "12 angry men", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/8771DBA1BC60A98FEB0BE74B14C8BA26B6A1B3985BD3E69E232C9EA7CDB5B760_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0050083/", "times": ["4:00pm"], "starts": ["2026-06-26T16:00:00-07:00"], "sort": "2026-06-26T16:00:00-07:00"}, {"date": "2026-06-26", "title": "South Park: Bigger, Longer & Uncut", "key": "south park bigger longer uncut", "theater": "Cinemagic", "home": "https://thecinemagictheater.com", "url": "https://tickets.thecinemagictheater.com/movie/south-park-bigger-longer-uncut", "poster": "https://indy-systems.imgix.net/kjxj5cr1i3nk0z8y0o9wt51u6jhf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["7:00pm"], "starts": ["2026-06-26T19:00:00-07:00"], "sort": "2026-06-26T19:00:00-07:00"}, {"date": "2026-06-26", "title": "Sleepaway Camp: The Midnight Mass Experience", "key": "sleepaway camp the midnight mass experience", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/sleepaway-camp-the-midnight-mass-experience/", "poster": "https://cstpdx.com/wp-content/uploads/2026/04/Sleepaway_Camp_11_x_17_June26-Portland-scaled.jpg", "imdb": null, "times": ["7:00pm"], "starts": ["2026-06-26T19:00:00-07:00"], "sort": "2026-06-26T19:00:00-07:00"}, {"date": "2026-06-26", "title": "I Drink Your Blood (1971)", "key": "i drink your blood", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0067229/", "times": ["9:15pm"], "starts": ["2026-06-26T21:15:00-07:00"], "sort": "2026-06-26T21:15:00-07:00"}, {"date": "2026-06-26", "title": "Cruising", "key": "cruising", "theater": "Moreland Theater", "home": "https://morelandtheater.com", "url": "https://app.formovietickets.com/?id=moreland&rtn=697452", "poster": "https://app.formovietickets.com/schedules/graphics/714B5EBA851E7AC8CF436BFCCE86502025602A6A165340E8E40F46C917842F82_200_300_85.jpg", "imdb": null, "times": ["10:00pm"], "starts": ["2026-06-26T22:00:00-07:00"], "sort": "2026-06-26T22:00:00-07:00"}, {"date": "2026-06-27", "title": "Wings of Desire (1987)", "key": "wings of desire", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/wings-of-desire-1987", "poster": "https://img.vwassets.com/cinema21.com/vertical_6cfe7a14-ff11-4546-bc4d-8f4652df5772.jpg", "imdb": null, "times": ["11:00am"], "starts": ["2026-06-27T11:00:00-07:00"], "sort": "2026-06-27T11:00:00-07:00"}, {"date": "2026-06-27", "title": "12 Angry Men (1957)", "key": "12 angry men", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/8771DBA1BC60A98FEB0BE74B14C8BA26B6A1B3985BD3E69E232C9EA7CDB5B760_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0050083/", "times": ["1:00pm"], "starts": ["2026-06-27T13:00:00-07:00"], "sort": "2026-06-27T13:00:00-07:00"}, {"date": "2026-06-27", "title": "Days of Heaven", "key": "days of heaven", "theater": "PAM CUT / Whitsell", "home": "https://portlandartmuseum.org", "url": "https://portlandartmuseum.org/event/days-of-heaven/", "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/04/Days-of-Heaven-scaled.jpg", "imdb": null, "times": ["2:00pm"], "starts": ["2026-06-27T14:00:00-07:00"], "sort": "2026-06-27T14:00:00-07:00"}, {"date": "2026-06-27", "title": "Nowhere (1997)", "key": "nowhere", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0119809/", "times": ["4:00pm", "9:45pm"], "starts": ["2026-06-27T16:00:00-07:00", "2026-06-27T21:45:00-07:00"], "sort": "2026-06-27T16:00:00-07:00"}, {"date": "2026-06-27", "title": "Run Lola Run", "key": "run lola run", "theater": "Cinemagic", "home": "https://thecinemagictheater.com", "url": "https://tickets.thecinemagictheater.com/movie/run-lola-run", "poster": "https://indy-systems.imgix.net/rfgxitnvurdddu2sftairiraoikb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["5:00pm"], "starts": ["2026-06-27T17:00:00-07:00"], "sort": "2026-06-27T17:00:00-07:00"}, {"date": "2026-06-27", "title": "I Drink Your Blood (1971)", "key": "i drink your blood", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0067229/", "times": ["7:00pm"], "starts": ["2026-06-27T19:00:00-07:00"], "sort": "2026-06-27T19:00:00-07:00"}, {"date": "2026-06-27", "title": "Black Dynamite", "key": "black dynamite", "theater": "Cinemagic", "home": "https://thecinemagictheater.com", "url": "https://tickets.thecinemagictheater.com/movie/black-dynamite", "poster": "https://indy-systems.imgix.net/a4xfdo0pu8urjy27n63bfyb22nzq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["7:00pm"], "starts": ["2026-06-27T19:00:00-07:00"], "sort": "2026-06-27T19:00:00-07:00"}, {"date": "2026-06-27", "title": "Cult Sensation: But I’m a Cheerleader", "key": "cult sensation but i m a cheerleader", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/cult-sensation-but-im-a-cheerleader/", "poster": "https://cstpdx.com/wp-content/uploads/2026/03/CHEERLEADER-2026-POSTER-WEB.png", "imdb": null, "times": ["7:00pm"], "starts": ["2026-06-27T19:00:00-07:00"], "sort": "2026-06-27T19:00:00-07:00"}, {"date": "2026-06-27", "title": "The Rocky Horror Picture Show with Thom Hilton", "key": "rocky horror picture show with thom hilton", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-thom-hilton-17/", "poster": "https://cstpdx.com/wp-content/uploads/2023/07/rhps-virgins.webp", "imdb": null, "times": ["11:00pm"], "starts": ["2026-06-27T23:00:00-07:00"], "sort": "2026-06-27T23:00:00-07:00"}, {"date": "2026-06-28", "title": "Nowhere (1997)", "key": "nowhere", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0119809/", "times": ["1:00pm"], "starts": ["2026-06-28T13:00:00-07:00"], "sort": "2026-06-28T13:00:00-07:00"}, {"date": "2026-06-28", "title": "Moonlight", "key": "moonlight", "theater": "PAM CUT / Whitsell", "home": "https://portlandartmuseum.org", "url": "https://portlandartmuseum.org/event/moonlight/", "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/04/Moonlight-scaled.jpg", "imdb": null, "times": ["2:00pm"], "starts": ["2026-06-28T14:00:00-07:00"], "sort": "2026-06-28T14:00:00-07:00"}, {"date": "2026-06-28", "title": "I Drink Your Blood (1971)", "key": "i drink your blood", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0067229/", "times": ["4:30pm"], "starts": ["2026-06-28T16:30:00-07:00"], "sort": "2026-06-28T16:30:00-07:00"}, {"date": "2026-06-28", "title": "12 Angry Men (1957)", "key": "12 angry men", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/8771DBA1BC60A98FEB0BE74B14C8BA26B6A1B3985BD3E69E232C9EA7CDB5B760_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0050083/", "times": ["7:00pm"], "starts": ["2026-06-28T19:00:00-07:00"], "sort": "2026-06-28T19:00:00-07:00"}, {"date": "2026-06-28", "title": "Paths of Glory", "key": "paths of glory", "theater": "Cinemagic", "home": "https://thecinemagictheater.com", "url": "https://tickets.thecinemagictheater.com/movie/paths-of-glory", "poster": "https://indy-systems.imgix.net/t2atz68s5607so1ohg03drq0xm12?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["7:00pm"], "starts": ["2026-06-28T19:00:00-07:00"], "sort": "2026-06-28T19:00:00-07:00"}, {"date": "2026-06-28", "title": "Erupcja", "key": "erupcja", "theater": "Tomorrow Theater", "home": "https://tomorrowtheater.org", "url": "https://tomorrowtheater.org/movies/erupcja/", "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/06085428/1OMiyrpkZvu5YmWbPBtwDQHZsu1.jpg", "imdb": "https://www.imdb.com/title/tt33712666/", "times": ["7:00pm"], "starts": ["2026-06-28T19:00:00-07:00"], "sort": "2026-06-28T19:00:00-07:00"}, {"date": "2026-06-29", "title": "The Great Muppet Caper", "key": "great muppet caper", "theater": "Moreland Theater", "home": "https://morelandtheater.com", "url": "https://app.formovietickets.com/?id=moreland&rtn=697452", "poster": "https://app.formovietickets.com/schedules/graphics/05F66B1E625EE9BC7E6B40F107B079EFC3563E3F1E1B2B2017189A4073011028_200_300_85.jpg", "imdb": null, "times": ["11:00am"], "starts": ["2026-06-29T11:00:00-07:00"], "sort": "2026-06-29T11:00:00-07:00"}, {"date": "2026-06-29", "title": "I Drink Your Blood (1971)", "key": "i drink your blood", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0067229/", "times": ["1:00pm"], "starts": ["2026-06-29T13:00:00-07:00"], "sort": "2026-06-29T13:00:00-07:00"}, {"date": "2026-06-29", "title": "Nowhere (1997)", "key": "nowhere", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0119809/", "times": ["4:30pm"], "starts": ["2026-06-29T16:30:00-07:00"], "sort": "2026-06-29T16:30:00-07:00"}, {"date": "2026-06-29", "title": "12 Angry Men (1957)", "key": "12 angry men", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/8771DBA1BC60A98FEB0BE74B14C8BA26B6A1B3985BD3E69E232C9EA7CDB5B760_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0050083/", "times": ["7:00pm"], "starts": ["2026-06-29T19:00:00-07:00"], "sort": "2026-06-29T19:00:00-07:00"}, {"date": "2026-06-30", "title": "12 Angry Men (1957)", "key": "12 angry men", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/8771DBA1BC60A98FEB0BE74B14C8BA26B6A1B3985BD3E69E232C9EA7CDB5B760_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0050083/", "times": ["1:00pm"], "starts": ["2026-06-30T13:00:00-07:00"], "sort": "2026-06-30T13:00:00-07:00"}, {"date": "2026-06-30", "title": "I Drink Your Blood (1971)", "key": "i drink your blood", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0067229/", "times": ["4:30pm"], "starts": ["2026-06-30T16:30:00-07:00"], "sort": "2026-06-30T16:30:00-07:00"}, {"date": "2026-06-30", "title": "Paths of Glory", "key": "paths of glory", "theater": "Cinemagic", "home": "https://thecinemagictheater.com", "url": "https://tickets.thecinemagictheater.com/movie/paths-of-glory", "poster": "https://indy-systems.imgix.net/t2atz68s5607so1ohg03drq0xm12?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["5:00pm"], "starts": ["2026-06-30T17:00:00-07:00"], "sort": "2026-06-30T17:00:00-07:00"}, {"date": "2026-06-30", "title": "Nowhere (1997)", "key": "nowhere", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0119809/", "times": ["7:00pm"], "starts": ["2026-06-30T19:00:00-07:00"], "sort": "2026-06-30T19:00:00-07:00"}, {"date": "2026-06-30", "title": "Happy Together", "key": "happy together", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/happy-together-2/", "poster": "https://cstpdx.com/wp-content/uploads/2026/03/happytogether.jpg", "imdb": null, "times": ["7:00pm"], "starts": ["2026-06-30T19:00:00-07:00"], "sort": "2026-06-30T19:00:00-07:00"}, {"date": "2026-07-01", "title": "The Great Muppet Caper", "key": "great muppet caper", "theater": "Moreland Theater", "home": "https://morelandtheater.com", "url": "https://app.formovietickets.com/?id=moreland&rtn=697452", "poster": "https://app.formovietickets.com/schedules/graphics/05F66B1E625EE9BC7E6B40F107B079EFC3563E3F1E1B2B2017189A4073011028_200_300_85.jpg", "imdb": null, "times": ["11:00am"], "starts": ["2026-07-01T11:00:00-07:00"], "sort": "2026-07-01T11:00:00-07:00"}, {"date": "2026-07-01", "title": "Nowhere (1997)", "key": "nowhere", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0119809/", "times": ["1:00pm"], "starts": ["2026-07-01T13:00:00-07:00"], "sort": "2026-07-01T13:00:00-07:00"}, {"date": "2026-07-01", "title": "12 Angry Men (1957)", "key": "12 angry men", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/8771DBA1BC60A98FEB0BE74B14C8BA26B6A1B3985BD3E69E232C9EA7CDB5B760_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0050083/", "times": ["4:30pm"], "starts": ["2026-07-01T16:30:00-07:00"], "sort": "2026-07-01T16:30:00-07:00"}, {"date": "2026-07-01", "title": "Run Lola Run", "key": "run lola run", "theater": "Cinemagic", "home": "https://thecinemagictheater.com", "url": "https://tickets.thecinemagictheater.com/movie/run-lola-run", "poster": "https://indy-systems.imgix.net/rfgxitnvurdddu2sftairiraoikb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["5:00pm"], "starts": ["2026-07-01T17:00:00-07:00"], "sort": "2026-07-01T17:00:00-07:00"}, {"date": "2026-07-01", "title": "I Drink Your Blood (1971)", "key": "i drink your blood", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0067229/", "times": ["7:00pm"], "starts": ["2026-07-01T19:00:00-07:00"], "sort": "2026-07-01T19:00:00-07:00"}, {"date": "2026-07-01", "title": "Paths of Glory", "key": "paths of glory", "theater": "Cinemagic", "home": "https://thecinemagictheater.com", "url": "https://tickets.thecinemagictheater.com/movie/paths-of-glory", "poster": "https://indy-systems.imgix.net/t2atz68s5607so1ohg03drq0xm12?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-01T19:00:00-07:00"], "sort": "2026-07-01T19:00:00-07:00"}, {"date": "2026-07-01", "title": "Black Dynamite", "key": "black dynamite", "theater": "Cinemagic", "home": "https://thecinemagictheater.com", "url": "https://tickets.thecinemagictheater.com/movie/black-dynamite", "poster": "https://indy-systems.imgix.net/a4xfdo0pu8urjy27n63bfyb22nzq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["9:00pm"], "starts": ["2026-07-01T21:00:00-07:00"], "sort": "2026-07-01T21:00:00-07:00"}, {"date": "2026-07-02", "title": "12 Angry Men (1957)", "key": "12 angry men", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/8771DBA1BC60A98FEB0BE74B14C8BA26B6A1B3985BD3E69E232C9EA7CDB5B760_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0050083/", "times": ["1:00pm", "7:00pm"], "starts": ["2026-07-02T13:00:00-07:00", "2026-07-02T19:00:00-07:00"], "sort": "2026-07-02T13:00:00-07:00"}, {"date": "2026-07-02", "title": "Nowhere (1997)", "key": "nowhere", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0119809/", "times": ["4:00pm"], "starts": ["2026-07-02T16:00:00-07:00"], "sort": "2026-07-02T16:00:00-07:00"}, {"date": "2026-07-02", "title": "Black Dynamite", "key": "black dynamite", "theater": "Cinemagic", "home": "https://thecinemagictheater.com", "url": "https://tickets.thecinemagictheater.com/movie/black-dynamite", "poster": "https://indy-systems.imgix.net/a4xfdo0pu8urjy27n63bfyb22nzq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["5:00pm"], "starts": ["2026-07-02T17:00:00-07:00"], "sort": "2026-07-02T17:00:00-07:00"}, {"date": "2026-07-02", "title": "Run Lola Run", "key": "run lola run", "theater": "Cinemagic", "home": "https://thecinemagictheater.com", "url": "https://tickets.thecinemagictheater.com/movie/run-lola-run", "poster": "https://indy-systems.imgix.net/rfgxitnvurdddu2sftairiraoikb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-02T19:00:00-07:00"], "sort": "2026-07-02T19:00:00-07:00"}, {"date": "2026-07-02", "title": "Repo Man", "key": "repo man", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/repo-man-2/", "poster": "https://cstpdx.com/wp-content/uploads/2024/05/repo-man.jpeg", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-02T19:00:00-07:00"], "sort": "2026-07-02T19:00:00-07:00"}, {"date": "2026-07-02", "title": "South Park: Bigger, Longer & Uncut", "key": "south park bigger longer uncut", "theater": "Cinemagic", "home": "https://thecinemagictheater.com", "url": "https://tickets.thecinemagictheater.com/movie/south-park-bigger-longer-uncut", "poster": "https://indy-systems.imgix.net/kjxj5cr1i3nk0z8y0o9wt51u6jhf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["9:00pm"], "starts": ["2026-07-02T21:00:00-07:00"], "sort": "2026-07-02T21:00:00-07:00"}, {"date": "2026-07-02", "title": "I Drink Your Blood (1971)", "key": "i drink your blood", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0067229/", "times": ["9:15pm"], "starts": ["2026-07-02T21:15:00-07:00"], "sort": "2026-07-02T21:15:00-07:00"}, {"date": "2026-07-03", "title": "Blow Out (1981)", "key": "blow out", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/E0E40D7293C7F614FB44622971DE8DDDCBA71062B9C2EEF8815A9784E6BB4CA6_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0082085/", "times": ["1:00pm"], "starts": ["2026-07-03T13:00:00-07:00"], "sort": "2026-07-03T13:00:00-07:00"}, {"date": "2026-07-03", "title": "Unforgiven (1992)", "key": "unforgiven", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/ACEFBAF8D7E49A6C3D89C455D3F4CCA72B188237D68C1017B3D60614E1C9BFED_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0105695/", "times": ["4:00pm", "9:45pm"], "starts": ["2026-07-03T16:00:00-07:00", "2026-07-03T21:45:00-07:00"], "sort": "2026-07-03T16:00:00-07:00"}, {"date": "2026-07-03", "title": "Rose of Nevada", "key": "rose of nevada", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/rose-of-nevada", "poster": "https://img.vwassets.com/cinema21.com/vertical_62804aa8-84ed-4aff-9d66-ffc46dfa7702.jpg", "imdb": null, "times": ["4:00pm", "6:45pm", "9:30pm"], "starts": ["2026-07-03T16:00:00-07:00", "2026-07-03T18:45:00-07:00", "2026-07-03T21:30:00-07:00"], "sort": "2026-07-03T16:00:00-07:00"}, {"date": "2026-07-03", "title": "An Evening with Alex Cox: Dead Souls & Walker", "key": "evening with alex cox dead souls walker", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/an-evening-with-alex-cox-dead-souls-walker/", "poster": "https://cstpdx.com/wp-content/uploads/2026/04/dead-souls.jpg", "imdb": null, "times": ["6:00pm"], "starts": ["2026-07-03T18:00:00-07:00"], "sort": "2026-07-03T18:00:00-07:00"}, {"date": "2026-07-03", "title": "Godzilla vs. Hedorah", "key": "godzilla vs hedorah", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0067148/", "times": ["7:00pm"], "starts": ["2026-07-03T19:00:00-07:00"], "sort": "2026-07-03T19:00:00-07:00"}, {"date": "2026-07-03", "title": "Live Wire", "key": "live wire", "theater": "Cinemagic", "home": "https://thecinemagictheater.com", "url": "https://tickets.thecinemagictheater.com/movie/live-wire", "poster": "https://indy-systems.imgix.net/y8v6aoi2k0vjqdx6t9h97wz4s3ws?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["10:00pm"], "starts": ["2026-07-03T22:00:00-07:00"], "sort": "2026-07-03T22:00:00-07:00"}, {"date": "2026-07-04", "title": "Nightmare Alley (1947)", "key": "nightmare alley", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/nightmare-alley-1947", "poster": "https://img.vwassets.com/cinema21.com/vertical_c0fecde7-5489-4eca-a8d4-13d0011bc802.jpg", "imdb": null, "times": ["11:00am"], "starts": ["2026-07-04T11:00:00-07:00"], "sort": "2026-07-04T11:00:00-07:00"}, {"date": "2026-07-04", "title": "Godzilla vs. Hedorah", "key": "godzilla vs hedorah", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0067148/", "times": ["1:00pm"], "starts": ["2026-07-04T13:00:00-07:00"], "sort": "2026-07-04T13:00:00-07:00"}, {"date": "2026-07-04", "title": "Rose of Nevada", "key": "rose of nevada", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/rose-of-nevada", "poster": "https://img.vwassets.com/cinema21.com/vertical_62804aa8-84ed-4aff-9d66-ffc46dfa7702.jpg", "imdb": null, "times": ["1:15pm", "4:00pm", "6:45pm", "9:30pm"], "starts": ["2026-07-04T13:15:00-07:00", "2026-07-04T16:00:00-07:00", "2026-07-04T18:45:00-07:00", "2026-07-04T21:30:00-07:00"], "sort": "2026-07-04T13:15:00-07:00"}, {"date": "2026-07-04", "title": "Blow Out (1981)", "key": "blow out", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/E0E40D7293C7F614FB44622971DE8DDDCBA71062B9C2EEF8815A9784E6BB4CA6_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0082085/", "times": ["4:00pm", "9:45pm"], "starts": ["2026-07-04T16:00:00-07:00", "2026-07-04T21:45:00-07:00"], "sort": "2026-07-04T16:00:00-07:00"}, {"date": "2026-07-04", "title": "Unforgiven (1992)", "key": "unforgiven", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/ACEFBAF8D7E49A6C3D89C455D3F4CCA72B188237D68C1017B3D60614E1C9BFED_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0105695/", "times": ["7:00pm"], "starts": ["2026-07-04T19:00:00-07:00"], "sort": "2026-07-04T19:00:00-07:00"}, {"date": "2026-07-04", "title": "The Rocky Horror Picture Show with the Clinton Street Cabaret", "key": "rocky horror picture show with the clinton street cabaret", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-the-clinton-street-cabaret-92/", "poster": "https://cstpdx.com/wp-content/uploads/2022/05/rockyhorror.jpeg", "imdb": null, "times": ["10:30pm"], "starts": ["2026-07-04T22:30:00-07:00"], "sort": "2026-07-04T22:30:00-07:00"}, {"date": "2026-07-05", "title": "Unforgiven (1992)", "key": "unforgiven", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/ACEFBAF8D7E49A6C3D89C455D3F4CCA72B188237D68C1017B3D60614E1C9BFED_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0105695/", "times": ["1:00pm"], "starts": ["2026-07-05T13:00:00-07:00"], "sort": "2026-07-05T13:00:00-07:00"}, {"date": "2026-07-05", "title": "Rose of Nevada", "key": "rose of nevada", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/rose-of-nevada", "poster": "https://img.vwassets.com/cinema21.com/vertical_62804aa8-84ed-4aff-9d66-ffc46dfa7702.jpg", "imdb": null, "times": ["1:15pm", "4:00pm", "6:45pm"], "starts": ["2026-07-05T13:15:00-07:00", "2026-07-05T16:00:00-07:00", "2026-07-05T18:45:00-07:00"], "sort": "2026-07-05T13:15:00-07:00"}, {"date": "2026-07-05", "title": "Twin Peaks Season 2: Episodes 6, 7, 8, 9, 10", "key": "twin peaks season 2 episodes 6 7 8 9 10", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/twin-peaks-season-2-episodes-6-7-8-9-10/", "poster": "https://cstpdx.com/wp-content/uploads/2026/06/twin-peaks-james-poster.png", "imdb": null, "times": ["2:00pm"], "starts": ["2026-07-05T14:00:00-07:00"], "sort": "2026-07-05T14:00:00-07:00"}, {"date": "2026-07-05", "title": "A Bigger Splash", "key": "bigger splash", "theater": "PAM CUT / Whitsell", "home": "https://portlandartmuseum.org", "url": "https://portlandartmuseum.org/event/a-bigger-splash/", "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/04/A-Bigger-Splash-2015-scaled.jpg", "imdb": null, "times": ["2:00pm"], "starts": ["2026-07-05T14:00:00-07:00"], "sort": "2026-07-05T14:00:00-07:00"}, {"date": "2026-07-05", "title": "Raiders of the Lost Ark", "key": "raiders of the lost ark", "theater": "Tomorrow Theater", "home": "https://tomorrowtheater.org", "url": "https://tomorrowtheater.org/movies/raiders-of-the-lost-ark/", "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/06160426/ceG9VzoRAVGwivFU403Wc3AHRys-scaled.jpg", "imdb": "https://www.imdb.com/title/tt0082971/", "times": ["4:00pm"], "starts": ["2026-07-05T16:00:00-07:00"], "sort": "2026-07-05T16:00:00-07:00"}, {"date": "2026-07-05", "title": "Godzilla vs. Hedorah", "key": "godzilla vs hedorah", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0067148/", "times": ["4:30pm", "9:45pm"], "starts": ["2026-07-05T16:30:00-07:00", "2026-07-05T21:45:00-07:00"], "sort": "2026-07-05T16:30:00-07:00"}, {"date": "2026-07-05", "title": "Blow Out (1981)", "key": "blow out", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/E0E40D7293C7F614FB44622971DE8DDDCBA71062B9C2EEF8815A9784E6BB4CA6_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0082085/", "times": ["7:00pm"], "starts": ["2026-07-05T19:00:00-07:00"], "sort": "2026-07-05T19:00:00-07:00"}, {"date": "2026-07-06", "title": "Iron Giant", "key": "iron giant", "theater": "Moreland Theater", "home": "https://morelandtheater.com", "url": "https://app.formovietickets.com/?id=moreland&rtn=697452", "poster": "https://app.formovietickets.com/schedules/graphics/5E6B1C3924CE973CAD2FA09AF260237C4B7845F1059B65F25525FC8C2FE9A700_200_300_85.jpg", "imdb": null, "times": ["11:00am"], "starts": ["2026-07-06T11:00:00-07:00"], "sort": "2026-07-06T11:00:00-07:00"}, {"date": "2026-07-06", "title": "Blow Out (1981)", "key": "blow out", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/E0E40D7293C7F614FB44622971DE8DDDCBA71062B9C2EEF8815A9784E6BB4CA6_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0082085/", "times": ["1:00pm"], "starts": ["2026-07-06T13:00:00-07:00"], "sort": "2026-07-06T13:00:00-07:00"}, {"date": "2026-07-06", "title": "Rose of Nevada", "key": "rose of nevada", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/rose-of-nevada", "poster": "https://img.vwassets.com/cinema21.com/vertical_62804aa8-84ed-4aff-9d66-ffc46dfa7702.jpg", "imdb": null, "times": ["4:00pm", "6:45pm"], "starts": ["2026-07-06T16:00:00-07:00", "2026-07-06T18:45:00-07:00"], "sort": "2026-07-06T16:00:00-07:00"}, {"date": "2026-07-06", "title": "Unforgiven (1992)", "key": "unforgiven", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/ACEFBAF8D7E49A6C3D89C455D3F4CCA72B188237D68C1017B3D60614E1C9BFED_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0105695/", "times": ["4:30pm"], "starts": ["2026-07-06T16:30:00-07:00"], "sort": "2026-07-06T16:30:00-07:00"}, {"date": "2026-07-06", "title": "Godzilla vs. Hedorah", "key": "godzilla vs hedorah", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0067148/", "times": ["7:30pm"], "starts": ["2026-07-06T19:30:00-07:00"], "sort": "2026-07-06T19:30:00-07:00"}, {"date": "2026-07-07", "title": "Godzilla vs. Hedorah", "key": "godzilla vs hedorah", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0067148/", "times": ["1:00pm"], "starts": ["2026-07-07T13:00:00-07:00"], "sort": "2026-07-07T13:00:00-07:00"}, {"date": "2026-07-07", "title": "Rose of Nevada", "key": "rose of nevada", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/rose-of-nevada", "poster": "https://img.vwassets.com/cinema21.com/vertical_62804aa8-84ed-4aff-9d66-ffc46dfa7702.jpg", "imdb": null, "times": ["4:00pm", "6:45pm"], "starts": ["2026-07-07T16:00:00-07:00", "2026-07-07T18:45:00-07:00"], "sort": "2026-07-07T16:00:00-07:00"}, {"date": "2026-07-07", "title": "Blow Out (1981)", "key": "blow out", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/E0E40D7293C7F614FB44622971DE8DDDCBA71062B9C2EEF8815A9784E6BB4CA6_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0082085/", "times": ["4:30pm"], "starts": ["2026-07-07T16:30:00-07:00"], "sort": "2026-07-07T16:30:00-07:00"}, {"date": "2026-07-07", "title": "Unforgiven (1992)", "key": "unforgiven", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/ACEFBAF8D7E49A6C3D89C455D3F4CCA72B188237D68C1017B3D60614E1C9BFED_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0105695/", "times": ["7:30pm"], "starts": ["2026-07-07T19:30:00-07:00"], "sort": "2026-07-07T19:30:00-07:00"}, {"date": "2026-07-08", "title": "Iron Giant", "key": "iron giant", "theater": "Moreland Theater", "home": "https://morelandtheater.com", "url": "https://app.formovietickets.com/?id=moreland&rtn=697452", "poster": "https://app.formovietickets.com/schedules/graphics/5E6B1C3924CE973CAD2FA09AF260237C4B7845F1059B65F25525FC8C2FE9A700_200_300_85.jpg", "imdb": null, "times": ["11:00am"], "starts": ["2026-07-08T11:00:00-07:00"], "sort": "2026-07-08T11:00:00-07:00"}, {"date": "2026-07-08", "title": "Blow Out (1981)", "key": "blow out", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/E0E40D7293C7F614FB44622971DE8DDDCBA71062B9C2EEF8815A9784E6BB4CA6_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0082085/", "times": ["1:00pm"], "starts": ["2026-07-08T13:00:00-07:00"], "sort": "2026-07-08T13:00:00-07:00"}, {"date": "2026-07-08", "title": "Rose of Nevada", "key": "rose of nevada", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/rose-of-nevada", "poster": "https://img.vwassets.com/cinema21.com/vertical_62804aa8-84ed-4aff-9d66-ffc46dfa7702.jpg", "imdb": null, "times": ["4:00pm", "6:45pm"], "starts": ["2026-07-08T16:00:00-07:00", "2026-07-08T18:45:00-07:00"], "sort": "2026-07-08T16:00:00-07:00"}, {"date": "2026-07-08", "title": "Unforgiven (1992)", "key": "unforgiven", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/ACEFBAF8D7E49A6C3D89C455D3F4CCA72B188237D68C1017B3D60614E1C9BFED_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0105695/", "times": ["4:30pm"], "starts": ["2026-07-08T16:30:00-07:00"], "sort": "2026-07-08T16:30:00-07:00"}, {"date": "2026-07-08", "title": "Godzilla vs. Hedorah", "key": "godzilla vs hedorah", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0067148/", "times": ["7:30pm"], "starts": ["2026-07-08T19:30:00-07:00"], "sort": "2026-07-08T19:30:00-07:00"}, {"date": "2026-07-09", "title": "Creating Culture and Investment in Portland through Art & Sports", "key": "creating culture and investment in portland through art sports", "theater": "PAM CUT / Whitsell", "home": "https://portlandartmuseum.org", "url": "https://portlandartmuseum.org/event/creating-culture-and-investment-in-portland-through-art-sports/", "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/06/PAW_1920x1080px2.jpg", "imdb": null, "times": ["11:00am"], "starts": ["2026-07-09T11:00:00-07:00"], "sort": "2026-07-09T11:00:00-07:00"}, {"date": "2026-07-09", "title": "Unforgiven (1992)", "key": "unforgiven", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/ACEFBAF8D7E49A6C3D89C455D3F4CCA72B188237D68C1017B3D60614E1C9BFED_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0105695/", "times": ["1:00pm"], "starts": ["2026-07-09T13:00:00-07:00"], "sort": "2026-07-09T13:00:00-07:00"}, {"date": "2026-07-09", "title": "Collecting the Game", "key": "collecting the game", "theater": "PAM CUT / Whitsell", "home": "https://portlandartmuseum.org", "url": "https://portlandartmuseum.org/event/collecting-the-game/", "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/06/PAW_1920x1080px2.jpg", "imdb": null, "times": ["2:30pm"], "starts": ["2026-07-09T14:30:00-07:00"], "sort": "2026-07-09T14:30:00-07:00"}, {"date": "2026-07-09", "title": "Godzilla vs. Hedorah", "key": "godzilla vs hedorah", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0067148/", "times": ["4:00pm", "9:30pm"], "starts": ["2026-07-09T16:00:00-07:00", "2026-07-09T21:30:00-07:00"], "sort": "2026-07-09T16:00:00-07:00"}, {"date": "2026-07-09", "title": "Rose of Nevada", "key": "rose of nevada", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/rose-of-nevada", "poster": "https://img.vwassets.com/cinema21.com/vertical_62804aa8-84ed-4aff-9d66-ffc46dfa7702.jpg", "imdb": null, "times": ["4:00pm"], "starts": ["2026-07-09T16:00:00-07:00"], "sort": "2026-07-09T16:00:00-07:00"}, {"date": "2026-07-09", "title": "Blow Out (1981)", "key": "blow out", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/E0E40D7293C7F614FB44622971DE8DDDCBA71062B9C2EEF8815A9784E6BB4CA6_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0082085/", "times": ["7:00pm"], "starts": ["2026-07-09T19:00:00-07:00"], "sort": "2026-07-09T19:00:00-07:00"}, {"date": "2026-07-09", "title": "Solaris (1972)", "key": "solaris", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/solaris-1972-2/", "poster": "https://cstpdx.com/wp-content/uploads/2023/06/Solaris-Poster-good-scaled.jpg", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-09T19:00:00-07:00"], "sort": "2026-07-09T19:00:00-07:00"}, {"date": "2026-07-09", "title": "Go Fish x Lesbian Cinema Club", "key": "go fish x lesbian cinema club", "theater": "Tomorrow Theater", "home": "https://tomorrowtheater.org", "url": "https://tomorrowtheater.org/movies/go-fish-x-lesbian-cinema-club/", "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/19111706/4hczdEX2RmQTOmiIKygoOYCy0bI.jpg", "imdb": "https://www.imdb.com/title/tt0109913/", "times": ["7:00pm"], "starts": ["2026-07-09T19:00:00-07:00"], "sort": "2026-07-09T19:00:00-07:00"}, {"date": "2026-07-10", "title": "For a Few Dollars More (1965)", "key": "for a few dollars more", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0059578/", "times": ["1:00pm"], "starts": ["2026-07-10T13:00:00-07:00"], "sort": "2026-07-10T13:00:00-07:00"}, {"date": "2026-07-10", "title": "Hour of the Wolf", "key": "hour of the wolf", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0063759/", "times": ["4:00pm", "9:45pm"], "starts": ["2026-07-10T16:00:00-07:00", "2026-07-10T21:45:00-07:00"], "sort": "2026-07-10T16:00:00-07:00"}, {"date": "2026-07-10", "title": "A Knight's Tale (2001)", "key": "knight s tale", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0183790/", "times": ["7:00pm"], "starts": ["2026-07-10T19:00:00-07:00"], "sort": "2026-07-10T19:00:00-07:00"}, {"date": "2026-07-10", "title": "Barbarella", "key": "barbarella", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/barbarella/", "poster": "https://cstpdx.com/wp-content/uploads/2026/05/barbarella.jpg", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-10T19:00:00-07:00"], "sort": "2026-07-10T19:00:00-07:00"}, {"date": "2026-07-11", "title": "Body and Soul (1947)", "key": "body and soul", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/body-and-soul-1947", "poster": "https://img.vwassets.com/cinema21.com/vertical_372e746e-cd9a-4017-9f2c-3e87eb8c4cf3.jpg", "imdb": null, "times": ["11:00am"], "starts": ["2026-07-11T11:00:00-07:00"], "sort": "2026-07-11T11:00:00-07:00"}, {"date": "2026-07-11", "title": "Ny Dog Film Festival 2026", "key": "ny dog film festival 2026", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/ny-dog-film-festival-2026", "poster": "https://img.vwassets.com/cinema21.com/vertical_a6dda441-3911-4558-9e5d-822d225727fe.jpg", "imdb": null, "times": ["12:00pm"], "starts": ["2026-07-11T12:00:00-07:00"], "sort": "2026-07-11T12:00:00-07:00"}, {"date": "2026-07-11", "title": "Hour of the Wolf", "key": "hour of the wolf", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0063759/", "times": ["1:00pm"], "starts": ["2026-07-11T13:00:00-07:00"], "sort": "2026-07-11T13:00:00-07:00"}, {"date": "2026-07-11", "title": "Dog Day Afternoon", "key": "dog day afternoon", "theater": "PAM CUT / Whitsell", "home": "https://portlandartmuseum.org", "url": "https://portlandartmuseum.org/event/dog-day-afternoon/", "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/04/Dog-Day-Afternoon-scaled.jpg", "imdb": null, "times": ["2:00pm"], "starts": ["2026-07-11T14:00:00-07:00"], "sort": "2026-07-11T14:00:00-07:00"}, {"date": "2026-07-11", "title": "A Knight's Tale (2001)", "key": "knight s tale", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0183790/", "times": ["4:00pm", "9:45pm"], "starts": ["2026-07-11T16:00:00-07:00", "2026-07-11T21:45:00-07:00"], "sort": "2026-07-11T16:00:00-07:00"}, {"date": "2026-07-11", "title": "For a Few Dollars More (1965)", "key": "for a few dollars more", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0059578/", "times": ["7:00pm"], "starts": ["2026-07-11T19:00:00-07:00"], "sort": "2026-07-11T19:00:00-07:00"}, {"date": "2026-07-11", "title": "40 Years of Fuckin’ Up", "key": "40 years of fuckin up", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/40-years-of-fuckin-up-3/", "poster": "https://cstpdx.com/wp-content/uploads/2026/03/NOFX-40-Years-of-Fuckin-Up-Poster-Web.jpg", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-11T19:00:00-07:00"], "sort": "2026-07-11T19:00:00-07:00"}, {"date": "2026-07-11", "title": "Mary Oliver: Saved by the Beauty of the World x QDoc", "key": "mary oliver saved by the beauty of the world x qdoc", "theater": "Tomorrow Theater", "home": "https://tomorrowtheater.org", "url": "https://tomorrowtheater.org/movies/mary-oliver-saved-by-the-beauty-of-the-world/", "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/17113559/1f64s7LOfFx8r0bYvtGE46GtgRW-scaled.jpg", "imdb": "https://www.imdb.com/title/tt39643966/", "times": ["7:00pm"], "starts": ["2026-07-11T19:00:00-07:00"], "sort": "2026-07-11T19:00:00-07:00"}, {"date": "2026-07-11", "title": "Maddie’s Secret (with John Early Q&A)", "key": "maddie s secret", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/maddies-secret-with-john-early-qa", "poster": "https://img.vwassets.com/cinema21.com/vertical_928fb404-efc9-427a-a542-dea3201a1148.jpg", "imdb": null, "times": ["7:15pm"], "starts": ["2026-07-11T19:15:00-07:00"], "sort": "2026-07-11T19:15:00-07:00"}, {"date": "2026-07-11", "title": "The Rocky Horror Picture Show with Sinophelia", "key": "rocky horror picture show with sinophelia", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-sinophelia-19/", "poster": "https://cstpdx.com/wp-content/uploads/2023/07/rhps-virgins.webp", "imdb": null, "times": ["11:00pm"], "starts": ["2026-07-11T23:00:00-07:00"], "sort": "2026-07-11T23:00:00-07:00"}, {"date": "2026-07-12", "title": "A Knight's Tale (2001)", "key": "knight s tale", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0183790/", "times": ["1:00pm"], "starts": ["2026-07-12T13:00:00-07:00"], "sort": "2026-07-12T13:00:00-07:00"}, {"date": "2026-07-12", "title": "Ny Dog Film Festival 2026", "key": "ny dog film festival 2026", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/ny-dog-film-festival-2026", "poster": "https://img.vwassets.com/cinema21.com/vertical_a6dda441-3911-4558-9e5d-822d225727fe.jpg", "imdb": null, "times": ["1:00pm"], "starts": ["2026-07-12T13:00:00-07:00"], "sort": "2026-07-12T13:00:00-07:00"}, {"date": "2026-07-12", "title": "Maddie’s Secret (with John Early Q&A)", "key": "maddie s secret", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/maddies-secret-with-john-early-qa", "poster": "https://img.vwassets.com/cinema21.com/vertical_928fb404-efc9-427a-a542-dea3201a1148.jpg", "imdb": null, "times": ["1:45pm"], "starts": ["2026-07-12T13:45:00-07:00"], "sort": "2026-07-12T13:45:00-07:00"}, {"date": "2026-07-12", "title": "Ali: Fear Eats the Soul", "key": "ali fear eats the soul", "theater": "PAM CUT / Whitsell", "home": "https://portlandartmuseum.org", "url": "https://portlandartmuseum.org/event/ali-fear-eats-the-soul/", "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/04/Ali-Fear-Eats-the-Soul-scaled.jpg", "imdb": null, "times": ["2:00pm"], "starts": ["2026-07-12T14:00:00-07:00"], "sort": "2026-07-12T14:00:00-07:00"}, {"date": "2026-07-12", "title": "For a Few Dollars More (1965)", "key": "for a few dollars more", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0059578/", "times": ["4:00pm", "9:00pm"], "starts": ["2026-07-12T16:00:00-07:00", "2026-07-12T21:00:00-07:00"], "sort": "2026-07-12T16:00:00-07:00"}, {"date": "2026-07-12", "title": "Hour of the Wolf", "key": "hour of the wolf", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0063759/", "times": ["7:00pm"], "starts": ["2026-07-12T19:00:00-07:00"], "sort": "2026-07-12T19:00:00-07:00"}, {"date": "2026-07-13", "title": "Scooby Doo", "key": "scooby doo", "theater": "Moreland Theater", "home": "https://morelandtheater.com", "url": "https://app.formovietickets.com/?id=moreland&rtn=697452", "poster": "https://app.formovietickets.com/schedules/graphics/2944ADA339A97A5703A2C157A11E389F26C9B998E08FB07F779AB33BD29E2A75_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0267913/", "times": ["11:00am"], "starts": ["2026-07-13T11:00:00-07:00"], "sort": "2026-07-13T11:00:00-07:00"}, {"date": "2026-07-13", "title": "For a Few Dollars More (1965)", "key": "for a few dollars more", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0059578/", "times": ["1:00pm"], "starts": ["2026-07-13T13:00:00-07:00"], "sort": "2026-07-13T13:00:00-07:00"}, {"date": "2026-07-13", "title": "A Knight's Tale (2001)", "key": "knight s tale", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0183790/", "times": ["4:00pm"], "starts": ["2026-07-13T16:00:00-07:00"], "sort": "2026-07-13T16:00:00-07:00"}, {"date": "2026-07-13", "title": "Crossing Delancey (1988)", "key": "crossing delancey", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0094921/", "times": ["7:00pm"], "starts": ["2026-07-13T19:00:00-07:00"], "sort": "2026-07-13T19:00:00-07:00"}, {"date": "2026-07-14", "title": "Hour of the Wolf", "key": "hour of the wolf", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0063759/", "times": ["1:00pm"], "starts": ["2026-07-14T13:00:00-07:00"], "sort": "2026-07-14T13:00:00-07:00"}, {"date": "2026-07-14", "title": "For a Few Dollars More (1965)", "key": "for a few dollars more", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0059578/", "times": ["4:00pm"], "starts": ["2026-07-14T16:00:00-07:00"], "sort": "2026-07-14T16:00:00-07:00"}, {"date": "2026-07-14", "title": "Earth's Greatest Enemy (with Q&A)", "key": "earth s greatest enemy", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/earths-greatest-enemy-with-qa", "poster": "https://img.vwassets.com/cinema21.com/vertical_903b400a-df41-46ed-a551-938fe968b6ca.jpg", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-14T19:00:00-07:00"], "sort": "2026-07-14T19:00:00-07:00"}, {"date": "2026-07-14", "title": "A Knight's Tale (2001)", "key": "knight s tale", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0183790/", "times": ["7:30pm"], "starts": ["2026-07-14T19:30:00-07:00"], "sort": "2026-07-14T19:30:00-07:00"}, {"date": "2026-07-15", "title": "Scooby Doo", "key": "scooby doo", "theater": "Moreland Theater", "home": "https://morelandtheater.com", "url": "https://app.formovietickets.com/?id=moreland&rtn=697452", "poster": "https://app.formovietickets.com/schedules/graphics/2944ADA339A97A5703A2C157A11E389F26C9B998E08FB07F779AB33BD29E2A75_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0267913/", "times": ["11:00am"], "starts": ["2026-07-15T11:00:00-07:00"], "sort": "2026-07-15T11:00:00-07:00"}, {"date": "2026-07-15", "title": "A Knight's Tale (2001)", "key": "knight s tale", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0183790/", "times": ["1:00pm"], "starts": ["2026-07-15T13:00:00-07:00"], "sort": "2026-07-15T13:00:00-07:00"}, {"date": "2026-07-15", "title": "Hour of the Wolf", "key": "hour of the wolf", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0063759/", "times": ["4:00pm"], "starts": ["2026-07-15T16:00:00-07:00"], "sort": "2026-07-15T16:00:00-07:00"}, {"date": "2026-07-15", "title": "For a Few Dollars More (1965)", "key": "for a few dollars more", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0059578/", "times": ["7:30pm"], "starts": ["2026-07-15T19:30:00-07:00"], "sort": "2026-07-15T19:30:00-07:00"}, {"date": "2026-07-16", "title": "For a Few Dollars More (1965)", "key": "for a few dollars more", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0059578/", "times": ["1:00pm", "9:35pm"], "starts": ["2026-07-16T13:00:00-07:00", "2026-07-16T21:35:00-07:00"], "sort": "2026-07-16T13:00:00-07:00"}, {"date": "2026-07-16", "title": "A Knight's Tale (2001)", "key": "knight s tale", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0183790/", "times": ["4:00pm"], "starts": ["2026-07-16T16:00:00-07:00"], "sort": "2026-07-16T16:00:00-07:00"}, {"date": "2026-07-16", "title": "Hour of the Wolf", "key": "hour of the wolf", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0063759/", "times": ["7:00pm"], "starts": ["2026-07-16T19:00:00-07:00"], "sort": "2026-07-16T19:00:00-07:00"}, {"date": "2026-07-16", "title": "My 20th Century", "key": "my 20th century", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/my-20th-century/", "poster": "https://cstpdx.com/wp-content/uploads/2026/04/My-20th-Century.jpeg", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-16T19:00:00-07:00"], "sort": "2026-07-16T19:00:00-07:00"}, {"date": "2026-07-16", "title": "Romería", "key": "romería", "theater": "Living Room Theaters", "home": "https://pdx.livingroomtheaters.com", "url": "https://pdx.livingroomtheaters.com/movie/romera", "poster": "https://indy-systems.imgix.net/fzdieyj9addnl612x17ujfx22zye?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["7:15pm"], "starts": ["2026-07-16T19:15:00-07:00"], "sort": "2026-07-16T19:15:00-07:00"}, {"date": "2026-07-17", "title": "Indiana Jones and the Last Crusade (1989)", "key": "indiana jones and the last crusade", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0097576/", "times": ["1:00pm", "7:00pm"], "starts": ["2026-07-17T13:00:00-07:00", "2026-07-17T19:00:00-07:00"], "sort": "2026-07-17T13:00:00-07:00"}, {"date": "2026-07-17", "title": "El Mariachi (1992)", "key": "el mariachi", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0104815/", "times": ["4:00pm"], "starts": ["2026-07-17T16:00:00-07:00"], "sort": "2026-07-17T16:00:00-07:00"}, {"date": "2026-07-17", "title": "Donnie Darko", "key": "donnie darko", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/donnie-darko-3/", "poster": "https://cstpdx.com/wp-content/uploads/2026/04/donniedarko_poster.jpg", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-17T19:00:00-07:00"], "sort": "2026-07-17T19:00:00-07:00"}, {"date": "2026-07-17", "title": "Amores Perros", "key": "amores perros", "theater": "Tomorrow Theater", "home": "https://tomorrowtheater.org", "url": "https://tomorrowtheater.org/movies/amores-perros/", "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/28103818/Amores-Perros_EN-US_OS-Digital_ComingSoon-scaled.jpg", "imdb": "https://www.imdb.com/title/tt0245712/", "times": ["7:00pm"], "starts": ["2026-07-17T19:00:00-07:00"], "sort": "2026-07-17T19:00:00-07:00"}, {"date": "2026-07-17", "title": "Savage Streets (1984)", "key": "savage streets", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0088044/", "times": ["9:45pm"], "starts": ["2026-07-17T21:45:00-07:00"], "sort": "2026-07-17T21:45:00-07:00"}, {"date": "2026-07-18", "title": "Ride The Pink Horse (1947)", "key": "ride the pink horse", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/ride-the-pink-horse-1947", "poster": "https://img.vwassets.com/cinema21.com/vertical_98e2d01e-489e-4495-8d9b-8d97edafe925.jpg", "imdb": null, "times": ["11:00am"], "starts": ["2026-07-18T11:00:00-07:00"], "sort": "2026-07-18T11:00:00-07:00"}, {"date": "2026-07-18", "title": "El Mariachi (1992)", "key": "el mariachi", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0104815/", "times": ["1:00pm", "9:30pm"], "starts": ["2026-07-18T13:00:00-07:00", "2026-07-18T21:30:00-07:00"], "sort": "2026-07-18T13:00:00-07:00"}, {"date": "2026-07-18", "title": "Endless Summer", "key": "endless summer", "theater": "PAM CUT / Whitsell", "home": "https://portlandartmuseum.org", "url": "https://portlandartmuseum.org/event/endless-summer/", "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/04/Endless-Summer-scaled.jpg", "imdb": null, "times": ["2:00pm"], "starts": ["2026-07-18T14:00:00-07:00"], "sort": "2026-07-18T14:00:00-07:00"}, {"date": "2026-07-18", "title": "Indiana Jones and the Last Crusade (1989)", "key": "indiana jones and the last crusade", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0097576/", "times": ["4:00pm"], "starts": ["2026-07-18T16:00:00-07:00"], "sort": "2026-07-18T16:00:00-07:00"}, {"date": "2026-07-18", "title": "Savage Streets (1984)", "key": "savage streets", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0088044/", "times": ["7:00pm"], "starts": ["2026-07-18T19:00:00-07:00"], "sort": "2026-07-18T19:00:00-07:00"}, {"date": "2026-07-18", "title": "Seconds", "key": "seconds", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/seconds/", "poster": "https://cstpdx.com/wp-content/uploads/2026/05/seconds.jpg", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-18T19:00:00-07:00"], "sort": "2026-07-18T19:00:00-07:00"}, {"date": "2026-07-18", "title": "The Rocky Horror Picture Show with the Clinton Street Cabaret", "key": "rocky horror picture show with the clinton street cabaret", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-the-clinton-street-cabaret-93/", "poster": "https://cstpdx.com/wp-content/uploads/2022/05/rockyhorror.jpeg", "imdb": null, "times": ["10:30pm"], "starts": ["2026-07-18T22:30:00-07:00"], "sort": "2026-07-18T22:30:00-07:00"}, {"date": "2026-07-19", "title": "Indiana Jones and the Last Crusade (1989)", "key": "indiana jones and the last crusade", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0097576/", "times": ["1:00pm", "9:00pm"], "starts": ["2026-07-19T13:00:00-07:00", "2026-07-19T21:00:00-07:00"], "sort": "2026-07-19T13:00:00-07:00"}, {"date": "2026-07-19", "title": "Safe", "key": "safe", "theater": "PAM CUT / Whitsell", "home": "https://portlandartmuseum.org", "url": "https://portlandartmuseum.org/event/safe/", "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/04/Safe.jpg", "imdb": null, "times": ["2:00pm"], "starts": ["2026-07-19T14:00:00-07:00"], "sort": "2026-07-19T14:00:00-07:00"}, {"date": "2026-07-19", "title": "The Elements of Mutual Aid", "key": "elements of mutual aid", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/the-elements-of-mutual-aid/", "poster": "https://cstpdx.com/wp-content/uploads/2026/06/CST-Theater-EMA-Poster-.jpg", "imdb": null, "times": ["3:00pm"], "starts": ["2026-07-19T15:00:00-07:00"], "sort": "2026-07-19T15:00:00-07:00"}, {"date": "2026-07-19", "title": "Savage Streets (1984)", "key": "savage streets", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0088044/", "times": ["4:00pm"], "starts": ["2026-07-19T16:00:00-07:00"], "sort": "2026-07-19T16:00:00-07:00"}, {"date": "2026-07-19", "title": "El Mariachi (1992)", "key": "el mariachi", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0104815/", "times": ["7:00pm"], "starts": ["2026-07-19T19:00:00-07:00"], "sort": "2026-07-19T19:00:00-07:00"}, {"date": "2026-07-19", "title": "Vegas in Space", "key": "vegas in space", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/vegas-in-space/", "poster": "https://cstpdx.com/wp-content/uploads/2026/04/vegas.jpg", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-19T19:00:00-07:00"], "sort": "2026-07-19T19:00:00-07:00"}, {"date": "2026-07-20", "title": "Wild Robot", "key": "wild robot", "theater": "Moreland Theater", "home": "https://morelandtheater.com", "url": "https://app.formovietickets.com/?id=moreland&rtn=697452", "poster": "https://app.formovietickets.com/schedules/graphics/76616458022384BBA641C5E6A357443116C01935B6EA8872EA2734917BAF1705_200_300_85.jpg", "imdb": null, "times": ["11:00am"], "starts": ["2026-07-20T11:00:00-07:00"], "sort": "2026-07-20T11:00:00-07:00"}, {"date": "2026-07-20", "title": "El Mariachi (1992)", "key": "el mariachi", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0104815/", "times": ["1:00pm"], "starts": ["2026-07-20T13:00:00-07:00"], "sort": "2026-07-20T13:00:00-07:00"}, {"date": "2026-07-20", "title": "Savage Streets (1984)", "key": "savage streets", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0088044/", "times": ["4:00pm"], "starts": ["2026-07-20T16:00:00-07:00"], "sort": "2026-07-20T16:00:00-07:00"}, {"date": "2026-07-20", "title": "Nathaniel Dorsky’s Hours For Jerome", "key": "nathaniel dorsky s hours for jerome", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/mothlight-nw-presents-nathaniel-dorskys-hours-for-jerome-in-16mm/", "poster": "https://cstpdx.com/wp-content/uploads/2026/06/DorskyJulyIG_FINAL.png", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-20T19:00:00-07:00"], "sort": "2026-07-20T19:00:00-07:00"}, {"date": "2026-07-20", "title": "Indiana Jones and the Last Crusade (1989)", "key": "indiana jones and the last crusade", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0097576/", "times": ["7:30pm"], "starts": ["2026-07-20T19:30:00-07:00"], "sort": "2026-07-20T19:30:00-07:00"}, {"date": "2026-07-21", "title": "Indiana Jones and the Last Crusade (1989)", "key": "indiana jones and the last crusade", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0097576/", "times": ["1:00pm"], "starts": ["2026-07-21T13:00:00-07:00"], "sort": "2026-07-21T13:00:00-07:00"}, {"date": "2026-07-21", "title": "El Mariachi (1992)", "key": "el mariachi", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0104815/", "times": ["4:00pm"], "starts": ["2026-07-21T16:00:00-07:00"], "sort": "2026-07-21T16:00:00-07:00"}, {"date": "2026-07-21", "title": "Redline (2009)", "key": "redline", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/redline-2009/", "poster": "https://cstpdx.com/wp-content/uploads/2026/03/redline-poster.jpg", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-21T19:00:00-07:00"], "sort": "2026-07-21T19:00:00-07:00"}, {"date": "2026-07-21", "title": "Savage Streets (1984)", "key": "savage streets", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0088044/", "times": ["7:30pm"], "starts": ["2026-07-21T19:30:00-07:00"], "sort": "2026-07-21T19:30:00-07:00"}, {"date": "2026-07-22", "title": "Wild Robot", "key": "wild robot", "theater": "Moreland Theater", "home": "https://morelandtheater.com", "url": "https://app.formovietickets.com/?id=moreland&rtn=697452", "poster": "https://app.formovietickets.com/schedules/graphics/76616458022384BBA641C5E6A357443116C01935B6EA8872EA2734917BAF1705_200_300_85.jpg", "imdb": null, "times": ["11:00am"], "starts": ["2026-07-22T11:00:00-07:00"], "sort": "2026-07-22T11:00:00-07:00"}, {"date": "2026-07-22", "title": "Savage Streets (1984)", "key": "savage streets", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0088044/", "times": ["1:00pm"], "starts": ["2026-07-22T13:00:00-07:00"], "sort": "2026-07-22T13:00:00-07:00"}, {"date": "2026-07-22", "title": "El Mariachi (1992)", "key": "el mariachi", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0104815/", "times": ["4:00pm"], "starts": ["2026-07-22T16:00:00-07:00"], "sort": "2026-07-22T16:00:00-07:00"}, {"date": "2026-07-22", "title": "Indiana Jones and the Last Crusade (1989)", "key": "indiana jones and the last crusade", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0097576/", "times": ["7:30pm"], "starts": ["2026-07-22T19:30:00-07:00"], "sort": "2026-07-22T19:30:00-07:00"}, {"date": "2026-07-23", "title": "Indiana Jones and the Last Crusade (1989)", "key": "indiana jones and the last crusade", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0097576/", "times": ["1:00pm"], "starts": ["2026-07-23T13:00:00-07:00"], "sort": "2026-07-23T13:00:00-07:00"}, {"date": "2026-07-23", "title": "Savage Streets (1984)", "key": "savage streets", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0088044/", "times": ["4:00pm", "9:30pm"], "starts": ["2026-07-23T16:00:00-07:00", "2026-07-23T21:30:00-07:00"], "sort": "2026-07-23T16:00:00-07:00"}, {"date": "2026-07-23", "title": "Reel Science: The (M) Factor 2", "key": "reel science the m factor 2", "theater": "OMSI Empirical Theater", "home": "https://omsi.edu", "url": "https://omsi.edu/events/reel-science-the-m-factor-2-before-the-pause-perimenopause/", "poster": "https://omsi.edu/wp-content/uploads/2026/06/M-Factor-2-Title-Art_stacked-blk-on-white.png", "imdb": null, "times": ["6:30pm"], "starts": ["2026-07-23T18:30:00-07:00"], "sort": "2026-07-23T18:30:00-07:00"}, {"date": "2026-07-23", "title": "El Mariachi (1992)", "key": "el mariachi", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0104815/", "times": ["7:00pm"], "starts": ["2026-07-23T19:00:00-07:00"], "sort": "2026-07-23T19:00:00-07:00"}, {"date": "2026-07-23", "title": "The Easy Kind", "key": "easy kind", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/the-easy-kind", "poster": "https://img.vwassets.com/cinema21.com/vertical_acfa04e2-6c12-428d-b9ba-63f35c199916.jpg", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-23T19:00:00-07:00"], "sort": "2026-07-23T19:00:00-07:00"}, {"date": "2026-07-23", "title": "Reading Lolita in Tehran", "key": "reading lolita in tehran", "theater": "Living Room Theaters", "home": "https://pdx.livingroomtheaters.com", "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran", "poster": "https://indy-systems.imgix.net/2e1qw3v4hlyvv75j8ok7dkcxxew7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["7:15pm"], "starts": ["2026-07-23T19:15:00-07:00"], "sort": "2026-07-23T19:15:00-07:00"}, {"date": "2026-07-23", "title": "Her Private Hell", "key": "her private hell", "theater": "Living Room Theaters", "home": "https://pdx.livingroomtheaters.com", "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell", "poster": "https://indy-systems.imgix.net/zbbt14l1om2ypgamuwoimhnhsw1j?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["7:30pm"], "starts": ["2026-07-23T19:30:00-07:00"], "sort": "2026-07-23T19:30:00-07:00"}, {"date": "2026-07-24", "title": "Rio Bravo (1959)", "key": "rio bravo", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/118A43B7ED3AE9ACD951F266B44DEAAD4E8F3973775ECF4BC99C1F8E0B60CF03_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0053221/", "times": ["1:00pm"], "starts": ["2026-07-24T13:00:00-07:00"], "sort": "2026-07-24T13:00:00-07:00"}, {"date": "2026-07-24", "title": "Slc Punk! (1998)", "key": "slc punk", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0133189/", "times": ["4:00pm", "9:45pm"], "starts": ["2026-07-24T16:00:00-07:00", "2026-07-24T21:45:00-07:00"], "sort": "2026-07-24T16:00:00-07:00"}, {"date": "2026-07-24", "title": "Reading Lolita in Tehran", "key": "reading lolita in tehran", "theater": "Living Room Theaters", "home": "https://pdx.livingroomtheaters.com", "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran", "poster": "https://indy-systems.imgix.net/2e1qw3v4hlyvv75j8ok7dkcxxew7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["6:30pm"], "starts": ["2026-07-24T18:30:00-07:00"], "sort": "2026-07-24T18:30:00-07:00"}, {"date": "2026-07-24", "title": "THEY LIVE and THE THING 35mm Double Feature", "key": "they live and the thing 35mm double feature", "theater": "Cinemagic", "home": "https://thecinemagictheater.com", "url": "https://tickets.thecinemagictheater.com/movie/they-live-and-the-thing-35mm-double-feature", "poster": "https://indy-systems.imgix.net/6ml7c3q2vnq8rd9v0u6474bp8ydj?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-24T19:00:00-07:00"], "sort": "2026-07-24T19:00:00-07:00"}, {"date": "2026-07-24", "title": "Back to the Future (1985)", "key": "back to the future", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/678558D95E55E759782092A72CE3987DB8DC62AAB957B386EAF6C9EDCD8B4E72_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0088763/", "times": ["7:15pm"], "starts": ["2026-07-24T19:15:00-07:00"], "sort": "2026-07-24T19:15:00-07:00"}, {"date": "2026-07-24", "title": "Her Private Hell", "key": "her private hell", "theater": "Living Room Theaters", "home": "https://pdx.livingroomtheaters.com", "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell", "poster": "https://indy-systems.imgix.net/zbbt14l1om2ypgamuwoimhnhsw1j?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["7:15pm", "9:40pm"], "starts": ["2026-07-24T19:15:00-07:00", "2026-07-24T21:40:00-07:00"], "sort": "2026-07-24T19:15:00-07:00"}, {"date": "2026-07-24", "title": "UNCAGED: A Nic Cage Drag Show", "key": "uncaged a nic cage drag show", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/uncaged-a-nic-cage-drag-show/", "poster": "https://cstpdx.com/wp-content/uploads/2026/06/uncaged-nic-cage.jpeg", "imdb": null, "times": ["8:00pm"], "starts": ["2026-07-24T20:00:00-07:00"], "sort": "2026-07-24T20:00:00-07:00"}, {"date": "2026-07-24", "title": "Dazed and Confused", "key": "dazed and confused", "theater": "Moreland Theater", "home": "https://morelandtheater.com", "url": "https://app.formovietickets.com/?id=moreland&rtn=697452", "poster": "https://app.formovietickets.com/schedules/graphics/3673F298D2B9E87A926BD32C45B1D5C1E3324D305889C41B0058ABB206B1F9AB_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0106677/", "times": ["10:00pm"], "starts": ["2026-07-24T22:00:00-07:00"], "sort": "2026-07-24T22:00:00-07:00"}, {"date": "2026-07-25", "title": "Out of the Past (1947)", "key": "out of the past", "theater": "Cinema 21", "home": "https://www.cinema21.com", "url": "https://www.cinema21.com/movie/out-of-the-past-1947", "poster": "https://img.vwassets.com/cinema21.com/vertical_10cc84ba-6cd2-4a24-8bf6-69e05fc66bd5.jpg", "imdb": null, "times": ["11:00am"], "starts": ["2026-07-25T11:00:00-07:00"], "sort": "2026-07-25T11:00:00-07:00"}, {"date": "2026-07-25", "title": "Back to the Future (1985)", "key": "back to the future", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/678558D95E55E759782092A72CE3987DB8DC62AAB957B386EAF6C9EDCD8B4E72_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0088763/", "times": ["1:00pm"], "starts": ["2026-07-25T13:00:00-07:00"], "sort": "2026-07-25T13:00:00-07:00"}, {"date": "2026-07-25", "title": "Sexy Beast", "key": "sexy beast", "theater": "PAM CUT / Whitsell", "home": "https://portlandartmuseum.org", "url": "https://portlandartmuseum.org/event/sexy-beast/", "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/04/Sexy-Beast-scaled.jpg", "imdb": null, "times": ["2:00pm"], "starts": ["2026-07-25T14:00:00-07:00"], "sort": "2026-07-25T14:00:00-07:00"}, {"date": "2026-07-25", "title": "Rio Bravo (1959)", "key": "rio bravo", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/118A43B7ED3AE9ACD951F266B44DEAAD4E8F3973775ECF4BC99C1F8E0B60CF03_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0053221/", "times": ["3:30pm"], "starts": ["2026-07-25T15:30:00-07:00"], "sort": "2026-07-25T15:30:00-07:00"}, {"date": "2026-07-25", "title": "Reading Lolita in Tehran", "key": "reading lolita in tehran", "theater": "Living Room Theaters", "home": "https://pdx.livingroomtheaters.com", "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran", "poster": "https://indy-systems.imgix.net/2e1qw3v4hlyvv75j8ok7dkcxxew7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["6:30pm"], "starts": ["2026-07-25T18:30:00-07:00"], "sort": "2026-07-25T18:30:00-07:00"}, {"date": "2026-07-25", "title": "THEY LIVE and THE THING 35mm Double Feature", "key": "they live and the thing 35mm double feature", "theater": "Cinemagic", "home": "https://thecinemagictheater.com", "url": "https://tickets.thecinemagictheater.com/movie/they-live-and-the-thing-35mm-double-feature", "poster": "https://indy-systems.imgix.net/6ml7c3q2vnq8rd9v0u6474bp8ydj?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-25T19:00:00-07:00"], "sort": "2026-07-25T19:00:00-07:00"}, {"date": "2026-07-25", "title": "Dune (1984)", "key": "dune", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/dune-1984/", "poster": "https://cstpdx.com/wp-content/uploads/2026/05/Dune_1984_poster.png", "imdb": null, "times": ["7:00pm"], "starts": ["2026-07-25T19:00:00-07:00"], "sort": "2026-07-25T19:00:00-07:00"}, {"date": "2026-07-25", "title": "Her Private Hell", "key": "her private hell", "theater": "Living Room Theaters", "home": "https://pdx.livingroomtheaters.com", "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell", "poster": "https://indy-systems.imgix.net/zbbt14l1om2ypgamuwoimhnhsw1j?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["7:15pm", "9:40pm"], "starts": ["2026-07-25T19:15:00-07:00", "2026-07-25T21:40:00-07:00"], "sort": "2026-07-25T19:15:00-07:00"}, {"date": "2026-07-25", "title": "Slc Punk! (1998)", "key": "slc punk", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0133189/", "times": ["10:00pm"], "starts": ["2026-07-25T22:00:00-07:00"], "sort": "2026-07-25T22:00:00-07:00"}, {"date": "2026-07-25", "title": "The Rocky Horror Picture Show with Thom Hilton", "key": "rocky horror picture show with thom hilton", "theater": "Clinton Street Theater", "home": "https://cstpdx.com", "url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-thom-hilton-18/", "poster": "https://cstpdx.com/wp-content/uploads/2023/07/rhps-virgins.webp", "imdb": null, "times": ["11:00pm"], "starts": ["2026-07-25T23:00:00-07:00"], "sort": "2026-07-25T23:00:00-07:00"}, {"date": "2026-07-26", "title": "Slc Punk! (1998)", "key": "slc punk", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": null, "imdb": "https://www.imdb.com/title/tt0133189/", "times": ["1:00pm"], "starts": ["2026-07-26T13:00:00-07:00"], "sort": "2026-07-26T13:00:00-07:00"}, {"date": "2026-07-26", "title": "Women on the Verge of a Nervous Breakdown", "key": "women on the verge of a nervous breakdown", "theater": "PAM CUT / Whitsell", "home": "https://portlandartmuseum.org", "url": "https://portlandartmuseum.org/event/women-on-the-verge-of-a-nervous-breakdown/", "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/04/Women-on-the-Verge-of-a-Nervous-Breakdown-scaled.jpg", "imdb": null, "times": ["2:00pm"], "starts": ["2026-07-26T14:00:00-07:00"], "sort": "2026-07-26T14:00:00-07:00"}, {"date": "2026-07-26", "title": "Back to the Future (1985)", "key": "back to the future", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/678558D95E55E759782092A72CE3987DB8DC62AAB957B386EAF6C9EDCD8B4E72_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0088763/", "times": ["4:00pm", "9:45pm"], "starts": ["2026-07-26T16:00:00-07:00", "2026-07-26T21:45:00-07:00"], "sort": "2026-07-26T16:00:00-07:00"}, {"date": "2026-07-26", "title": "Reading Lolita in Tehran", "key": "reading lolita in tehran", "theater": "Living Room Theaters", "home": "https://pdx.livingroomtheaters.com", "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran", "poster": "https://indy-systems.imgix.net/2e1qw3v4hlyvv75j8ok7dkcxxew7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["6:30pm"], "starts": ["2026-07-26T18:30:00-07:00"], "sort": "2026-07-26T18:30:00-07:00"}, {"date": "2026-07-26", "title": "Rio Bravo (1959)", "key": "rio bravo", "theater": "Academy Theater", "home": "https://academytheaterpdx.com", "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660", "poster": "https://app.formovietickets.com/schedules/graphics/118A43B7ED3AE9ACD951F266B44DEAAD4E8F3973775ECF4BC99C1F8E0B60CF03_200_300_85.jpg", "imdb": "https://www.imdb.com/title/tt0053221/", "times": ["6:45pm"], "starts": ["2026-07-26T18:45:00-07:00"], "sort": "2026-07-26T18:45:00-07:00"}, {"date": "2026-07-26", "title": "Her Private Hell", "key": "her private hell", "theater": "Living Room Theaters", "home": "https://pdx.livingroomtheaters.com", "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell", "poster": "https://indy-systems.imgix.net/zbbt14l1om2ypgamuwoimhnhsw1j?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress", "imdb": null, "times": ["7:15pm"], "starts": ["2026-07-26T19:15:00-07:00"], "sort": "2026-07-26T19:15:00-07:00"}];
+  var KEY = "flicks.hidden";
+  var VIEWKEY = "flicks.view";
+  var OFFKEY = "flicks.theaters.off";
+  var DAYKEY = "flicks.days.off";
+  var DATEKEY = "flicks.dates.off";
+  // Weekday chips, Monday-first; values are JS getDay() indices (Sun=0).
+  var DAYS = [[1, "Monday"], [2, "Tuesday"], [3, "Wednesday"], [4, "Thursday"],
+    [5, "Friday"], [6, "Saturday"], [0, "Sunday"]];
+
+  var hidden = loadSet(KEY);
+  var off = loadSet(OFFKEY);       // theaters the viewer has switched off
+  var offDays = loadSet(DAYKEY);   // weekdays the viewer has switched off
+  var offDates = loadSet(DATEKEY); // specific calendar dates switched off
+  var view = localStorage.getItem(VIEWKEY) || "date";
+  var cal = document.getElementById("cal");
+
+  function loadSet(k) {
+    try { return new Set(JSON.parse(localStorage.getItem(k) || "[]")); }
+    catch (e) { return new Set(); }
+  }
+  function save() { localStorage.setItem(KEY, JSON.stringify([...hidden])); }
+  function saveOff() { localStorage.setItem(OFFKEY, JSON.stringify([...off])); }
+  function saveDays() { localStorage.setItem(DAYKEY, JSON.stringify([...offDays])); }
+  function saveDates() { localStorage.setItem(DATEKEY, JSON.stringify([...offDates])); }
+  function weekday(r) { return parseDate(r.date).getDay(); }
+
+  function esc(s) {
+    return (s == null ? "" : String(s)).replace(/[&<>"]/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+    });
+  }
+  function pad(n) { return n < 10 ? "0" + n : "" + n; }
+  function todayStr() {
+    var d = new Date();
+    return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate());
+  }
+  function parseDate(s) { var p = s.split("-"); return new Date(+p[0], +p[1] - 1, +p[2]); }
+  function fmtLong(s) {
+    return parseDate(s).toLocaleDateString(undefined,
+      { weekday: "long", month: "long", day: "numeric" });
+  }
+  function fmtShort(s) {
+    return parseDate(s).toLocaleDateString(undefined,
+      { weekday: "short", month: "short", day: "numeric" });
+  }
+
+  function link(url, text, cls) {
+    if (!url) return '<span class="' + cls + '">' + esc(text) + "</span>";
+    return '<a class="' + cls + '" href="' + esc(url) + '" target="_blank" rel="noopener">'
+      + esc(text) + "</a>";
+  }
+  function poster(r) {
+    if (!r.poster) return '<div class="poster"></div>';
+    var img = '<img class="poster" src="' + esc(r.poster) + '" alt="" loading="lazy">';
+    return r.imdb
+      ? '<a href="' + esc(r.imdb) + '" target="_blank" rel="noopener" title="View on IMDb">'
+        + img + "</a>"
+      : img;
+  }
+  function hideBtn(key) {
+    return '<button class="hide" data-key="' + esc(key)
+      + '" title="Hide this film" aria-label="Hide this film">×</button>';
+  }
+  function times(r) { return '<span class="time">' + esc(r.times.join(", ")) + "</span>"; }
+  function goLink(r) {
+    if (!r.url) return "";
+    return ' <a class="go" href="' + esc(r.url) + '" target="_blank" rel="noopener"'
+      + ' title="Open showtimes / tickets" aria-label="Open showtimes">🔗</a>';
+  }
+
+  // visibleRows: from today onward, not hidden, theater switched on, in the
+  // original chronological order.
+  function visibleRows() {
+    var today = todayStr();
+    return ROWS.filter(function (r) {
+      return r.date >= today && !hidden.has(r.key) && !off.has(r.theater)
+        && !offDays.has(weekday(r)) && !offDates.has(r.date);
+    });
+  }
+
+  function renderDayBand() {
+    document.getElementById("dayband").innerHTML = DAYS.filter(function (d) {
+      return !offDays.has(d[0]);
+    }).map(function (d) {
+      return '<span class="day-chip">' + d[1]
+        + '<button class="hideday" data-day="' + d[0] + '" title="Hide ' + d[1]
+        + 's" aria-label="Hide ' + d[1] + 's">×</button></span>';
+    }).join("");
+  }
+
+  function groups(rows, keyFn) {
+    var order = [], map = {};
+    rows.forEach(function (r) {
+      var k = keyFn(r);
+      if (!(k in map)) { map[k] = []; order.push(k); }
+      map[k].push(r);
+    });
+    return order.map(function (k) { return { key: k, rows: map[k] }; });
+  }
+
+  function section(label, body) {
+    return '<section class="group"><h2>' + label + "</h2>" + body + "</section>";
+  }
+
+  function renderByDate(rows) {
+    return groups(rows, function (r) { return r.date; }).map(function (g) {
+      var body = g.rows.map(function (r) {
+        return '<div class="showing">' + poster(r)
+          + '<div class="meta"><div class="title">' + link(r.url, r.title, "")
+          + '</div><div class="line">' + times(r) + ' &nbsp;·&nbsp; '
+          + '<span class="theater">' + link(r.home, r.theater, "") + "</span></div></div>"
+          + hideBtn(r.key) + "</div>";
+      }).join("");
+      var label = esc(fmtLong(g.key));
+      var head = label + '<button class="hided" data-date="' + g.key
+        + '" title="Hide ' + label + '" aria-label="Hide ' + label + '">×</button>';
+      return section(head, body);
+    }).join("");
+  }
+
+  // Render films as cards: one card per film, each line a "<lead> · times" row.
+  // `lead(row)` supplies the per-line context (date, or theater + date).
+  function filmCards(filmGroups, lead, linkTitle) {
+    return filmGroups.map(function (g) {
+      var first = g.rows[0];
+      var title = linkTitle ? link(first.url, first.title, "") : esc(first.title);
+      var lines = g.rows.map(function (r) {
+        return '<div class="line"><span class="theater">' + lead(r)
+          + "</span> &nbsp;·&nbsp; " + times(r) + goLink(r) + "</div>";
+      }).join("");
+      return '<div class="film">' + poster(first)
+        + '<div class="meta"><div class="title">' + title + "</div>" + lines + "</div>"
+        + hideBtn(first.key) + "</div>";
+    }).join("");
+  }
+
+  function byTitle(filmGroups) {
+    return filmGroups.sort(function (a, b) {
+      return a.rows[0].title.localeCompare(b.rows[0].title);
+    });
+  }
+
+  // Group by theater, then by film within each theater (a film appears once per
+  // theater, listing all its dates there).
+  function renderByTheater(rows) {
+    var ts = groups(rows, function (r) { return r.theater; });
+    ts.sort(function (a, b) { return a.key.localeCompare(b.key); });
+    return ts.map(function (t) {
+      var films = byTitle(groups(t.rows, function (r) { return r.key; }));
+      var body = filmCards(films, function (r) { return esc(fmtShort(r.date)); }, true);
+      var head = link(t.rows[0].home, t.key, "")
+        + '<button class="hidet" data-theater="' + esc(t.key)
+        + '" title="Hide this theater" aria-label="Hide this theater">×</button>';
+      return section(head, body);
+    }).join("");
+  }
+
+  // Group by film across all theaters; each line names the theater and date.
+  function renderByFilm(rows) {
+    var films = byTitle(groups(rows, function (r) { return r.key; }));
+    return filmCards(films, function (r) {
+      return link(r.home, r.theater, "") + " &nbsp;·&nbsp; " + esc(fmtShort(r.date));
+    }, false);
+  }
+
+  // --- Calendar export (.ics), built entirely client-side from the filtered set.
+  // Showtimes are emitted in UTC (the embedded stamps carry the Pacific offset),
+  // so any calendar app places them correctly without a VTIMEZONE block.
+  var EVENT_HOURS = 2;  // we don't have runtimes; a 2h block is a sane default.
+
+  function icsEscape(s) {
+    return String(s == null ? "" : s)
+      .replace(/\\/g, "\\\\").replace(/;/g, "\\;").replace(/,/g, "\\,").replace(/\n/g, "\\n");
+  }
+  function dtUTC(d) {
+    function p(n) { return String(n).padStart(2, "0"); }
+    return d.getUTCFullYear() + p(d.getUTCMonth() + 1) + p(d.getUTCDate()) + "T"
+      + p(d.getUTCHours()) + p(d.getUTCMinutes()) + p(d.getUTCSeconds()) + "Z";
+  }
+  function fold(line) {  // RFC 5545: lines SHOULD wrap at 75 octets
+    var out = [], s = line;
+    while (s.length > 73) { out.push(s.slice(0, 73)); s = " " + s.slice(73); }
+    out.push(s);
+    return out.join("\r\n");
+  }
+  function buildICS(rows) {
+    var stamp = dtUTC(new Date());
+    var L = ["BEGIN:VCALENDAR", "VERSION:2.0",
+      "PRODID:-//flicks//Portland indie cinema//EN", "CALSCALE:GREGORIAN", "METHOD:PUBLISH"];
+    rows.forEach(function (r) {
+      r.starts.forEach(function (iso) {
+        var start = new Date(iso), end = new Date(start.getTime() + EVENT_HOURS * 3600000);
+        var uid = (r.key + "-" + r.theater + "-" + iso).replace(/[^a-zA-Z0-9_-]/g, "") + "@flicks";
+        var desc = r.theater + (r.url ? "\n" + r.url : "") + (r.imdb ? "\nIMDb: " + r.imdb : "");
+        L.push("BEGIN:VEVENT", "UID:" + uid, "DTSTAMP:" + stamp,
+          "DTSTART:" + dtUTC(start), "DTEND:" + dtUTC(end),
+          "SUMMARY:" + icsEscape(r.title), "LOCATION:" + icsEscape(r.theater));
+        if (r.url) L.push("URL:" + icsEscape(r.url));
+        L.push("DESCRIPTION:" + icsEscape(desc), "END:VEVENT");
+      });
+    });
+    L.push("END:VCALENDAR");
+    return L.map(fold).join("\r\n");
+  }
+  function downloadICS() {
+    var rows = visibleRows();
+    if (!rows.length) return;
+    var blob = new Blob([buildICS(rows)], { type: "text/calendar;charset=utf-8" });
+    var url = URL.createObjectURL(blob);
+    var a = document.createElement("a");
+    a.href = url; a.download = "flicks.ics";
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+    setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
+  }
+
+  // Shown when every showing is filtered/hidden away — a little end-of-reel gag.
+  var QUIPS = [
+    "You filtered out every last frame.",
+    "House lights up — the marquee's gone dark.",
+    "The projectionist has left the booth. 🎞️",
+    "Cutting-room floor: everything.",
+    "Roll credits. There's nothing else playing.",
+    "An empty theater is its own kind of art film.",
+    "Even the popcorn's gone cold. 🍿",
+  ];
+  function easterEgg() {
+    var quip = QUIPS[Math.floor(Math.random() * QUIPS.length)];
+    var act = (hidden.size || off.size || offDays.size || offDates.size)
+      ? '<p class="egg-act"><button data-egg="reset">roll the reels again</button></p>'
+      : "";
+    return '<div class="egg"><div class="egg-card">The End</div>'
+      + '<p class="egg-quip">' + esc(quip) + "</p>" + act + "</div>";
+  }
+
+  function render() {
+    var rows = visibleRows();
+    var html = "";
+    if (view === "film") html = renderByFilm(rows);
+    else if (view === "theater") html = renderByTheater(rows);
+    else html = renderByDate(rows);
+
+    cal.innerHTML = html;
+    renderDayBand();
+    var empty = document.getElementById("empty");
+    empty.hidden = rows.length > 0;
+    if (rows.length === 0) empty.innerHTML = easterEgg();
+
+    document.querySelectorAll(".seg button").forEach(function (b) {
+      b.setAttribute("aria-pressed", b.dataset.view === view);
+    });
+
+    var nshow = rows.reduce(function (a, r) { return a + r.starts.length; }, 0);
+    var ics = document.getElementById("ics");
+    ics.textContent = nshow ? "📅 Add " + nshow + " to calendar" : "📅 Add to calendar";
+    ics.disabled = nshow === 0;
+
+    var parts = [];
+    if (hidden.size) parts.push(hidden.size + " film(s) hidden · "
+      + '<button data-show="films">show all</button>');
+    if (off.size) parts.push(off.size + " theater(s) hidden · "
+      + '<button data-show="theaters">show all</button>');
+    if (offDays.size) parts.push(offDays.size + " day(s) of the week hidden · "
+      + '<button data-show="days">show all</button>');
+    if (offDates.size) parts.push(offDates.size + " date(s) hidden · "
+      + '<button data-show="dates">show all</button>');
+    document.getElementById("resets").innerHTML = parts.join(" &nbsp;·&nbsp; ");
+  }
+
+  document.addEventListener("click", function (e) {
+    var hideEl = e.target.closest(".hide");
+    var hidetEl = e.target.closest(".hidet");
+    var hidedEl = e.target.closest(".hided");
+    var dayEl = e.target.closest(".hideday");
+    var seg = e.target.closest(".seg button");
+    var show = e.target.closest("[data-show]");
+    var egg = e.target.closest("[data-egg]");
+    if (e.target.closest("#ics")) {
+      downloadICS();
+    } else if (egg) {
+      hidden.clear(); off.clear(); offDays.clear(); offDates.clear();
+      save(); saveOff(); saveDays(); saveDates(); render();
+    } else if (dayEl) {
+      offDays.add(+dayEl.dataset.day); saveDays(); render();
+    } else if (hidedEl) {
+      offDates.add(hidedEl.dataset.date); saveDates(); render();
+    } else if (hidetEl) {
+      off.add(hidetEl.dataset.theater); saveOff(); render();
+    } else if (hideEl) {
+      hidden.add(hideEl.dataset.key); save(); render();
+    } else if (seg) {
+      view = seg.dataset.view; localStorage.setItem(VIEWKEY, view); render();
+    } else if (show) {
+      if (show.dataset.show === "films") { hidden.clear(); save(); }
+      else if (show.dataset.show === "theaters") { off.clear(); saveOff(); }
+      else if (show.dataset.show === "days") { offDays.clear(); saveDays(); }
+      else { offDates.clear(); saveDates(); }
+      render();
+    }
+  });
+
+  render();
+})();
+</script>
+
+<script>
+// Auto-reload so a tab left open picks up regenerated listings. Preferred path:
+// poll our own file and reload only when the build marker changes (no flicker).
+// If reading the file is blocked (some file:// setups), fall back to a slow timed
+// reload. Either way we preserve scroll position across the reload.
+(function () {
+  var SKEY = "flicks.scroll";
+  var BUILD = document.body.dataset.build;
+
+  var y = sessionStorage.getItem(SKEY);
+  if (y !== null) { window.scrollTo(0, +y); sessionStorage.removeItem(SKEY); }
+
+  function reload() {
+    sessionStorage.setItem(SKEY, window.scrollY);
+    location.reload();
+  }
+
+  var timedFallback = false;
+  function check() {
+    fetch(location.href, { cache: "no-store" })
+      .then(function (r) { return r.text(); })
+      .then(function (t) {
+        var m = t.match(/data-build="([^"]*)"/);
+        if (m && m[1] !== BUILD) reload();
+      })
+      .catch(function () {
+        // Can't read the file; switch to a plain periodic reload instead.
+        if (!timedFallback) { timedFallback = true; setInterval(reload, 60000); }
+      });
+  }
+  setInterval(check, 5000);
+})();
+</script>
+</body>
+</html>

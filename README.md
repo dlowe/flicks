@@ -43,7 +43,8 @@ in a fraction of a second.
 - Hide things with the **×**: on a film (every showing of it disappears), by a
   theater's name (in "by theater"), by a date's heading (in "by date"), or a whole
   weekday via the chips below the controls. All are saved in your browser; the
-  floating bar at the bottom tallies each kind and resets them.
+  floating bar at the bottom tallies each kind and resets them. **⌘Z / Ctrl-Z**
+  undoes your last hide (briefly flashing what came back); **⇧⌘Z / Ctrl-Y** redoes.
 - Left open in a tab, the page auto-reloads when it's been regenerated (and falls
   back to a slow timed reload if it can't poll the file), preserving your scroll.
 - A banner warns if a theater that usually has listings returned none this run

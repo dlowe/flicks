@@ -23,6 +23,7 @@
     --health-bg: #2a211a;
     --health-border: #5a4a2e;
     --health-fg: #e0b072;
+    --flash: rgba(216, 166, 87, .30);
   }
   @media (prefers-color-scheme: light) {
     :root {
@@ -41,6 +42,7 @@
       --health-bg: #fbf0db;
       --health-border: #e0c389;
       --health-fg: #8a5a12;
+      --flash: rgba(176, 106, 20, .20);
     }
   }
   * { box-sizing: border-box; }
@@ -112,6 +114,8 @@
     display: flex; gap: 1rem; align-items: flex-start;
     padding: .7rem 0; border-bottom: 1px solid var(--surface);
   }
+  @keyframes flash { from { background-color: var(--flash); } to { background-color: transparent; } }
+  .flash { animation: flash 1.5s ease-out; border-radius: 6px; }
   .poster {
     width: 56px; height: 80px; object-fit: cover; border-radius: 4px;
     background: var(--surface); flex: none; display: block;
@@ -189,7 +193,7 @@
       <button data-view="theater" aria-pressed="false">By theater</button>
     </div>
     <button id="ics" class="btn" title="Download the films you've kept as a calendar file">📅 Add to calendar</button>
-    <span class="hint">Tap × to hide a film, theater, or day</span>
+    <span class="hint">× to hide a film, theater, or day · ⌘Z undo / ⇧⌘Z redo</span>
   </div>
 
   <div class="dayband" id="dayband"></div>
@@ -232,6 +236,58 @@
   function saveDays() { localStorage.setItem(DAYKEY, JSON.stringify([...offDays])); }
   function saveDates() { localStorage.setItem(DATEKEY, JSON.stringify([...offDates])); }
   function weekday(r) { return parseDate(r.date).getDay(); }
+
+  // Undo/redo history for the × hides, so ⌘/Ctrl-Z reverses the last one you
+  // clicked and ⇧⌘Z replays it. Persisted (capped) so it survives auto-reload.
+  var UNDOKEY = "flicks.undo", REDOKEY = "flicks.redo";
+  function loadStk(k) {
+    try { return JSON.parse(localStorage.getItem(k) || "[]"); } catch (e) { return []; }
+  }
+  var undoStack = loadStk(UNDOKEY), redoStack = loadStk(REDOKEY);
+  function saveStk() {
+    localStorage.setItem(UNDOKEY, JSON.stringify(undoStack.slice(-50)));
+    localStorage.setItem(REDOKEY, JSON.stringify(redoStack.slice(-50)));
+  }
+  function applyHide(a, on) {  // on=true hides, false un-hides
+    if (a.t === "film") { on ? hidden.add(a.v) : hidden.delete(a.v); save(); }
+    else if (a.t === "theater") { on ? off.add(a.v) : off.delete(a.v); saveOff(); }
+    else if (a.t === "day") { on ? offDays.add(a.v) : offDays.delete(a.v); saveDays(); }
+    else if (a.t === "date") { on ? offDates.add(a.v) : offDates.delete(a.v); saveDates(); }
+  }
+  function pushUndo(type, value) {
+    undoStack.push({ t: type, v: value });
+    redoStack = [];  // a fresh hide invalidates the redo trail
+    saveStk();
+  }
+  function undo() {
+    var a = undoStack.pop();
+    if (!a) return false;
+    redoStack.push(a); saveStk();
+    applyHide(a, false); render(); highlight(a);  // flash what just came back
+    return true;
+  }
+  function redo() {
+    var a = redoStack.pop();
+    if (!a) return false;
+    undoStack.push(a); saveStk();
+    applyHide(a, true); render();  // re-hidden -> nothing to highlight
+    return true;
+  }
+  // Briefly flash the element(s) a just-undone hide restored, and bring the
+  // first into view. Elements are tagged at render time with data-rk/rt/rd/dc.
+  function highlight(a) {
+    var hit;
+    if (a.t === "film") hit = function (el) { return el.dataset.rk === a.v; };
+    else if (a.t === "theater") hit = function (el) { return el.dataset.rtSec === a.v || el.dataset.rt === a.v; };
+    else if (a.t === "date") hit = function (el) { return el.dataset.rdSec === a.v || el.dataset.rd === a.v; };
+    else if (a.t === "day") hit = function (el) { return el.dataset.dc === String(a.v); };
+    else return;
+    var first = null;
+    document.querySelectorAll(".showing, .film, .group, .day-chip").forEach(function (el) {
+      if (hit(el)) { el.classList.add("flash"); if (!first) first = el; }
+    });
+    if (first) first.scrollIntoView({ block: "nearest", behavior: "smooth" });
+  }
 
   function esc(s) {
     return (s == null ? "" : String(s)).replace(/[&<>"]/g, function (c) {
@@ -291,7 +347,7 @@
     document.getElementById("dayband").innerHTML = DAYS.filter(function (d) {
       return !offDays.has(d[0]);
     }).map(function (d) {
-      return '<span class="day-chip">' + d[1]
+      return '<span class="day-chip" data-dc="' + d[0] + '">' + d[1]
         + '<button class="hideday" data-day="' + d[0] + '" title="Hide ' + d[1]
         + 's" aria-label="Hide ' + d[1] + 's">×</button></span>';
     }).join("");
@@ -307,14 +363,15 @@
     return order.map(function (k) { return { key: k, rows: map[k] }; });
   }
 
-  function section(label, body) {
-    return '<section class="group"><h2>' + label + "</h2>" + body + "</section>";
+  function section(label, body, attrs) {
+    return '<section class="group" ' + (attrs || "") + "><h2>" + label + "</h2>" + body + "</section>";
   }
 
   function renderByDate(rows) {
     return groups(rows, function (r) { return r.date; }).map(function (g) {
       var body = g.rows.map(function (r) {
-        return '<div class="showing">' + poster(r)
+        return '<div class="showing" data-rk="' + esc(r.key) + '" data-rt="' + esc(r.theater)
+          + '" data-rd="' + r.date + '">' + poster(r)
           + '<div class="meta"><div class="title">' + link(r.url, r.title, "")
           + '</div><div class="line">' + times(r) + ' &nbsp;·&nbsp; '
           + '<span class="theater">' + link(r.home, r.theater, "") + "</span></div></div>"
@@ -323,13 +380,14 @@
       var label = esc(fmtLong(g.key));
       var head = label + '<button class="hided" data-date="' + g.key
         + '" title="Hide ' + label + '" aria-label="Hide ' + label + '">×</button>';
-      return section(head, body);
+      return section(head, body, 'data-rd-sec="' + g.key + '"');
     }).join("");
   }
 
   // Render films as cards: one card per film, each line a "<lead> · times" row.
   // `lead(row)` supplies the per-line context (date, or theater + date).
-  function filmCards(filmGroups, lead, linkTitle) {
+  function filmCards(filmGroups, lead, linkTitle, cardTheater) {
+    var rt = cardTheater ? ' data-rt="' + esc(cardTheater) + '"' : "";
     return filmGroups.map(function (g) {
       var first = g.rows[0];
       var title = linkTitle ? link(first.url, first.title, "") : esc(first.title);
@@ -337,7 +395,7 @@
         return '<div class="line"><span class="theater">' + lead(r)
           + "</span> &nbsp;·&nbsp; " + times(r) + goLink(r) + "</div>";
       }).join("");
-      return '<div class="film">' + poster(first)
+      return '<div class="film" data-rk="' + esc(first.key) + '"' + rt + ">" + poster(first)
         + '<div class="meta"><div class="title">' + title + "</div>" + lines + "</div>"
         + hideBtn(first.key) + "</div>";
     }).join("");
@@ -356,11 +414,11 @@
     ts.sort(function (a, b) { return a.key.localeCompare(b.key); });
     return ts.map(function (t) {
       var films = byTitle(groups(t.rows, function (r) { return r.key; }));
-      var body = filmCards(films, function (r) { return esc(fmtShort(r.date)); }, true);
+      var body = filmCards(films, function (r) { return esc(fmtShort(r.date)); }, true, t.key);
       var head = link(t.rows[0].home, t.key, "")
         + '<button class="hidet" data-theater="' + esc(t.key)
         + '" title="Hide this theater" aria-label="Hide this theater">×</button>';
-      return section(head, body);
+      return section(head, body, 'data-rt-sec="' + esc(t.key) + '"');
     }).join("");
   }
 
@@ -489,13 +547,17 @@
       hidden.clear(); off.clear(); offDays.clear(); offDates.clear();
       save(); saveOff(); saveDays(); saveDates(); render();
     } else if (dayEl) {
-      offDays.add(+dayEl.dataset.day); saveDays(); render();
+      var d = +dayEl.dataset.day;
+      if (!offDays.has(d)) { offDays.add(d); saveDays(); pushUndo("day", d); render(); }
     } else if (hidedEl) {
-      offDates.add(hidedEl.dataset.date); saveDates(); render();
+      var dt = hidedEl.dataset.date;
+      if (!offDates.has(dt)) { offDates.add(dt); saveDates(); pushUndo("date", dt); render(); }
     } else if (hidetEl) {
-      off.add(hidetEl.dataset.theater); saveOff(); render();
+      var th = hidetEl.dataset.theater;
+      if (!off.has(th)) { off.add(th); saveOff(); pushUndo("theater", th); render(); }
     } else if (hideEl) {
-      hidden.add(hideEl.dataset.key); save(); render();
+      var k = hideEl.dataset.key;
+      if (!hidden.has(k)) { hidden.add(k); save(); pushUndo("film", k); render(); }
     } else if (seg) {
       view = seg.dataset.view; localStorage.setItem(VIEWKEY, view); render();
     } else if (show) {
@@ -505,6 +567,15 @@
       else { offDates.clear(); saveDates(); }
       render();
     }
+  });
+
+  // ⌘Z / Ctrl-Z reverses the last × you clicked; ⇧⌘Z (or Ctrl-Y) replays it.
+  // No text fields on the page, so claiming these chords clashes with nothing.
+  document.addEventListener("keydown", function (e) {
+    if (!(e.metaKey || e.ctrlKey) || e.altKey) return;
+    var k = e.key.toLowerCase();
+    if (k === "z" && !e.shiftKey) { if (undo()) e.preventDefault(); }
+    else if ((k === "z" && e.shiftKey) || (k === "y" && !e.shiftKey)) { if (redo()) e.preventDefault(); }
   });
 
   render();

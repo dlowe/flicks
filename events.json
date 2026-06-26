@@ -1,77 +1,5 @@
 [
   {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-06-26T12:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-06-26T12:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "SUPERGIRL",
-    "start": "2026-06-26T12:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
-  },
-  {
-    "title": "Couture",
-    "start": "2026-06-26T12:40:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/couture",
-    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt34688195/",
-    "rating": 5.7
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-06-26T12:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "STOP! THAT! TRAIN!",
-    "start": "2026-06-26T12:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
-    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.4
-  },
-  {
-    "title": "NOWHERE (1997)",
-    "start": "2026-06-26T13:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
-    "imdb": "https://www.imdb.com/title/tt0119809/",
-    "rating": 6.6
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-06-26T13:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
     "title": "BACKROOMS",
     "start": "2026-06-26T13:45:00-07:00",
     "theater": "Studio One",
@@ -583,6 +511,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt37287335/",
     "rating": 8.1
+  },
+  {
+    "title": "ASCO: Without Permission",
+    "start": "2026-06-26T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/asco-without-permission/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/20124303/ASCO_One_Sheet-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt18263546/",
+    "rating": 7.7
   },
   {
     "title": "Toy Story 5",
@@ -2563,15 +2500,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
-  },
-  {
-    "title": "Sense and Sensibility Crafternoon x Ritual Dyes",
-    "start": "2026-06-28T15:30:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/sense-and-sensibility/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/14154820/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
-    "imdb": "https://www.imdb.com/title/tt0114388/",
-    "rating": 7.7
   },
   {
     "title": "Disclosure Day",
@@ -6336,15 +6264,6 @@
     "rating": null
   },
   {
-    "title": "The Devil Wears Prada Movie Bingo w/ Violet Hex",
-    "start": "2026-07-03T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/the-devil-wears-prada-2/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/03/26103003/8912AsVuS7Sj915apArUFbv6F9L-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt0458352/",
-    "rating": 7.0
-  },
-  {
     "title": "TOY STORY 5",
     "start": "2026-07-03T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -7738,15 +7657,6 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.2
-  },
-  {
-    "title": "Go Fish x Lesbian Cinema Club",
-    "start": "2026-07-09T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/go-fish-x-lesbian-cinema-club/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/19111706/4hczdEX2RmQTOmiIKygoOYCy0bI.jpg",
-    "imdb": "https://www.imdb.com/title/tt0109913/",
-    "rating": 5.7
   },
   {
     "title": "Gail Daughtry and the Celebrity Sex Pass",
@@ -9657,6 +9567,15 @@
     "rating": 8.2
   },
   {
+    "title": "The Birdcage",
+    "start": "2026-07-18T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/the-birdcage/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/07122937/hU2XeckncHS61TWZKDtw1BrKmOO-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0115685/",
+    "rating": 7.3
+  },
+  {
     "title": "Before Midnight",
     "start": "2026-07-18T16:30:00-07:00",
     "theater": "Cinemagic",
@@ -11356,15 +11275,6 @@
     "poster": "https://indy-systems.imgix.net/xq97kulsv745qer2b2ly3bacwcds?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt43465871/",
     "rating": null
-  },
-  {
-    "title": "The Stimming Pool",
-    "start": "2026-07-23T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/the-stimming-pool/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/26185136/9RddmxlHOU1pDTeHVfP9QS552BV-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt32122837/",
-    "rating": 6.7
   },
   {
     "title": "Reading Lolita in Tehran",

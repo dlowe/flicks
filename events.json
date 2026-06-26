@@ -513,15 +513,6 @@
     "rating": 8.1
   },
   {
-    "title": "ASCO: Without Permission",
-    "start": "2026-06-26T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/asco-without-permission/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/20124303/ASCO_One_Sheet-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt18263546/",
-    "rating": 7.7
-  },
-  {
     "title": "Toy Story 5",
     "start": "2026-06-26T19:05:00-07:00",
     "theater": "St. Johns Cinema",
@@ -5571,6 +5562,15 @@
     "rating": 6.4
   },
   {
+    "title": "Short films by DeafBlind Multiply Disabled Filmmaker Ariel Baska",
+    "start": "2026-07-02T15:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/short-films-by-deafblind-multiply-disabled-filmmaker-ariel-baska/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/06/Ariel-Baska-Headshot-2026.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "DISCLOSURE DAY",
     "start": "2026-07-02T15:30:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -5929,6 +5929,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "The People\u2019s Joker x Video Store\u2022Age",
+    "start": "2026-07-02T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/the-peoples-joker-2/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/13141128/80yak1h7YcNpMOsfSbThfwKYKK4-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt21651430/",
+    "rating": 6.3
   },
   {
     "title": "Toy Story 5",
@@ -8937,6 +8946,15 @@
     "rating": null
   },
   {
+    "title": "Pink Narcissus w/ Live Score by kraftwitch",
+    "start": "2026-07-16T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/pink-narcissus-w-live-score-by-kraftwitch/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/03/26105559/kaZiiGE6820KyFF9XkzPB9Rx9qn.jpg",
+    "imdb": "https://www.imdb.com/title/tt0067580/",
+    "rating": 6.6
+  },
+  {
     "title": "The Invite",
     "start": "2026-07-16T19:15:00-07:00",
     "theater": "Cinema 21",
@@ -9567,15 +9585,6 @@
     "rating": 8.2
   },
   {
-    "title": "The Birdcage",
-    "start": "2026-07-18T16:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/the-birdcage/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/07122937/hU2XeckncHS61TWZKDtw1BrKmOO-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt0115685/",
-    "rating": 7.3
-  },
-  {
     "title": "Before Midnight",
     "start": "2026-07-18T16:30:00-07:00",
     "theater": "Cinemagic",
@@ -10024,6 +10033,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt0088044/",
     "rating": 6.2
+  },
+  {
+    "title": "But I\u2019m a Cheerleader Crafternoon w/ Ritual Dyes",
+    "start": "2026-07-19T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/but-im-a-cheerleader/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/26145234/dGEwlAuzTZoZjvsqgT2MRKHnGi8.jpg",
+    "imdb": "https://www.imdb.com/title/tt0179116/",
+    "rating": 6.9
   },
   {
     "title": "The Seventh Seal",
@@ -11275,6 +11293,15 @@
     "poster": "https://indy-systems.imgix.net/xq97kulsv745qer2b2ly3bacwcds?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt43465871/",
     "rating": null
+  },
+  {
+    "title": "The Stimming Pool",
+    "start": "2026-07-23T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/the-stimming-pool/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/26185136/9RddmxlHOU1pDTeHVfP9QS552BV-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt32122837/",
+    "rating": 6.7
   },
   {
     "title": "Reading Lolita in Tehran",

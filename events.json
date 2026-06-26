@@ -1,104 +1,5 @@
 [
   {
-    "title": "BACKROOMS",
-    "start": "2026-06-26T13:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/862465B00485A291327F47F70F685C3E2D22B5AC3C5201842D590892CF6BA422_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt26657236/",
-    "rating": 7.1
-  },
-  {
-    "title": "Toy Story 5",
-    "start": "2026-06-26T13:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
-    "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "JACKASS BEST AND LAST",
-    "start": "2026-06-26T14:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
-  },
-  {
-    "title": "Supergirl",
-    "start": "2026-06-26T14:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
-    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
-  },
-  {
-    "title": "Girls Like Girls",
-    "start": "2026-06-26T14:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
-    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32432654/",
-    "rating": 6.9
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-06-26T14:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "I Love Boosters",
-    "start": "2026-06-26T14:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
-    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-06-26T14:50:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-06-26T14:50:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.1
-  },
-  {
-    "title": "STOP! THAT! TRAIN!",
-    "start": "2026-06-26T15:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
-    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.4
-  },
-  {
-    "title": "SUPERGIRL",
-    "start": "2026-06-26T15:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
-  },
-  {
     "title": "Disclosure Day",
     "start": "2026-06-26T15:30:00-07:00",
     "theater": "Cinema 21",
@@ -5706,6 +5607,15 @@
     "rating": 6.3
   },
   {
+    "title": "Screening of Documentary Complicated",
+    "start": "2026-07-02T16:30:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/screening-of-documentary-complicated/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/06/1200x675sr.webp",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Supergirl",
     "start": "2026-07-02T16:40:00-07:00",
     "theater": "Living Room Theaters",
@@ -5929,15 +5839,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
     "imdb": null,
     "rating": null
-  },
-  {
-    "title": "The People\u2019s Joker x Video Store\u2022Age",
-    "start": "2026-07-02T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/the-peoples-joker-2/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/13141128/80yak1h7YcNpMOsfSbThfwKYKK4-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt21651430/",
-    "rating": 6.3
   },
   {
     "title": "Toy Story 5",
@@ -7680,8 +7581,8 @@
     "title": "EMPLOYEES\u2019 ENTRANCE",
     "start": "2026-07-09T19:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/employees-entrance/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/emp1.jpg?fit=540%2C305&ssl=1",
+    "url": "https://hollywoodtheatre.org/event/employees-entrance-2026-07-09-730pm/",
+    "poster": null,
     "imdb": "https://www.imdb.com/title/tt0023986/",
     "rating": 7.2
   },
@@ -8946,15 +8847,6 @@
     "rating": null
   },
   {
-    "title": "Pink Narcissus w/ Live Score by kraftwitch",
-    "start": "2026-07-16T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/pink-narcissus-w-live-score-by-kraftwitch/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/03/26105559/kaZiiGE6820KyFF9XkzPB9Rx9qn.jpg",
-    "imdb": "https://www.imdb.com/title/tt0067580/",
-    "rating": 6.6
-  },
-  {
     "title": "The Invite",
     "start": "2026-07-16T19:15:00-07:00",
     "theater": "Cinema 21",
@@ -10033,15 +9925,6 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt0088044/",
     "rating": 6.2
-  },
-  {
-    "title": "But I\u2019m a Cheerleader Crafternoon w/ Ritual Dyes",
-    "start": "2026-07-19T16:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/but-im-a-cheerleader/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/26145234/dGEwlAuzTZoZjvsqgT2MRKHnGi8.jpg",
-    "imdb": "https://www.imdb.com/title/tt0179116/",
-    "rating": 6.9
   },
   {
     "title": "The Seventh Seal",
@@ -11295,15 +11178,6 @@
     "rating": null
   },
   {
-    "title": "The Stimming Pool",
-    "start": "2026-07-23T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/the-stimming-pool/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/26185136/9RddmxlHOU1pDTeHVfP9QS552BV-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt32122837/",
-    "rating": 6.7
-  },
-  {
     "title": "Reading Lolita in Tehran",
     "start": "2026-07-23T19:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -11932,6 +11806,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/678558D95E55E759782092A72CE3987DB8DC62AAB957B386EAF6C9EDCD8B4E72_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0088763/",
     "rating": 8.5
+  },
+  {
+    "title": "Bend It Like Beckham x Portland Arts Week",
+    "start": "2026-07-26T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/bend-it-like-beckham/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/08101118/2dzSBmFWWqt8NbnubJKIWU21Y86.jpg",
+    "imdb": "https://www.imdb.com/title/tt0286499/",
+    "rating": 6.7
   },
   {
     "title": "ODYSSEY",

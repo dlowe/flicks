@@ -54,10 +54,12 @@ in a fraction of a second.
 The page can be served at <https://dlowe.github.io/flicks/> from the `gh-pages`
 branch:
 
-- **From your machine:** `./publish.sh` — builds and pushes `index.html` to
-  `gh-pages` via a throwaway git worktree (the main tree is left untouched).
-- **From CI:** `.github/workflows/publish.yml` rebuilds and publishes on every push
-  to `main`, plus a weekly cron, plus manual `workflow_dispatch`.
+- **From your machine (primary):** `./publish.sh` — builds and pushes `index.html`
+  to `gh-pages` via a throwaway git worktree (the main tree is left untouched).
+- **From CI:** `.github/workflows/publish.yml`, manual `workflow_dispatch` only.
+  It's not on push/cron because GitHub's datacenter IPs get a Cloudflare 403 from
+  Hollywood Theatre, so a CI-built page is missing Hollywood — publish locally
+  (residential IP) for the full slate.
 
 ## Tuning what gets filtered
 

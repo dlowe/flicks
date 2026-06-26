@@ -1,13 +1,14 @@
 name: Publish
 
 # Rebuilds the calendar and publishes it to the gh-pages branch, served at
-# https://dlowe.github.io/flicks/. Runs on every push to main, weekly to keep
-# listings fresh, and on demand.
+# https://dlowe.github.io/flicks/.
+#
+# Manual-only by design. Hollywood Theatre sits behind a Cloudflare TLS
+# challenge that blocks GitHub's datacenter IPs (403), so a CI-built page is
+# missing Hollywood. The primary publish path is ./publish.sh from a machine on
+# a residential IP, which gets the full slate; auto push/cron deploys are
+# disabled so they can't overwrite a good local build with a Hollywood-less one.
 on:
-  push:
-    branches: [main]
-  schedule:
-    - cron: "0 14 * * 1"  # Mondays ~07:00 Pacific
   workflow_dispatch:
 
 permissions:

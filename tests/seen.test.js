@@ -199,6 +199,22 @@ test("by-film: New pill stays on the card when every showing is new", () => {
   eq((o.html.match(/class="line is-new/g) || []).length, 0, "not on a line");
 });
 
+test("by-film: a film at multiple theaters lists lines by date/time, not theater", () => {
+  // Same film, two theaters, where the earlier date is at the alphabetically-LATER
+  // theater — so date-first and theater-first orders are opposites. ROWS arrive
+  // build-sorted by date (render.py's _fold); the client must preserve that and
+  // not re-sort the card's lines by theater.
+  const rows = [
+    row("multi", "Multi Film", "Zeta Theater", dayPlus(1), ["19:00"]),
+    row("multi", "Multi Film", "Alpha Theater", dayPlus(3), ["19:00"]),
+  ];
+  const o = run(rows, { "flicks.view": "film" });
+  const zeta = o.html.indexOf("Zeta Theater");   // earlier date
+  const alpha = o.html.indexOf("Alpha Theater");  // later date
+  if (zeta < 0 || alpha < 0) throw new Error("both theaters should render");
+  eq(zeta < alpha, true, "earlier-date line (Zeta) before later-date line (Alpha)");
+});
+
 test("↻ refresh re-baselines: a leaked row you've now viewed drops without reload", () => {
   const seen = ALL.filter((id) => id !== showingId(R[0], 0));
   // live mode: the leaked row is "viewed" (marked seen) during the initial render,

@@ -10,6 +10,7 @@ __pycache__/
 /health.json
 /multiplex.json
 /imdb_ids.json
+/imdb_posters.json
 /imdb_ratings.tsv.gz
 
 # launchd publish log (see install-launchagent.sh)

@@ -29,13 +29,15 @@
     --on-accent: #14110f; /* text on an accent-filled control */
     --border: #2e2925;
     --surface: #211d1a;   /* raised bg + row dividers + hover */
-    --icon: #5a534b;      /* faint glyphs (×, ↗) */
+    --icon: #776e63;      /* faint glyphs (×, ↗) — kept ≥3:1 on --bg (1.4.11) */
     --icon-faint: #4a443d;
     --danger: #e06c5a;
     --soon: #6cc0d1;      /* "happening soon" — a cool channel, distinct from gold */
     --on-soon: #14110f;
     --new: #9ec27a;       /* "new to you" — unseen showings; a third channel (green) */
     --on-new: #14110f;
+    --bronze: #c8895a; --silver: #b9bec8; --gold: #d8a657;  /* rating tiers (7/8/9) */
+    --on-medal: #14110f;
     --health-bg: #2a211a;
     --health-border: #5a4a2e;
     --health-fg: #e0b072;
@@ -52,13 +54,15 @@
       --on-accent: #fdfaf6;
       --border: #e3ddd3;
       --surface: #efeae2;
-      --icon: #b3a99c;
+      --icon: #8a8073;
       --icon-faint: #c7bfb4;
       --danger: #c0392b;
       --soon: #1f7a8c;
       --on-soon: #fdfaf6;
       --new: #4d761d;
       --on-new: #fdfaf6;
+      --bronze: #9a5a2a; --silver: #6f7682; --gold: #a5631a;
+      --on-medal: #fdfaf6;
       --health-bg: #fbf0db;
       --health-border: #e0c389;
       --health-fg: #8a5a12;
@@ -72,7 +76,7 @@
   body {
     font: 16px/1.4 -apple-system, system-ui, sans-serif;
     background: var(--bg); color: var(--fg); margin: 0;
-    padding: 2rem 1rem 5rem;
+    padding: 2rem 1rem calc(5rem + env(safe-area-inset-bottom, 0px));  /* clear the fixed footer + home indicator */
   }
   .wrap { max-width: 920px; margin: 0 auto; }
   .head { display: flex; flex-wrap: wrap; align-items: baseline; gap: .15rem 1rem; margin: 0 0 .25rem; }
@@ -92,6 +96,7 @@
   dialog {
     background: var(--bg); color: var(--fg); border: 1px solid var(--border);
     border-radius: 10px; max-width: 420px; width: calc(100% - 2rem); padding: 1.5rem;
+    max-height: calc(100dvh - 2rem); overflow: auto;  /* scroll, don't clip, on short screens */
   }
   dialog::backdrop { background: rgba(0, 0, 0, .55); }
   dialog h2 { margin: 0 0 1rem; border: 0; padding: 0; position: static; background: none; }
@@ -137,10 +142,10 @@
     font-size: 1.05rem; line-height: 1; padding: 0 .2rem; border-radius: 50%;
   }
   .hideday:hover { color: var(--danger); }
-  /* A hidden weekday stays as a faded chip with a + to bring it back (like a
-     leaked film), so what you've filtered out is visible, not just gone. */
-  .day-chip.is-off { opacity: .5; }
-  .day-chip.is-off:hover { opacity: .85; }
+  /* A hidden weekday stays visible with a + to bring it back — de-emphasized with
+     a muted, dashed treatment (not opacity, which fails contrast and reads as
+     "disabled" rather than "restorable"). */
+  .day-chip.is-off { color: var(--muted); border-style: dashed; }
   .showday {
     background: none; border: 0; color: var(--new); cursor: pointer;
     font-size: 1.1rem; line-height: 1; padding: 0 .2rem; border-radius: 50%;
@@ -180,16 +185,19 @@
   .go { color: var(--icon); text-decoration: none; font-size: .8rem; margin-left: .35rem; }
   .go:hover { color: var(--accent); }
   .rating {
-    font-size: .8rem; color: var(--accent); text-decoration: none;
+    font-size: .8rem; color: var(--muted); text-decoration: none;
     white-space: nowrap; font-variant-numeric: tabular-nums; font-weight: 600;
   }
   a.rating:hover { text-decoration: underline; }
-  /* Exceptional (IMDb >= 9.0): a filled pill so it pops differently from "soon". */
-  .rating.top {
-    background: var(--accent); color: var(--on-accent);
-    padding: .05rem .4rem; border-radius: 999px;
+  /* Rating tiers: a filled medal pill at IMDb ≥7 (bronze) / ≥8 (silver) / ≥9 (gold);
+     below 7 stays plain muted text. */
+  .rating.bronze, .rating.silver, .rating.gold {
+    color: var(--on-medal); padding: .05rem .4rem; border-radius: 999px;
   }
-  a.rating.top:hover { text-decoration: none; opacity: .85; }
+  .rating.bronze { background: var(--bronze); }
+  .rating.silver { background: var(--silver); }
+  .rating.gold { background: var(--gold); }
+  a.rating.bronze:hover, a.rating.silver:hover, a.rating.gold:hover { text-decoration: none; opacity: .85; }
   /* Soon (next ~3 days): a cool channel (--soon), distinct from the gold used for
      ratings/headers; emphasized by weight too, not color alone. */
   .soon-date { color: var(--soon); font-weight: 600; }
@@ -206,10 +214,10 @@
     text-transform: uppercase; letter-spacing: .04em; padding: .04rem .32rem;
     border-radius: 4px; margin-right: .4rem; vertical-align: .1em;
   }
-  /* A film you've hidden, surfaced because it has a new showing — shown faded
-     ("temporarily here") with a + to bring it back; fades up on hover for reading. */
-  .is-leak { opacity: .5; }
-  .is-leak:hover { opacity: .85; }
+  /* A film you've hidden, surfaced because it has a new showing — de-emphasized
+     with muted text (legible, AA) + the green "New showing" tag and + to keep it.
+     Not opacity: faded text fails contrast and reads as "disabled", not a gem. */
+  .is-leak .title a, .is-leak .time, .is-leak .theater, .is-leak .theater a { color: var(--muted); }
   .leak-tag {
     color: var(--new); border: 1px solid var(--new); background: none;
     font-size: .62rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em;
@@ -257,6 +265,8 @@
   .title a { color: var(--fg); text-decoration: none; }
   .title a:hover { text-decoration: underline; }
   .line { color: var(--muted); font-size: .85rem; margin-top: .15rem; }
+  /* Film-card lines: flex so the date·times part can shrink and the ↗ stays put. */
+  .film .line { display: flex; align-items: baseline; flex-wrap: wrap; }
   .time { color: var(--fg); font-variant-numeric: tabular-nums; }
   .theater, .theater a { color: var(--muted); }
   .theater a { text-decoration: none; }
@@ -301,8 +311,12 @@
     font-size: .8rem; text-decoration: underline; padding: 0 .25rem;
   }
   #footerbar a { color: var(--faint); }
-  #resets { flex: none; }
+  /* Resets summary can grow ("139 films, 2 theaters hidden") — let the count text
+     ellipsize so the bar stays one line and never hides listings behind it; the
+     action buttons (show all / copy link) always stay visible. */
+  #resets { flex: 1 1 auto; min-width: 0; display: flex; align-items: center; gap: .4rem; }
   #resets:empty { display: none; }
+  .reset-sum { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .foot-meta { flex: none; display: inline-flex; align-items: center; gap: .7rem; white-space: nowrap; }
   .gh { display: inline-flex; }
   .gh:hover { color: var(--accent); }
@@ -314,10 +328,11 @@
   }
 
   @media (max-width: 560px) {
-    body { padding: 1.25rem .8rem 5rem; }
+    body { padding: 1.25rem .8rem calc(5rem + env(safe-area-inset-bottom, 0px)); }
     h1 { font-size: 1.35rem; }
     .hint { margin-left: 0; flex-basis: 100%; }
-    .search { flex-basis: 100%; }
+    .search { flex-basis: 100%; font-size: 16px; }  /* 16px: stop iOS auto-zoom on focus */
+    #footerbar button, #footerbar .gh { min-height: 44px; display: inline-flex; align-items: center; }  /* touch targets */
     .poster { width: 55px; height: 79px; }
     .showing, .film { gap: .7rem; }
     .hide, .hidet, .hided { color: var(--faint); }  /* always visible: no hover on touch */
@@ -332,7 +347,8 @@
     .ics-label { display: none; }   /* calendar button -> icon only, to slim the header */
     /* By-film lines: drop the theater name so the row never wraps and the ↗
        ticket link always stays in reach (the ↗ goes to that theater's page). */
-    .film .line { white-space: nowrap; }
+    .film .line { flex-wrap: nowrap; }
+    .film .line-main { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
     .line-theater { display: none; }
   }
 
@@ -423,15 +439,15 @@
 
   <p class="hint">Tap × to hide a film, theater, or day · ⌘Z to undo</p>
 
-  <div id="cal"></div>
+  <main id="cal"></main>
   <div id="empty" hidden></div>
   <div id="live" class="vh" aria-live="polite"></div>
 </div>
 
 <div id="toast" role="status" aria-live="polite" hidden></div>
 
-<dialog id="theaters">
-  <h2>Theaters covered</h2>
+<dialog id="theaters" aria-labelledby="theaters-h">
+  <h2 id="theaters-h">Theaters covered</h2>
   <ul class="tlist">
     {% for name, home in theaters %}
     <li><a href="{{ home }}" target="_blank" rel="noopener">{{ name }}</a></li>
@@ -442,8 +458,8 @@
   <form method="dialog"><button class="btn">Close</button></form>
 </dialog>
 
-<dialog id="help">
-  <h2>How this works</h2>
+<dialog id="help" aria-labelledby="help-h">
+  <h2 id="help-h">How this works</h2>
   <p class="help-lead">We do the aggregating, you do the filtering — together we make
     a curated calendar of just the stuff you're interested in.</p>
   <p>Every upcoming screening from Portland's indie &amp; repertory theaters lands here,
@@ -465,8 +481,8 @@
   <form method="dialog"><button class="btn">Got it</button></form>
 </dialog>
 
-<dialog id="import">
-  <h2>Import filters?</h2>
+<dialog id="import" aria-labelledby="import-h">
+  <h2 id="import-h">Import filters?</h2>
   <p id="importsummary"></p>
   <p class="dnote">This replaces the filters currently on this device. ⌘Z undoes it.</p>
   <div class="dialog-actions">
@@ -475,13 +491,13 @@
   </div>
 </dialog>
 
-<div id="footerbar">
+<footer id="footerbar">
   <span id="resets"></span>
   <span class="foot-meta">
     <button class="sublink" data-open="help">how it works</button>
     <a class="gh" href="https://github.com/dlowe/flicks" target="_blank" rel="noopener"
        title="Source on GitHub" aria-label="Source on GitHub"><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.65 7.65 0 012-.27c.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg></a></span>
-</div>
+</footer>
 
 <script>
 (function () {
@@ -506,17 +522,29 @@
   var view = localStorage.getItem(VIEWKEY) || "date";
   var query = "";  // in-page search text (not persisted)
   var cal = document.getElementById("cal");
+  var REDUCE_MOTION = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   function say(m) { document.getElementById("live").textContent = m; }
+  // After a re-render removes the focused control, move focus to the same slot (now
+  // the next item) instead of letting it reset to <body> — keeps keyboard use viable.
+  function refocus(sel, at) {
+    var els = cal.querySelectorAll(sel);
+    var t = els[at] || els[at - 1] || document.getElementById("q");
+    if (t) t.focus();
+  }
 
   function loadSet(k) {
     try { return new Set(JSON.parse(localStorage.getItem(k) || "[]")); }
     catch (e) { return new Set(); }
   }
-  function save() { localStorage.setItem(KEY, JSON.stringify([...hidden])); }
-  function saveOff() { localStorage.setItem(OFFKEY, JSON.stringify([...off])); }
-  function saveDays() { localStorage.setItem(DAYKEY, JSON.stringify([...offDays])); }
-  function saveDates() { localStorage.setItem(DATEKEY, JSON.stringify([...offDates])); }
-  function saveSeen() { localStorage.setItem(SEENKEY, JSON.stringify([...seen])); }
+  // Persist guard: a setItem can throw (quota, Safari private mode, and *.github.io
+  // shares storage across all the user's Pages sites). Swallow it so a failed write
+  // degrades to "not saved this session" instead of throwing through render().
+  function store(k, v) { try { localStorage.setItem(k, v); } catch (e) { /* skip */ } }
+  function save() { store(KEY, JSON.stringify([...hidden])); }
+  function saveOff() { store(OFFKEY, JSON.stringify([...off])); }
+  function saveDays() { store(DAYKEY, JSON.stringify([...offDays])); }
+  function saveDates() { store(DATEKEY, JSON.stringify([...offDates])); }
+  function saveSeen() { store(SEENKEY, JSON.stringify([...seen])); }
   function weekday(r) { return parseDate(r.date).getDay(); }
 
   // Undo/redo history for the × hides, so ⌘/Ctrl-Z reverses the last one you
@@ -527,8 +555,8 @@
   }
   var undoStack = loadStk(UNDOKEY), redoStack = loadStk(REDOKEY);
   function saveStk() {
-    localStorage.setItem(UNDOKEY, JSON.stringify(undoStack.slice(-50)));
-    localStorage.setItem(REDOKEY, JSON.stringify(redoStack.slice(-50)));
+    store(UNDOKEY, JSON.stringify(undoStack.slice(-50)));
+    store(REDOKEY, JSON.stringify(redoStack.slice(-50)));
   }
   function applyHide(a, on) {  // on=true (re)applies the action, false reverses it
     if (a.t === "film") { on ? hidden.add(a.v) : hidden.delete(a.v); save(); }
@@ -592,7 +620,7 @@
     document.querySelectorAll(".showing, .film, .group, .day-chip").forEach(function (el) {
       if (hit(el)) { el.classList.add("flash"); if (!first) first = el; }
     });
-    if (first) first.scrollIntoView({ block: "nearest", behavior: "smooth" });
+    if (first) first.scrollIntoView({ block: "nearest", behavior: REDUCE_MOTION ? "auto" : "smooth" });
   }
 
   function esc(s) {
@@ -602,8 +630,13 @@
   }
   function pad(n) { return n < 10 ? "0" + n : "" + n; }
   function todayStr() {
-    var d = new Date();
-    return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate());
+    // Pin "today" to Pacific (the listings are Pacific), NOT the device clock — so a
+    // traveler's time zone can't trim a day early or mislabel Today/Tomorrow.
+    var g = {};
+    new Intl.DateTimeFormat("en-US", {
+      timeZone: "America/Los_Angeles", year: "numeric", month: "2-digit", day: "2-digit"
+    }).formatToParts(new Date()).forEach(function (p) { g[p.type] = p.value; });
+    return g.year + "-" + g.month + "-" + g.day;
   }
   function parseDate(s) { var p = s.split("-"); return new Date(+p[0], +p[1] - 1, +p[2]); }
   function fmtLong(s) {
@@ -624,8 +657,8 @@
     if (!r.poster) return '<div class="poster empty"></div>';  // invisible spacer keeps titles aligned
     var img = '<img class="poster" src="' + esc(r.poster) + '" alt="" loading="lazy">';
     return r.imdb
-      ? '<a href="' + esc(r.imdb) + '" target="_blank" rel="noopener" title="View on IMDb">'
-        + img + "</a>"
+      ? '<a href="' + esc(r.imdb) + '" target="_blank" rel="noopener"'
+        + ' aria-label="' + esc(r.title) + ' on IMDb" title="View on IMDb">' + img + "</a>"
       : img;
   }
   function hideBtn(key) {
@@ -635,12 +668,12 @@
   function times(r) { return '<span class="time">' + esc(r.times.join(", ")) + "</span>"; }
   function ratingBadge(r) {
     if (!r.rating) return "";
-    var cls = "rating" + (r.rating >= 9.0 ? " top" : "");  // >=9.0 gets the filled pill
-    var label = "★ " + r.rating.toFixed(1);
+    var tier = r.rating >= 9 ? " gold" : r.rating >= 8 ? " silver" : r.rating >= 7 ? " bronze" : "";
+    var label = '<span aria-hidden="true">★</span> ' + r.rating.toFixed(1);
+    var aria = ' aria-label="IMDb rating ' + r.rating.toFixed(1) + ' out of 10"';
     return r.imdb
-      ? ' <a class="' + cls + '" href="' + esc(r.imdb) + '" target="_blank" rel="noopener"'
-        + ' title="IMDb rating">' + label + "</a>"
-      : ' <span class="' + cls + '">' + label + "</span>";
+      ? ' <a class="rating' + tier + '" href="' + esc(r.imdb) + '" target="_blank" rel="noopener"' + aria + '>' + label + "</a>"
+      : ' <span class="rating' + tier + '"' + aria + '>' + label + "</span>";
   }
   // Format a date, emphasizing it when it's in the next ~3 days (Today/Tomorrow labelled).
   function soonify(dateStr) {
@@ -695,7 +728,8 @@
   // a backgrounded tab doesn't), so it stops flagging on the next visit. First run
   // — or returning after enough churn that most of the slate is unseen — silently
   // baselines instead of flooding.
-  var NEW_BASELINE_FRAC = 0.5;  // unseen share above which we re-baseline silently
+  var NEW_BASELINE_FRAC = 0.5;  // unseen share above which a flood re-baselines silently
+  var NEW_BASELINE_MIN = 30;    // ...but only if it's an absolute flood, not a handful
   function rowIds(r) {
     return r.starts.map(function (s) { return r.key + "|" + r.theater + "|" + s; });
   }
@@ -713,8 +747,7 @@
     });
     seen.forEach(function (id) { if (!live.has(id)) seen.delete(id); });  // bound the set
 
-    // Cold-start trigger is judged on the in-filter slate (what you'd actually see);
-    // the baseline marks *everything* upcoming so hidden films don't all leak at once.
+    // newness is judged on the in-filter slate (what you'd actually see).
     var candidate = [];
     ROWS.forEach(function (r) {
       if (!hidden.has(r.key) && passesStructural(r)) {
@@ -722,10 +755,19 @@
       }
     });
     var fresh = candidate.filter(function (id) { return !seen.has(id); });
-    var cold = seen.size === 0
-      || (candidate.length && fresh.length > NEW_BASELINE_FRAC * candidate.length);
-    if (cold) live.forEach(function (id) { seen.add(id); });  // start tracking from now
-    else fresh.forEach(function (id) { newIds.add(id); });
+
+    if (seen.size === 0) {
+      // First ever visit: baseline the *whole* current slate, incl. hidden films'
+      // current showings (so they don't all leak at once) — only future-new flags.
+      live.forEach(function (id) { seen.add(id); });
+    } else if (fresh.length >= NEW_BASELINE_MIN && fresh.length > NEW_BASELINE_FRAC * candidate.length) {
+      // Returned to a genuine flood of new in-filter showings: baseline just the
+      // in-filter slate so we don't show a wall of New — but NEVER touch hidden-film
+      // ids, so a returning gem still leaks even on a high-churn visit.
+      candidate.forEach(function (id) { seen.add(id); });
+    } else {
+      fresh.forEach(function (id) { newIds.add(id); });
+    }
     saveSeen();
     seenAtLoad = new Set(seen);  // frozen snapshot, so leaks/highlights are stable all visit
   }
@@ -796,8 +838,13 @@
   }
 
   // "Soon" = today through +2 days; surfaced with a distinct emphasis.
-  function isoOf(d) { return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate()); }
-  function plusDays(n) { var d = new Date(); d.setDate(d.getDate() + n); return isoOf(d); }
+  // Days relative to *Pacific* today (built from todayStr, then plain date math).
+  function plusDays(n) {
+    var p = todayStr().split("-");
+    var d = new Date(+p[0], +p[1] - 1, +p[2]);
+    d.setDate(d.getDate() + n);
+    return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate());
+  }
   function dayLabel(dateStr) {
     if (dateStr === plusDays(0)) return "Today";
     if (dateStr === plusDays(1)) return "Tomorrow";
@@ -884,8 +931,10 @@
         var cls = lineNew ? " is-new" : "";
         var attr = lineNew ? ' data-ids="' + esc(rowIds(r).join("\t")) + '"' : "";
         var tag = lineNew ? '<span class="new-tag">New</span> ' : "";
-        return '<div class="line' + cls + '"' + attr + '>' + tag + lead(r)
-          + " &nbsp;·&nbsp; " + times(r)
+        // line-main (date · times) is the shrinkable part; on narrow screens it
+        // ellipsizes and the theater drops, so the ↗ ticket link is never pushed off.
+        return '<div class="line' + cls + '"' + attr + '>' + tag
+          + '<span class="line-main">' + lead(r) + " &nbsp;·&nbsp; " + times(r) + "</span>"
           + (trail ? '<span class="line-theater"> &nbsp;·&nbsp; <span class="theater">' + trail(r) + "</span></span>" : "")
           + goLink(r) + "</div>";
       }).join("");
@@ -1031,7 +1080,8 @@
     if (offDays.size) bd.push(plural(offDays.size, "weekday"));
     if (offDates.size) bd.push(plural(offDates.size, "date"));
     document.getElementById("resets").innerHTML = bd.length
-      ? esc(bd.join(", ")) + ' hidden · <button data-show="all">show all</button>'
+      ? '<span class="reset-sum">' + esc(bd.join(", ")) + ' hidden</span>'
+        + ' · <button data-show="all">show all</button>'
         + ' · <button data-share title="Copy a link that recreates these filters on another device">copy link</button>'
       : "";
 
@@ -1092,12 +1142,20 @@
       if (!off.has(th)) { off.add(th); saveOff(); pushUndo("theater", th); render(); say("Theater hidden."); }
     } else if (hideEl) {
       var k = hideEl.dataset.key;
-      if (!hidden.has(k)) { hidden.add(k); markFilmSeen(k); save(); pushUndo("film", k); render(); say("Film hidden."); }
+      if (!hidden.has(k)) {
+        var at = [].indexOf.call(cal.querySelectorAll(".hide"), hideEl);  // remember position
+        hidden.add(k); markFilmSeen(k); save(); pushUndo("film", k); render(); say("Film hidden.");
+        refocus(".hide", at);  // keyboard: move to the next row's × instead of falling to <body>
+      }
     } else if (unhideEl) {
       var uk = unhideEl.dataset.unhide;
-      if (hidden.has(uk)) { hidden.delete(uk); save(); pushUndo("unhide", uk); render(); say("Film restored."); }
+      if (hidden.has(uk)) {
+        var uat = [].indexOf.call(cal.querySelectorAll(".unhide"), unhideEl);
+        hidden.delete(uk); save(); pushUndo("unhide", uk); render(); say("Film restored.");
+        refocus(".unhide", uat);
+      }
     } else if (seg) {
-      view = seg.dataset.view; localStorage.setItem(VIEWKEY, view); render(); window.scrollTo(0, 0);
+      view = seg.dataset.view; store(VIEWKEY, view); render(); window.scrollTo(0, 0);
     } else if (show) {
       resetAll();  // undoable
     }
@@ -1122,13 +1180,6 @@
     sessionStorage.setItem("flicks.q", qInput.value);
     render();
   });
-
-  // Start a fresh "session" without a navigation: re-baseline what's New/leaking
-  // from the current seen-set, so showings (incl. leaked hidden films) you've now
-  // looked at drop off. The in-page ↻ button calls this when there's no newer
-  // build to reload into — a full page load runs the same initSeen() path.
-  function newSession() { newIds.clear(); initSeen(); render(); }
-  window.flicksRefreshView = newSession;
 
   // --- Share a filter set as a link (#f=…): the four filter sets, JSON, deflated,
   // and base64url'd into the URL fragment so a phone's 100+ hides ride to a desktop
@@ -1175,7 +1226,8 @@
       if (!m) return null;
       var bytes = b64urlDec(m[2]);
       var o = JSON.parse(m[1] ? new TextDecoder().decode(bytes) : await inflate(bytes));
-      return { hidden: o.h || [], off: o.t || [], offDays: (o.d || []).map(Number), offDates: o.dt || [] };
+      var arr = function (x) { return Array.isArray(x) ? x : []; };  // a valid-JSON-but-wrong-shape link mustn't throw later
+      return { hidden: arr(o.h), off: arr(o.t), offDays: arr(o.d).map(Number), offDates: arr(o.dt) };
     } catch (e) { return null; }
   }
   function applyImport(f) {
@@ -1215,7 +1267,7 @@
   if (/^#fr?=/.test(location.hash || "")) {
     maybeImport();
   } else if (!localStorage.getItem("flicks.welcomed")) {
-    localStorage.setItem("flicks.welcomed", "1");  // survives the auto-reload, pops once
+    store("flicks.welcomed", "1");  // survives the auto-reload, pops once
     var welcome = document.getElementById("help");
     if (welcome) { if (welcome.showModal) welcome.showModal(); else welcome.setAttribute("open", ""); }
   }
@@ -1236,18 +1288,24 @@
 // cold launch served a stale copy from the HTTP cache is caught — a HEAD's ETag
 // baseline alone wouldn't notice the page it loaded was already behind.
 (function () {
-  var SKEY = "flicks.scroll";
+  var SKEY = "flicks.scroll", TKEY = "flicks.reloadTarget";
   var BUILD = document.body.dataset.build;
 
-  var y = sessionStorage.getItem(SKEY);
-  if (y !== null) { window.scrollTo(0, +y); sessionStorage.removeItem(SKEY); }
+  function ssGet(k) { try { return sessionStorage.getItem(k); } catch (e) { return null; } }
+  function ssSet(k, v) { try { sessionStorage.setItem(k, v); } catch (e) { /* skip */ } }
+  function ssDel(k) { try { sessionStorage.removeItem(k); } catch (e) { /* skip */ } }
 
-  function reload() {
-    sessionStorage.setItem(SKEY, window.scrollY);
+  var y = ssGet(SKEY);
+  if (y !== null) { window.scrollTo(0, +y); ssDel(SKEY); }
+  if (ssGet(TKEY) === BUILD) ssDel(TKEY);  // reached the build we last reloaded toward — clear the guard
+
+  function reload(target) {
+    ssSet(SKEY, window.scrollY);
+    ssSet(TKEY, target || "");
     location.reload();
   }
 
-  var lastActive = Date.now();
+  var lastActive = 0;  // a fresh load is NOT "recently active" — let the cold-launch stale check run
   ["keydown", "pointerdown", "input"].forEach(function (ev) {
     document.addEventListener(ev, function () { lastActive = Date.now(); }, true);
   });
@@ -1271,9 +1329,14 @@
       .then(function (html) {
         if (!html) return false;
         var m = html.match(/data-build="([^"]+)"/);
-        var stale = !!m && m[1] !== BUILD;
-        if (stale && (force || !busy())) reload();
-        return stale;
+        var served = m && m[1];
+        var stale = !!served && served !== BUILD;
+        if (!stale) { ssDel(TKEY); return false; }  // current — clear any pending reload target
+        // Anti-loop: if we already reloaded toward this build and still didn't land on
+        // it (CDN serving a stale document), don't auto-reload again. A manual ↻ still tries.
+        if (ssGet(TKEY) === served && !force) return true;
+        if (force || !busy()) reload(served);
+        return true;
       })
       .catch(function () { return false; });  // offline/blocked: keep the cache
   }
@@ -1310,13 +1373,11 @@
   }
   window.flicksToast = flash;  // let the main script surface its own toasts (e.g. "link copied")
 
-  // A tap is an explicit "refresh my view": re-baseline New/leaked rows from the
-  // seen-set (works offline, no navigation), then, if online, reload into a newer
-  // build when there is one (a reload re-baselines too, via the page's initSeen).
-  function refreshView() { if (window.flicksRefreshView) window.flicksRefreshView(); }
+  // ↻ checks for a newer build and reloads into it (which re-baselines New via the
+  // page's initSeen). It deliberately does NOT clear New on its own — you tap it to
+  // get fresh listings, not to wipe the markers you opened the app to read.
   var btn = document.getElementById("reload");
   if (btn) btn.addEventListener("click", function () {
-    refreshView();
     if (navigator.onLine === false) { flash("Offline — showing saved listings"); return; }
     btn.disabled = true;
     refresh(true).then(function (stale) {   // reload() navigates away if stale

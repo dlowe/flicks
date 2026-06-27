@@ -152,11 +152,38 @@ test("a few unseen showings flag as New (below the re-baseline threshold)", () =
   eq(o.leaks, 0, "leaks");
 });
 
-test(">50% unseen re-baselines silently instead of flooding", () => {
-  const seen = ALL.slice(0, 1);                            // 4 of 5 unseen = 80%
-  const o = run(R, { "flicks.seen": JSON.stringify(seen) });
-  eq(o.newPills, 0, "new pills");
-  eq(o.seen.length, ALL.length, "re-baselined seen size");
+// A bigger fixture for the flood path (which needs an *absolute* flood, ≥30 new).
+function manyFilms(n) {
+  const rows = [];
+  for (let i = 0; i < n; i++) rows.push(row("film-" + i, "Film " + i, "Theater", dayPlus(1 + (i % 20)), ["19:00"]));
+  return rows;
+}
+
+test("a genuine flood (≥30 new and >50%) re-baselines silently instead of flooding", () => {
+  const rows = manyFilms(40);
+  const ids = allIds(rows);
+  const o = run(rows, { "flicks.seen": JSON.stringify(ids.slice(0, 4)) }); // 36 of 40 new
+  eq(o.newPills, 0, "no wall of New (re-baselined)");
+  eq(o.seen.length, ids.length, "everything baselined");
+});
+
+test("a handful of new in-filter showings does NOT flood — shows New (absolute floor)", () => {
+  const rows = manyFilms(40);
+  const ids = allIds(rows);
+  const o = run(rows, { "flicks.seen": JSON.stringify(ids.slice(0, 35)) }); // only 5 new
+  eq(o.newPills, 5, "5 New pills, no re-baseline");
+});
+
+test("a flood does NOT consume a hidden film's pending leak", () => {
+  const visible = manyFilms(40);
+  const rows = visible.concat([row("gem", "Hidden Gem", "Theater", dayPlus(2), ["20:00"])]);
+  const ids = allIds(visible);                              // in-filter ids only
+  const o = run(rows, {
+    "flicks.seen": JSON.stringify(ids.slice(0, 4)),         // 36 in-filter new -> flood
+    "flicks.hidden": JSON.stringify(["gem"]),               // gem's new showing NOT in seen
+  });
+  eq(o.newPills, 0, "flood suppressed in-filter New");
+  eq(o.leaks, 1, "the hidden gem still leaks despite the flood (baseline never touched its id)");
 });
 
 test("seen ids for aged-out showings are pruned", () => {
@@ -230,16 +257,6 @@ test("first visit pops the welcome dialog; a returning visit does not", () => {
   eq(first.opened("help"), true, "welcome shown on first visit");
   const ret = run(R, { "flicks.welcomed": "1" });
   eq(ret.opened("help"), false, "not shown again once welcomed");
-});
-
-test("↻ refresh re-baselines: a leaked row you've now viewed drops without reload", () => {
-  const seen = ALL.filter((id) => id !== showingId(R[0], 0));
-  // live mode: the leaked row is "viewed" (marked seen) during the initial render,
-  // but stays shown this session because seenAtLoad was frozen before that.
-  const o = run(R, { "flicks.seen": JSON.stringify(seen), "flicks.hidden": JSON.stringify(["film-a"]) }, { live: true });
-  eq(countLeaks(o), 1, "leak still shown on the load you viewed it");
-  o.win.flicksRefreshView();           // what the ↻ button calls when no new build
-  eq(countLeaks(o), 0, "leak dropped after refresh");
 });
 
 test("share link round-trips the full filter set (compressed)", async () => {

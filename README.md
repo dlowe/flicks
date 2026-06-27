@@ -46,7 +46,7 @@ in a fraction of a second.
   re-appears if it gets another new showing). Only the per-film hide is pierced this
   way; hiding a theater, weekday, or date is left alone.
 - **IMDb ratings** (★) show next to films where known, and the **poster** links to
-  IMDb. Each showing's **🔗** opens that theater's showtimes/tickets page; theater
+  IMDb. Each showing's **↗** opens that theater's showtimes/tickets page; theater
   names link to the theater's homepage. (IMDb links/ratings are resolved at build
   time with no API key; see the health/IMDb notes below.) Posters where available.
 - Click the title (or "N theaters covered") to see every theater the page pulls

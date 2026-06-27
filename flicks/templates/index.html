@@ -29,7 +29,7 @@
     --on-accent: #14110f; /* text on an accent-filled control */
     --border: #2e2925;
     --surface: #211d1a;   /* raised bg + row dividers + hover */
-    --icon: #5a534b;      /* faint glyphs (×, 🔗) */
+    --icon: #5a534b;      /* faint glyphs (×, ↗) */
     --icon-faint: #4a443d;
     --danger: #e06c5a;
     --soon: #6cc0d1;      /* "happening soon" — a cool channel, distinct from gold */
@@ -583,7 +583,7 @@
   function goLink(r) {
     if (!r.url) return "";
     return ' <a class="go" href="' + esc(r.url) + '" target="_blank" rel="noopener"'
-      + ' title="Open showtimes / tickets" aria-label="Open showtimes">🔗</a>';
+      + ' title="Open showtimes / tickets" aria-label="Open showtimes">↗︎</a>';
   }
   // Easter egg: David Lynch's Eraserhead gets the full Lynchian treatment (see CSS).
   function ehClass(r) { return /eraserhead/i.test(r.title) ? " eraserhead" : ""; }

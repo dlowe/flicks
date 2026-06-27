@@ -20,7 +20,7 @@ build time to discover each theater's data source and write its adapter.)
   title-cases SHOUTING titles, and emits all rows as JSON into `index.html`. The
   page itself does the grouping (by date / film / theater), the "from today" date
   trim, hiding (per film, per theater, per weekday, per specific date) with
-  ⌘Z/⇧⌘Z undo-redo and a flash on the restored item, a 🔗 per showing, a
+  ⌘Z/⇧⌘Z undo-redo and a flash on the restored item, a ↗ per showing, a
   poster→IMDb link
   where an id is known, and an `.ics` export of the filtered set (built from each
   row's `starts` stamps, emitted as UTC; no server), and a **New** marker on

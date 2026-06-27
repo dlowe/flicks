@@ -1003,6 +1003,13 @@
     render();
   });
 
+  // Start a fresh "session" without a navigation: re-baseline what's New/leaking
+  // from the current seen-set, so showings (incl. leaked hidden films) you've now
+  // looked at drop off. The in-page ↻ button calls this when there's no newer
+  // build to reload into — a full page load runs the same initSeen() path.
+  function newSession() { newIds.clear(); initSeen(); render(); }
+  window.flicksRefreshView = newSession;
+
   initSeen();
   render();
 })();
@@ -1095,8 +1102,13 @@
     toastT = setTimeout(function () { toast.hidden = true; }, 2200);
   }
 
+  // A tap is an explicit "refresh my view": re-baseline New/leaked rows from the
+  // seen-set (works offline, no navigation), then, if online, reload into a newer
+  // build when there is one (a reload re-baselines too, via the page's initSeen).
+  function refreshView() { if (window.flicksRefreshView) window.flicksRefreshView(); }
   var btn = document.getElementById("reload");
   if (btn) btn.addEventListener("click", function () {
+    refreshView();
     if (navigator.onLine === false) { flash("Offline — showing saved listings"); return; }
     btn.disabled = true;
     refresh(true).then(function (stale) {   // reload() navigates away if stale

@@ -60,11 +60,19 @@ function makeStore(seed) {
     removeItem: (k) => m.delete(k),
   };
 }
-function run(rows, storage) {
+// opts.live = true makes the IntersectionObserver fire and timers run inline, so
+// rows are "viewed" (marked seen) during render — for testing the seen→refresh
+// flow. Default (inert) is right for the static render assertions.
+function run(rows, storage, opts) {
+  opts = opts || {};
   const reg = {};
   const cal = {
     _h: "", set innerHTML(v) { this._h = v; }, get innerHTML() { return this._h; },
-    querySelectorAll: () => [],
+    // In live mode, hand back the rendered new/leak units (those carry data-ids)
+    // so the observer can mark them seen.
+    querySelectorAll: opts.live
+      ? () => [...cal._h.matchAll(/data-ids="([^"]*)"/g)].map((m) => ({ dataset: { ids: m[1] } }))
+      : () => [],
   };
   const el = () => ({
     textContent: "", innerHTML: "", disabled: false, hidden: false, dataset: {},
@@ -72,7 +80,9 @@ function run(rows, storage) {
     addEventListener() {}, scrollIntoView() {}, value: "", focus() {},
   });
   const getEl = (id) => (id === "cal" ? cal : (reg[id] || (reg[id] = el())));
-  const IO = class { observe() {} unobserve() {} disconnect() {} };
+  const IO = opts.live
+    ? class { constructor(cb) { this.cb = cb; } observe(t) { this.cb([{ target: t, isIntersecting: true }]); } unobserve() {} disconnect() {} }
+    : class { observe() {} unobserve() {} disconnect() {} };
   const doc = {
     getElementById: getEl, querySelectorAll: () => [], addEventListener() {},
     body: { dataset: {} }, visibilityState: "visible", activeElement: null,
@@ -83,7 +93,8 @@ function run(rows, storage) {
     document: doc, window: win, localStorage: makeStore(storage),
     sessionStorage: makeStore(), navigator: { onLine: true },
     location: { href: "x", reload() {} },
-    setTimeout: () => 0, clearTimeout() {}, setInterval: () => 0, console,
+    setTimeout: opts.live ? (fn) => { fn(); return 0; } : () => 0,
+    clearTimeout() {}, setInterval: () => 0, console,
     IntersectionObserver: IO, Set, Map, JSON, Date, Math,
     parseInt, parseFloat, String, Array, Object,
   };
@@ -92,6 +103,7 @@ function run(rows, storage) {
   vm.runInContext(instantiate(rows), sb);
   const ls = sb.localStorage;
   return {
+    cal, win,
     html: cal._h,
     seen: JSON.parse(ls.getItem("flicks.seen") || "[]"),
     newPills: (cal._h.match(/new-tag/g) || []).length,
@@ -100,6 +112,7 @@ function run(rows, storage) {
     has: (re) => re.test(cal._h),
   };
 }
+function countLeaks(o) { return (o.cal._h.match(/is-leak/g) || []).length; }
 
 // --- Tiny assertion harness.
 let failed = 0;
@@ -167,6 +180,16 @@ test("same unseen showing, NOT hidden, is a normal New (not a leak)", () => {
 test("cold start with a film already hidden does not leak it (baseline covers it)", () => {
   const o = run(R, { "flicks.hidden": JSON.stringify(["film-a"]) });
   eq(o.leaks, 0, "leaks");
+});
+
+test("↻ refresh re-baselines: a leaked row you've now viewed drops without reload", () => {
+  const seen = ALL.filter((id) => id !== showingId(R[0], 0));
+  // live mode: the leaked row is "viewed" (marked seen) during the initial render,
+  // but stays shown this session because seenAtLoad was frozen before that.
+  const o = run(R, { "flicks.seen": JSON.stringify(seen), "flicks.hidden": JSON.stringify(["film-a"]) }, { live: true });
+  eq(countLeaks(o), 1, "leak still shown on the load you viewed it");
+  o.win.flicksRefreshView();           // what the ↻ button calls when no new build
+  eq(countLeaks(o), 0, "leak dropped after refresh");
 });
 
 console.log(failed ? "\n" + failed + " failing" : "\nall passing");

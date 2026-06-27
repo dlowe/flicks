@@ -53,6 +53,10 @@ in a fraction of a second.
   from, with links — including ones currently filtered down to nothing.
 - A **how it works** dialog (footer link) explains the aggregate-then-filter idea;
   it pops up once on a first visit.
+- Built a filter set you love on one device? **copy link** (in the bottom bar, once
+  you've hidden anything) packs your whole hide list — 100+ films is fine — into the
+  URL. Paste it on another device (Universal Clipboard, AirDrop) and opening it
+  recreates the same filters there (replacing that device's, ⌘Z-undoable).
 - Light or dark theme follows your OS.
 - **Add to calendar** exports whatever's currently showing (after your hides and
   theater filters) as an `.ics` file — built in your browser, no server. Import it

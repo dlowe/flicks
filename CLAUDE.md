@@ -42,7 +42,11 @@ build time to discover each theater's data source and write its adapter.)
   homepages, used for the name links and the "theaters covered" modal (opened from
   the page title) — which lists all covered theaters, even ones filtered to nothing.
   A "how it works" dialog (footer link) explains the aggregate-then-filter idea and
-  auto-pops once on a first visit (`flicks.welcomed` flag).
+  auto-pops once on a first visit (`flicks.welcomed` flag). A **copy link** button
+  (resets bar) encodes the four filter sets, deflated (`CompressionStream`) +
+  base64url, into the URL `#f=` fragment (~2.3k chars for 100+ hides — for Universal
+  Clipboard/AirDrop, not typing); opening such a link replaces this device's filters
+  in one ⌘Z-undoable step (`import` undo action) instead of showing the welcome.
   Palette follows the OS (CSS vars + `prefers-color-scheme`); filtering everything
   out reveals a small "The End" easter egg.
 - `flicks/titles.py` — `normalize()` strips presenter credits ("X Presents:",

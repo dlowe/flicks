@@ -97,11 +97,15 @@ function run(rows, storage, opts) {
   const sb = {
     document: doc, window: win, localStorage: makeStore(storage),
     sessionStorage: makeStore(), navigator: { onLine: true },
-    location: { href: "x", reload() {} },
+    location: { href: "x", origin: "https://x", pathname: "/", search: "", hash: "", reload() {} },
+    history: { replaceState() {} },
     setTimeout: opts.live ? (fn) => { fn(); return 0; } : () => 0,
     clearTimeout() {}, setInterval: () => 0, console,
     IntersectionObserver: IO, Set, Map, JSON, Date, Math,
     parseInt, parseFloat, String, Array, Object,
+    // Web APIs the share/import code uses (Node globals):
+    CompressionStream, DecompressionStream, TextEncoder, TextDecoder, Response,
+    Uint8Array, Promise, btoa, atob,
   };
   win.location = sb.location;
   vm.createContext(sb);
@@ -116,16 +120,16 @@ function run(rows, storage, opts) {
     icsCount: ((reg.ics || {}).innerHTML || "").replace(/<[^>]+>/g, "").match(/\d+/),
     has: (re) => re.test(cal._h),
     opened: (id) => !!(reg[id] && reg[id]._opened),
+    lsGet: (k) => ls.getItem(k),
   };
 }
 function countLeaks(o) { return (o.cal._h.match(/is-leak/g) || []).length; }
 
-// --- Tiny assertion harness.
+// --- Tiny assertion harness. Tests register here, then run sequentially (some
+// are async) in the runner at the bottom.
 let failed = 0;
-function test(name, fn) {
-  try { fn(); console.log("  ok  " + name); }
-  catch (e) { failed++; console.log("FAIL  " + name + "\n      " + e.message); }
-}
+const tests = [];
+function test(name, fn) { tests.push({ name, fn }); }
 function eq(actual, expected, what) {
   if (actual !== expected) throw new Error((what || "value") + ": expected " + expected + ", got " + actual);
 }
@@ -238,5 +242,36 @@ test("↻ refresh re-baselines: a leaked row you've now viewed drops without rel
   eq(countLeaks(o), 0, "leak dropped after refresh");
 });
 
-console.log(failed ? "\n" + failed + " failing" : "\nall passing");
-process.exit(failed ? 1 : 0);
+test("share link round-trips the full filter set (compressed)", async () => {
+  const o = run(R, {
+    "flicks.hidden": JSON.stringify(["the odyssey", "back to the future", "eraserhead"]),
+    "flicks.theaters.off": JSON.stringify(["Cinema 21"]),
+    "flicks.days.off": JSON.stringify([0, 6]),
+    "flicks.dates.off": JSON.stringify(["2026-07-04"]),
+  });
+  const url = await o.win.flicksShare.url();
+  eq(/#f=[A-Za-z0-9_-]+$/.test(url), true, "url carries a #f= fragment");
+  const f = await o.win.flicksShare.decode(url.slice(url.indexOf("#")));
+  eq(JSON.stringify(f.hidden.sort()),
+    JSON.stringify(["back to the future", "eraserhead", "the odyssey"]), "hidden round-trips");
+  eq(JSON.stringify(f.off), JSON.stringify(["Cinema 21"]), "theaters round-trip");
+  eq(JSON.stringify(f.offDays), JSON.stringify([0, 6]), "weekdays round-trip (as numbers)");
+  eq(JSON.stringify(f.offDates), JSON.stringify(["2026-07-04"]), "dates round-trip");
+});
+
+test("importing a filter set replaces the device's filters", async () => {
+  const o = run(R, { "flicks.hidden": JSON.stringify(["keep-me"]) });
+  o.win.flicksShare.apply({ hidden: ["a", "b"], off: ["Some Theater"], offDays: [1], offDates: [] });
+  eq(o.lsGet("flicks.hidden"), JSON.stringify(["a", "b"]), "hidden replaced (keep-me gone)");
+  eq(o.lsGet("flicks.theaters.off"), JSON.stringify(["Some Theater"]), "theaters replaced");
+  eq(o.lsGet("flicks.days.off"), JSON.stringify([1]), "weekdays replaced");
+});
+
+(async () => {
+  for (const { name, fn } of tests) {
+    try { await fn(); console.log("  ok  " + name); }
+    catch (e) { failed++; console.log("FAIL  " + name + "\n      " + e.message); }
+  }
+  console.log(failed ? "\n" + failed + " failing" : "\nall passing");
+  process.exit(failed ? 1 : 0);
+})();

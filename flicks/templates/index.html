@@ -98,6 +98,8 @@
   .tlist a { color: var(--accent); text-decoration: none; }
   .tlist a:hover { text-decoration: underline; }
   .dnote { color: var(--muted); font-size: .8rem; margin: 0 0 1.2rem; }
+  .dialog-actions { display: flex; gap: .5rem; justify-content: flex-end; margin-top: .25rem; }
+  .btn.primary { border-color: var(--accent); color: var(--accent); }
   #help p { margin: 0 0 .9rem; font-size: .9rem; }
   .help-lead { font-weight: 600; font-size: 1rem !important; }
   .help-list { margin: 0 0 1.3rem; padding-left: 1.1rem; color: var(--muted); font-size: .9rem; }
@@ -443,10 +445,22 @@
       <b>+</b> to keep it — so "not right now" never means "never again."</li>
     <li>Switch <b>by date / film / theater</b>, and <b>Add to calendar</b> exports
       whatever's left.</li>
+    <li>Built a set you like on your phone? <b>copy link</b> (in the bar at the
+      bottom) carries your whole filter set to another device — just paste it there.</li>
   </ul>
   <p>It all saves in this browser — walk away, come back, reload, keep filtering.
     Your curated calendar builds up over time; there's nothing to set up or sign into.</p>
   <form method="dialog"><button class="btn">Got it</button></form>
+</dialog>
+
+<dialog id="import">
+  <h2>Import filters?</h2>
+  <p id="importsummary"></p>
+  <p class="dnote">This replaces the filters currently on this device. ⌘Z undoes it.</p>
+  <div class="dialog-actions">
+    <button class="btn" data-import="cancel">Cancel</button>
+    <button class="btn primary" data-import="apply">Replace filters</button>
+  </div>
 </dialog>
 
 <div id="footerbar">
@@ -510,6 +524,12 @@
     else if (a.t === "day") { on ? offDays.add(a.v) : offDays.delete(a.v); saveDays(); }
     else if (a.t === "unday") { on ? offDays.delete(a.v) : offDays.add(a.v); saveDays(); }  // inverse of "day"
     else if (a.t === "date") { on ? offDates.add(a.v) : offDates.delete(a.v); saveDates(); }
+    else if (a.t === "import") {  // replace-all from a share link; stores prev + next
+      var s = on ? a.v.next : a.v.prev;
+      hidden = new Set(s.hidden); off = new Set(s.off);
+      offDays = new Set(s.offDays); offDates = new Set(s.offDates);
+      save(); saveOff(); saveDays(); saveDates();
+    }
     else if (a.t === "reset") {  // a "show all" — undo restores the whole snapshot
       if (on) { hidden.clear(); off.clear(); offDays.clear(); offDates.clear(); }
       else {
@@ -999,6 +1019,7 @@
     if (offDates.size) bd.push(plural(offDates.size, "date"));
     document.getElementById("resets").innerHTML = bd.length
       ? esc(bd.join(", ")) + ' hidden · <button data-show="all">show all</button>'
+        + ' · <button data-share title="Copy a link that recreates these filters on another device">copy link</button>'
       : "";
 
     observeNew();  // watch the freshly-rendered "new" units for the seen gate
@@ -1024,10 +1045,26 @@
     var seg = e.target.closest(".seg button");
     var show = e.target.closest("[data-show]");
     var egg = e.target.closest("[data-egg]");
+    var shareEl = e.target.closest("[data-share]");
+    var importEl = e.target.closest("[data-import]");
     if (e.target.closest("#ics")) {
       downloadICS();
     } else if (egg) {
       resetAll();
+    } else if (shareEl) {
+      shareUrl().then(function (url) {
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          return navigator.clipboard.writeText(url).then(function () {
+            toast("Filter link copied — paste it on your other device.");
+          });
+        }
+        toast("Couldn't copy automatically.");
+      }).catch(function () { toast("Couldn't build the share link."); });
+    } else if (importEl) {
+      var idlg = document.getElementById("import");
+      if (idlg.close) idlg.close(); else idlg.removeAttribute("open");
+      if (importEl.dataset.import === "apply" && pendingImport) applyImport(pendingImport);
+      pendingImport = null;
     } else if (dayEl) {
       var d = +dayEl.dataset.day;
       if (!offDays.has(d)) { offDays.add(d); saveDays(); pushUndo("day", d); render(); say("Weekday hidden."); }
@@ -1080,13 +1117,92 @@
   function newSession() { newIds.clear(); initSeen(); render(); }
   window.flicksRefreshView = newSession;
 
+  // --- Share a filter set as a link (#f=…): the four filter sets, JSON, deflated,
+  // and base64url'd into the URL fragment so a phone's 100+ hides ride to a desktop
+  // (via Universal Clipboard / AirDrop — too long to type, fine to copy). Opening
+  // such a link replaces this device's filters (one ⌘Z-undoable step).
+  var pendingImport = null;
+  function toast(m) { if (window.flicksToast) window.flicksToast(m); say(m); }
+  function b64urlEnc(bytes) {
+    var s = "";
+    for (var i = 0; i < bytes.length; i++) s += String.fromCharCode(bytes[i]);
+    return btoa(s).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+  }
+  function b64urlDec(str) {
+    str = str.replace(/-/g, "+").replace(/_/g, "/");
+    var bin = atob(str), b = new Uint8Array(bin.length);
+    for (var i = 0; i < bin.length; i++) b[i] = bin.charCodeAt(i);
+    return b;
+  }
+  async function deflate(str) {
+    var cs = new CompressionStream("deflate-raw"), w = cs.writable.getWriter();
+    w.write(new TextEncoder().encode(str)); w.close();
+    return new Uint8Array(await new Response(cs.readable).arrayBuffer());
+  }
+  async function inflate(bytes) {
+    var ds = new DecompressionStream("deflate-raw"), w = ds.writable.getWriter();
+    w.write(bytes); w.close();
+    return new TextDecoder().decode(await new Response(ds.readable).arrayBuffer());
+  }
+  function filterPayload() {
+    return JSON.stringify({ h: [...hidden], t: [...off], d: [...offDays], dt: [...offDates] });
+  }
+  // Prefer deflate (#f=); fall back to raw base64 (#fr=) where CompressionStream
+  // is missing (older browser) — longer, but still works.
+  async function shareUrl() {
+    var json = filterPayload(), base = location.origin + location.pathname;
+    if (typeof CompressionStream === "function") {
+      return base + "#f=" + b64urlEnc(await deflate(json));
+    }
+    return base + "#fr=" + b64urlEnc(new TextEncoder().encode(json));
+  }
+  async function decodeShare(hash) {
+    try {
+      var m = /^#f(r?)=(.+)$/.exec(hash || "");
+      if (!m) return null;
+      var bytes = b64urlDec(m[2]);
+      var o = JSON.parse(m[1] ? new TextDecoder().decode(bytes) : await inflate(bytes));
+      return { hidden: o.h || [], off: o.t || [], offDays: (o.d || []).map(Number), offDates: o.dt || [] };
+    } catch (e) { return null; }
+  }
+  function applyImport(f) {
+    var prev = { hidden: [...hidden], off: [...off], offDays: [...offDays], offDates: [...offDates] };
+    hidden = new Set(f.hidden); off = new Set(f.off);
+    offDays = new Set(f.offDays); offDates = new Set(f.offDates);
+    save(); saveOff(); saveDays(); saveDates();
+    var next = { hidden: [...hidden], off: [...off], offDays: [...offDays], offDates: [...offDates] };
+    pushUndo("import", { prev: prev, next: next });
+    render(); say("Filters imported — ⌘Z to undo.");
+  }
+  function importExtra(f) {
+    var p = [];
+    if (f.off.length) p.push(f.off.length + " theater" + (f.off.length === 1 ? "" : "s"));
+    if (f.offDays.length) p.push(f.offDays.length + " weekday" + (f.offDays.length === 1 ? "" : "s"));
+    if (f.offDates.length) p.push(f.offDates.length + " date" + (f.offDates.length === 1 ? "" : "s"));
+    return p.length ? " (plus " + p.join(", ") + ")" : "";
+  }
+  async function maybeImport() {
+    var f = await decodeShare(location.hash);
+    history.replaceState(null, "", location.pathname + location.search);  // don't re-prompt on reload
+    if (!f) return;
+    pendingImport = f;
+    var n = f.hidden.length;
+    document.getElementById("importsummary").innerHTML =
+      "Replace your filters with <b>" + n + "</b> hidden film" + (n === 1 ? "" : "s")
+      + importExtra(f) + "?";
+    var dlg = document.getElementById("import");
+    if (dlg.showModal) dlg.showModal(); else dlg.setAttribute("open", "");
+  }
+  window.flicksShare = { url: shareUrl, decode: decodeShare, apply: applyImport };
+
   initSeen();
   render();
 
-  // First visit: introduce the page (we aggregate, you curate). The flag survives
-  // the auto-reload, so it only ever pops once.
-  if (!localStorage.getItem("flicks.welcomed")) {
-    localStorage.setItem("flicks.welcomed", "1");
+  // A share link (#f=…) imports filters; otherwise a first visit gets the welcome.
+  if (/^#fr?=/.test(location.hash || "")) {
+    maybeImport();
+  } else if (!localStorage.getItem("flicks.welcomed")) {
+    localStorage.setItem("flicks.welcomed", "1");  // survives the auto-reload, pops once
     var welcome = document.getElementById("help");
     if (welcome) { if (welcome.showModal) welcome.showModal(); else welcome.setAttribute("open", ""); }
   }
@@ -1179,6 +1295,7 @@
     clearTimeout(toastT);
     toastT = setTimeout(function () { toast.hidden = true; }, 2200);
   }
+  window.flicksToast = flash;  // let the main script surface its own toasts (e.g. "link copied")
 
   // A tap is an explicit "refresh my view": re-baseline New/leaked rows from the
   // seen-set (works offline, no navigation), then, if online, reload into a newer

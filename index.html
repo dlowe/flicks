@@ -377,7 +377,7 @@
   }
 </style>
 </head>
-<body data-build="2026-06-27T11:12:42">
+<body data-build="2026-06-27T11:19:39">
 <div class="wrap">
   <h1>Portland Indie Cinema</h1>
   <p class="sub">Upcoming repertory &amp; indie screenings — wide releases and non-film
@@ -450,7 +450,7 @@
 
 <div id="footerbar">
   <span id="resets"></span>
-  <span class="foot-meta">Generated Jun 27, 11:12AM · Pacific times ·
+  <span class="foot-meta">Generated Jun 27, 11:19AM · Pacific times ·
     <a href="https://github.com/dlowe/flicks" target="_blank" rel="noopener">source on GitHub</a></span>
 </div>
 
@@ -709,6 +709,9 @@
     }
     return { cls: "", attr: "", tag: "" };
   }
+  function rowIsNew(r) {
+    return rowIds(r).some(function (id) { return newIds.has(id); });
+  }
   // Hide (×) → "×" to hide; a leaking hidden film → "+" to bring it back for good.
   function actionBtn(r) {
     return hidden.has(r.key)
@@ -823,14 +826,34 @@
     var rt = cardTheater ? ' data-rt="' + esc(cardTheater) + '"' : "";
     return filmGroups.map(function (g) {
       var first = g.rows[0];
-      var nm = rowMark(g.rows);
+      // A rendered film-hidden card is always a leak (visibleRows only keeps it then).
+      var leak = hidden.has(first.key);
+      var newRows = leak ? [] : g.rows.filter(rowIsNew);
+      var allNew = newRows.length > 0 && newRows.length === g.rows.length;
+
+      // Card-level marker: a leak (faded + restore), or "New" when the *whole* film
+      // is new. When only some showings are new, the pill floats down to those lines.
+      var cardCls = "", cardAttr = "", cardTag = "";
+      if (leak) {
+        cardCls = " is-leak"; cardTag = '<span class="leak-tag">New showing</span>';
+        cardAttr = ' data-ids="' + esc(flatIds(g.rows).join("\t")) + '"';
+      } else if (allNew) {
+        cardCls = " is-new"; cardTag = '<span class="new-tag">New</span>';
+        cardAttr = ' data-ids="' + esc(flatIds(g.rows).join("\t")) + '"';
+      }
+
       var title = linkTitle ? link(first.url, first.title, "") : esc(first.title);
       var lines = g.rows.map(function (r) {
-        return '<div class="line"><span class="theater">' + lead(r)
+        var lineNew = !leak && !allNew && rowIsNew(r);
+        var cls = lineNew ? " is-new" : "";
+        var attr = lineNew ? ' data-ids="' + esc(rowIds(r).join("\t")) + '"' : "";
+        var tag = lineNew ? '<span class="new-tag">New</span> ' : "";
+        return '<div class="line' + cls + '"' + attr + '>' + tag + '<span class="theater">' + lead(r)
           + "</span> &nbsp;·&nbsp; " + times(r) + goLink(r) + "</div>";
       }).join("");
-      return '<div class="film' + ehClass(first) + nm.cls + '" data-rk="' + esc(first.key) + '"' + rt + nm.attr + ">" + poster(first)
-        + '<div class="meta"><div class="title">' + nm.tag + title + ratingBadge(first) + "</div>" + lines + "</div>"
+
+      return '<div class="film' + ehClass(first) + cardCls + '" data-rk="' + esc(first.key) + '"' + rt + cardAttr + ">" + poster(first)
+        + '<div class="meta"><div class="title">' + cardTag + title + ratingBadge(first) + "</div>" + lines + "</div>"
         + actionBtn(first) + "</div>";
     }).join("");
   }

@@ -93,6 +93,8 @@ Decision order per film: **allow > deny > non-film keyword > multiplex > cross-t
   Stdlib `tomllib` + `zoneinfo` → needs Python 3.11+.
 - All times localized to `America/Los_Angeles`.
 - Run with `./run.sh` (~50s; Hollywood's per-show HEAD checks dominate). See README.md.
+  It self-bootstraps/refreshes `.venv` from `requirements.txt` (mtime-gated against
+  `.venv/.requirements-installed`) so a dep bump can't silently break a cron build.
 - `./render.sh` rebuilds index.html from the cached `events.json` + `multiplex.json`
   with no network (~0.1s) — for iterating on filtering/rendering. (= `python -m
   flicks.main --render-only`.) `health.json`/`multiplex.json` are gitignored caches.

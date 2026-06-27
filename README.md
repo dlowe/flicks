@@ -117,6 +117,14 @@ On days the lid never opens, nothing runs (that's fine here). To force a daily
 wake anyway: `sudo pmset repeat wakeorpoweron MTWRFSU 09:00:00` (needs AC power,
 won't wake clamshell on battery).
 
+**Debugging.** Test the script itself in the foreground first — `./publish.sh` —
+so you see output live; launchd only matters once that works. To inspect the job:
+`launchctl print gui/$(id -u)/com.dlowe.flicks.publish` — `state = running` (with a
+`pid`) means it's working (the first run is slow: it bootstraps the venv and does a
+full fetch, 1–3 min). `last exit code` tells you why a finished run stopped;
+`last terminating signal = … 15` just means it was killed (e.g. by `kickstart -k`).
+The log can lag a slow run; the plist sets `PYTHONUNBUFFERED=1` so it streams.
+
 ## Tuning what gets filtered
 
 Edit **`filter.toml`** (then re-run `./run.sh`):

@@ -18,7 +18,12 @@
     <key>Hour</key><integer>9</integer>
     <key>Minute</key><integer>0</integer>
   </dict>
+  <!-- Stream Python's output to the log instead of block-buffering it (so a long
+       run shows progress, not an empty file). -->
+  <key>EnvironmentVariables</key>
+  <dict><key>PYTHONUNBUFFERED</key><string>1</string></dict>
   <key>StandardOutPath</key><string>__FLICKS_DIR__/.publish.log</string>
   <key>StandardErrorPath</key><string>__FLICKS_DIR__/.publish.log</string>
-  <key>ThrottleInterval</key><integer>300</integer>
+  <!-- No ThrottleInterval: this is a once-a-day job, not a respawn loop, and the
+       300s throttle just parks manual re-runs in "spawn scheduled" (looks hung). -->
 </dict></plist>

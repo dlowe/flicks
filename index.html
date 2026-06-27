@@ -98,6 +98,11 @@
   .tlist a { color: var(--accent); text-decoration: none; }
   .tlist a:hover { text-decoration: underline; }
   .dnote { color: var(--muted); font-size: .8rem; margin: 0 0 1.2rem; }
+  #help p { margin: 0 0 .9rem; font-size: .9rem; }
+  .help-lead { font-weight: 600; font-size: 1rem !important; }
+  .help-list { margin: 0 0 1.3rem; padding-left: 1.1rem; color: var(--muted); font-size: .9rem; }
+  .help-list li { margin: .45rem 0; }
+  .help-list b { color: var(--fg); font-weight: 600; }
 
   .controls {
     display: flex; flex-wrap: wrap; align-items: center; gap: .5rem;
@@ -377,7 +382,7 @@
   }
 </style>
 </head>
-<body data-build="2026-06-27T11:22:03">
+<body data-build="2026-06-27T11:33:41">
 <div class="wrap">
   <h1>Portland Indie Cinema</h1>
   <p class="sub">Upcoming repertory &amp; indie screenings — wide releases and non-film
@@ -448,9 +453,30 @@
   <form method="dialog"><button class="btn">Close</button></form>
 </dialog>
 
+<dialog id="help">
+  <h2>How this works</h2>
+  <p class="help-lead">We do the aggregating, you do the filtering — together we make
+    a curated calendar of just the stuff you're interested in.</p>
+  <p>Every upcoming screening from Portland's indie &amp; repertory theaters lands here,
+    with wide releases and non-film events already stripped out. Then you tune it:</p>
+  <ul class="help-list">
+    <li>Hit <b>×</b> to hide a film, a theater, or a whole weekday — what's left is your
+      calendar. <b>⌘Z</b> undoes anything, so nothing's permanent.</li>
+    <li>A green <b>New</b> tag flags showings you haven't seen yet.</li>
+    <li>Hidden a film? When it gets a fresh screening it slips back in — faded, with a
+      <b>+</b> to keep it — so "not right now" never means "never again."</li>
+    <li>Switch <b>by date / film / theater</b>, and <b>Add to calendar</b> exports
+      whatever's left.</li>
+  </ul>
+  <p>It all saves in this browser — walk away, come back, reload, keep filtering.
+    Your curated calendar builds up over time; there's nothing to set up or sign into.</p>
+  <form method="dialog"><button class="btn">Got it</button></form>
+</dialog>
+
 <div id="footerbar">
   <span id="resets"></span>
-  <span class="foot-meta">Generated Jun 27, 11:22AM · Pacific times ·
+  <span class="foot-meta">Generated Jun 27, 11:33AM · Pacific times ·
+    <button class="sublink" data-open="help">how it works</button> ·
     <a href="https://github.com/dlowe/flicks" target="_blank" rel="noopener">source on GitHub</a></span>
 </div>
 
@@ -1080,6 +1106,14 @@
 
   initSeen();
   render();
+
+  // First visit: introduce the page (we aggregate, you curate). The flag survives
+  // the auto-reload, so it only ever pops once.
+  if (!localStorage.getItem("flicks.welcomed")) {
+    localStorage.setItem("flicks.welcomed", "1");
+    var welcome = document.getElementById("help");
+    if (welcome) { if (welcome.showModal) welcome.showModal(); else welcome.setAttribute("open", ""); }
+  }
 })();
 </script>
 

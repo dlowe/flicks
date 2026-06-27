@@ -34,6 +34,8 @@
     --danger: #e06c5a;
     --soon: #6cc0d1;      /* "happening soon" — a cool channel, distinct from gold */
     --on-soon: #14110f;
+    --new: #9ec27a;       /* "new to you" — unseen showings; a third channel (green) */
+    --on-new: #14110f;
     --health-bg: #2a211a;
     --health-border: #5a4a2e;
     --health-fg: #e0b072;
@@ -55,6 +57,8 @@
       --danger: #c0392b;
       --soon: #1f7a8c;
       --on-soon: #fdfaf6;
+      --new: #4d761d;
+      --on-new: #fdfaf6;
       --health-bg: #fbf0db;
       --health-border: #e0c389;
       --health-fg: #8a5a12;
@@ -176,6 +180,13 @@
     color: var(--on-soon); background: var(--soon); font-size: .7rem; font-weight: 700;
     text-transform: uppercase; letter-spacing: .03em; padding: .05rem .4rem;
     border-radius: 4px; margin-right: .5rem; vertical-align: .08em;
+  }
+  /* "New to you" marker on a showing/film not yet seen — a third channel (green),
+     distinct from gold (ratings/headers) and the cool "soon"; they can co-occur. */
+  .new-tag {
+    color: var(--on-new); background: var(--new); font-size: .62rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: .04em; padding: .04rem .32rem;
+    border-radius: 4px; margin-right: .4rem; vertical-align: .1em;
   }
 
   h2 {
@@ -402,6 +413,7 @@
   var OFFKEY = "flicks.theaters.off";
   var DAYKEY = "flicks.days.off";
   var DATEKEY = "flicks.dates.off";
+  var SEENKEY = "flicks.seen";     // showing-level "seen" set, for "new to you"
   // Weekday chips, Monday-first; values are JS getDay() indices (Sun=0).
   var DAYS = [[1, "Monday"], [2, "Tuesday"], [3, "Wednesday"], [4, "Thursday"],
     [5, "Friday"], [6, "Saturday"], [0, "Sunday"]];
@@ -410,6 +422,8 @@
   var off = loadSet(OFFKEY);       // theaters the viewer has switched off
   var offDays = loadSet(DAYKEY);   // weekdays the viewer has switched off
   var offDates = loadSet(DATEKEY); // specific calendar dates switched off
+  var seen = loadSet(SEENKEY);     // showing ids you've already laid eyes on
+  var newIds = new Set();          // unseen showings to flag this session (fixed at load)
   var view = localStorage.getItem(VIEWKEY) || "date";
   var query = "";  // in-page search text (not persisted)
   var cal = document.getElementById("cal");
@@ -423,6 +437,7 @@
   function saveOff() { localStorage.setItem(OFFKEY, JSON.stringify([...off])); }
   function saveDays() { localStorage.setItem(DAYKEY, JSON.stringify([...offDays])); }
   function saveDates() { localStorage.setItem(DATEKEY, JSON.stringify([...offDates])); }
+  function saveSeen() { localStorage.setItem(SEENKEY, JSON.stringify([...seen])); }
   function weekday(r) { return parseDate(r.date).getDay(); }
 
   // Undo/redo history for the × hides, so ⌘/Ctrl-Z reverses the last one you
@@ -555,16 +570,95 @@
   // Easter egg: David Lynch's Eraserhead gets the full Lynchian treatment (see CSS).
   function ehClass(r) { return /eraserhead/i.test(r.title) ? " eraserhead" : ""; }
 
-  // visibleRows: from today onward, not hidden, theater switched on, matching the
-  // search query, in the original chronological order.
+  // A row passes the persistent filters when it's upcoming and not hidden by film,
+  // theater, weekday, or date. Search (transient) is layered on top in visibleRows.
+  function inFilters(r) {
+    return r.date >= todayStr() && !hidden.has(r.key) && !off.has(r.theater)
+      && !offDays.has(weekday(r)) && !offDates.has(r.date);
+  }
+
+  // visibleRows: passing the filters and matching the search query, in the
+  // original chronological order.
   function visibleRows() {
-    var today = todayStr();
     return ROWS.filter(function (r) {
-      return r.date >= today && !hidden.has(r.key) && !off.has(r.theater)
-        && !offDays.has(weekday(r)) && !offDates.has(r.date)
+      return inFilters(r)
         && (!query || r.title.toLowerCase().indexOf(query) !== -1
             || r.theater.toLowerCase().indexOf(query) !== -1);
     });
+  }
+
+  // --- "New to you": showings you haven't laid eyes on yet, tracked at the
+  // showing level (key|theater|start) in localStorage. New showings *within your
+  // current filters* get a marker; a showing is marked seen once it's been on
+  // screen ~1s while the page is foregrounded (a glance counts; an auto-reload of
+  // a backgrounded tab doesn't). First run — or returning after enough churn that
+  // most of the in-filter slate is unseen — silently baselines instead of flooding.
+  var NEW_BASELINE_FRAC = 0.5;  // unseen share above which we re-baseline silently
+  function rowIds(r) {
+    return r.starts.map(function (s) { return r.key + "|" + r.theater + "|" + s; });
+  }
+  function initSeen() {
+    var today = todayStr();
+    // Bound the set to one horizon: drop seen ids for showings that have aged out.
+    // (Prune over all upcoming rows, so hiding then un-hiding a film doesn't make
+    // its showings look new again.)
+    var live = new Set();
+    ROWS.forEach(function (r) {
+      if (r.date >= today) rowIds(r).forEach(function (id) { live.add(id); });
+    });
+    seen.forEach(function (id) { if (!live.has(id)) seen.delete(id); });
+
+    var candidate = [];
+    ROWS.forEach(function (r) {
+      if (inFilters(r)) rowIds(r).forEach(function (id) { candidate.push(id); });
+    });
+    var fresh = candidate.filter(function (id) { return !seen.has(id); });
+    var cold = seen.size === 0
+      || (candidate.length && fresh.length > NEW_BASELINE_FRAC * candidate.length);
+    if (cold) candidate.forEach(function (id) { seen.add(id); });  // baseline from now
+    else fresh.forEach(function (id) { newIds.add(id); });
+    saveSeen();
+  }
+
+  // Tag a render unit (one or more rows) "new" when any of its showings is unseen.
+  // data-ids carries the showings to mark seen once the unit has been viewed.
+  function newMark(rows) {
+    var ids = [];
+    rows.forEach(function (r) { rowIds(r).forEach(function (id) { ids.push(id); }); });
+    if (!ids.some(function (id) { return newIds.has(id); })) return { cls: "", attr: "", tag: "" };
+    return {
+      cls: " is-new",
+      attr: ' data-ids="' + esc(ids.join("\t")) + '"',
+      tag: '<span class="new-tag">New</span>',
+    };
+  }
+
+  // Mark showings seen only once genuinely looked at: visible ~1s while foregrounded.
+  // Highlights stay for the session (newIds is fixed at load); they just don't recur.
+  var SEE_MS = 1000, dwell = new Map(), seenSaveT = null;
+  function scheduleSeenSave() { clearTimeout(seenSaveT); seenSaveT = setTimeout(saveSeen, 400); }
+  function markSeen(el) {
+    dwell.delete(el);
+    if (seenObserver) seenObserver.unobserve(el);
+    (el.dataset.ids || "").split("\t").forEach(function (id) { if (id) seen.add(id); });
+    scheduleSeenSave();
+  }
+  var seenObserver = ("IntersectionObserver" in window)
+    ? new IntersectionObserver(function (entries) {
+        entries.forEach(function (en) {
+          var el = en.target;
+          if (en.isIntersecting && document.visibilityState === "visible") {
+            if (!dwell.has(el)) dwell.set(el, setTimeout(function () { markSeen(el); }, SEE_MS));
+          } else if (dwell.has(el)) { clearTimeout(dwell.get(el)); dwell.delete(el); }
+        });
+      }, { threshold: 0.5 })
+    : null;
+  function observeNew() {
+    if (!seenObserver) return;
+    seenObserver.disconnect();
+    dwell.forEach(function (t) { clearTimeout(t); });
+    dwell.clear();
+    cal.querySelectorAll(".is-new").forEach(function (el) { seenObserver.observe(el); });
   }
 
   // "Soon" = today through +2 days; surfaced with a distinct emphasis.
@@ -605,9 +699,10 @@
   function renderByDate(rows) {
     return groups(rows, function (r) { return r.date; }).map(function (g) {
       var body = g.rows.map(function (r) {
-        return '<div class="showing' + ehClass(r) + '" data-rk="' + esc(r.key) + '" data-rt="' + esc(r.theater)
-          + '" data-rd="' + r.date + '">' + poster(r)
-          + '<div class="meta"><div class="title">' + link(r.url, r.title, "") + ratingBadge(r)
+        var nm = newMark([r]);
+        return '<div class="showing' + ehClass(r) + nm.cls + '" data-rk="' + esc(r.key) + '" data-rt="' + esc(r.theater)
+          + '" data-rd="' + r.date + '"' + nm.attr + '>' + poster(r)
+          + '<div class="meta"><div class="title">' + nm.tag + link(r.url, r.title, "") + ratingBadge(r)
           + '</div><div class="line">' + times(r) + ' &nbsp;·&nbsp; '
           + '<span class="theater">' + link(r.home, r.theater, "") + "</span></div></div>"
           + hideBtn(r.key) + "</div>";
@@ -627,13 +722,14 @@
     var rt = cardTheater ? ' data-rt="' + esc(cardTheater) + '"' : "";
     return filmGroups.map(function (g) {
       var first = g.rows[0];
+      var nm = newMark(g.rows);
       var title = linkTitle ? link(first.url, first.title, "") : esc(first.title);
       var lines = g.rows.map(function (r) {
         return '<div class="line"><span class="theater">' + lead(r)
           + "</span> &nbsp;·&nbsp; " + times(r) + goLink(r) + "</div>";
       }).join("");
-      return '<div class="film' + ehClass(first) + '" data-rk="' + esc(first.key) + '"' + rt + ">" + poster(first)
-        + '<div class="meta"><div class="title">' + title + ratingBadge(first) + "</div>" + lines + "</div>"
+      return '<div class="film' + ehClass(first) + nm.cls + '" data-rk="' + esc(first.key) + '"' + rt + nm.attr + ">" + poster(first)
+        + '<div class="meta"><div class="title">' + nm.tag + title + ratingBadge(first) + "</div>" + lines + "</div>"
         + hideBtn(first.key) + "</div>";
     }).join("");
   }
@@ -776,6 +872,8 @@
     document.getElementById("resets").innerHTML = bd.length
       ? esc(bd.join(", ")) + ' hidden · <button data-show="all">show all</button>'
       : "";
+
+    observeNew();  // watch the freshly-rendered "new" units for the seen gate
   }
   function plural(n, w) { return n + " " + w + (n === 1 ? "" : "s"); }
 
@@ -839,6 +937,7 @@
     render();
   });
 
+  initSeen();
   render();
 })();
 </script>

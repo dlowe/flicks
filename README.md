@@ -6,6 +6,8 @@ The output is a single self-contained webpage.
 
 ## First-time setup
 
+Needs **Python 3.11+** (uses the stdlib `tomllib`).
+
 ```bash
 python3 -m venv .venv
 ./.venv/bin/pip install -r requirements.txt
@@ -33,6 +35,11 @@ in a fraction of a second.
   "By theater" lists each film once per theater with all its dates.
 - Screenings in the **next ~3 days** are emphasized (Today/Tomorrow labelled), and
   films rated **IMDb 9.0+** get a highlighted rating pill.
+- Showings you haven't seen yet get a green **New** marker, so aggressive filtering
+  doesn't hide things that have only just appeared. A showing counts as seen once
+  it's been on screen for about a second; it's tracked per-showing in your browser.
+  Your first visit (or coming back to find most of the slate unseen) starts the
+  clock quietly rather than marking everything new.
 - **IMDb ratings** (★) show next to films where known, and the **poster** links to
   IMDb. Each showing's **🔗** opens that theater's showtimes/tickets page; theater
   names link to the theater's homepage. (IMDb links/ratings are resolved at build

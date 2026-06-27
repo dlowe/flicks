@@ -23,8 +23,13 @@ build time to discover each theater's data source and write its adapter.)
   ⌘Z/⇧⌘Z undo-redo and a flash on the restored item, a 🔗 per showing, a
   poster→IMDb link
   where an id is known, and an `.ics` export of the filtered set (built from each
-  row's `starts` stamps, emitted as UTC; no server) — all client-side, so every
-  view is available with no re-fetch. `THEATER_HOMES` maps theater names to
+  row's `starts` stamps, emitted as UTC; no server), and a **New** marker on
+  showings you haven't seen yet — all client-side, so every view is available
+  with no re-fetch. "New" is tracked at the showing level (`key|theater|start`)
+  in `localStorage` (`flicks.seen`): a showing flags as New until it's been on
+  screen ~1s while foregrounded, then it's marked seen; the set is pruned to the
+  current horizon. First visit (or returning to find >50% of the in-filter slate
+  unseen) silently baselines instead of flooding. `THEATER_HOMES` maps theater names to
   homepages, used for the name links and the "theaters covered" modal (opened from
   the page title) — which lists all covered theaters, even ones filtered to nothing.
   Palette follows the OS (CSS vars + `prefers-color-scheme`); filtering everything

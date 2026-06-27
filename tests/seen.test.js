@@ -74,11 +74,16 @@ function run(rows, storage, opts) {
       ? () => [...cal._h.matchAll(/data-ids="([^"]*)"/g)].map((m) => ({ dataset: { ids: m[1] } }))
       : () => [],
   };
-  const el = () => ({
-    textContent: "", innerHTML: "", disabled: false, hidden: false, dataset: {},
-    classList: { add() {}, remove() {} }, setAttribute() {}, getAttribute: () => "",
-    addEventListener() {}, scrollIntoView() {}, value: "", focus() {},
-  });
+  const el = () => {
+    const e = {
+      textContent: "", innerHTML: "", disabled: false, hidden: false, dataset: {},
+      classList: { add() {}, remove() {} }, getAttribute: () => "",
+      addEventListener() {}, scrollIntoView() {}, value: "", focus() {}, _opened: false,
+    };
+    e.showModal = () => { e._opened = true; };       // track dialog opens
+    e.setAttribute = (k) => { if (k === "open") e._opened = true; };
+    return e;
+  };
   const getEl = (id) => (id === "cal" ? cal : (reg[id] || (reg[id] = el())));
   const IO = opts.live
     ? class { constructor(cb) { this.cb = cb; } observe(t) { this.cb([{ target: t, isIntersecting: true }]); } unobserve() {} disconnect() {} }
@@ -110,6 +115,7 @@ function run(rows, storage, opts) {
     leaks: (cal._h.match(/is-leak/g) || []).length,
     icsCount: ((reg.ics || {}).innerHTML || "").replace(/<[^>]+>/g, "").match(/\d+/),
     has: (re) => re.test(cal._h),
+    opened: (id) => !!(reg[id] && reg[id]._opened),
   };
 }
 function countLeaks(o) { return (o.cal._h.match(/is-leak/g) || []).length; }
@@ -213,6 +219,13 @@ test("by-film: a film at multiple theaters lists lines by date/time, not theater
   const alpha = o.html.indexOf("Alpha Theater");  // later date
   if (zeta < 0 || alpha < 0) throw new Error("both theaters should render");
   eq(zeta < alpha, true, "earlier-date line (Zeta) before later-date line (Alpha)");
+});
+
+test("first visit pops the welcome dialog; a returning visit does not", () => {
+  const first = run(R, {});
+  eq(first.opened("help"), true, "welcome shown on first visit");
+  const ret = run(R, { "flicks.welcomed": "1" });
+  eq(ret.opened("help"), false, "not shown again once welcomed");
 });
 
 test("↻ refresh re-baselines: a leaked row you've now viewed drops without reload", () => {

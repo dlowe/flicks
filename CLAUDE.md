@@ -41,6 +41,8 @@ build time to discover each theater's data source and write its adapter.)
   `THEATER_HOMES` maps theater names to
   homepages, used for the name links and the "theaters covered" modal (opened from
   the page title) — which lists all covered theaters, even ones filtered to nothing.
+  A "how it works" dialog (footer link) explains the aggregate-then-filter idea and
+  auto-pops once on a first visit (`flicks.welcomed` flag).
   Palette follows the OS (CSS vars + `prefers-color-scheme`); filtering everything
   out reveals a small "The End" easter egg.
 - `flicks/titles.py` — `normalize()` strips presenter credits ("X Presents:",

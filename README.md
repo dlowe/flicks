@@ -51,6 +51,8 @@ in a fraction of a second.
   time with no API key; see the health/IMDb notes below.) Posters where available.
 - Click the title (or "N theaters covered") to see every theater the page pulls
   from, with links — including ones currently filtered down to nothing.
+- A **how it works** dialog (footer link) explains the aggregate-then-filter idea;
+  it pops up once on a first visit.
 - Light or dark theme follows your OS.
 - **Add to calendar** exports whatever's currently showing (after your hides and
   theater filters) as an `.ics` file — built in your browser, no server. Import it

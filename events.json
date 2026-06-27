@@ -6336,6 +6336,15 @@
     "rating": null
   },
   {
+    "title": "Indiana Jones and the Temple of Doom",
+    "start": "2026-07-05T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/indiana-jones-and-the-temple-of-doom/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/06161012/gpdVNUaa4LhRMLfJOPj1AZdhAZ3-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0087469/",
+    "rating": 7.5
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-07-05T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -9135,6 +9144,15 @@
     "rating": 7.3
   },
   {
+    "title": "The Adventures of Priscilla, Queen of the Desert",
+    "start": "2026-07-18T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/the-adventures-of-priscilla-queen-of-the-desert-2/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/06161449/kJ7syYXEJgSBmBfSnF3Can9cK1J-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0109045/",
+    "rating": 7.5
+  },
+  {
     "title": "The Odyssey",
     "start": "2026-07-18T19:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -9574,15 +9592,6 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/mikey-nicky1.jpg?fit=540%2C290&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0074901/",
     "rating": 7.3
-  },
-  {
-    "title": "Pillion",
-    "start": "2026-07-19T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/pillion-2/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/08155448/7Pd6ChSQjSXy4snJiorSdzg2cG3-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt32321317/",
-    "rating": 6.9
   },
   {
     "title": "The Odyssey",
@@ -11104,6 +11113,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/118A43B7ED3AE9ACD951F266B44DEAAD4E8F3973775ECF4BC99C1F8E0B60CF03_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0053221/",
     "rating": 7.9
+  },
+  {
+    "title": "She\u2019s the He",
+    "start": "2026-07-25T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/shes-the-he/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/14111401/z5zlRWl4DNrhGLB4st2Kn68HaUq-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261856/",
+    "rating": 6.3
   },
   {
     "title": "ODYSSEY",

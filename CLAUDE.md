@@ -28,7 +28,8 @@ build time to discover each theater's data source and write its adapter.)
   with no re-fetch. "New" is tracked at the showing level (`key|theater|start`)
   in `localStorage` (`flicks.seen`): a showing flags as New until it's been on
   screen ~1s while foregrounded, then it's marked seen; the set is pruned to the
-  current horizon. First visit (or returning to find >50% of the in-filter slate
+  current horizon. In the film-card views (by-film/by-theater) the pill sits on the
+  title only when the *whole* film is new, else it floats down to the new lines. First visit (or returning to find >50% of the in-filter slate
   unseen) silently baselines instead of flooding. A new showing of a film you've
   **hidden** "leaks" through — shown faded with a **+** to restore the film (⌘Z-
   undoable) — so an aggressive per-film hide can't bury a genuinely-new screening;

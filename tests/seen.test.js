@@ -182,6 +182,23 @@ test("cold start with a film already hidden does not leak it (baseline covers it
   eq(o.leaks, 0, "leaks");
 });
 
+test("by-film: New pill floats down to the new line when only some showings are new", () => {
+  const seen = ALL.filter((id) => id !== showingId(R[0], 0)); // only film-a's first showing unseen
+  const o = run(R, { "flicks.seen": JSON.stringify(seen), "flicks.view": "film" });
+  eq(o.newPills, 1, "one New pill total");
+  eq((o.html.match(/class="line is-new/g) || []).length, 1, "pill on a line");
+  eq(/class="film[^"]*is-new/.test(o.html), false, "not on the card");
+});
+
+test("by-film: New pill stays on the card when every showing is new", () => {
+  const filmA = new Set([showingId(R[0], 0), showingId(R[1], 0)]); // both film-a showings
+  const seen = ALL.filter((id) => !filmA.has(id));
+  const o = run(R, { "flicks.seen": JSON.stringify(seen), "flicks.view": "film" });
+  eq(o.newPills, 1, "one New pill total");
+  eq(/class="film[^"]*is-new/.test(o.html), true, "pill on the card");
+  eq((o.html.match(/class="line is-new/g) || []).length, 0, "not on a line");
+});
+
 test("↻ refresh re-baselines: a leaked row you've now viewed drops without reload", () => {
   const seen = ALL.filter((id) => id !== showingId(R[0], 0));
   // live mode: the leaked row is "viewed" (marked seen) during the initial render,

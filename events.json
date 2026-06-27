@@ -1,5 +1,50 @@
 [
   {
+    "title": "OBSESSION",
+    "start": "2026-06-27T11:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt37287335/",
+    "rating": 8.1
+  },
+  {
+    "title": "Backrooms",
+    "start": "2026-06-27T11:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/backrooms",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_dcc58e20-0085-4141-aca8-23ee50f5a429.jpg",
+    "imdb": "https://www.imdb.com/title/tt26657236/",
+    "rating": 7.1
+  },
+  {
+    "title": "Disclosure Day",
+    "start": "2026-06-27T11:40:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/disclosure-day",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_d6b380a3-24ca-49b1-986f-085ded7010c3.jpg",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "JACKASS BEST AND LAST",
+    "start": "2026-06-27T11:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt39316472/",
+    "rating": null
+  },
+  {
+    "title": "Toy Story 5",
+    "start": "2026-06-27T11:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
+    "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt29355505/",
+    "rating": 7.6
+  },
+  {
     "title": "Girls Like Girls",
     "start": "2026-06-27T12:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -15,7 +60,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Supergirl",
@@ -24,7 +69,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -132,7 +177,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "TOY STORY 5",
@@ -177,7 +222,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18931?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Obsession",
@@ -249,7 +294,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -258,7 +303,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "DISCLOSURE DAY",
@@ -303,7 +348,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "TOY STORY 5",
@@ -339,7 +384,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -429,7 +474,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "TOY STORY 5",
@@ -456,7 +501,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Supergirl",
@@ -465,7 +510,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18927?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Girls Like Girls",
@@ -492,7 +537,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Toy Story 5",
@@ -537,7 +582,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "I Love Boosters",
@@ -546,7 +591,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "TOY STORY 5",
@@ -600,7 +645,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Toy Story 5",
@@ -753,7 +798,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Toy Story 5",
@@ -789,7 +834,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Couture",
@@ -816,7 +861,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "Supergirl",
@@ -825,7 +870,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18930?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -834,7 +879,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Black Lodge Burlesque: LOST HIGHWAY",
@@ -888,7 +933,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Black Past",
@@ -969,7 +1014,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -1005,7 +1050,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "I Love Boosters",
@@ -1014,7 +1059,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "NOWHERE (1997)",
@@ -1041,7 +1086,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Toy Story 5",
@@ -1095,7 +1140,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "The Rocky Horror Picture Show with Thom Hilton",
@@ -1113,7 +1158,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "BACKROOMS",
@@ -1176,7 +1221,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Toy Story 5",
@@ -1212,7 +1257,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Supergirl",
@@ -1221,7 +1266,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -1347,7 +1392,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "TOY STORY 5",
@@ -1401,7 +1446,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18933?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "RRR",
@@ -1446,7 +1491,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -1455,7 +1500,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "DISCLOSURE DAY",
@@ -1491,7 +1536,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "TOY STORY 5",
@@ -1527,7 +1572,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Scenes From A Marriage",
@@ -1617,7 +1662,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "TOY STORY 5",
@@ -1644,7 +1689,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Supergirl",
@@ -1653,7 +1698,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18907?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "SO I MARRIED AN AXE MURDERER",
@@ -1698,7 +1743,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Toy Story 5",
@@ -1734,7 +1779,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "I Love Boosters",
@@ -1743,7 +1788,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -1806,7 +1851,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -1923,7 +1968,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "OBSESSION",
@@ -1977,7 +2022,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Couture",
@@ -2022,7 +2067,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "Supergirl",
@@ -2031,7 +2076,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18910?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -2040,7 +2085,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "TOY STORY 5",
@@ -2121,7 +2166,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -2130,7 +2175,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "THE GREAT MUPPET CAPER",
@@ -2175,7 +2220,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Supergirl",
@@ -2184,7 +2229,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -2301,7 +2346,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -2310,7 +2355,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Girls Like Girls",
@@ -2337,7 +2382,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "TOY STORY 5",
@@ -2364,7 +2409,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -2463,7 +2508,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "TOY STORY 5",
@@ -2490,7 +2535,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Supergirl",
@@ -2499,7 +2544,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18911?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Girls Like Girls",
@@ -2526,7 +2571,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Toy Story 5",
@@ -2562,7 +2607,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "LABYRINTH",
@@ -2580,7 +2625,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -2634,7 +2679,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Toy Story 5",
@@ -2751,7 +2796,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "OBSESSION",
@@ -2796,7 +2841,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Couture",
@@ -2850,7 +2895,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "Supergirl",
@@ -2859,7 +2904,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18914?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -2868,7 +2913,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Oscilloscope Laboratories Presents \u2013 SOMETIMES I THINK ABOUT DYING",
@@ -2904,7 +2949,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -2949,7 +2994,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -2958,7 +3003,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "World-Class Soccer 2026",
@@ -3003,7 +3048,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Supergirl",
@@ -3012,7 +3057,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -3129,7 +3174,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -3138,7 +3183,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Girls Like Girls",
@@ -3174,7 +3219,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "TOY STORY 5",
@@ -3201,7 +3246,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -3282,7 +3327,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "TOY STORY 5",
@@ -3309,7 +3354,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Supergirl",
@@ -3318,7 +3363,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18915?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Girls Like Girls",
@@ -3354,7 +3399,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Toy Story 5",
@@ -3399,7 +3444,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "I Love Boosters",
@@ -3408,7 +3453,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "SO I MARRIED AN AXE MURDERER",
@@ -3462,7 +3507,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Toy Story 5",
@@ -3507,7 +3552,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Disclosure Day",
@@ -3624,7 +3669,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Couture",
@@ -3678,7 +3723,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "Supergirl",
@@ -3687,7 +3732,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18918?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -3696,7 +3741,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "TOY STORY 5",
@@ -3723,7 +3768,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -3768,7 +3813,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -3777,7 +3822,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "World-Class Soccer 2026",
@@ -3813,7 +3858,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.2
+    "rating": 6.3
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -3840,7 +3885,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "TOY STORY 5",
@@ -3894,7 +3939,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "STOP! THAT! TRAIN!",
@@ -3921,7 +3966,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "OBSESSION",
@@ -3957,7 +4002,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Minions & Monsters",
@@ -3966,7 +4011,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.2
+    "rating": 6.3
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -3984,7 +4029,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "TOY STORY 5",
@@ -4056,7 +4101,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "OBSESSION (OPEN CAPTION)",
@@ -4119,7 +4164,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "TOY STORY 5",
@@ -4146,7 +4191,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Supergirl",
@@ -4155,7 +4200,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18919?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "12 ANGRY MEN (1957)",
@@ -4173,7 +4218,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.2
+    "rating": 6.3
   },
   {
     "title": "Supergirl",
@@ -4182,7 +4227,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Toy Story 5",
@@ -4236,7 +4281,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -4299,7 +4344,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "I Think, Therefore I Scam: Chameleon Street",
@@ -4326,7 +4371,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.2
+    "rating": 6.3
   },
   {
     "title": "Disclosure Day",
@@ -4398,7 +4443,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -4452,7 +4497,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Couture",
@@ -4497,7 +4542,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "Supergirl",
@@ -4506,7 +4551,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18922?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "SUPERGIRL",
@@ -4515,7 +4560,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "TOY STORY 5",
@@ -4560,7 +4605,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "BACKROOMS",
@@ -4605,7 +4650,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Toy Story 5",
@@ -4623,7 +4668,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.2
+    "rating": 6.3
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -4650,7 +4695,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "TOY STORY 5",
@@ -4704,7 +4749,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "STOP! THAT! TRAIN!",
@@ -4731,7 +4776,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "OBSESSION",
@@ -4767,7 +4812,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Minions & Monsters",
@@ -4776,7 +4821,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.2
+    "rating": 6.3
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -4794,7 +4839,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "TOY STORY 5",
@@ -4875,7 +4920,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "DISCLOSURE DAY",
@@ -4947,7 +4992,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "TOY STORY 5",
@@ -4974,7 +5019,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Supergirl",
@@ -4983,7 +5028,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18923?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Leviticus",
@@ -5001,7 +5046,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.2
+    "rating": 6.3
   },
   {
     "title": "Screening of Documentary Complicated",
@@ -5019,7 +5064,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "Toy Story 5",
@@ -5073,7 +5118,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -5136,7 +5181,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "The World is Wrong About\u2026\u2018Mad Dog Time\u2019",
@@ -5163,7 +5208,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.2
+    "rating": 6.3
   },
   {
     "title": "DISCLOSURE DAY",
@@ -5253,7 +5298,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -5307,7 +5352,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "Couture",
@@ -5352,7 +5397,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18926?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "SUPERGIRL",
@@ -5361,7 +5406,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "TOY STORY 5",
@@ -5406,7 +5451,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.9
+    "rating": null
   },
   {
     "title": "I DRINK YOUR BLOOD (1971)",
@@ -5478,7 +5523,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "World-Class Soccer 2026",
@@ -5685,7 +5730,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "WAKING UP FROM A NAP",
@@ -5757,7 +5802,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -6000,7 +6045,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "TOY STORY 5",
@@ -6273,6 +6318,15 @@
     "rating": null
   },
   {
+    "title": "Indiana Jones and the Temple of Doom",
+    "start": "2026-07-05T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/indiana-jones-and-the-temple-of-doom/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/06161012/gpdVNUaa4LhRMLfJOPj1AZdhAZ3-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0087469/",
+    "rating": 7.5
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-07-05T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -6306,7 +6360,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.0
+    "rating": 5.9
   },
   {
     "title": "TOY STORY 5",
@@ -7038,22 +7092,13 @@
     "rating": 7.2
   },
   {
-    "title": "Go Fish x Lesbian Cinema Club",
-    "start": "2026-07-09T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/go-fish-x-lesbian-cinema-club/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/19111706/4hczdEX2RmQTOmiIKygoOYCy0bI.jpg",
-    "imdb": "https://www.imdb.com/title/tt0109913/",
-    "rating": 5.7
-  },
-  {
     "title": "Gail Daughtry and the Celebrity Sex Pass",
     "start": "2026-07-09T19:15:00-07:00",
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
     "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "EMPLOYEES\u2019 ENTRANCE",
@@ -7205,8 +7250,8 @@
     "theater": "Clinton Street Theater",
     "url": "https://cstpdx.com/event/barbarella/",
     "poster": "https://cstpdx.com/wp-content/uploads/2026/05/barbarella.jpg",
-    "imdb": "https://www.imdb.com/title/tt0062711/",
-    "rating": 5.9
+    "imdb": "https://www.imdb.com/title/tt22741444/",
+    "rating": null
   },
   {
     "title": "My Own Private Miniplex",
@@ -7224,7 +7269,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
     "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "MORE PAY-LESS WORK: A Roaring Night Out for the Columbia River Theatre Organ Society",
@@ -7260,7 +7305,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
     "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "HOUR OF THE WOLF",
@@ -7503,7 +7548,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
     "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "THE INVITE",
@@ -7548,7 +7593,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
     "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "A KNIGHT'S TALE (2001)",
@@ -7677,6 +7722,15 @@
     "rating": null
   },
   {
+    "title": "A League of Their Own x Portland Arts Week",
+    "start": "2026-07-12T15:30:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/a-league-of-their-own/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/08130811/f9BtX6wYOwJUyfUr4vyeT3COz6m-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0104694/",
+    "rating": 7.4
+  },
+  {
     "title": "FOR A FEW DOLLARS MORE (1965)",
     "start": "2026-07-12T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -7755,7 +7809,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
     "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "THE INVITE",
@@ -10656,6 +10710,15 @@
     "rating": null
   },
   {
+    "title": "The Stimming Pool",
+    "start": "2026-07-23T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/the-stimming-pool/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/26185136/9RddmxlHOU1pDTeHVfP9QS552BV-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt32122837/",
+    "rating": 6.7
+  },
+  {
     "title": "Reading Lolita in Tehran",
     "start": "2026-07-23T19:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -11338,15 +11401,6 @@
     "poster": "https://indy-systems.imgix.net/9fcy5725tjr0htmtrd3ibddjxmsu?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0469494/",
     "rating": 8.2
-  },
-  {
-    "title": "Give Me the Ball! x Portland Arts Week",
-    "start": "2026-07-26T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/give-me-the-ball/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/08155701/et5zMzsVgC9sXqPico8I6ij9cNZ.jpg",
-    "imdb": "https://www.imdb.com/title/tt39150093/",
-    "rating": 8.7
   },
   {
     "title": "Her Private Hell",

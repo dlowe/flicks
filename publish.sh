@@ -5,24 +5,39 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
-# Run on wake (launchd) often fires before Wi-Fi reassociates — wait briefly for
-# GitHub before doing anything that needs the network.
-for _ in $(seq 1 30); do
-  curl -sf -m 4 https://github.com >/dev/null 2>&1 && break
-  sleep 2
-done
+REUSE=
+case "${1:-}" in
+  "") ;;
+  -n|--reuse|--no-build) REUSE=1 ;;
+  *) echo "usage: publish.sh [--reuse]   (--reuse: publish the local render, no fetch)" >&2; exit 2 ;;
+esac
 
-# Refuse to publish a stale checkout: if origin/main has commits we don't have,
-# we'd be building from old code/config (filter.toml, adapters, template) and
-# silently shipping it. Fail loudly so the fix is an obvious `git pull`. Set
-# FLICKS_ALLOW_STALE=1 to publish from a deliberately-behind tree anyway.
-git fetch --quiet origin main
-if [ "${FLICKS_ALLOW_STALE:-}" != "1" ] && ! git merge-base --is-ancestor origin/main HEAD; then
-  echo "✗ Checkout is behind origin/main — 'git pull' before publishing." >&2
-  exit 1
+if [ -n "$REUSE" ]; then
+  # Dev affordance: ship the render already on disk (e.g. from ./render.sh),
+  # skipping the ~50s fetch and the cron-oriented wake/freshness guards below —
+  # the explicit flag is the "I know what I'm publishing" signal.
+  [ -f index.html ] || { echo "✗ No local render to reuse — run ./render.sh (or ./run.sh) first." >&2; exit 1; }
+  echo "Reusing the existing local render (no fetch)."
+else
+  # Run on wake (launchd) often fires before Wi-Fi reassociates — wait briefly for
+  # GitHub before doing anything that needs the network.
+  for _ in $(seq 1 30); do
+    curl -sf -m 4 https://github.com >/dev/null 2>&1 && break
+    sleep 2
+  done
+
+  # Refuse to publish a stale checkout: if origin/main has commits we don't have,
+  # we'd be building from old code/config (filter.toml, adapters, template) and
+  # silently shipping it. Fail loudly so the fix is an obvious `git pull`. Set
+  # FLICKS_ALLOW_STALE=1 to publish from a deliberately-behind tree anyway.
+  git fetch --quiet origin main
+  if [ "${FLICKS_ALLOW_STALE:-}" != "1" ] && ! git merge-base --is-ancestor origin/main HEAD; then
+    echo "✗ Checkout is behind origin/main — 'git pull' before publishing." >&2
+    exit 1
+  fi
+
+  ./run.sh
 fi
-
-./run.sh
 
 work="$(mktemp -d)"
 trap 'git worktree remove --force "$work" 2>/dev/null || true; rm -rf "$work"' EXIT

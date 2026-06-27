@@ -106,6 +106,8 @@ Decision order per film: **allow > deny > non-film keyword > multiplex > cross-t
 - `./publish.sh` builds + pushes to `gh-pages` (worktree off `origin/gh-pages`).
   It waits for GitHub, then **aborts if the checkout is behind `origin/main`**
   (`FLICKS_ALLOW_STALE=1` overrides) so an unattended run can't ship stale code.
+  `./publish.sh --reuse` skips the fetch/build and those guards to ship the render
+  already on disk (`./render.sh` + `--reuse` = ~1s dev-publish loop).
   `./install-launchagent.sh` schedules it daily via a launchd LaunchAgent
   (`launchd/com.dlowe.flicks.publish.plist`) — launchd, not cron, so a run missed
   during sleep fires on the next wake. macOS-only; logs to `.publish.log`.

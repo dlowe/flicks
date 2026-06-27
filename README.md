@@ -78,6 +78,8 @@ branch:
 
 - **From your machine (primary):** `./publish.sh` — builds and pushes `index.html`
   to `gh-pages` via a throwaway git worktree (the main tree is left untouched).
+  `./publish.sh --reuse` skips the ~50s fetch and ships the render already on disk
+  — pair it with `./render.sh` to iterate on the template/filter and publish in ~1s.
 - **From CI:** `.github/workflows/publish.yml`, manual `workflow_dispatch` only.
   It's not on push/cron because GitHub's datacenter IPs get a Cloudflare 403 from
   Hollywood Theatre, so a CI-built page is missing Hollywood — publish locally

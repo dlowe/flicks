@@ -61,7 +61,8 @@ in a fraction of a second.
   ago still shows only upcoming showings.
 - Hide things with the **×**: on a film (every showing of it disappears), by a
   theater's name (in "by theater"), by a date's heading (in "by date"), or a whole
-  weekday via the chips below the controls. All are saved in your browser; the
+  weekday via the chips below the controls — a hidden weekday stays as a faded chip
+  with a **+** to bring it back. All are saved in your browser; the
   floating bar at the bottom tallies each kind and resets them. **⌘Z / Ctrl-Z**
   undoes your last hide (briefly flashing what came back); **⇧⌘Z / Ctrl-Y** redoes.
 - Left open in a tab, the page auto-reloads when it's been regenerated, preserving

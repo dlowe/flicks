@@ -35,7 +35,9 @@ build time to discover each theater's data source and write its adapter.)
   the per-film hide is the *only* filter it pierces (theater/weekday/date are
   structural). Leaks self-expire once seen and re-audition on each later new
   showing; hiding a film resolves its current showings so it won't leak back, and
-  `exportRows()` keeps leaked films out of the `.ics`. `THEATER_HOMES` maps theater names to
+  `exportRows()` keeps leaked films out of the `.ics`. The weekday band renders all
+  seven days; a hidden one is a faded chip with a **+** to restore it (same idiom).
+  `THEATER_HOMES` maps theater names to
   homepages, used for the name links and the "theaters covered" modal (opened from
   the page title) — which lists all covered theaters, even ones filtered to nothing.
   Palette follows the OS (CSS vars + `prefers-color-scheme`); filtering everything

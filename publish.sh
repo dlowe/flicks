@@ -17,8 +17,9 @@ else
   git worktree add --force --orphan -b gh-pages "$work"
 fi
 
-cp index.html events.json "$work/"
-git -C "$work" add index.html events.json
+assets="index.html events.json manifest.webmanifest icon.svg apple-touch-icon.png icon-192.png icon-512.png"
+cp $assets "$work/"
+git -C "$work" add $assets
 git -C "$work" commit -m "Publish $(date -u +%Y-%m-%dT%H:%MZ)" \
   && git -C "$work" push origin gh-pages \
   || echo "Nothing new to publish."

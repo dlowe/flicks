@@ -4,6 +4,18 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Flicks — Portland indie cinema</title>
+
+<!-- Home-screen / standalone app (the page is used as an iOS home-screen app). -->
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Flicks">
+<meta name="theme-color" content="#14110f" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#faf8f5" media="(prefers-color-scheme: light)">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" type="image/svg+xml" href="icon.svg">
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
 <style>
   /* Dark is the default palette; the light override below follows the OS. */
   :root {
@@ -50,6 +62,9 @@
     }
   }
   * { box-sizing: border-box; }
+  /* In a standalone home-screen app the unsafe areas (notch, home indicator)
+     are filled from the root background — match it to the page. */
+  html { background: var(--bg); }
   body {
     font: 16px/1.4 -apple-system, system-ui, sans-serif;
     background: var(--bg); color: var(--fg); margin: 0;
@@ -125,6 +140,15 @@
   .btn:hover { border-color: var(--accent); color: var(--accent); }
   .btn[disabled] { opacity: .45; cursor: default; }
   .hint { color: var(--faint); font-size: .8rem; margin: 0 0 1.25rem; }
+
+  #toast {
+    position: fixed; left: 50%; bottom: calc(1.25rem + env(safe-area-inset-bottom, 0px));
+    transform: translateX(-50%);
+    background: var(--accent); color: var(--on-accent); font-size: .85rem;
+    padding: .5rem .9rem; border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,.3);
+    z-index: 50;
+  }
+  #toast[hidden] { display: none; }
 
   .health {
     background: var(--health-bg); border: 1px solid var(--health-border); color: var(--health-fg);
@@ -222,7 +246,10 @@
     background: var(--surface); border-top: 1px solid var(--border);
     color: var(--faint); font-size: .8rem;
     display: flex; flex-wrap: nowrap; align-items: center; gap: 1rem;
-    justify-content: space-between; padding: .6rem 1rem;
+    justify-content: space-between;
+    padding: .6rem calc(1rem + env(safe-area-inset-right, 0px))
+             calc(.6rem + env(safe-area-inset-bottom, 0px))
+             calc(1rem + env(safe-area-inset-left, 0px));
   }
   #footerbar button {
     background: none; border: 0; color: var(--accent); cursor: pointer;
@@ -257,6 +284,61 @@
     .go { font-size: 1.1rem; padding: .35rem; }
     .ics-label { display: none; }   /* calendar button -> icon only, to slim the header */
   }
+
+  /* ===== Easter egg: Eraserhead (Lynch, 1977) gets the full Lynchian meltdown.
+     Deliberately ridiculous, but self-contained — links/× stay clickable, the card
+     never pushes page layout (ornaments sit within the body's 1rem gutter), and all
+     motion (incl. the projector-invert strobe) is disabled under reduced-motion. */
+  @keyframes eh-shake {
+    0%,100% { transform: translate(0,0) rotate(-1deg); }
+    20% { transform: translate(-2px,1px) rotate(1.3deg); }
+    40% { transform: translate(2px,-2px) rotate(-1.5deg); }
+    60% { transform: translate(-1px,-1px) rotate(.9deg); }
+    80% { transform: translate(1px,2px) rotate(-.6deg); }
+  }
+  @keyframes eh-flicker {   /* the projector on the fritz — brief, infrequent inversions */
+    0%,38%,41%,72%,75%,100% { filter: none; }
+    39%,40% { filter: invert(1) contrast(1.4); }
+    73%,74% { filter: invert(1); }
+  }
+  @keyframes eh-glow {
+    0%,100% { text-shadow: 0 0 4px #fff, 0 0 14px #cfcfcf; }
+    50% { text-shadow: 0 0 10px #fff, 0 0 28px #fff, 0 0 48px #888; }
+  }
+  @keyframes eh-drift {
+    from { transform: translateY(0) rotate(-6deg); }
+    to   { transform: translateY(-10px) rotate(8deg); }
+  }
+  .eraserhead {
+    position: relative; isolation: isolate;
+    color: #f3efe7 !important;
+    background:
+      radial-gradient(circle at 28% 18%, rgba(255,255,255,.12), transparent 60%),
+      radial-gradient(circle at 74% 82%, rgba(255,255,255,.09), transparent 55%),
+      repeating-linear-gradient(0deg, #000 0 2px, #101010 2px 4px) !important;  /* scanlines */
+    border-radius: 8px;
+    outline: 2px solid #fff; outline-offset: -2px;
+    box-shadow: 0 0 0 1px #000, 0 0 26px rgba(255,255,255,.28);
+    animation: eh-shake .45s steps(3,end) infinite, eh-flicker 4.7s steps(1,end) infinite;
+    will-change: transform, filter;
+  }
+  .eraserhead .title, .eraserhead .title a, .eraserhead .theater, .eraserhead .time { color: #fff !important; }
+  .eraserhead .title {
+    font-weight: 800; letter-spacing: .06em; text-transform: uppercase;
+    animation: eh-glow 2.4s ease-in-out infinite;
+  }
+  .eraserhead .poster { filter: grayscale(1) contrast(1.3); }
+  .eraserhead::before, .eraserhead::after {   /* floating ornaments — never intercept taps */
+    position: absolute; font-size: 1.8rem; pointer-events: none; z-index: 2; opacity: .85;
+    animation: eh-drift 2.6s ease-in-out infinite alternate;
+  }
+  .eraserhead::before { content: "👁"; left: -.5rem; top: -.55rem; }
+  .eraserhead::after  { content: "🌫"; right: -.4rem; bottom: -.5rem; animation-delay: .7s; }
+  @media (prefers-reduced-motion: reduce) {
+    .eraserhead, .eraserhead .title,
+    .eraserhead::before, .eraserhead::after { animation: none !important; }
+    .eraserhead { filter: none !important; }
+  }
 </style>
 </head>
 <body data-build="{{ build_id }}">
@@ -277,6 +359,7 @@
     </div>
     <input id="q" class="search" type="search" placeholder="Search films…" aria-label="Search films" autocomplete="off">
     <button id="ics" class="btn" title="Download the films you've kept as a calendar file">📅 Add to calendar</button>
+    <button id="reload" class="btn" title="Check for the latest listings" aria-label="Check for the latest listings">↻</button>
   </div>
 
   <details class="dayfilter">
@@ -290,6 +373,8 @@
   <div id="empty" hidden></div>
   <div id="live" class="vh" aria-live="polite"></div>
 </div>
+
+<div id="toast" role="status" aria-live="polite" hidden></div>
 
 <dialog id="theaters">
   <h2>Theaters covered</h2>
@@ -467,6 +552,8 @@
     return ' <a class="go" href="' + esc(r.url) + '" target="_blank" rel="noopener"'
       + ' title="Open showtimes / tickets" aria-label="Open showtimes">🔗</a>';
   }
+  // Easter egg: David Lynch's Eraserhead gets the full Lynchian treatment (see CSS).
+  function ehClass(r) { return /eraserhead/i.test(r.title) ? " eraserhead" : ""; }
 
   // visibleRows: from today onward, not hidden, theater switched on, matching the
   // search query, in the original chronological order.
@@ -518,7 +605,7 @@
   function renderByDate(rows) {
     return groups(rows, function (r) { return r.date; }).map(function (g) {
       var body = g.rows.map(function (r) {
-        return '<div class="showing" data-rk="' + esc(r.key) + '" data-rt="' + esc(r.theater)
+        return '<div class="showing' + ehClass(r) + '" data-rk="' + esc(r.key) + '" data-rt="' + esc(r.theater)
           + '" data-rd="' + r.date + '">' + poster(r)
           + '<div class="meta"><div class="title">' + link(r.url, r.title, "") + ratingBadge(r)
           + '</div><div class="line">' + times(r) + ' &nbsp;·&nbsp; '
@@ -545,7 +632,7 @@
         return '<div class="line"><span class="theater">' + lead(r)
           + "</span> &nbsp;·&nbsp; " + times(r) + goLink(r) + "</div>";
       }).join("");
-      return '<div class="film" data-rk="' + esc(first.key) + '"' + rt + ">" + poster(first)
+      return '<div class="film' + ehClass(first) + '" data-rk="' + esc(first.key) + '"' + rt + ">" + poster(first)
         + '<div class="meta"><div class="title">' + title + ratingBadge(first) + "</div>" + lines + "</div>"
         + hideBtn(first.key) + "</div>";
     }).join("");
@@ -757,11 +844,18 @@
 </script>
 
 <script>
-// Auto-reload so a tab left open picks up regenerated listings: poll our own
-// URL and reload ONLY when the build marker actually changes (no flicker),
-// preserving scroll. Offline-safe by design — if we're offline or the fetch
-// fails/blocked, we do nothing and keep the cached page, so the page stays fully
-// usable from cache with no network (it never reloads into a dead connection).
+// Keep an open — or re-opened — page current without ever reloading into a dead
+// connection: staying usable from cache matters more than being perfectly fresh.
+// Three triggers feed one offline-safe path (a fetch that no-ops if it fails):
+//   * a cheap 60s HEAD poll, for a tab genuinely left open;
+//   * re-show (visibilitychange/pageshow), the iOS home-screen case — a
+//     backgrounded standalone app freezes its timers and is restored from a
+//     frozen, possibly stale snapshot, so reopening it (not the paused timer) is
+//     the moment to refresh; and
+//   * a manual ↻ button, since standalone apps have no reload / pull-to-refresh.
+// The authoritative check compares the *served page's* build marker to ours, so a
+// cold launch served a stale copy from the HTTP cache is caught — a HEAD's ETag
+// baseline alone wouldn't notice the page it loaded was already behind.
 (function () {
   var SKEY = "flicks.scroll";
   var BUILD = document.body.dataset.build;
@@ -774,34 +868,80 @@
     location.reload();
   }
 
-  // Cheap change-detection: a HEAD request, comparing ETag/Last-Modified, every
-  // 60s. Far lighter than re-downloading the page; first response sets the
-  // baseline. (file:// has no headers, so this simply no-ops there.)
-  var marker = null, lastActive = Date.now();
+  var lastActive = Date.now();
   ["keydown", "pointerdown", "input"].forEach(function (ev) {
     document.addEventListener(ev, function () { lastActive = Date.now(); }, true);
   });
-  // Don't yank the page out from under an active filtering session: hold off while
-  // a dialog is open, a field is focused, or there was input in the last 30s. The
-  // change is remembered, so the reload just happens once things go idle.
+  // Don't yank the page out from under an active session: hold off while a dialog
+  // is open, a field is focused, or there was input in the last 30s. The newer
+  // build stays on the server, so the next trigger just picks it up.
   function busy() {
     return !!document.querySelector("dialog[open]")
       || (document.activeElement && document.activeElement.tagName === "INPUT")
       || (Date.now() - lastActive < 30000);
   }
-  function check() {
-    if (navigator.onLine === false) return;  // offline: keep the cached page as-is
+
+  // Fetch the page and reload only if its build differs from the one we're
+  // running. The fetch doubles as the connectivity check: if it fails (offline or
+  // blocked) we keep the cached page untouched. `force` bypasses the busy guard
+  // for an explicit tap. Resolves to whether a newer build was seen.
+  function refresh(force) {
+    if (navigator.onLine === false) return Promise.resolve(false);
+    return fetch(location.href, { cache: "no-store" })
+      .then(function (r) { return r.ok ? r.text() : null; })
+      .then(function (html) {
+        if (!html) return false;
+        var m = html.match(/data-build="([^"]+)"/);
+        var stale = !!m && m[1] !== BUILD;
+        if (stale && (force || !busy())) reload();
+        return stale;
+      })
+      .catch(function () { return false; });  // offline/blocked: keep the cache
+  }
+
+  // Cheap periodic change-detection for a long-open tab: a HEAD comparing
+  // ETag/Last-Modified, escalating to a full refresh() only when it moves. (A
+  // file:// origin has no headers, so this no-ops there.)
+  var marker = null;
+  function poll() {
+    if (navigator.onLine === false) return;
     fetch(location.href, { method: "HEAD", cache: "no-store" })
       .then(function (r) {
         var m = r.headers.get("etag") || r.headers.get("last-modified");
         if (!m) return;
-        if (marker === null) marker = m;                 // baseline
-        else if (m !== marker && !busy()) reload();       // changed + idle -> reload
+        if (marker === null) marker = m;                  // baseline
+        else if (m !== marker) { marker = m; refresh(false); }
       })
-      .catch(function () { /* offline or blocked: keep the cached page, try again later */ });
+      .catch(function () { /* offline/blocked: keep the cached page */ });
   }
-  check();                       // establish the baseline promptly
-  setInterval(check, 60000);
+
+  // Re-show: the surest moment something changed while we were away.
+  // visibilitychange covers iOS app-switching; pageshow covers a bfcache restore.
+  function onShow() { if (document.visibilityState !== "hidden") refresh(false); }
+  document.addEventListener("visibilitychange", onShow);
+  window.addEventListener("pageshow", onShow);
+
+  var toast = document.getElementById("toast"), toastT = null;
+  function flash(msg) {
+    if (!toast) return;
+    toast.textContent = msg;
+    toast.hidden = false;
+    clearTimeout(toastT);
+    toastT = setTimeout(function () { toast.hidden = true; }, 2200);
+  }
+
+  var btn = document.getElementById("reload");
+  if (btn) btn.addEventListener("click", function () {
+    if (navigator.onLine === false) { flash("Offline — showing saved listings"); return; }
+    btn.disabled = true;
+    refresh(true).then(function (stale) {   // reload() navigates away if stale
+      btn.disabled = false;
+      if (!stale) flash("Up to date");
+    });
+  });
+
+  refresh(false);                // catch a stale-from-cache cold launch promptly
+  setInterval(poll, 60000);
 })();
 </script>
 </body>

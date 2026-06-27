@@ -1,276 +1,6 @@
 [
   {
     "title": "Disclosure Day",
-    "start": "2026-06-26T15:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/disclosure-day",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_d6b380a3-24ca-49b1-986f-085ded7010c3.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-06-26T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-06-26T15:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-06-26T15:35:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-06-26T15:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-06-26T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.1
-  },
-  {
-    "title": "12 ANGRY MEN (1957)",
-    "start": "2026-06-26T16:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8771DBA1BC60A98FEB0BE74B14C8BA26B6A1B3985BD3E69E232C9EA7CDB5B760_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0050083/",
-    "rating": 9.0
-  },
-  {
-    "title": "BACKROOMS",
-    "start": "2026-06-26T16:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/BE03262706DE84C621F9FD69B4B5C1D983AC9DC188AA0EA0E34A42CC3931C13D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt26657236/",
-    "rating": 7.1
-  },
-  {
-    "title": "Toy Story 5",
-    "start": "2026-06-26T16:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
-    "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "SUPERGIRL",
-    "start": "2026-06-26T16:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-06-26T16:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "Obsession",
-    "start": "2026-06-26T16:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/obsession",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_6751b6b9-058d-480d-a0b7-4ecff8a8d606.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.1
-  },
-  {
-    "title": "JACKASS: BEST AND LAST",
-    "start": "2026-06-26T16:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
-  },
-  {
-    "title": "Supergirl",
-    "start": "2026-06-26T16:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/18897?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
-  },
-  {
-    "title": "Girls Like Girls",
-    "start": "2026-06-26T16:25:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
-    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32432654/",
-    "rating": 6.9
-  },
-  {
-    "title": "Leviticus",
-    "start": "2026-06-26T16:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/leviticus",
-    "poster": "https://cdn.vwassets.com/cinema21.com/1780427150051_Leviticus-KeyArtPoster-27x40.jpg",
-    "imdb": "https://www.imdb.com/title/tt39143902/",
-    "rating": 6.8
-  },
-  {
-    "title": "Supergirl",
-    "start": "2026-06-26T16:40:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
-    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
-  },
-  {
-    "title": "Toy Story 5",
-    "start": "2026-06-26T16:45:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/18895?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "Couture",
-    "start": "2026-06-26T17:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/couture",
-    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt34688195/",
-    "rating": 5.7
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-06-26T17:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "JACKASS BEST AND LAST",
-    "start": "2026-06-26T17:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
-  },
-  {
-    "title": "LABYRINTH",
-    "start": "2026-06-26T17:10:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/labyrinth",
-    "poster": "https://indy-systems.imgix.net/eumdcskaa912xx6gy8uc87d0rlec?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0091369/",
-    "rating": 7.3
-  },
-  {
-    "title": "I Love Boosters",
-    "start": "2026-06-26T17:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
-    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
-  },
-  {
-    "title": "DEATH OF ROBIN HOOD",
-    "start": "2026-06-26T17:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F6BB9470D6B3658A7F35250C0366C73D870907BDFF61B4FD3B8A346FE5D88981_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32273171/",
-    "rating": 6.4
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-06-26T17:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-06-26T18:00:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-06-26T18:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "Toy Story 5",
-    "start": "2026-06-26T18:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
-    "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-06-26T18:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.1
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-06-26T18:20:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "Disclosure Day",
     "start": "2026-06-26T18:30:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/disclosure-day",
@@ -3214,19 +2944,19 @@
   },
   {
     "title": "DISCLOSURE DAY",
-    "start": "2026-06-29T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
+    "start": "2026-06-29T15:10:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
   },
   {
     "title": "DISCLOSURE DAY",
     "start": "2026-06-29T15:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
   },
@@ -3546,15 +3276,6 @@
     "rating": 6.7
   },
   {
-    "title": "LEVITICUS",
-    "start": "2026-06-29T18:50:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FB671F4A23ACB77E511C096F0FCC9EF5AFA73E90C1AB22790DD039990DE31265_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt39143902/",
-    "rating": 6.8
-  },
-  {
     "title": "12 ANGRY MEN (1957)",
     "start": "2026-06-29T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -3790,7 +3511,7 @@
   },
   {
     "title": "OBSESSION",
-    "start": "2026-06-29T21:35:00-07:00",
+    "start": "2026-06-29T21:45:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
@@ -6804,6 +6525,15 @@
     "rating": null
   },
   {
+    "title": "Indiana Jones and the Temple of Doom",
+    "start": "2026-07-05T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/indiana-jones-and-the-temple-of-doom/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/06161012/gpdVNUaa4LhRMLfJOPj1AZdhAZ3-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0087469/",
+    "rating": 7.5
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-07-05T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -7581,8 +7311,8 @@
     "title": "EMPLOYEES\u2019 ENTRANCE",
     "start": "2026-07-09T19:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/event/employees-entrance-2026-07-09-730pm/",
-    "poster": null,
+    "url": "https://hollywoodtheatre.org/show/employees-entrance/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/emp1.jpg?fit=540%2C305&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0023986/",
     "rating": 7.2
   },
@@ -9477,6 +9207,15 @@
     "rating": 8.2
   },
   {
+    "title": "The Birdcage",
+    "start": "2026-07-18T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/the-birdcage/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/07122937/hU2XeckncHS61TWZKDtw1BrKmOO-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0115685/",
+    "rating": 7.3
+  },
+  {
     "title": "Before Midnight",
     "start": "2026-07-18T16:30:00-07:00",
     "theater": "Cinemagic",
@@ -9925,6 +9664,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt0088044/",
     "rating": 6.2
+  },
+  {
+    "title": "But I\u2019m a Cheerleader Crafternoon w/ Ritual Dyes",
+    "start": "2026-07-19T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/but-im-a-cheerleader/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/26145234/dGEwlAuzTZoZjvsqgT2MRKHnGi8.jpg",
+    "imdb": "https://www.imdb.com/title/tt0179116/",
+    "rating": 6.9
   },
   {
     "title": "The Seventh Seal",

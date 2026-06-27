@@ -29,7 +29,13 @@ build time to discover each theater's data source and write its adapter.)
   in `localStorage` (`flicks.seen`): a showing flags as New until it's been on
   screen ~1s while foregrounded, then it's marked seen; the set is pruned to the
   current horizon. First visit (or returning to find >50% of the in-filter slate
-  unseen) silently baselines instead of flooding. `THEATER_HOMES` maps theater names to
+  unseen) silently baselines instead of flooding. A new showing of a film you've
+  **hidden** "leaks" through — shown faded with a **+** to restore the film (⌘Z-
+  undoable) — so an aggressive per-film hide can't bury a genuinely-new screening;
+  the per-film hide is the *only* filter it pierces (theater/weekday/date are
+  structural). Leaks self-expire once seen and re-audition on each later new
+  showing; hiding a film resolves its current showings so it won't leak back, and
+  `exportRows()` keeps leaked films out of the `.ics`. `THEATER_HOMES` maps theater names to
   homepages, used for the name links and the "theaters covered" modal (opened from
   the page title) — which lists all covered theaters, even ones filtered to nothing.
   Palette follows the OS (CSS vars + `prefers-color-scheme`); filtering everything
@@ -90,3 +96,6 @@ Decision order per film: **allow > deny > non-film keyword > multiplex > cross-t
 - `./render.sh` rebuilds index.html from the cached `events.json` + `multiplex.json`
   with no network (~0.1s) — for iterating on filtering/rendering. (= `python -m
   flicks.main --render-only`.) `health.json`/`multiplex.json` are gitignored caches.
+- `./test.sh` (`node tests/seen.test.js`) covers the page's "new to you" / leak
+  logic — it runs the real in-page script from the template against fixture rows
+  under a tiny DOM stub. Pure node, no deps, no build/network. The only tests so far.

@@ -40,6 +40,11 @@ in a fraction of a second.
   it's been on screen for about a second; it's tracked per-showing in your browser.
   Your first visit (or coming back to find most of the slate unseen) starts the
   clock quietly rather than marking everything new.
+- A new showing of a film you've **hidden** still surfaces — faded, with a **+** to
+  bring the film back for good — so hiding "not right now" never permanently buries
+  a film that comes back around. Ignore it and it slips away again next visit (and
+  re-appears if it gets another new showing). Only the per-film hide is pierced this
+  way; hiding a theater, weekday, or date is left alone.
 - **IMDb ratings** (★) show next to films where known, and the **poster** links to
   IMDb. Each showing's **🔗** opens that theater's showtimes/tickets page; theater
   names link to the theater's homepage. (IMDb links/ratings are resolved at build

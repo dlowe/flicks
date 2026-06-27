@@ -188,6 +188,22 @@
     text-transform: uppercase; letter-spacing: .04em; padding: .04rem .32rem;
     border-radius: 4px; margin-right: .4rem; vertical-align: .1em;
   }
+  /* A film you've hidden, surfaced because it has a new showing — shown faded
+     ("temporarily here") with a + to bring it back; fades up on hover for reading. */
+  .is-leak { opacity: .5; }
+  .is-leak:hover { opacity: .85; }
+  .leak-tag {
+    color: var(--new); border: 1px solid var(--new); background: none;
+    font-size: .62rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em;
+    padding: .03rem .3rem; border-radius: 4px; margin-right: .4rem; vertical-align: .1em;
+  }
+  .unhide {
+    flex: none; align-self: center; background: none; border: 0;
+    color: var(--new); font-size: 1.5rem; line-height: 1; cursor: pointer;
+    padding: .25rem .5rem; border-radius: 4px;
+  }
+  .unhide:hover { color: var(--accent); background: var(--surface); }
+  .film > .unhide { align-self: flex-start; }
 
   h2 {
     display: flex; align-items: center;
@@ -287,7 +303,7 @@
     .hide, .hidet, .hided { color: var(--faint); }  /* always visible: no hover on touch */
     .tlist { columns: 1; }
     /* >=44px touch targets */
-    .hide, .hidet, .hided, .hideday {
+    .hide, .hidet, .hided, .hideday, .unhide {
       min-width: 44px; min-height: 44px;
       display: inline-flex; align-items: center; justify-content: center; padding: 0;
     }
@@ -424,6 +440,7 @@
   var offDates = loadSet(DATEKEY); // specific calendar dates switched off
   var seen = loadSet(SEENKEY);     // showing ids you've already laid eyes on
   var newIds = new Set();          // unseen showings to flag this session (fixed at load)
+  var seenAtLoad = new Set();      // frozen copy of `seen` at load, for stable leak rendering
   var view = localStorage.getItem(VIEWKEY) || "date";
   var query = "";  // in-page search text (not persisted)
   var cal = document.getElementById("cal");
@@ -451,8 +468,9 @@
     localStorage.setItem(UNDOKEY, JSON.stringify(undoStack.slice(-50)));
     localStorage.setItem(REDOKEY, JSON.stringify(redoStack.slice(-50)));
   }
-  function applyHide(a, on) {  // on=true hides, false un-hides
+  function applyHide(a, on) {  // on=true (re)applies the action, false reverses it
     if (a.t === "film") { on ? hidden.add(a.v) : hidden.delete(a.v); save(); }
+    else if (a.t === "unhide") { on ? hidden.delete(a.v) : hidden.add(a.v); save(); }  // inverse of "film"
     else if (a.t === "theater") { on ? off.add(a.v) : off.delete(a.v); saveOff(); }
     else if (a.t === "day") { on ? offDays.add(a.v) : offDays.delete(a.v); saveDays(); }
     else if (a.t === "date") { on ? offDates.add(a.v) : offDates.delete(a.v); saveDates(); }
@@ -570,71 +588,115 @@
   // Easter egg: David Lynch's Eraserhead gets the full Lynchian treatment (see CSS).
   function ehClass(r) { return /eraserhead/i.test(r.title) ? " eraserhead" : ""; }
 
-  // A row passes the persistent filters when it's upcoming and not hidden by film,
-  // theater, weekday, or date. Search (transient) is layered on top in visibleRows.
-  function inFilters(r) {
-    return r.date >= todayStr() && !hidden.has(r.key) && !off.has(r.theater)
+  // Structural filters: upcoming, and not hidden by theater, weekday, or date.
+  // (The per-film hide is deliberately *not* here — it's the one filter that "new
+  // to you" leaks past; see below.)
+  function passesStructural(r) {
+    return r.date >= todayStr() && !off.has(r.theater)
       && !offDays.has(weekday(r)) && !offDates.has(r.date);
   }
-
-  // visibleRows: passing the filters and matching the search query, in the
-  // original chronological order.
+  function matchesQuery(r) {
+    return !query || r.title.toLowerCase().indexOf(query) !== -1
+      || r.theater.toLowerCase().indexOf(query) !== -1;
+  }
+  // A film-hidden row "leaks" through only while it still carries a showing you
+  // haven't seen — a fresh showing of a film you'd dismissed, given one audition.
+  function leakUnseen(r) {
+    return rowIds(r).some(function (id) { return !seenAtLoad.has(id); });
+  }
+  // visibleRows: structurally allowed and matching the search; a film-hidden row
+  // appears only if it's leaking. Original chronological order.
   function visibleRows() {
     return ROWS.filter(function (r) {
-      return inFilters(r)
-        && (!query || r.title.toLowerCase().indexOf(query) !== -1
-            || r.theater.toLowerCase().indexOf(query) !== -1);
+      if (!passesStructural(r) || !matchesQuery(r)) return false;
+      return hidden.has(r.key) ? leakUnseen(r) : true;
     });
+  }
+  // For the calendar export and its count: the rows you've actually kept — leaked
+  // (still-hidden) films are an undecided audition, not part of your slate.
+  function exportRows() {
+    return visibleRows().filter(function (r) { return !hidden.has(r.key); });
   }
 
   // --- "New to you": showings you haven't laid eyes on yet, tracked at the
-  // showing level (key|theater|start) in localStorage. New showings *within your
-  // current filters* get a marker; a showing is marked seen once it's been on
-  // screen ~1s while the page is foregrounded (a glance counts; an auto-reload of
-  // a backgrounded tab doesn't). First run — or returning after enough churn that
-  // most of the in-filter slate is unseen — silently baselines instead of flooding.
+  // showing level (key|theater|start) in localStorage. A new showing within your
+  // filters gets a green "New" marker; a new showing of a film you've *hidden*
+  // leaks through faded with a "+" to un-hide it. A showing is marked seen once
+  // it's been on screen ~1s while foregrounded (a glance counts; an auto-reload of
+  // a backgrounded tab doesn't), so it stops flagging on the next visit. First run
+  // — or returning after enough churn that most of the slate is unseen — silently
+  // baselines instead of flooding.
   var NEW_BASELINE_FRAC = 0.5;  // unseen share above which we re-baseline silently
   function rowIds(r) {
     return r.starts.map(function (s) { return r.key + "|" + r.theater + "|" + s; });
   }
+  function flatIds(rows) {
+    var a = [];
+    rows.forEach(function (r) { rowIds(r).forEach(function (id) { a.push(id); }); });
+    return a;
+  }
   function initSeen() {
     var today = todayStr();
-    // Bound the set to one horizon: drop seen ids for showings that have aged out.
-    // (Prune over all upcoming rows, so hiding then un-hiding a film doesn't make
-    // its showings look new again.)
+    // All upcoming showings: the prune horizon and the cold-start baseline.
     var live = new Set();
     ROWS.forEach(function (r) {
       if (r.date >= today) rowIds(r).forEach(function (id) { live.add(id); });
     });
-    seen.forEach(function (id) { if (!live.has(id)) seen.delete(id); });
+    seen.forEach(function (id) { if (!live.has(id)) seen.delete(id); });  // bound the set
 
+    // Cold-start trigger is judged on the in-filter slate (what you'd actually see);
+    // the baseline marks *everything* upcoming so hidden films don't all leak at once.
     var candidate = [];
     ROWS.forEach(function (r) {
-      if (inFilters(r)) rowIds(r).forEach(function (id) { candidate.push(id); });
+      if (!hidden.has(r.key) && passesStructural(r)) {
+        rowIds(r).forEach(function (id) { candidate.push(id); });
+      }
     });
     var fresh = candidate.filter(function (id) { return !seen.has(id); });
     var cold = seen.size === 0
       || (candidate.length && fresh.length > NEW_BASELINE_FRAC * candidate.length);
-    if (cold) candidate.forEach(function (id) { seen.add(id); });  // baseline from now
+    if (cold) live.forEach(function (id) { seen.add(id); });  // start tracking from now
     else fresh.forEach(function (id) { newIds.add(id); });
     saveSeen();
+    seenAtLoad = new Set(seen);  // frozen snapshot, so leaks/highlights are stable all visit
   }
 
-  // Tag a render unit (one or more rows) "new" when any of its showings is unseen.
-  // data-ids carries the showings to mark seen once the unit has been viewed.
-  function newMark(rows) {
-    var ids = [];
-    rows.forEach(function (r) { rowIds(r).forEach(function (id) { ids.push(id); }); });
-    if (!ids.some(function (id) { return newIds.has(id); })) return { cls: "", attr: "", tag: "" };
-    return {
-      cls: " is-new",
-      attr: ' data-ids="' + esc(ids.join("\t")) + '"',
-      tag: '<span class="new-tag">New</span>',
-    };
+  // Tag a render unit (one or more rows). A film-hidden unit that's leaking gets the
+  // faded "+"-to-restore treatment; an in-filter unit with an unseen showing gets the
+  // "New" pill. data-ids carries the showings to mark seen once the unit's been viewed.
+  function rowMark(rows) {
+    if (rows.some(function (r) { return hidden.has(r.key) && leakUnseen(r); })) {
+      return { cls: " is-leak", attr: ' data-ids="' + esc(flatIds(rows).join("\t")) + '"',
+        tag: '<span class="leak-tag">New showing</span>' };
+    }
+    if (flatIds(rows).some(function (id) { return newIds.has(id); })) {
+      return { cls: " is-new", attr: ' data-ids="' + esc(flatIds(rows).join("\t")) + '"',
+        tag: '<span class="new-tag">New</span>' };
+    }
+    return { cls: "", attr: "", tag: "" };
+  }
+  // Hide (×) → "×" to hide; a leaking hidden film → "+" to bring it back for good.
+  function actionBtn(r) {
+    return hidden.has(r.key)
+      ? '<button class="unhide" data-unhide="' + esc(r.key)
+        + '" title="Restore this film" aria-label="Restore this film">+</button>'
+      : hideBtn(r.key);
+  }
+  // Hiding a film resolves its current showings — you've considered them — so it
+  // won't immediately leak back; only later-appearing showings re-audition.
+  function markFilmSeen(k) {
+    var today = todayStr();
+    ROWS.forEach(function (r) {
+      if (r.key === k && r.date >= today) {
+        rowIds(r).forEach(function (id) { seen.add(id); seenAtLoad.add(id); });
+      }
+    });
+    scheduleSeenSave();
   }
 
   // Mark showings seen only once genuinely looked at: visible ~1s while foregrounded.
-  // Highlights stay for the session (newIds is fixed at load); they just don't recur.
+  // Updates the persisted set but not seenAtLoad, so a unit stays flagged this visit
+  // (newIds/leaks are fixed at load) and simply doesn't recur next visit.
   var SEE_MS = 1000, dwell = new Map(), seenSaveT = null;
   function scheduleSeenSave() { clearTimeout(seenSaveT); seenSaveT = setTimeout(saveSeen, 400); }
   function markSeen(el) {
@@ -658,7 +720,7 @@
     seenObserver.disconnect();
     dwell.forEach(function (t) { clearTimeout(t); });
     dwell.clear();
-    cal.querySelectorAll(".is-new").forEach(function (el) { seenObserver.observe(el); });
+    cal.querySelectorAll(".is-new, .is-leak").forEach(function (el) { seenObserver.observe(el); });
   }
 
   // "Soon" = today through +2 days; surfaced with a distinct emphasis.
@@ -699,13 +761,13 @@
   function renderByDate(rows) {
     return groups(rows, function (r) { return r.date; }).map(function (g) {
       var body = g.rows.map(function (r) {
-        var nm = newMark([r]);
+        var nm = rowMark([r]);
         return '<div class="showing' + ehClass(r) + nm.cls + '" data-rk="' + esc(r.key) + '" data-rt="' + esc(r.theater)
           + '" data-rd="' + r.date + '"' + nm.attr + '>' + poster(r)
           + '<div class="meta"><div class="title">' + nm.tag + link(r.url, r.title, "") + ratingBadge(r)
           + '</div><div class="line">' + times(r) + ' &nbsp;·&nbsp; '
           + '<span class="theater">' + link(r.home, r.theater, "") + "</span></div></div>"
-          + hideBtn(r.key) + "</div>";
+          + actionBtn(r) + "</div>";
       }).join("");
       var label = esc(fmtLong(g.key));
       var lab = dayLabel(g.key);
@@ -722,7 +784,7 @@
     var rt = cardTheater ? ' data-rt="' + esc(cardTheater) + '"' : "";
     return filmGroups.map(function (g) {
       var first = g.rows[0];
-      var nm = newMark(g.rows);
+      var nm = rowMark(g.rows);
       var title = linkTitle ? link(first.url, first.title, "") : esc(first.title);
       var lines = g.rows.map(function (r) {
         return '<div class="line"><span class="theater">' + lead(r)
@@ -730,7 +792,7 @@
       }).join("");
       return '<div class="film' + ehClass(first) + nm.cls + '" data-rk="' + esc(first.key) + '"' + rt + nm.attr + ">" + poster(first)
         + '<div class="meta"><div class="title">' + nm.tag + title + ratingBadge(first) + "</div>" + lines + "</div>"
-        + hideBtn(first.key) + "</div>";
+        + actionBtn(first) + "</div>";
     }).join("");
   }
 
@@ -803,7 +865,7 @@
     return L.map(fold).join("\r\n");
   }
   function downloadICS() {
-    var rows = visibleRows();
+    var rows = exportRows();
     if (!rows.length) return;
     var blob = new Blob([buildICS(rows)], { type: "text/calendar;charset=utf-8" });
     var url = URL.createObjectURL(blob);
@@ -855,7 +917,7 @@
     document.getElementById("daycount").textContent =
       offDays.size ? " · " + offDays.size + " hidden" : "";
 
-    var nshow = rows.reduce(function (a, r) { return a + r.starts.length; }, 0);
+    var nshow = exportRows().reduce(function (a, r) { return a + r.starts.length; }, 0);
     var ics = document.getElementById("ics");
     var lbl = nshow ? "Add " + nshow + " to calendar" : "Add to calendar";
     ics.innerHTML = '<span aria-hidden="true">📅</span> <span class="ics-label">' + lbl + "</span>";
@@ -888,6 +950,7 @@
     if (e.target.tagName === "DIALOG") { e.target.close(); return; }  // backdrop click
 
     var hideEl = e.target.closest(".hide");
+    var unhideEl = e.target.closest(".unhide");
     var hidetEl = e.target.closest(".hidet");
     var hidedEl = e.target.closest(".hided");
     var dayEl = e.target.closest(".hideday");
@@ -909,7 +972,10 @@
       if (!off.has(th)) { off.add(th); saveOff(); pushUndo("theater", th); render(); say("Theater hidden."); }
     } else if (hideEl) {
       var k = hideEl.dataset.key;
-      if (!hidden.has(k)) { hidden.add(k); save(); pushUndo("film", k); render(); say("Film hidden."); }
+      if (!hidden.has(k)) { hidden.add(k); markFilmSeen(k); save(); pushUndo("film", k); render(); say("Film hidden."); }
+    } else if (unhideEl) {
+      var uk = unhideEl.dataset.unhide;
+      if (hidden.has(uk)) { hidden.delete(uk); save(); pushUndo("unhide", uk); render(); say("Film restored."); }
     } else if (seg) {
       view = seg.dataset.view; localStorage.setItem(VIEWKEY, view); render(); window.scrollTo(0, 0);
     } else if (show) {

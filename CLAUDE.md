@@ -99,3 +99,9 @@ Decision order per film: **allow > deny > non-film keyword > multiplex > cross-t
 - `./test.sh` (`node tests/seen.test.js`) covers the page's "new to you" / leak
   logic — it runs the real in-page script from the template against fixture rows
   under a tiny DOM stub. Pure node, no deps, no build/network. The only tests so far.
+- `./publish.sh` builds + pushes to `gh-pages` (worktree off `origin/gh-pages`).
+  It waits for GitHub, then **aborts if the checkout is behind `origin/main`**
+  (`FLICKS_ALLOW_STALE=1` overrides) so an unattended run can't ship stale code.
+  `./install-launchagent.sh` schedules it daily via a launchd LaunchAgent
+  (`launchd/com.dlowe.flicks.publish.plist`) — launchd, not cron, so a run missed
+  during sleep fires on the next wake. macOS-only; logs to `.publish.log`.

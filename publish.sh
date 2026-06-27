@@ -5,6 +5,23 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
+# Run on wake (launchd) often fires before Wi-Fi reassociates — wait briefly for
+# GitHub before doing anything that needs the network.
+for _ in $(seq 1 30); do
+  curl -sf -m 4 https://github.com >/dev/null 2>&1 && break
+  sleep 2
+done
+
+# Refuse to publish a stale checkout: if origin/main has commits we don't have,
+# we'd be building from old code/config (filter.toml, adapters, template) and
+# silently shipping it. Fail loudly so the fix is an obvious `git pull`. Set
+# FLICKS_ALLOW_STALE=1 to publish from a deliberately-behind tree anyway.
+git fetch --quiet origin main
+if [ "${FLICKS_ALLOW_STALE:-}" != "1" ] && ! git merge-base --is-ancestor origin/main HEAD; then
+  echo "✗ Checkout is behind origin/main — 'git pull' before publishing." >&2
+  exit 1
+fi
+
 ./run.sh
 
 work="$(mktemp -d)"

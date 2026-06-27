@@ -82,6 +82,36 @@ branch:
   Hollywood Theatre, so a CI-built page is missing Hollywood — publish locally
   (residential IP) for the full slate.
 
+`publish.sh` first waits briefly for GitHub (in case it's run right after wake)
+and **refuses to publish a checkout that's behind `origin/main`** — otherwise an
+unattended run would ship stale code/config. Run `git pull` and retry, or set
+`FLICKS_ALLOW_STALE=1` to override.
+
+### Scheduling it on a Mac (launchd, not cron)
+
+`./install-launchagent.sh` installs a per-user LaunchAgent that runs `publish.sh`
+daily (~09:00). Use **launchd, not `cron`**: cron silently skips jobs scheduled
+while the Mac was asleep, whereas launchd runs a missed run when the machine next
+wakes. So on a laptop that's asleep most of the time but used most days, it
+publishes shortly after you next open the lid — and only **once** to catch up, no
+backlog.
+
+It's a LaunchAgent (not a system daemon) on purpose: it needs your logged-in
+session for the network and your SSH key. First time, run it once and check the
+log actually pushes — that confirms the key is reachable non-interactively (store
+its passphrase in the keychain via `AddKeysToAgent`/`UseKeychain` in `~/.ssh/config`
+if needed):
+
+```bash
+./install-launchagent.sh
+launchctl kickstart -k gui/$(id -u)/com.dlowe.flicks.publish   # run now
+tail -f .publish.log
+```
+
+On days the lid never opens, nothing runs (that's fine here). To force a daily
+wake anyway: `sudo pmset repeat wakeorpoweron MTWRFSU 09:00:00` (needs AC power,
+won't wake clamshell on battery).
+
 ## Tuning what gets filtered
 
 Edit **`filter.toml`** (then re-run `./run.sh`):

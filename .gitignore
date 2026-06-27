@@ -12,5 +12,8 @@ __pycache__/
 /imdb_ids.json
 /imdb_ratings.tsv.gz
 
+# launchd publish log (see install-launchagent.sh)
+/.publish.log
+
 # Local Claude Code settings (machine-specific, e.g. permission mode)
 .claude/settings.local.json

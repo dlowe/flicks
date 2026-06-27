@@ -1,158 +1,5 @@
 [
   {
-    "title": "OBSESSION",
-    "start": "2026-06-27T11:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.1
-  },
-  {
-    "title": "Backrooms",
-    "start": "2026-06-27T11:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/backrooms",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_dcc58e20-0085-4141-aca8-23ee50f5a429.jpg",
-    "imdb": "https://www.imdb.com/title/tt26657236/",
-    "rating": 7.1
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-06-27T11:40:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/disclosure-day",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_d6b380a3-24ca-49b1-986f-085ded7010c3.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "JACKASS BEST AND LAST",
-    "start": "2026-06-27T11:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
-  },
-  {
-    "title": "Toy Story 5",
-    "start": "2026-06-27T11:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
-    "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "Girls Like Girls",
-    "start": "2026-06-27T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/girls-like-girls",
-    "poster": "https://indy-systems.imgix.net/6ytvv2pjiz12t84cup56h7b2td14?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32432654/",
-    "rating": 6.9
-  },
-  {
-    "title": "SUPERGIRL",
-    "start": "2026-06-27T12:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
-  },
-  {
-    "title": "Supergirl",
-    "start": "2026-06-27T12:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
-    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-06-27T12:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "DEATH OF ROBIN HOOD",
-    "start": "2026-06-27T12:25:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F6BB9470D6B3658A7F35250C0366C73D870907BDFF61B4FD3B8A346FE5D88981_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32273171/",
-    "rating": 6.4
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-06-27T12:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "BACKROOMS",
-    "start": "2026-06-27T12:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/BE03262706DE84C621F9FD69B4B5C1D983AC9DC188AA0EA0E34A42CC3931C13D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt26657236/",
-    "rating": 7.1
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-06-27T12:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-06-27T12:35:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "Couture",
-    "start": "2026-06-27T12:40:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/couture",
-    "poster": "https://indy-systems.imgix.net/kar9824i9x4hdhxau9ygrd68s9vq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt34688195/",
-    "rating": 5.7
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-06-27T12:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-06-27T12:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.1
-  },
-  {
     "title": "STOP! THAT! TRAIN!",
     "start": "2026-06-27T12:50:00-07:00",
     "theater": "Living Room Theaters",
@@ -177,7 +24,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "TOY STORY 5",
@@ -222,7 +69,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18931?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Obsession",
@@ -294,7 +141,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -303,7 +150,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -348,7 +195,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "TOY STORY 5",
@@ -384,7 +231,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "DISCLOSURE DAY",
@@ -436,7 +283,7 @@
     "start": "2026-06-27T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2M3NjE1MjItNjI3My00ODI3LWIwMWQtM2ExOTQ2ZTdlNDYyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0119809/",
     "rating": 6.6
   },
@@ -474,7 +321,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "TOY STORY 5",
@@ -501,7 +348,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Supergirl",
@@ -510,7 +357,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18927?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Girls Like Girls",
@@ -537,7 +384,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Toy Story 5",
@@ -582,7 +429,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "I Love Boosters",
@@ -591,7 +438,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "TOY STORY 5",
@@ -645,7 +492,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Toy Story 5",
@@ -742,7 +589,7 @@
     "start": "2026-06-27T19:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI0ZTZkOGEtOTFjYi00ZmE1LTliYmYtMDE5OWRmMzVhMmVlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067229/",
     "rating": 5.9
   },
@@ -798,7 +645,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Toy Story 5",
@@ -834,7 +681,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Couture",
@@ -861,7 +708,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "Supergirl",
@@ -870,7 +717,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18930?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -879,7 +726,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Black Lodge Burlesque: LOST HIGHWAY",
@@ -933,7 +780,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Black Past",
@@ -1014,7 +861,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "DISCLOSURE DAY",
@@ -1050,7 +897,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "I Love Boosters",
@@ -1059,14 +906,14 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "NOWHERE (1997)",
     "start": "2026-06-27T21:45:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2M3NjE1MjItNjI3My00ODI3LWIwMWQtM2ExOTQ2ZTdlNDYyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0119809/",
     "rating": 6.6
   },
@@ -1086,7 +933,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Toy Story 5",
@@ -1140,7 +987,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "The Rocky Horror Picture Show with Thom Hilton",
@@ -1158,7 +1005,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "BACKROOMS",
@@ -1221,7 +1068,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Toy Story 5",
@@ -1257,7 +1104,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Supergirl",
@@ -1266,7 +1113,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "DISCLOSURE DAY",
@@ -1372,7 +1219,7 @@
     "start": "2026-06-28T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2M3NjE1MjItNjI3My00ODI3LWIwMWQtM2ExOTQ2ZTdlNDYyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0119809/",
     "rating": 6.6
   },
@@ -1392,7 +1239,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "TOY STORY 5",
@@ -1446,7 +1293,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18933?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "RRR",
@@ -1491,7 +1338,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -1500,7 +1347,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -1536,7 +1383,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "TOY STORY 5",
@@ -1572,7 +1419,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Scenes From A Marriage",
@@ -1591,6 +1438,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
+  },
+  {
+    "title": "Sense and Sensibility Crafternoon x Ritual Dyes",
+    "start": "2026-06-28T15:30:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/sense-and-sensibility/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/14154820/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+    "imdb": "https://www.imdb.com/title/tt0114388/",
+    "rating": 7.7
   },
   {
     "title": "Disclosure Day",
@@ -1662,7 +1518,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "TOY STORY 5",
@@ -1689,7 +1545,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Supergirl",
@@ -1698,7 +1554,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18907?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "SO I MARRIED AN AXE MURDERER",
@@ -1732,7 +1588,7 @@
     "start": "2026-06-28T16:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI0ZTZkOGEtOTFjYi00ZmE1LTliYmYtMDE5OWRmMzVhMmVlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067229/",
     "rating": 5.9
   },
@@ -1743,7 +1599,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Toy Story 5",
@@ -1779,7 +1635,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "I Love Boosters",
@@ -1788,7 +1644,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -1851,7 +1707,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "DISCLOSURE DAY",
@@ -1968,7 +1824,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "OBSESSION",
@@ -2022,7 +1878,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Couture",
@@ -2067,7 +1923,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "Supergirl",
@@ -2076,7 +1932,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18910?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -2085,7 +1941,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "TOY STORY 5",
@@ -2166,7 +2022,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -2175,7 +2031,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "THE GREAT MUPPET CAPER",
@@ -2220,7 +2076,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Supergirl",
@@ -2229,7 +2085,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -2290,7 +2146,7 @@
     "start": "2026-06-29T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI0ZTZkOGEtOTFjYi00ZmE1LTliYmYtMDE5OWRmMzVhMmVlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067229/",
     "rating": 5.9
   },
@@ -2346,7 +2202,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -2355,7 +2211,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Girls Like Girls",
@@ -2382,7 +2238,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "TOY STORY 5",
@@ -2409,7 +2265,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "DISCLOSURE DAY",
@@ -2508,7 +2364,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "TOY STORY 5",
@@ -2535,7 +2391,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Supergirl",
@@ -2544,7 +2400,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18911?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Girls Like Girls",
@@ -2560,7 +2416,7 @@
     "start": "2026-06-29T16:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2M3NjE1MjItNjI3My00ODI3LWIwMWQtM2ExOTQ2ZTdlNDYyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0119809/",
     "rating": 6.6
   },
@@ -2571,7 +2427,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Toy Story 5",
@@ -2607,7 +2463,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "LABYRINTH",
@@ -2625,7 +2481,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -2668,7 +2524,7 @@
     "start": "2026-06-29T18:00:00-07:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/oscilloscope-laboratories-presents-sometimes-i-think-about-dying/",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzY2OTIzMjUtNmNlZC00YTg0LTgwZWUtN2UwMmMwZjdiODI3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt16431966/",
     "rating": 6.6
   },
@@ -2679,7 +2535,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Toy Story 5",
@@ -2796,7 +2652,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "OBSESSION",
@@ -2841,7 +2697,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Couture",
@@ -2895,7 +2751,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "Supergirl",
@@ -2904,7 +2760,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18914?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -2913,14 +2769,14 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Oscilloscope Laboratories Presents \u2013 SOMETIMES I THINK ABOUT DYING",
     "start": "2026-06-29T20:00:00-07:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/oscilloscope-laboratories-presents-sometimes-i-think-about-dying/",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzY2OTIzMjUtNmNlZC00YTg0LTgwZWUtN2UwMmMwZjdiODI3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt16431966/",
     "rating": 6.6
   },
@@ -2949,7 +2805,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "DISCLOSURE DAY",
@@ -2994,7 +2850,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -3003,7 +2859,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "World-Class Soccer 2026",
@@ -3048,7 +2904,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Supergirl",
@@ -3057,7 +2913,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -3174,7 +3030,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -3183,7 +3039,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Girls Like Girls",
@@ -3219,7 +3075,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "TOY STORY 5",
@@ -3246,7 +3102,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "DISCLOSURE DAY",
@@ -3327,7 +3183,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "TOY STORY 5",
@@ -3354,7 +3210,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Supergirl",
@@ -3363,7 +3219,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18915?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Girls Like Girls",
@@ -3379,7 +3235,7 @@
     "start": "2026-06-30T16:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI0ZTZkOGEtOTFjYi00ZmE1LTliYmYtMDE5OWRmMzVhMmVlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067229/",
     "rating": 5.9
   },
@@ -3399,7 +3255,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Toy Story 5",
@@ -3444,7 +3300,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "I Love Boosters",
@@ -3453,7 +3309,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "SO I MARRIED AN AXE MURDERER",
@@ -3507,7 +3363,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Toy Story 5",
@@ -3552,7 +3408,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Disclosure Day",
@@ -3586,7 +3442,7 @@
     "start": "2026-06-30T19:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2M3NjE1MjItNjI3My00ODI3LWIwMWQtM2ExOTQ2ZTdlNDYyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0119809/",
     "rating": 6.6
   },
@@ -3669,7 +3525,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Couture",
@@ -3723,7 +3579,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "Supergirl",
@@ -3732,7 +3588,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18918?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -3741,7 +3597,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "TOY STORY 5",
@@ -3768,7 +3624,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "DISCLOSURE DAY",
@@ -3813,7 +3669,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -3822,7 +3678,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "World-Class Soccer 2026",
@@ -3858,7 +3714,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -3885,7 +3741,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "TOY STORY 5",
@@ -3939,7 +3795,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "STOP! THAT! TRAIN!",
@@ -3955,7 +3811,7 @@
     "start": "2026-07-01T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2M3NjE1MjItNjI3My00ODI3LWIwMWQtM2ExOTQ2ZTdlNDYyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0119809/",
     "rating": 6.6
   },
@@ -3966,7 +3822,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "OBSESSION",
@@ -4002,7 +3858,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Minions & Monsters",
@@ -4011,7 +3867,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -4029,7 +3885,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "TOY STORY 5",
@@ -4072,7 +3928,7 @@
     "start": "2026-07-01T15:30:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
   },
@@ -4101,14 +3957,14 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "OBSESSION (OPEN CAPTION)",
     "start": "2026-07-01T15:45:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt37287335/",
     "rating": 8.1
   },
@@ -4135,7 +3991,7 @@
     "start": "2026-07-01T16:00:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt26657236/",
     "rating": 7.1
   },
@@ -4164,7 +4020,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "TOY STORY 5",
@@ -4189,9 +4045,9 @@
     "start": "2026-07-01T16:15:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRlYzQwYjItNDljNC00YmI2LWEwYmEtMjhhM2NiMGFhNTYyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Supergirl",
@@ -4200,7 +4056,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18919?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "12 ANGRY MEN (1957)",
@@ -4218,7 +4074,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "Supergirl",
@@ -4227,7 +4083,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Toy Story 5",
@@ -4281,7 +4137,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -4333,7 +4189,7 @@
     "start": "2026-07-01T18:20:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
   },
@@ -4344,7 +4200,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "I Think, Therefore I Scam: Chameleon Street",
@@ -4360,7 +4216,7 @@
     "start": "2026-07-01T18:30:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt26657236/",
     "rating": 7.1
   },
@@ -4371,7 +4227,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "Disclosure Day",
@@ -4387,7 +4243,7 @@
     "start": "2026-07-01T18:45:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt37287335/",
     "rating": 8.1
   },
@@ -4405,7 +4261,7 @@
     "start": "2026-07-01T19:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI0ZTZkOGEtOTFjYi00ZmE1LTliYmYtMDE5OWRmMzVhMmVlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067229/",
     "rating": 5.9
   },
@@ -4443,7 +4299,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -4495,9 +4351,9 @@
     "start": "2026-07-01T19:15:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRlYzQwYjItNDljNC00YmI2LWEwYmEtMjhhM2NiMGFhNTYyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Couture",
@@ -4542,7 +4398,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "Supergirl",
@@ -4551,7 +4407,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18922?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "SUPERGIRL",
@@ -4560,7 +4416,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "TOY STORY 5",
@@ -4605,7 +4461,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "BACKROOMS",
@@ -4650,7 +4506,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Toy Story 5",
@@ -4668,7 +4524,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -4695,7 +4551,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "TOY STORY 5",
@@ -4749,7 +4605,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "STOP! THAT! TRAIN!",
@@ -4776,7 +4632,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "OBSESSION",
@@ -4812,7 +4668,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Minions & Monsters",
@@ -4821,7 +4677,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -4839,7 +4695,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "TOY STORY 5",
@@ -4920,7 +4776,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "DISCLOSURE DAY",
@@ -4945,7 +4801,7 @@
     "start": "2026-07-02T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2M3NjE1MjItNjI3My00ODI3LWIwMWQtM2ExOTQ2ZTdlNDYyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0119809/",
     "rating": 6.6
   },
@@ -4992,7 +4848,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "TOY STORY 5",
@@ -5019,7 +4875,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Supergirl",
@@ -5028,7 +4884,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18923?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Leviticus",
@@ -5046,7 +4902,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "Screening of Documentary Complicated",
@@ -5064,7 +4920,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Toy Story 5",
@@ -5118,7 +4974,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
     "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "DEATH OF ROBIN HOOD",
@@ -5181,7 +5037,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "The World is Wrong About\u2026\u2018Mad Dog Time\u2019",
@@ -5208,7 +5064,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
     "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "DISCLOSURE DAY",
@@ -5298,7 +5154,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
     "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -5352,7 +5208,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "Couture",
@@ -5397,7 +5253,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18926?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "SUPERGIRL",
@@ -5406,7 +5262,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "TOY STORY 5",
@@ -5451,14 +5307,14 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": null
+    "rating": 6.9
   },
   {
     "title": "I DRINK YOUR BLOOD (1971)",
     "start": "2026-07-02T21:15:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI0ZTZkOGEtOTFjYi00ZmE1LTliYmYtMDE5OWRmMzVhMmVlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067229/",
     "rating": 5.9
   },
@@ -5523,7 +5379,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "World-Class Soccer 2026",
@@ -5656,7 +5512,7 @@
     "start": "2026-07-03T19:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI5YWYxNjgtYTZmOC00YmFlLWJjMGUtMmNiZDk3NGVjOGY0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067148/",
     "rating": 6.1
   },
@@ -5730,7 +5586,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "WAKING UP FROM A NAP",
@@ -5802,7 +5658,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -5854,7 +5710,7 @@
     "start": "2026-07-04T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI5YWYxNjgtYTZmOC00YmFlLWJjMGUtMmNiZDk3NGVjOGY0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067148/",
     "rating": 6.1
   },
@@ -6045,7 +5901,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "TOY STORY 5",
@@ -6241,7 +6097,7 @@
     "start": "2026-07-05T16:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI5YWYxNjgtYTZmOC00YmFlLWJjMGUtMmNiZDk3NGVjOGY0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067148/",
     "rating": 6.1
   },
@@ -6318,15 +6174,6 @@
     "rating": null
   },
   {
-    "title": "Indiana Jones and the Temple of Doom",
-    "start": "2026-07-05T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/indiana-jones-and-the-temple-of-doom/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/06161012/gpdVNUaa4LhRMLfJOPj1AZdhAZ3-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt0087469/",
-    "rating": 7.5
-  },
-  {
     "title": "TOY STORY 5",
     "start": "2026-07-05T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -6360,7 +6207,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "TOY STORY 5",
@@ -6394,7 +6241,7 @@
     "start": "2026-07-05T21:45:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI5YWYxNjgtYTZmOC00YmFlLWJjMGUtMmNiZDk3NGVjOGY0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067148/",
     "rating": 6.1
   },
@@ -6565,7 +6412,7 @@
     "start": "2026-07-06T19:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI5YWYxNjgtYTZmOC00YmFlLWJjMGUtMmNiZDk3NGVjOGY0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067148/",
     "rating": 6.1
   },
@@ -6601,7 +6448,7 @@
     "start": "2026-07-07T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI5YWYxNjgtYTZmOC00YmFlLWJjMGUtMmNiZDk3NGVjOGY0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067148/",
     "rating": 6.1
   },
@@ -6889,7 +6736,7 @@
     "start": "2026-07-08T19:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI5YWYxNjgtYTZmOC00YmFlLWJjMGUtMmNiZDk3NGVjOGY0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067148/",
     "rating": 6.1
   },
@@ -6997,7 +6844,7 @@
     "start": "2026-07-09T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI5YWYxNjgtYTZmOC00YmFlLWJjMGUtMmNiZDk3NGVjOGY0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067148/",
     "rating": 6.1
   },
@@ -7098,7 +6945,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
     "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.2
+    "rating": 6.3
   },
   {
     "title": "EMPLOYEES\u2019 ENTRANCE",
@@ -7132,7 +6979,7 @@
     "start": "2026-07-09T21:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI5YWYxNjgtYTZmOC00YmFlLWJjMGUtMmNiZDk3NGVjOGY0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067148/",
     "rating": 6.1
   },
@@ -7159,7 +7006,7 @@
     "start": "2026-07-10T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0059578/",
     "rating": 8.2
   },
@@ -7186,7 +7033,7 @@
     "start": "2026-07-10T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDEwMDUtZGExNC00MDZiLWI5MGEtYzRiMTMzZjQxYmM0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0063759/",
     "rating": 7.5
   },
@@ -7222,7 +7069,7 @@
     "start": "2026-07-10T19:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTE4OTE2Nl5BMl5BanBnXkFtZTYwMDkzMTQ3._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0183790/",
     "rating": 7.0
   },
@@ -7269,7 +7116,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
     "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.2
+    "rating": 6.3
   },
   {
     "title": "MORE PAY-LESS WORK: A Roaring Night Out for the Columbia River Theatre Organ Society",
@@ -7305,14 +7152,14 @@
     "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
     "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.2
+    "rating": 6.3
   },
   {
     "title": "HOUR OF THE WOLF",
     "start": "2026-07-10T21:45:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDEwMDUtZGExNC00MDZiLWI5MGEtYzRiMTMzZjQxYmM0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0063759/",
     "rating": 7.5
   },
@@ -7366,7 +7213,7 @@
     "start": "2026-07-11T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDEwMDUtZGExNC00MDZiLWI5MGEtYzRiMTMzZjQxYmM0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0063759/",
     "rating": 7.5
   },
@@ -7429,7 +7276,7 @@
     "start": "2026-07-11T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTE4OTE2Nl5BMl5BanBnXkFtZTYwMDkzMTQ3._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0183790/",
     "rating": 7.0
   },
@@ -7501,7 +7348,7 @@
     "start": "2026-07-11T19:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0059578/",
     "rating": 8.2
   },
@@ -7548,7 +7395,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
     "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.2
+    "rating": 6.3
   },
   {
     "title": "THE INVITE",
@@ -7593,14 +7440,14 @@
     "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
     "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.2
+    "rating": 6.3
   },
   {
     "title": "A KNIGHT'S TALE (2001)",
     "start": "2026-07-11T21:45:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTE4OTE2Nl5BMl5BanBnXkFtZTYwMDkzMTQ3._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0183790/",
     "rating": 7.0
   },
@@ -7636,7 +7483,7 @@
     "start": "2026-07-12T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTE4OTE2Nl5BMl5BanBnXkFtZTYwMDkzMTQ3._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0183790/",
     "rating": 7.0
   },
@@ -7722,20 +7569,11 @@
     "rating": null
   },
   {
-    "title": "A League of Their Own x Portland Arts Week",
-    "start": "2026-07-12T15:30:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/a-league-of-their-own/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/08130811/f9BtX6wYOwJUyfUr4vyeT3COz6m-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt0104694/",
-    "rating": 7.4
-  },
-  {
     "title": "FOR A FEW DOLLARS MORE (1965)",
     "start": "2026-07-12T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0059578/",
     "rating": 8.2
   },
@@ -7789,7 +7627,7 @@
     "start": "2026-07-12T19:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDEwMDUtZGExNC00MDZiLWI5MGEtYzRiMTMzZjQxYmM0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0063759/",
     "rating": 7.5
   },
@@ -7809,7 +7647,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
     "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.2
+    "rating": 6.3
   },
   {
     "title": "THE INVITE",
@@ -7825,7 +7663,7 @@
     "start": "2026-07-12T21:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0059578/",
     "rating": 8.2
   },
@@ -7852,7 +7690,7 @@
     "start": "2026-07-13T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0059578/",
     "rating": 8.2
   },
@@ -7870,7 +7708,7 @@
     "start": "2026-07-13T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTE4OTE2Nl5BMl5BanBnXkFtZTYwMDkzMTQ3._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0183790/",
     "rating": 7.0
   },
@@ -7906,7 +7744,7 @@
     "start": "2026-07-13T19:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmMwZWNmODQtODMzZC00Njc2LWE3MmQtNjkzNjA0ZWI4YjRjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0094921/",
     "rating": 7.0
   },
@@ -7978,7 +7816,7 @@
     "start": "2026-07-14T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDEwMDUtZGExNC00MDZiLWI5MGEtYzRiMTMzZjQxYmM0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0063759/",
     "rating": 7.5
   },
@@ -7996,7 +7834,7 @@
     "start": "2026-07-14T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0059578/",
     "rating": 8.2
   },
@@ -8059,7 +7897,7 @@
     "start": "2026-07-14T19:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTE4OTE2Nl5BMl5BanBnXkFtZTYwMDkzMTQ3._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0183790/",
     "rating": 7.0
   },
@@ -8113,7 +7951,7 @@
     "start": "2026-07-15T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTE4OTE2Nl5BMl5BanBnXkFtZTYwMDkzMTQ3._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0183790/",
     "rating": 7.0
   },
@@ -8131,7 +7969,7 @@
     "start": "2026-07-15T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDEwMDUtZGExNC00MDZiLWI5MGEtYzRiMTMzZjQxYmM0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0063759/",
     "rating": 7.5
   },
@@ -8194,7 +8032,7 @@
     "start": "2026-07-15T19:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0059578/",
     "rating": 8.2
   },
@@ -8212,7 +8050,7 @@
     "start": "2026-07-16T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0059578/",
     "rating": 8.2
   },
@@ -8275,7 +8113,7 @@
     "start": "2026-07-16T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTE4OTE2Nl5BMl5BanBnXkFtZTYwMDkzMTQ3._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0183790/",
     "rating": 7.0
   },
@@ -8347,7 +8185,7 @@
     "start": "2026-07-16T19:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDEwMDUtZGExNC00MDZiLWI5MGEtYzRiMTMzZjQxYmM0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0063759/",
     "rating": 7.5
   },
@@ -8377,6 +8215,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/04/My-20th-Century.jpeg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Pink Narcissus w/ Live Score by kraftwitch",
+    "start": "2026-07-16T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/pink-narcissus-w-live-score-by-kraftwitch/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/03/26105559/kaZiiGE6820KyFF9XkzPB9Rx9qn.jpg",
+    "imdb": "https://www.imdb.com/title/tt0067580/",
+    "rating": 6.6
   },
   {
     "title": "The Invite",
@@ -8428,7 +8275,7 @@
     "start": "2026-07-16T21:35:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0059578/",
     "rating": 8.2
   },
@@ -8482,7 +8329,7 @@
     "start": "2026-07-17T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0097576/",
     "rating": 8.2
   },
@@ -8572,7 +8419,7 @@
     "start": "2026-07-17T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc0ZmVjYWItMmY4MC00NzFmLThhZjktZWQzMDI1NmE0ZTc4XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0104815/",
     "rating": 6.8
   },
@@ -8644,7 +8491,7 @@
     "start": "2026-07-17T19:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0097576/",
     "rating": 8.2
   },
@@ -8788,7 +8635,7 @@
     "start": "2026-07-17T21:45:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWNiMDUyYjItOTRjZC00ZTA0LWFmZDAtY2RkYzlhZDZkNjE2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0088044/",
     "rating": 6.2
   },
@@ -8878,7 +8725,7 @@
     "start": "2026-07-18T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc0ZmVjYWItMmY4MC00NzFmLThhZjktZWQzMDI1NmE0ZTc4XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0104815/",
     "rating": 6.8
   },
@@ -9004,9 +8851,18 @@
     "start": "2026-07-18T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0097576/",
     "rating": 8.2
+  },
+  {
+    "title": "The Birdcage",
+    "start": "2026-07-18T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/the-birdcage/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/07122937/hU2XeckncHS61TWZKDtw1BrKmOO-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0115685/",
+    "rating": 7.3
   },
   {
     "title": "Before Midnight",
@@ -9094,7 +8950,7 @@
     "start": "2026-07-18T19:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWNiMDUyYjItOTRjZC00ZTA0LWFmZDAtY2RkYzlhZDZkNjE2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0088044/",
     "rating": 6.2
   },
@@ -9202,7 +9058,7 @@
     "start": "2026-07-18T21:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc0ZmVjYWItMmY4MC00NzFmLThhZjktZWQzMDI1NmE0ZTc4XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0104815/",
     "rating": 6.8
   },
@@ -9310,7 +9166,7 @@
     "start": "2026-07-19T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0097576/",
     "rating": 8.2
   },
@@ -9454,7 +9310,7 @@
     "start": "2026-07-19T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWNiMDUyYjItOTRjZC00ZTA0LWFmZDAtY2RkYzlhZDZkNjE2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0088044/",
     "rating": 6.2
   },
@@ -9544,7 +9400,7 @@
     "start": "2026-07-19T19:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc0ZmVjYWItMmY4MC00NzFmLThhZjktZWQzMDI1NmE0ZTc4XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0104815/",
     "rating": 6.8
   },
@@ -9598,7 +9454,7 @@
     "start": "2026-07-19T21:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0097576/",
     "rating": 8.2
   },
@@ -9661,7 +9517,7 @@
     "start": "2026-07-20T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc0ZmVjYWItMmY4MC00NzFmLThhZjktZWQzMDI1NmE0ZTc4XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0104815/",
     "rating": 6.8
   },
@@ -9751,7 +9607,7 @@
     "start": "2026-07-20T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWNiMDUyYjItOTRjZC00ZTA0LWFmZDAtY2RkYzlhZDZkNjE2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0088044/",
     "rating": 6.2
   },
@@ -9859,7 +9715,7 @@
     "start": "2026-07-20T19:00:00-07:00",
     "theater": "Hollywood Theatre",
     "url": "https://hollywoodtheatre.org/event/i-shot-andy-warhol-2026-07-20-700pm/",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmY3YjJmOTMtYWE3Yy00MzM0LTgwNmQtYzIwMjIzYzFiZGNmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0116594/",
     "rating": 6.6
   },
@@ -9877,7 +9733,7 @@
     "start": "2026-07-20T19:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0097576/",
     "rating": 8.2
   },
@@ -9949,7 +9805,7 @@
     "start": "2026-07-21T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0097576/",
     "rating": 8.2
   },
@@ -10039,7 +9895,7 @@
     "start": "2026-07-21T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc0ZmVjYWItMmY4MC00NzFmLThhZjktZWQzMDI1NmE0ZTc4XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0104815/",
     "rating": 6.8
   },
@@ -10156,7 +10012,7 @@
     "start": "2026-07-21T19:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWNiMDUyYjItOTRjZC00ZTA0LWFmZDAtY2RkYzlhZDZkNjE2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0088044/",
     "rating": 6.2
   },
@@ -10228,7 +10084,7 @@
     "start": "2026-07-22T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWNiMDUyYjItOTRjZC00ZTA0LWFmZDAtY2RkYzlhZDZkNjE2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0088044/",
     "rating": 6.2
   },
@@ -10273,7 +10129,7 @@
     "start": "2026-07-22T15:00:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDY2NTkxMWQtMmNkMC00NmNjLWIzMmItNmEyMmRmMDk2YmY2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -10318,7 +10174,7 @@
     "start": "2026-07-22T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc0ZmVjYWItMmY4MC00NzFmLThhZjktZWQzMDI1NmE0ZTc4XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0104815/",
     "rating": 6.8
   },
@@ -10354,7 +10210,7 @@
     "start": "2026-07-22T18:00:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDY2NTkxMWQtMmNkMC00NmNjLWIzMmItNmEyMmRmMDk2YmY2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -10426,7 +10282,7 @@
     "start": "2026-07-22T19:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0097576/",
     "rating": 8.2
   },
@@ -10489,7 +10345,7 @@
     "start": "2026-07-23T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0097576/",
     "rating": 8.2
   },
@@ -10579,7 +10435,7 @@
     "start": "2026-07-23T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWNiMDUyYjItOTRjZC00ZTA0LWFmZDAtY2RkYzlhZDZkNjE2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0088044/",
     "rating": 6.2
   },
@@ -10669,7 +10525,7 @@
     "start": "2026-07-23T19:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc0ZmVjYWItMmY4MC00NzFmLThhZjktZWQzMDI1NmE0ZTc4XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0104815/",
     "rating": 6.8
   },
@@ -10777,7 +10633,7 @@
     "start": "2026-07-23T21:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWNiMDUyYjItOTRjZC00ZTA0LWFmZDAtY2RkYzlhZDZkNjE2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0088044/",
     "rating": 6.2
   },
@@ -10858,7 +10714,7 @@
     "start": "2026-07-24T16:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ1YWNkMDgtNjY3OC00MTcwLTljODktZmZjMTJkNmU5MDQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0133189/",
     "rating": 7.3
   },
@@ -10993,7 +10849,7 @@
     "start": "2026-07-24T21:45:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ1YWNkMDgtNjY3OC00MTcwLTljODktZmZjMTJkNmU5MDQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0133189/",
     "rating": 7.3
   },
@@ -11236,7 +11092,7 @@
     "start": "2026-07-25T22:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ1YWNkMDgtNjY3OC00MTcwLTljODktZmZjMTJkNmU5MDQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0133189/",
     "rating": 7.3
   },
@@ -11281,7 +11137,7 @@
     "start": "2026-07-26T13:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ1YWNkMDgtNjY3OC00MTcwLTljODktZmZjMTJkNmU5MDQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0133189/",
     "rating": 7.3
   },
@@ -11524,7 +11380,7 @@
     "start": "2026-07-27T19:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ1YWNkMDgtNjY3OC00MTcwLTljODktZmZjMTJkNmU5MDQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0133189/",
     "rating": 7.3
   },

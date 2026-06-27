@@ -796,9 +796,10 @@
     }).join("");
   }
 
-  // Render films as cards: one card per film, each line a "<lead> · times" row.
-  // `lead(row)` supplies the per-line context (date, or theater + date).
-  function filmCards(filmGroups, lead, linkTitle, cardTheater) {
+  // Render films as cards: one card per film, each line a "<lead> · times · <trail>"
+  // row. `lead(row)` is the date; optional `trail(row)` is the theater (by-film,
+  // where the card isn't already theater-scoped).
+  function filmCards(filmGroups, lead, linkTitle, cardTheater, trail) {
     var rt = cardTheater ? ' data-rt="' + esc(cardTheater) + '"' : "";
     return filmGroups.map(function (g) {
       var first = g.rows[0];
@@ -824,8 +825,10 @@
         var cls = lineNew ? " is-new" : "";
         var attr = lineNew ? ' data-ids="' + esc(rowIds(r).join("\t")) + '"' : "";
         var tag = lineNew ? '<span class="new-tag">New</span> ' : "";
-        return '<div class="line' + cls + '"' + attr + '>' + tag + '<span class="theater">' + lead(r)
-          + "</span> &nbsp;·&nbsp; " + times(r) + goLink(r) + "</div>";
+        return '<div class="line' + cls + '"' + attr + '>' + tag + lead(r)
+          + " &nbsp;·&nbsp; " + times(r)
+          + (trail ? ' &nbsp;·&nbsp; <span class="theater">' + trail(r) + "</span>" : "")
+          + goLink(r) + "</div>";
       }).join("");
 
       return '<div class="film' + ehClass(first) + cardCls + '" data-rk="' + esc(first.key) + '"' + rt + cardAttr + ">" + poster(first)
@@ -855,12 +858,11 @@
     }).join("");
   }
 
-  // Group by film across all theaters; each line names the theater and date.
+  // Group by film across all theaters; each line is date · time · theater.
   function renderByFilm(rows) {
     var films = byTitle(groups(rows, function (r) { return r.key; }));
-    return filmCards(films, function (r) {
-      return link(r.home, r.theater, "") + " &nbsp;·&nbsp; " + soonify(r.date);
-    }, false);
+    return filmCards(films, function (r) { return soonify(r.date); }, false, null,
+      function (r) { return link(r.home, r.theater, ""); });
   }
 
   // --- Calendar export (.ics), built entirely client-side from the filtered set.

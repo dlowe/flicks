@@ -279,6 +279,24 @@
     "rating": 6.1
   },
   {
+    "title": "RRR",
+    "start": "2026-06-28T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/rrr/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/RRR-1.jpg?fit=540%2C281&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt8178634/",
+    "rating": 7.8
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-06-28T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Moonlight",
     "start": "2026-06-28T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -315,6 +333,15 @@
     "rating": 6.9
   },
   {
+    "title": "DISCLOSURE DAY",
+    "start": "2026-06-28T14:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
     "title": "Girls Like Girls",
     "start": "2026-06-28T14:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -349,6 +376,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "BACKROOMS",
+    "start": "2026-06-28T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/backrooms/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt26657236/",
+    "rating": 7.1
   },
   {
     "title": "STOP! THAT! TRAIN!",
@@ -614,6 +650,15 @@
   {
     "title": "DISCLOSURE DAY",
     "start": "2026-06-28T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "DISCLOSURE DAY",
+    "start": "2026-06-28T18:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
@@ -646,6 +691,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
+  },
+  {
+    "title": "THE BEAST FROM 20,000 FATHOMS in 35mm",
+    "start": "2026-06-28T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-beast-from-20000-fathoms-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/beast-201.jpg?fit=540%2C294&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0045546/",
+    "rating": 6.6
   },
   {
     "title": "LABYRINTH",
@@ -727,6 +781,15 @@
     "poster": "https://indy-systems.imgix.net/t2atz68s5607so1ohg03drq0xm12?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0050825/",
     "rating": 8.4
+  },
+  {
+    "title": "BACKROOMS",
+    "start": "2026-06-28T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/backrooms/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt26657236/",
+    "rating": 7.1
   },
   {
     "title": "Supergirl",
@@ -883,12 +946,30 @@
   },
   {
     "title": "DISCLOSURE DAY",
+    "start": "2026-06-28T21:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "DISCLOSURE DAY",
     "start": "2026-06-28T21:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
+  },
+  {
+    "title": "BACKROOMS",
+    "start": "2026-06-28T21:20:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/backrooms/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt26657236/",
+    "rating": 7.1
   },
   {
     "title": "BACKROOMS",
@@ -1404,6 +1485,24 @@
     "rating": 6.7
   },
   {
+    "title": "DISCLOSURE DAY",
+    "start": "2026-06-29T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "Oscilloscope Laboratories Presents \u2013 SOMETIMES I THINK ABOUT DYING",
+    "start": "2026-06-29T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/oscilloscope-laboratories-presents-sometimes-i-think-about-dying/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzY2OTIzMjUtNmNlZC00YTg0LTgwZWUtN2UwMmMwZjdiODI3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt16431966/",
+    "rating": 6.6
+  },
+  {
     "title": "SUPERGIRL",
     "start": "2026-06-29T18:00:00-07:00",
     "theater": "Studio One",
@@ -1503,6 +1602,24 @@
     "rating": null
   },
   {
+    "title": "BACKROOMS",
+    "start": "2026-06-29T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/backrooms/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt26657236/",
+    "rating": 7.1
+  },
+  {
+    "title": "The Disaster Film @ Portland State University",
+    "start": "2026-06-29T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/the-disaster-film-portland-state-university/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/MMU%40PSU_The_Disaster_Film_IMAGE_June_2026.png?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Supergirl",
     "start": "2026-06-29T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -1584,6 +1701,15 @@
     "rating": 7.6
   },
   {
+    "title": "1986 \u2013 The Year in Videos!",
+    "start": "2026-06-29T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/1986-the-year-in-videos/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/1986_Year_In_Video_thumb_Jun_2026.jpg?fit=540%2C304&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "SO I MARRIED AN AXE MURDERER",
     "start": "2026-06-29T19:30:00-07:00",
     "theater": "Kiggins Theatre",
@@ -1620,6 +1746,15 @@
     "rating": 6.9
   },
   {
+    "title": "Oscilloscope Laboratories Presents \u2013 SOMETIMES I THINK ABOUT DYING",
+    "start": "2026-06-29T20:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/oscilloscope-laboratories-presents-sometimes-i-think-about-dying/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzY2OTIzMjUtNmNlZC00YTg0LTgwZWUtN2UwMmMwZjdiODI3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt16431966/",
+    "rating": 6.6
+  },
+  {
     "title": "TOY STORY 5",
     "start": "2026-06-29T20:20:00-07:00",
     "theater": "Studio One",
@@ -1648,12 +1783,30 @@
   },
   {
     "title": "DISCLOSURE DAY",
+    "start": "2026-06-29T21:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "DISCLOSURE DAY",
     "start": "2026-06-29T21:10:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
+  },
+  {
+    "title": "BACKROOMS",
+    "start": "2026-06-29T21:20:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/backrooms/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt26657236/",
+    "rating": 7.1
   },
   {
     "title": "OBSESSION",
@@ -2169,6 +2322,15 @@
     "rating": 6.7
   },
   {
+    "title": "DISCLOSURE DAY",
+    "start": "2026-06-30T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
     "title": "SUPERGIRL",
     "start": "2026-06-30T18:00:00-07:00",
     "theater": "Studio One",
@@ -2194,6 +2356,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
+  },
+  {
+    "title": "The Queer Magical Girl: Madoka Magica",
+    "start": "2026-06-30T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/the-queer-magical-girl-madoka-magica/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/MMU_One_Evening_Puella_Magi_IMAGE_June_2026.png?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "BACKROOMS",
@@ -2277,6 +2448,15 @@
     "rating": 7.6
   },
   {
+    "title": "BACKROOMS",
+    "start": "2026-06-30T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/backrooms/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt26657236/",
+    "rating": 7.1
+  },
+  {
     "title": "Toy Story 5",
     "start": "2026-06-30T19:05:00-07:00",
     "theater": "St. Johns Cinema",
@@ -2349,6 +2529,15 @@
     "rating": 7.6
   },
   {
+    "title": "CREEPSHOW",
+    "start": "2026-06-30T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/creepshow/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/creepshowking2.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0083767/",
+    "rating": 6.8
+  },
+  {
     "title": "LABYRINTH",
     "start": "2026-06-30T19:30:00-07:00",
     "theater": "Kiggins Theatre",
@@ -2413,12 +2602,30 @@
   },
   {
     "title": "DISCLOSURE DAY",
+    "start": "2026-06-30T21:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "DISCLOSURE DAY",
     "start": "2026-06-30T21:10:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15047880/",
     "rating": 6.7
+  },
+  {
+    "title": "BACKROOMS",
+    "start": "2026-06-30T21:20:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/backrooms/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt26657236/",
+    "rating": 7.1
   },
   {
     "title": "OBSESSION",
@@ -2925,6 +3132,15 @@
     "rating": 7.6
   },
   {
+    "title": "DISCLOSURE DAY with Open Captions",
+    "start": "2026-07-01T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/disclosure-day-with-open-captions/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
     "title": "DISCLOSURE DAY",
     "start": "2026-07-01T18:00:00-07:00",
     "theater": "Studio One",
@@ -2959,6 +3175,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
     "rating": 6.9
+  },
+  {
+    "title": "I Think, Therefore I Scam: Chameleon Street",
+    "start": "2026-07-01T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/i-think-therefore-i-scam-chameleon-street/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/MMU_One_Evening_Chameleon_Street_IMAGE_July_2026.png?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "BACKROOMS (OPEN CAPTION)",
@@ -3040,6 +3265,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/06/Different-Poster.png",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "BACKROOMS",
+    "start": "2026-07-01T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/backrooms/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt26657236/",
+    "rating": 7.1
   },
   {
     "title": "Supergirl",
@@ -3132,6 +3366,15 @@
     "rating": 7.6
   },
   {
+    "title": "SUMMER WARS",
+    "start": "2026-07-01T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/summer-wars/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/SummerWarsBanner.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt1474276/",
+    "rating": 7.4
+  },
+  {
     "title": "I Love Boosters",
     "start": "2026-07-01T19:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -3186,6 +3429,15 @@
     "rating": 7.4
   },
   {
+    "title": "DISCLOSURE DAY",
+    "start": "2026-07-01T21:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
     "title": "JACKASS BEST AND LAST",
     "start": "2026-07-01T21:00:00-07:00",
     "theater": "Studio One",
@@ -3193,6 +3445,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
     "rating": 6.9
+  },
+  {
+    "title": "BACKROOMS",
+    "start": "2026-07-01T21:20:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/backrooms/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt26657236/",
+    "rating": 7.1
   },
   {
     "title": "DISCLOSURE DAY",
@@ -3719,6 +3980,15 @@
   {
     "title": "DISCLOSURE DAY",
     "start": "2026-07-02T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
+    "title": "DISCLOSURE DAY",
+    "start": "2026-07-02T18:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
@@ -3751,6 +4021,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt39316472/",
     "rating": 6.9
+  },
+  {
+    "title": "The World is Wrong About\u2026\u2018Mad Dog Time\u2019",
+    "start": "2026-07-02T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/the-world-is-wrong-about-mad-dog-time/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/MMU_The_World_is_Wrong_about_Mad_Dog_Time_IMAGE_July_2026.png?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "BACKROOMS",
@@ -3843,6 +4122,15 @@
     "rating": 6.8
   },
   {
+    "title": "BACKROOMS",
+    "start": "2026-07-02T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/backrooms/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt26657236/",
+    "rating": 7.1
+  },
+  {
     "title": "Supergirl",
     "start": "2026-07-02T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -3924,6 +4212,15 @@
     "rating": 7.6
   },
   {
+    "title": "THE THIRD MAN in 35mm",
+    "start": "2026-07-02T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-third-man-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/third-man1.jpg?fit=540%2C298&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0041959/",
+    "rating": 8.1
+  },
+  {
     "title": "O Horizon",
     "start": "2026-07-02T19:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -3978,6 +4275,15 @@
     "rating": 7.7
   },
   {
+    "title": "DISCLOSURE DAY",
+    "start": "2026-07-02T21:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.7
+  },
+  {
     "title": "JACKASS BEST AND LAST",
     "start": "2026-07-02T21:00:00-07:00",
     "theater": "Studio One",
@@ -3994,6 +4300,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMzI0ZTZkOGEtOTFjYi00ZmE1LTliYmYtMDE5OWRmMzVhMmVlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067229/",
     "rating": 5.9
+  },
+  {
+    "title": "BACKROOMS",
+    "start": "2026-07-02T21:20:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/backrooms/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt26657236/",
+    "rating": 7.1
   },
   {
     "title": "DISCLOSURE DAY",
@@ -4158,6 +4473,15 @@
     "rating": null
   },
   {
+    "title": "WAKING UP FROM A NAP",
+    "start": "2026-07-03T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/waking-up-from-a-nap/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/WakingUpStill2.1.jpg?fit=540%2C360&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Rose of Nevada",
     "start": "2026-07-03T18:45:00-07:00",
     "theater": "Cinema 21",
@@ -4194,6 +4518,15 @@
     "rating": 7.2
   },
   {
+    "title": "WAKING UP FROM A NAP",
+    "start": "2026-07-03T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/waking-up-from-a-nap/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/WakingUpStill2.1.jpg?fit=540%2C360&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-03T19:00:00-07:00",
     "theater": "Studio One",
@@ -4221,6 +4554,15 @@
     "rating": 6.9
   },
   {
+    "title": "THE THIRD MAN in 35mm",
+    "start": "2026-07-03T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-third-man-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/third-man1.jpg?fit=540%2C298&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0041959/",
+    "rating": 8.1
+  },
+  {
     "title": "INDEPENDENCE DAY",
     "start": "2026-07-03T19:30:00-07:00",
     "theater": "Kiggins Theatre",
@@ -4237,6 +4579,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8814476/",
     "rating": 6.1
+  },
+  {
+    "title": "WAKING UP FROM A NAP",
+    "start": "2026-07-03T20:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/waking-up-from-a-nap/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/WakingUpStill2.1.jpg?fit=540%2C360&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "Minions & Monsters",
@@ -4374,6 +4725,15 @@
     "rating": 7.0
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-07-04T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "MINIONS AND MONSTERS",
     "start": "2026-07-04T14:20:00-07:00",
     "theater": "Studio One",
@@ -4381,6 +4741,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "THE THIRD MAN in 35mm",
+    "start": "2026-07-04T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-third-man-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/third-man1.jpg?fit=540%2C298&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0041959/",
+    "rating": 8.1
   },
   {
     "title": "TOY STORY 5",
@@ -4471,6 +4840,24 @@
     "poster": "https://indy-systems.imgix.net/4bnn3pqapkeihxnextesdoifnt1u?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0113409/",
     "rating": 7.1
+  },
+  {
+    "title": "UNCLE SAM (1996) ON THE FOURTH OF JULY",
+    "start": "2026-07-04T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/uncle-sam-with-william-lustig/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/UncleSam_FB_03.jpeg?fit=540%2C282&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-07-04T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "INDEPENDENCE DAY",
@@ -4635,6 +5022,15 @@
     "rating": null
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-07-05T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "A Bigger Splash",
     "start": "2026-07-05T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -4660,6 +5056,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "THE THIRD MAN in 35mm",
+    "start": "2026-07-05T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-third-man-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/third-man1.jpg?fit=540%2C298&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0041959/",
+    "rating": 8.1
   },
   {
     "title": "INDEPENDENCE DAY",
@@ -4712,6 +5117,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "DEVO 250: THE BEGINNING WAS THE END",
+    "start": "2026-07-05T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/devo-250-the-beginning-was-the-end/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/devo_2.jpg?fit=538%2C304&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -4779,6 +5193,15 @@
     "rating": 6.9
   },
   {
+    "title": "DARK ANGEL",
+    "start": "2026-07-05T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/dark-angel/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/darkangel.jpeg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0099817/",
+    "rating": 6.1
+  },
+  {
     "title": "SUPERGIRL",
     "start": "2026-07-05T19:35:00-07:00",
     "theater": "Studio One",
@@ -4795,6 +5218,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "DEVO 250: THE BEGINNING WAS THE END",
+    "start": "2026-07-05T21:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/devo-250-the-beginning-was-the-end/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/devo_2.jpg?fit=538%2C304&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -4849,6 +5281,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.6
+  },
+  {
+    "title": "Miniplex Rental \u2013 Specialty",
+    "start": "2026-07-06T12:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/miniplex-rental-specialty/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/therulesofattraction.jpg?fit=540%2C304&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "BLOW OUT (1981)",
@@ -4941,6 +5382,15 @@
     "rating": 8.1
   },
   {
+    "title": "O BROTHER, WHERE ART THOU?",
+    "start": "2026-07-06T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/o-brother-where-art-thou/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/obrother1.jpg?fit=540%2C324&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0190590/",
+    "rating": 7.7
+  },
+  {
     "title": "MOCKBUSTER",
     "start": "2026-07-06T19:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -4966,6 +5416,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMWI5YWYxNjgtYTZmOC00YmFlLWJjMGUtMmNiZDk3NGVjOGY0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067148/",
     "rating": 6.1
+  },
+  {
+    "title": "BEAU TRAVAIL",
+    "start": "2026-07-06T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/beau-travail/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/IMG_3476.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0209933/",
+    "rating": 7.3
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -5067,6 +5526,15 @@
     "rating": null
   },
   {
+    "title": "Jim Jarmusch\u2019s America",
+    "start": "2026-07-07T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/jim-jarmuschs-america/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/MMU_Jarmusch.jpg?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Rose of Nevada",
     "start": "2026-07-07T18:45:00-07:00",
     "theater": "Cinema 21",
@@ -5101,6 +5569,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/ACEFBAF8D7E49A6C3D89C455D3F4CCA72B188237D68C1017B3D60614E1C9BFED_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0105695/",
     "rating": 8.2
+  },
+  {
+    "title": "YES, MADAM",
+    "start": "2026-07-07T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/yes-madam/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/yesmadam_16x9.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0093229/",
+    "rating": 6.6
   },
   {
     "title": "MOCKBUSTER",
@@ -5211,6 +5688,15 @@
     "rating": null
   },
   {
+    "title": "Crash Course: 3 Films from House of Psychotic Women",
+    "start": "2026-07-08T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/crash-course-3-films-from-house-of-psychotic-women/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/MMU_Crash_Course_3_Films_from_HOPW_IMAGE_July_2026.png?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Rose of Nevada",
     "start": "2026-07-08T18:45:00-07:00",
     "theater": "Cinema 21",
@@ -5265,6 +5751,15 @@
     "rating": 6.1
   },
   {
+    "title": "ROMEO + JULIET",
+    "start": "2026-07-08T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/romeo-juliet/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/romeo1.jpg?fit=540%2C314&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0117509/",
+    "rating": 6.7
+  },
+  {
     "title": "Creating Culture and Investment in Portland through Art & Sports",
     "start": "2026-07-09T11:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -5306,6 +5801,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Miniplex Rental \u2013 Specialty",
+    "start": "2026-07-09T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/miniplex-rental-specialty/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/therulesofattraction.jpg?fit=540%2C304&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -5391,6 +5895,15 @@
     "rating": null
   },
   {
+    "title": "Senegalese Heroines",
+    "start": "2026-07-09T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/senegalese-heroines/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/MMU_Senegalese_Heroines_July_2026.png?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "EVIL DEAD BURN",
     "start": "2026-07-09T18:40:00-07:00",
     "theater": "Studio One",
@@ -5445,6 +5958,15 @@
     "rating": 7.9
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-09T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "Gail Daughtry and the Celebrity Sex Pass",
     "start": "2026-07-09T19:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -5452,6 +5974,15 @@
     "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36834010/",
     "rating": 6.3
+  },
+  {
+    "title": "EMPLOYEES\u2019 ENTRANCE",
+    "start": "2026-07-09T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/employees-entrance/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/emp1.jpg?fit=540%2C305&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0023986/",
+    "rating": 7.2
   },
   {
     "title": "MOANA",
@@ -5580,6 +6111,15 @@
     "rating": null
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-10T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "A KNIGHT'S TALE (2001)",
     "start": "2026-07-10T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -5616,6 +6156,15 @@
     "rating": 5.9
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-07-10T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "EVIL DEAD BURN",
     "start": "2026-07-10T19:00:00-07:00",
     "theater": "Studio One",
@@ -5634,6 +6183,15 @@
     "rating": 6.3
   },
   {
+    "title": "MORE PAY-LESS WORK: A Roaring Night Out for the Columbia River Theatre Organ Society",
+    "start": "2026-07-10T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/more-pay-less-work-a-roaring-night-out-for-the-columbia-river-theater-organ-society/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/Screenshot-2026-05-28-171417.jpg?fit=540%2C403&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "EVIL DEAD BURN",
     "start": "2026-07-10T21:05:00-07:00",
     "theater": "Studio One",
@@ -5641,6 +6199,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/6D89A14F65C342C170698B7BFF1286475F2CB477AF190792F05932D96FD68DB3_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31170389/",
     "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-10T21:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "The Invite",
@@ -5751,6 +6318,15 @@
     "rating": 7.3
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-07-11T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Dog Day Afternoon",
     "start": "2026-07-11T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -5760,6 +6336,15 @@
     "rating": 8.0
   },
   {
+    "title": "SCOPITONE-A-GO-GO-AGAIN in 16mm",
+    "start": "2026-07-11T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/scopitone-a-go-go-again-in-16mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/updated.jpg?fit=540%2C323&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "MOANA",
     "start": "2026-07-11T15:00:00-07:00",
     "theater": "Studio One",
@@ -5767,6 +6352,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E00DCCEE663A0BC907B657734881ED4DB583E0F574122B38C242036F87355A6F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt27419466/",
     "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-11T15:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "A KNIGHT'S TALE (2001)",
@@ -5805,6 +6399,15 @@
     "rating": 8.1
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-11T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "DETECTIVE PIKACHU GO FEST 2026",
     "start": "2026-07-11T18:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -5821,6 +6424,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E00DCCEE663A0BC907B657734881ED4DB583E0F574122B38C242036F87355A6F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt27419466/",
     "rating": null
+  },
+  {
+    "title": "BACK TO THE FUTURE in 35mm",
+    "start": "2026-07-11T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/back-to-the-future-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/bttfupdated.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0088763/",
+    "rating": 8.5
   },
   {
     "title": "The Invite",
@@ -5895,6 +6507,15 @@
     "rating": 6.3
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-11T20:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "EVIL DEAD BURN",
     "start": "2026-07-11T21:05:00-07:00",
     "theater": "Studio One",
@@ -5920,6 +6541,15 @@
     "poster": "https://indy-systems.imgix.net/7eilqrdtvez5vewue19fpkp4pp3r?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0082340/",
     "rating": 7.1
+  },
+  {
+    "title": "EVIL DEAD 2 in 35mm",
+    "start": "2026-07-11T21:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/evil-dead-2-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/evil-dead-updated.jpg?fit=540%2C292&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "Gail Daughtry and the Celebrity Sex Pass",
@@ -6021,11 +6651,38 @@
     "rating": 7.3
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-12T13:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "Maddie\u2019s Secret (with John Early Q&A)",
     "start": "2026-07-12T13:45:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/maddies-secret-with-john-early-qa",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_928fb404-efc9-427a-a542-dea3201a1148.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "2001: A SPACE ODYSSEY in 70mm",
+    "start": "2026-07-12T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/2001-a-space-odyssey-in-70mm/",
+    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/05/2001-space-odyssey-70mm-image.jpg",
+    "imdb": "https://www.imdb.com/title/tt0062622/",
+    "rating": 8.3
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-07-12T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -6046,6 +6703,15 @@
     "poster": "https://indy-systems.imgix.net/f6ckozzy3llqxw08x1144nzx3xg5?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt1049413/",
     "rating": 8.3
+  },
+  {
+    "title": "OREGON LENSED: FILMS FROM OUR STATE",
+    "start": "2026-07-12T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/oregon-lensed-films-from-our-state/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/updated-oregon.jpg?fit=540%2C339&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "MOANA",
@@ -6093,6 +6759,15 @@
     "rating": 7.5
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-12T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "MOANA",
     "start": "2026-07-12T18:00:00-07:00",
     "theater": "Studio One",
@@ -6100,6 +6775,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E00DCCEE663A0BC907B657734881ED4DB583E0F574122B38C242036F87355A6F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt27419466/",
     "rating": null
+  },
+  {
+    "title": "2001: A SPACE ODYSSEY in 70mm",
+    "start": "2026-07-12T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/2001-a-space-odyssey-in-70mm/",
+    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/05/2001-space-odyssey-70mm-image.jpg",
+    "imdb": "https://www.imdb.com/title/tt0062622/",
+    "rating": 8.3
   },
   {
     "title": "HOUR OF THE WOLF",
@@ -6136,6 +6820,15 @@
     "poster": "https://indy-systems.imgix.net/6636ghgxv3vc8xaxawov9s0a50rv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36834010/",
     "rating": 6.3
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-12T20:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "FOR A FEW DOLLARS MORE (1965)",
@@ -6237,6 +6930,15 @@
     "rating": null
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-13T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "CROSSING DELANCEY (1988)",
     "start": "2026-07-13T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -6264,6 +6966,15 @@
     "rating": 8.1
   },
   {
+    "title": "MMU@PSU: The Nolan Tenets \u2013 Decoding the Cinema of Christopher Nolan",
+    "start": "2026-07-13T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/mmupsu-the-nolan-tenets-decoding-the-cinema-of-christopher-nolan/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/MMU%40PSU_The_Nolan_Tenets_July_2026.png?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "EVIL DEAD BURN",
     "start": "2026-07-13T19:00:00-07:00",
     "theater": "Studio One",
@@ -6273,6 +6984,15 @@
     "rating": null
   },
   {
+    "title": "BIG TROUBLE IN LITTLE CHINA",
+    "start": "2026-07-13T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/big-trouble-in-little-china/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/big-trouble-little-china1.png?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0090728/",
+    "rating": 7.2
+  },
+  {
     "title": "EVIL DEAD BURN",
     "start": "2026-07-13T21:05:00-07:00",
     "theater": "Studio One",
@@ -6280,6 +7000,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/6D89A14F65C342C170698B7BFF1286475F2CB477AF190792F05932D96FD68DB3_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31170389/",
     "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-13T21:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "World-Class Soccer 2026",
@@ -6363,6 +7092,15 @@
     "rating": null
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-14T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "Earth's Greatest Enemy (with Q&A)",
     "start": "2026-07-14T19:00:00-07:00",
     "theater": "Cinema 21",
@@ -6408,6 +7146,15 @@
     "rating": 7.0
   },
   {
+    "title": "BLACK BELT JONES in 35mm",
+    "start": "2026-07-14T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/black-belt-jones-in-35mm-2026-07-14-730pm/",
+    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/Black-Belt-Jones-1.jpg",
+    "imdb": "https://www.imdb.com/title/tt0071221/",
+    "rating": 6.2
+  },
+  {
     "title": "EVIL DEAD BURN",
     "start": "2026-07-14T21:05:00-07:00",
     "theater": "Studio One",
@@ -6415,6 +7162,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/6D89A14F65C342C170698B7BFF1286475F2CB477AF190792F05932D96FD68DB3_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31170389/",
     "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-14T21:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "SCOOBY DOO",
@@ -6480,6 +7236,15 @@
     "rating": 7.3
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-15T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "The Invite",
     "start": "2026-07-15T19:00:00-07:00",
     "theater": "Cinema 21",
@@ -6525,6 +7290,15 @@
     "rating": 8.2
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-15T21:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "FOR A FEW DOLLARS MORE (1965)",
     "start": "2026-07-16T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -6534,6 +7308,15 @@
     "rating": 8.2
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-16T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-16T14:00:00-07:00",
     "theater": "Studio One",
@@ -6541,6 +7324,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-16T14:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "THE ODYSSEY",
@@ -6586,6 +7378,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.3
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-16T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
   },
   {
     "title": "THE ODYSSEY",
@@ -6696,6 +7497,15 @@
     "rating": null
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-16T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-07-16T21:20:00-07:00",
     "theater": "Academy Theater",
@@ -6719,6 +7529,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-16T22:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -6766,6 +7585,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-17T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-17T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "THE ODYSSEY",
@@ -6849,6 +7686,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-17T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-07-17T18:00:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -6912,6 +7758,24 @@
     "rating": 8.0
   },
   {
+    "title": "MIKEY AND NICKY",
+    "start": "2026-07-17T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/mikey-and-nicky/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/mikey-nicky1.jpg?fit=540%2C290&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0074901/",
+    "rating": 7.3
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-07-17T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-17T19:00:00-07:00",
     "theater": "Studio One",
@@ -6946,6 +7810,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-17T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "ODYSSEY",
@@ -7009,6 +7882,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNWNiMDUyYjItOTRjZC00ZTA0LWFmZDAtY2RkYzlhZDZkNjE2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0088044/",
     "rating": 6.2
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-17T22:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
   },
   {
     "title": "ODYSSEY",
@@ -7101,6 +7983,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-18T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "The Odyssey",
     "start": "2026-07-18T14:00:00-07:00",
     "theater": "Cinema 21",
@@ -7137,6 +8028,15 @@
     "rating": null
   },
   {
+    "title": "HOW TO TRAIN YOUR DRAGON",
+    "start": "2026-07-18T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/how-to-train-your-dragon/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/Family-Pictures-July-Promo-Image.jpg?fit=540%2C305&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt26743210/",
+    "rating": 7.7
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-07-18T15:00:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -7171,6 +8071,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-18T15:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "ODYSSEY",
@@ -7214,6 +8123,15 @@
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-odyssey",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-18T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -7290,6 +8208,15 @@
     "rating": 7.6
   },
   {
+    "title": "MIKEY AND NICKY",
+    "start": "2026-07-18T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/mikey-and-nicky/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/mikey-nicky1.jpg?fit=540%2C290&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0074901/",
+    "rating": 7.3
+  },
+  {
     "title": "The Odyssey",
     "start": "2026-07-18T19:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -7297,6 +8224,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-18T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "ODYSSEY",
@@ -7367,6 +8303,15 @@
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-odyssey",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-18T22:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -7470,12 +8415,30 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-19T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "The Odyssey",
     "start": "2026-07-19T14:00:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-odyssey",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-07-19T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
     "rating": null
   },
   {
@@ -7515,6 +8478,15 @@
     "rating": null
   },
   {
+    "title": "HOW TO TRAIN YOUR DRAGON",
+    "start": "2026-07-19T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/how-to-train-your-dragon/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/Family-Pictures-July-Promo-Image.jpg?fit=540%2C305&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt26743210/",
+    "rating": 7.7
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-07-19T15:00:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -7551,6 +8523,15 @@
     "rating": null
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-19T15:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-19T15:30:00-07:00",
     "theater": "Studio One",
@@ -7583,6 +8564,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-19T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -7659,6 +8649,15 @@
     "rating": 4.8
   },
   {
+    "title": "MIKEY AND NICKY",
+    "start": "2026-07-19T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/mikey-and-nicky/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/mikey-nicky1.jpg?fit=540%2C290&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0074901/",
+    "rating": 7.3
+  },
+  {
     "title": "The Odyssey",
     "start": "2026-07-19T19:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -7666,6 +8665,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-19T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "ODYSSEY",
@@ -7700,6 +8708,15 @@
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-19T22:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -7749,6 +8766,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-20T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-20T14:30:00-07:00",
     "theater": "Studio One",
@@ -7756,6 +8782,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-20T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "THE ODYSSEY",
@@ -7830,6 +8865,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-20T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-07-20T18:00:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -7893,6 +8937,24 @@
     "rating": null
   },
   {
+    "title": "MMU@PSU: Cinematic Immersion",
+    "start": "2026-07-20T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/mmupsu-cinematic-immersion/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/MMU%40PSU_Cinematic_Immersion_July_2026.png?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "I SHOT ANDY WARHOL",
+    "start": "2026-07-20T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/i-shot-andy-warhol-2026-07-20-700pm/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmY3YjJmOTMtYWE3Yy00MzM0LTgwNmQtYzIwMjIzYzFiZGNmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0116594/",
+    "rating": 6.6
+  },
+  {
     "title": "The Odyssey",
     "start": "2026-07-20T19:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -7911,6 +8973,15 @@
     "rating": 8.2
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-20T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-20T19:50:00-07:00",
     "theater": "Studio One",
@@ -7925,6 +8996,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-20T22:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -7974,6 +9054,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-21T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-21T14:30:00-07:00",
     "theater": "Studio One",
@@ -7981,6 +9070,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-21T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "THE ODYSSEY",
@@ -8055,6 +9153,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-21T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-07-21T18:00:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -8118,6 +9225,15 @@
     "rating": 7.5
   },
   {
+    "title": "GEORGE KUCHAR: COMEDY OF THE UNDERGROUND in 16mm",
+    "start": "2026-07-21T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/george-kuchar-comedy-of-the-underground-in-16mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/kuchar.jpg?fit=540%2C254&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "The Odyssey",
     "start": "2026-07-21T19:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -8136,6 +9252,15 @@
     "rating": 6.2
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-21T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-21T19:50:00-07:00",
     "theater": "Studio One",
@@ -8150,6 +9275,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-21T22:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -8199,6 +9333,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-22T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-22T14:30:00-07:00",
     "theater": "Studio One",
@@ -8206,6 +9349,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-22T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "THE ODYSSEY (OPEN CAPTION)",
@@ -8276,6 +9428,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-22T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -8352,6 +9513,15 @@
     "rating": null
   },
   {
+    "title": "NT Live: The Fifth Step // Presented by Third Rail Repertory Theatre",
+    "start": "2026-07-22T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/nt-live-the-fifth-step-presented-by-third-rail-repertory-theatre/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/18165827/THEFIFTHSTEPPOSTER.png",
+    "imdb": "https://www.imdb.com/title/tt37511177/",
+    "rating": 8.3
+  },
+  {
     "title": "The Odyssey",
     "start": "2026-07-22T19:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -8370,6 +9540,15 @@
     "rating": 8.2
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-07-22T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-22T19:50:00-07:00",
     "theater": "Studio One",
@@ -8384,6 +9563,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-22T22:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -8424,6 +9612,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-23T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-23T14:30:00-07:00",
     "theater": "Studio One",
@@ -8431,6 +9628,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-23T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "THE ODYSSEY",
@@ -8501,6 +9707,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-23T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -8586,6 +9801,15 @@
     "rating": null
   },
   {
+    "title": "DJ AHMET",
+    "start": "2026-07-23T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/dj-ahmet/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/djahmet1.jpg?fit=540%2C328&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt34964187/",
+    "rating": 7.3
+  },
+  {
     "title": "SIA: NOSTALGIC FOR THE PRESENT",
     "start": "2026-07-23T19:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -8611,6 +9835,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-07-23T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.3
   },
   {
     "title": "Her Private Hell",
@@ -8667,6 +9900,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-23T22:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-07-24T12:15:00-07:00",
     "theater": "Academy Theater",
@@ -8685,11 +9927,29 @@
     "rating": 7.9
   },
   {
+    "title": "Year of the Dragon",
+    "start": "2026-07-24T13:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/year-of-the-dragon/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/MMU_One_Afternoon_Year_of_the_Dragon_IMAGE_July_2026.png?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0090350/",
+    "rating": 6.8
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-24T13:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-24T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -8717,6 +9977,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-24T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
@@ -8773,6 +10042,15 @@
     "poster": "https://indy-systems.imgix.net/zbbt14l1om2ypgamuwoimhnhsw1j?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
     "rating": 3.8
+  },
+  {
+    "title": "SCARLET WARNING 666",
+    "start": "2026-07-24T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/scarlet-warning-666/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/scarlet-warning1.jpg?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "UNCAGED: A Nic Cage Drag Show",
@@ -8838,6 +10116,15 @@
     "rating": 7.6
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-24T22:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-25T09:30:00-07:00",
     "theater": "Studio One",
@@ -8883,6 +10170,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-25T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "Sexy Beast in 35mm",
     "start": "2026-07-25T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -8919,12 +10215,30 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-25T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-07-25T18:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "SCARLET WARNING 666",
+    "start": "2026-07-25T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/scarlet-warning-666/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/scarlet-warning1.jpg?fit=540%2C303&ssl=1",
+    "imdb": null,
     "rating": null
   },
   {
@@ -8962,6 +10276,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/05/Dune_1984_poster.png",
     "imdb": "https://www.imdb.com/title/tt0087182/",
     "rating": 6.2
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-07-25T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "Her Private Hell",
@@ -9027,6 +10350,15 @@
     "rating": 7.3
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-25T22:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "The Rocky Horror Picture Show with Thom Hilton",
     "start": "2026-07-25T23:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -9069,6 +10401,24 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-26T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-07-26T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
     "rating": null
   },
   {
@@ -9117,6 +10467,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-26T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-07-26T18:30:00-07:00",
     "theater": "Academy Theater",
@@ -9160,6 +10519,15 @@
     "poster": "https://indy-systems.imgix.net/zbbt14l1om2ypgamuwoimhnhsw1j?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
     "rating": 3.8
+  },
+  {
+    "title": "PUSHER",
+    "start": "2026-07-26T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/pusher/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/pusher1.jpg?fit=540%2C319&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0117407/",
+    "rating": 7.3
   },
   {
     "title": "ODYSSEY",
@@ -9234,6 +10602,15 @@
     "rating": 8.5
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-27T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-07-27T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -9259,6 +10636,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNmQ1YWNkMDgtNjY3OC00MTcwLTljODktZmZjMTJkNmU5MDQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0133189/",
     "rating": 7.3
+  },
+  {
+    "title": "PUSHER II: WITH BLOOD ON MY HANDS",
+    "start": "2026-07-27T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/pusher-ii-with-blood-on-my-hands/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/pusher21.jpg?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "THE ODYSSEY",
@@ -9295,6 +10681,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNmQ1YWNkMDgtNjY3OC00MTcwLTljODktZmZjMTJkNmU5MDQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0133189/",
     "rating": 7.3
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-28T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
   },
   {
     "title": "RIO BRAVO (1959)",

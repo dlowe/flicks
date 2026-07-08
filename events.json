@@ -1,401 +1,5 @@
 [
   {
-    "title": "O Horizon",
-    "start": "2026-07-07T17:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/o-horizon",
-    "poster": "https://indy-systems.imgix.net/2g169fdtrv3q9hgu3vnq1a236gyl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt25971256/",
-    "rating": 6.9
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-07T17:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-07T17:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "MINIONS AND MONSTERS",
-    "start": "2026-07-07T17:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "I Love Boosters",
-    "start": "2026-07-07T17:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
-    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 6.8
-  },
-  {
-    "title": "YOUNG WASHINGTON",
-    "start": "2026-07-07T17:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/01441E90EEEEDEA87487E394F30DCA78F2DD509FC21CD0043D87307C15C55114_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32104007/",
-    "rating": 7.3
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-07T17:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.0
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-07-07T18:00:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-07-07T18:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "Toy Story 5",
-    "start": "2026-07-07T18:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
-    "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-07-07T18:20:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "MINIONS AND MONSTERS",
-    "start": "2026-07-07T18:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Obsession",
-    "start": "2026-07-07T18:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/obsession",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_6751b6b9-058d-480d-a0b7-4ecff8a8d606.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.0
-  },
-  {
-    "title": "Jim Jarmusch\u2019s America",
-    "start": "2026-07-07T18:30:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://moviemadness.org/show/jim-jarmuschs-america/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/MMU_Jarmusch.jpg?fit=540%2C303&ssl=1",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "BACKROOMS: EVERYTHING MUST GO EDITION",
-    "start": "2026-07-07T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-07-07T18:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "Rose of Nevada",
-    "start": "2026-07-07T18:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/rose-of-nevada",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_62804aa8-84ed-4aff-9d66-ffc46dfa7702.jpg",
-    "imdb": "https://www.imdb.com/title/tt35674521/",
-    "rating": 6.9
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-07T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.0
-  },
-  {
-    "title": "Minions & Monsters",
-    "start": "2026-07-07T18:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
-    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.6
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-07T19:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "Autumn Sonata",
-    "start": "2026-07-07T19:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/autumn-sonata",
-    "poster": "https://indy-systems.imgix.net/6a8xzzdjm7vhj2l3abfg40t68bpk?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0077711/",
-    "rating": 8.1
-  },
-  {
-    "title": "BACKROOMS: EVERYTHING MUST GO EDITION",
-    "start": "2026-07-07T19:00:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/backrooms-everything-must-go-edition/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Supergirl",
-    "start": "2026-07-07T19:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
-    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.1
-  },
-  {
-    "title": "Toy Story 5",
-    "start": "2026-07-07T19:05:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/18960?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-07-07T19:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "JACKASS: BEST AND LAST",
-    "start": "2026-07-07T19:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/2D425213D6934C4A4B8391E17F748A6CCBA10D4D2009B31A051C834D1E4D50BC_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.7
-  },
-  {
-    "title": "O Horizon",
-    "start": "2026-07-07T19:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/o-horizon",
-    "poster": "https://indy-systems.imgix.net/2g169fdtrv3q9hgu3vnq1a236gyl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt25971256/",
-    "rating": 6.9
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-07T19:15:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "JACKASS BEST AND LAST",
-    "start": "2026-07-07T19:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.7
-  },
-  {
-    "title": "UNFORGIVEN (1992)",
-    "start": "2026-07-07T19:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/ACEFBAF8D7E49A6C3D89C455D3F4CCA72B188237D68C1017B3D60614E1C9BFED_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0105695/",
-    "rating": 8.2
-  },
-  {
-    "title": "YES, MADAM",
-    "start": "2026-07-07T19:30:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/yes-madam/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/yesmadam_16x9.jpg?fit=540%2C303&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt0093229/",
-    "rating": 6.6
-  },
-  {
-    "title": "MOCKBUSTER",
-    "start": "2026-07-07T19:30:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/mockbuster",
-    "poster": "https://indy-systems.imgix.net/tgpp3rynx04lw3g7e7y2vj92501o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32377397/",
-    "rating": 8.5
-  },
-  {
-    "title": "I Love Boosters",
-    "start": "2026-07-07T19:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
-    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 6.8
-  },
-  {
-    "title": "Supergirl",
-    "start": "2026-07-07T19:30:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/18961?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.1
-  },
-  {
-    "title": "SUPERGIRL",
-    "start": "2026-07-07T19:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.1
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-07T19:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
-  },
-  {
-    "title": "BACKROOMS EVERYTHING MUST GO",
-    "start": "2026-07-07T20:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E79669DB37DAE18796C2D5A08D9A1DBBA10E59C7E3A842E80E7739215420494_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-07T20:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.0
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-07-07T21:00:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "MINIONS AND MONSTERS",
-    "start": "2026-07-07T21:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "IRON GIANT",
-    "start": "2026-07-07T21:30:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5E6B1C3924CE973CAD2FA09AF260237C4B7845F1059B65F25525FC8C2FE9A700_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0129167/",
-    "rating": 8.1
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-07-07T21:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "BACKROOMS: EVERYTHING MUST GO EDITION",
-    "start": "2026-07-07T21:35:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/backrooms-everything-must-go-edition/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "JACKASS BEST AND LAST",
-    "start": "2026-07-07T22:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.7
-  },
-  {
     "title": "IRON GIANT",
     "start": "2026-07-08T11:00:00-07:00",
     "theater": "Moreland Theater",
@@ -420,7 +24,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "OBSESSION",
@@ -483,7 +87,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "TOY STORY 5",
@@ -492,7 +96,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "STOP! THAT! TRAIN!",
@@ -501,7 +105,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "SUPERGIRL",
@@ -537,7 +141,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "TOY STORY 5",
@@ -546,7 +150,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Supergirl",
@@ -609,7 +213,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "STOP! THAT! TRAIN!",
@@ -618,7 +222,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "Disclosure Day",
@@ -699,7 +303,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Toy Story 5",
@@ -708,7 +312,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18967?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "TOY STORY 5",
@@ -717,7 +321,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Leviticus",
@@ -807,7 +411,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "TOY STORY 5",
@@ -816,7 +420,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -879,7 +483,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "DISCLOSURE DAY (OPEN CAPTION)",
@@ -933,7 +537,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18966?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Rose of Nevada",
@@ -969,7 +573,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "In the Mouth of Madness",
@@ -1059,7 +663,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Supergirl",
@@ -1122,7 +726,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "BACKROOMS EVERYTHING MUST GO",
@@ -1248,7 +852,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "OBSESSION",
@@ -1302,7 +906,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "STOP! THAT! TRAIN!",
@@ -1311,7 +915,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "UNFORGIVEN (1992)",
@@ -1365,7 +969,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Miniplex Rental \u2013 Specialty",
@@ -1383,7 +987,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "MOANA",
@@ -1446,7 +1050,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "STOP! THAT! TRAIN!",
@@ -1455,7 +1059,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "Disclosure Day",
@@ -1554,7 +1158,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "TOY STORY 5",
@@ -1563,7 +1167,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Leviticus",
@@ -1590,7 +1194,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18992?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "SUPERGIRL",
@@ -1653,7 +1257,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "TOY STORY 5",
@@ -1662,7 +1266,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "MOANA",
@@ -1683,13 +1287,13 @@
     "rating": 6.8
   },
   {
-    "title": "YOUNG WASHINGTON",
-    "start": "2026-07-09T17:15:00-07:00",
+    "title": "MINIONS AND MONSTERS",
+    "start": "2026-07-09T17:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/01441E90EEEEDEA87487E394F30DCA78F2DD509FC21CD0043D87307C15C55114_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32104007/",
-    "rating": 7.3
+    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "DISCLOSURE DAY",
@@ -1716,16 +1320,16 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
-    "title": "MINIONS AND MONSTERS",
+    "title": "THE INVITE",
     "start": "2026-07-09T18:20:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
+    "poster": "https://app.formovietickets.com/schedules/graphics/E90A935F2F7B1F4CAFD44D987BD8D7EB5694EAC6551A143F5C9F476CE90DB2EB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.8
   },
   {
     "title": "Senegalese Heroines",
@@ -1770,7 +1374,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Rose of Nevada",
@@ -1869,7 +1473,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18993?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "BLOW OUT (1981)",
@@ -1914,7 +1518,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "JACKASS BEST AND LAST",
@@ -1959,7 +1563,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "MOANA",
@@ -2004,7 +1608,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -2052,17 +1656,17 @@
     "rating": 6.1
   },
   {
-    "title": "JACKASS BEST AND LAST",
+    "title": "THE INVITE",
     "start": "2026-07-09T22:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.7
+    "poster": "https://app.formovietickets.com/schedules/graphics/E90A935F2F7B1F4CAFD44D987BD8D7EB5694EAC6551A143F5C9F476CE90DB2EB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.8
   },
   {
     "title": "OBSESSION",
-    "start": "2026-07-09T22:35:00-07:00",
+    "start": "2026-07-09T22:20:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
@@ -2121,7 +1725,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "TOY STORY 5",
@@ -2130,7 +1734,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Disclosure Day",
@@ -2202,7 +1806,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "EVIL DEAD BURN",
@@ -2256,7 +1860,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -2283,7 +1887,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "STOP! THAT! TRAIN!",
@@ -2292,7 +1896,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "WHEN HARRY MET SALLY",
@@ -2400,7 +2004,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN",
@@ -2445,7 +2049,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18994?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "OBSESSION",
@@ -2544,7 +2148,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "MOANA",
@@ -2589,7 +2193,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -2733,7 +2337,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18999?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN",
@@ -2814,7 +2418,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -2832,7 +2436,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Disclosure Day",
@@ -3003,7 +2607,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "I Love Boosters",
@@ -3030,7 +2634,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "MOANA",
@@ -3075,7 +2679,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -3183,7 +2787,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "TOY STORY 5",
@@ -3192,7 +2796,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Disclosure Day",
@@ -3282,7 +2886,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "EVIL DEAD BURN",
@@ -3318,7 +2922,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/19004?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "OBSESSION",
@@ -3399,7 +3003,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -3453,7 +3057,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "MOANA",
@@ -3471,7 +3075,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Maddie\u2019s Secret (with John Early Live Q&A)",
@@ -3561,7 +3165,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN",
@@ -3606,7 +3210,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18995?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "JAWS",
@@ -3759,7 +3363,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -3894,7 +3498,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/19000?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN",
@@ -3966,7 +3570,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -4146,7 +3750,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "TOY STORY 5",
@@ -4155,7 +3759,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "I Love Boosters",
@@ -4182,7 +3786,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "MOANA",
@@ -4236,7 +3840,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -4326,7 +3930,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "TOY STORY 5",
@@ -4335,7 +3939,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Disclosure Day",
@@ -4407,7 +4011,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18935?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "A KNIGHT'S TALE (2001)",
@@ -4443,7 +4047,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "EVIL DEAD BURN",
@@ -4578,7 +4182,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -4614,7 +4218,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "MOANA",
@@ -4632,7 +4236,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN",
@@ -4722,7 +4326,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN",
@@ -4758,7 +4362,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18938?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "The Invite",
@@ -4875,7 +4479,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Maddie\u2019s Secret (with John Early Live Q&A)",
@@ -4920,7 +4524,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Toy Story 5",
@@ -4929,7 +4533,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18940?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -5040,15 +4644,6 @@
     "rating": null
   },
   {
-    "title": "Bring It On x Portland Arts Week",
-    "start": "2026-07-12T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/bring-it-on-2/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/01134928/7.png",
-    "imdb": "https://www.imdb.com/title/tt0204946/",
-    "rating": 6.2
-  },
-  {
     "title": "EVIL DEAD BURN",
     "start": "2026-07-12T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -5118,7 +4713,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -5190,7 +4785,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -5280,7 +4875,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "TOY STORY 5",
@@ -5289,7 +4884,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Disclosure Day",
@@ -5352,7 +4947,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "EVIL DEAD BURN",
@@ -5406,7 +5001,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -5433,7 +5028,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "MOANA",
@@ -5451,7 +5046,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN",
@@ -5541,7 +5136,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN",
@@ -5586,7 +5181,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18996?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "The Furious",
@@ -5721,7 +5316,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -5865,7 +5460,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/19001?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN",
@@ -5946,7 +5541,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -6000,7 +5595,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -6081,7 +5676,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "TOY STORY 5",
@@ -6090,7 +5685,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Disclosure Day",
@@ -6153,7 +5748,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "EVIL DEAD BURN",
@@ -6207,7 +5802,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -6234,7 +5829,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "MOANA",
@@ -6252,7 +5847,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN",
@@ -6342,7 +5937,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN",
@@ -6387,7 +5982,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18997?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Obsession",
@@ -6504,7 +6099,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -6531,7 +6126,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -6648,7 +6243,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/19002?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN",
@@ -6747,7 +6342,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -6801,7 +6396,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "SCOOBY DOO",
@@ -6900,7 +6495,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "TOY STORY 5",
@@ -6909,7 +6504,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Disclosure Day",
@@ -6972,7 +6567,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "EVIL DEAD BURN",
@@ -7026,7 +6621,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -7053,7 +6648,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "MOANA",
@@ -7071,7 +6666,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN (OPEN CAPTION)",
@@ -7161,7 +6756,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN",
@@ -7206,7 +6801,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/18998?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "The Furious",
@@ -7305,7 +6900,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -7332,7 +6927,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -7476,7 +7071,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/19003?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "EVIL DEAD BURN",
@@ -7548,7 +7143,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "MINIONS AND MONSTERS",
@@ -7584,7 +7179,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -7638,7 +7233,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "Disclosure Day",
@@ -7692,7 +7287,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "THE ODYSSEY in 70mm",
@@ -7746,7 +7341,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -7782,7 +7377,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "The Odyssey",
@@ -7890,7 +7485,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "The Invite",
@@ -8124,7 +7719,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.6
+    "rating": 7.5
   },
   {
     "title": "ODYSSEY",
@@ -8187,7 +7782,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
     "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.3
+    "rating": 6.4
   },
   {
     "title": "Evil Dead Burn",
@@ -10809,15 +10404,6 @@
     "rating": null
   },
   {
-    "title": "The Stimming Pool",
-    "start": "2026-07-23T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/the-stimming-pool/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/26185136/9RddmxlHOU1pDTeHVfP9QS552BV-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt32122837/",
-    "rating": 6.7
-  },
-  {
     "title": "Reading Lolita in Tehran",
     "start": "2026-07-23T19:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -11212,15 +10798,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/118A43B7ED3AE9ACD951F266B44DEAAD4E8F3973775ECF4BC99C1F8E0B60CF03_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0053221/",
     "rating": 7.9
-  },
-  {
-    "title": "She\u2019s the He",
-    "start": "2026-07-25T16:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/shes-the-he/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/14111401/z5zlRWl4DNrhGLB4st2Kn68HaUq-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt32261856/",
-    "rating": 5.4
   },
   {
     "title": "ODYSSEY",
@@ -12231,6 +11808,15 @@
     "rating": null
   },
   {
+    "title": "The Travel Companion w/ Virtual Q&A",
+    "start": "2026-07-31T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/the-travel-companion/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/28131039/9kgNTjPBpD6eshgvgRIPD0G9wBC.jpg",
+    "imdb": "https://www.imdb.com/title/tt34430279/",
+    "rating": 8.3
+  },
+  {
     "title": "Rosebush Pruning",
     "start": "2026-07-31T19:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -12922,5 +12508,77 @@
     "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39676060/",
     "rating": null
+  },
+  {
+    "title": "CatVideoFest 2026",
+    "start": "2026-08-07T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
+    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
+  },
+  {
+    "title": "CatVideoFest 2026",
+    "start": "2026-08-07T13:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
+    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
+  },
+  {
+    "title": "Filmed by Bike Block 1: Inspire",
+    "start": "2026-08-07T18:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/filmed-by-bike-block-1-inspire/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/07/FilmedByBike-poster.png",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Ice Cream Man",
+    "start": "2026-08-07T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/ice-cream-man",
+    "poster": "https://indy-systems.imgix.net/c6i4kdz9yi05ywqcf7dhlpiwwdgh?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36893729/",
+    "rating": null
+  },
+  {
+    "title": "MICHAEL MANN\u2019S MANHUNTER: THE FINAL CUT",
+    "start": "2026-08-07T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/michael-manns-manhunter-the-final-cut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/manhunter1.jpg?fit=540%2C329&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "FANTASIC VOYAGE",
+    "start": "2026-08-07T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/fantasic-voyage/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/fantasticvoyage1.jpg?fit=540%2C360&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Filmed by Bike Block 2: Adventure",
+    "start": "2026-08-07T20:30:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/filmed-by-bike-block-2-adventure/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/07/FilmedByBike-poster.png",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Bad Moon",
+    "start": "2026-08-07T22:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/bad-moon",
+    "poster": "https://indy-systems.imgix.net/6k1wmnv44w1sgbz9zoxo142421pr?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0115610/",
+    "rating": 5.8
   }
 ]

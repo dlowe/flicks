@@ -1,833 +1,5 @@
 [
   {
-    "title": "IRON GIANT",
-    "start": "2026-07-08T11:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5E6B1C3924CE973CAD2FA09AF260237C4B7845F1059B65F25525FC8C2FE9A700_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0129167/",
-    "rating": 8.1
-  },
-  {
-    "title": "Minions & Monsters",
-    "start": "2026-07-08T11:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
-    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.6
-  },
-  {
-    "title": "Toy Story 5",
-    "start": "2026-07-08T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
-    "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-08T12:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.0
-  },
-  {
-    "title": "MINIONS AND MONSTERS",
-    "start": "2026-07-08T12:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Supergirl",
-    "start": "2026-07-08T12:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
-    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.1
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-07-08T12:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-07-08T12:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "O Horizon",
-    "start": "2026-07-08T12:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/o-horizon",
-    "poster": "https://indy-systems.imgix.net/2g169fdtrv3q9hgu3vnq1a236gyl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt25971256/",
-    "rating": 6.9
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-08T12:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-08T12:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "STOP! THAT! TRAIN!",
-    "start": "2026-07-08T12:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
-    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.4
-  },
-  {
-    "title": "SUPERGIRL",
-    "start": "2026-07-08T12:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.1
-  },
-  {
-    "title": "BLOW OUT (1981)",
-    "start": "2026-07-08T13:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E0E40D7293C7F614FB44622971DE8DDDCBA71062B9C2EEF8815A9784E6BB4CA6_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0082085/",
-    "rating": 7.4
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-07-08T13:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "Toy Story 5",
-    "start": "2026-07-08T13:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
-    "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-08T14:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "Supergirl",
-    "start": "2026-07-08T14:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
-    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.1
-  },
-  {
-    "title": "JACKASS BEST AND LAST",
-    "start": "2026-07-08T14:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.7
-  },
-  {
-    "title": "Minions & Monsters",
-    "start": "2026-07-08T14:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
-    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.6
-  },
-  {
-    "title": "I Love Boosters",
-    "start": "2026-07-08T14:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
-    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 6.8
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-08T14:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.0
-  },
-  {
-    "title": "MINIONS AND MONSTERS",
-    "start": "2026-07-08T14:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-08T14:50:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "STOP! THAT! TRAIN!",
-    "start": "2026-07-08T15:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
-    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 6.4
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-07-08T15:25:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "DISCLOSURE DAY (OPEN CAPTION)",
-    "start": "2026-07-08T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "BACKROOMS: Everything Must Go Ed. w/ Extra Footage",
-    "start": "2026-07-08T15:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/backrooms-everything-must-go-ed-w-extra-footage",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_9b345d6c-2aaa-42da-9ae6-d269282f2f40.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "BACKROOMS: EVERYTHING MUST GO EDITION (OPEN CAPTION)",
-    "start": "2026-07-08T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "MINIONS AND MONSTERS",
-    "start": "2026-07-08T15:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-07-08T16:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "Rose of Nevada",
-    "start": "2026-07-08T16:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/rose-of-nevada",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_62804aa8-84ed-4aff-9d66-ffc46dfa7702.jpg",
-    "imdb": "https://www.imdb.com/title/tt35674521/",
-    "rating": 6.9
-  },
-  {
-    "title": "OBSESSION (OPEN CAPTION)",
-    "start": "2026-07-08T16:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.0
-  },
-  {
-    "title": "Toy Story 5",
-    "start": "2026-07-08T16:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
-    "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "Toy Story 5",
-    "start": "2026-07-08T16:05:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/18967?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-08T16:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "Leviticus",
-    "start": "2026-07-08T16:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/leviticus",
-    "poster": "https://cdn.vwassets.com/cinema21.com/1780427150051_Leviticus-KeyArtPoster-27x40.jpg",
-    "imdb": "https://www.imdb.com/title/tt39143902/",
-    "rating": 6.9
-  },
-  {
-    "title": "JACKASS: BEST AND LAST (OPEN CAPTION)",
-    "start": "2026-07-08T16:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTRlYzQwYjItNDljNC00YmI2LWEwYmEtMjhhM2NiMGFhNTYyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.7
-  },
-  {
-    "title": "SUPERGIRL",
-    "start": "2026-07-08T16:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.1
-  },
-  {
-    "title": "UNFORGIVEN (1992)",
-    "start": "2026-07-08T16:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/ACEFBAF8D7E49A6C3D89C455D3F4CCA72B188237D68C1017B3D60614E1C9BFED_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0105695/",
-    "rating": 8.2
-  },
-  {
-    "title": "The Furious",
-    "start": "2026-07-08T16:30:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/the-furious",
-    "poster": "https://indy-systems.imgix.net/wlo2nfranpx6hksfm6cjbwrmotfo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
-  },
-  {
-    "title": "Supergirl",
-    "start": "2026-07-08T16:35:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
-    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.1
-  },
-  {
-    "title": "Supergirl",
-    "start": "2026-07-08T16:35:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/18968?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.1
-  },
-  {
-    "title": "Minions & Monsters",
-    "start": "2026-07-08T16:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
-    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.6
-  },
-  {
-    "title": "O Horizon",
-    "start": "2026-07-08T17:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/o-horizon",
-    "poster": "https://indy-systems.imgix.net/2g169fdtrv3q9hgu3vnq1a236gyl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt25971256/",
-    "rating": 6.9
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-08T17:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-08T17:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "MINIONS AND MONSTERS",
-    "start": "2026-07-08T17:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "I Love Boosters",
-    "start": "2026-07-08T17:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
-    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 6.8
-  },
-  {
-    "title": "YOUNG WASHINGTON",
-    "start": "2026-07-08T17:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/01441E90EEEEDEA87487E394F30DCA78F2DD509FC21CD0043D87307C15C55114_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32104007/",
-    "rating": 7.3
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-08T17:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.0
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-07-08T18:00:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-07-08T18:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "Toy Story 5",
-    "start": "2026-07-08T18:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/toy-story-5",
-    "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "DISCLOSURE DAY (OPEN CAPTION)",
-    "start": "2026-07-08T18:20:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "MINIONS AND MONSTERS",
-    "start": "2026-07-08T18:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Crash Course: 3 Films from House of Psychotic Women",
-    "start": "2026-07-08T18:30:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://moviemadness.org/show/crash-course-3-films-from-house-of-psychotic-women/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/MMU_Crash_Course_3_Films_from_HOPW_IMAGE_July_2026.png?fit=540%2C303&ssl=1",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "BACKROOMS: EVERYTHING MUST GO EDITION (OPEN CAPTION)",
-    "start": "2026-07-08T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-07-08T18:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/a8skonxjhq8dn0h82dd02chly8de?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "Toy Story 5",
-    "start": "2026-07-08T18:30:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/18966?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001493&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "Rose of Nevada",
-    "start": "2026-07-08T18:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/rose-of-nevada",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_62804aa8-84ed-4aff-9d66-ffc46dfa7702.jpg",
-    "imdb": "https://www.imdb.com/title/tt35674521/",
-    "rating": 6.9
-  },
-  {
-    "title": "OBSESSION (OPEN CAPTION)",
-    "start": "2026-07-08T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.0
-  },
-  {
-    "title": "Minions & Monsters",
-    "start": "2026-07-08T18:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
-    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.6
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-08T19:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E1E1828D92FCB023F53C8BC58B50E3B9F254E59EC0BBBAE0AA25E3B9FA1E33B5_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "In the Mouth of Madness",
-    "start": "2026-07-08T19:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/in-the-mouth-of-madness",
-    "poster": "https://indy-systems.imgix.net/4bnn3pqapkeihxnextesdoifnt1u?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0113409/",
-    "rating": 7.1
-  },
-  {
-    "title": "THE LAST FARM IN THE VALLEY (1950) (Church of Film)",
-    "start": "2026-07-08T19:00:00-07:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/the-last-farm-in-the-valley-1950-church-of-film/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/06/Last-Farm-in-the-Valley-Poster.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "BACKROOMS: EVERYTHING MUST GO EDITION",
-    "start": "2026-07-08T19:00:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/backrooms-everything-must-go-edition/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "SCIENCE ON TAP - POKING THE SQUID: WHAT WE CAN LEARN FROM ANIMAL SEX",
-    "start": "2026-07-08T19:00:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/science-on-tap---poking-the-squid-what-we-can-learn-from-animal-sex",
-    "poster": "https://indy-systems.imgix.net/l0assog7rszkviaks105p44mohqo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Supergirl",
-    "start": "2026-07-08T19:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/supergirl",
-    "poster": "https://indy-systems.imgix.net/h9is5g72tv8rl9ruy99ikfolye5a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.1
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-07-08T19:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/9C6E4B0B45FF9C3F763CC404BF6AB26A255573C121CD69AB572147CAAD709E6C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "Obsession",
-    "start": "2026-07-08T19:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/obsession",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_6751b6b9-058d-480d-a0b7-4ecff8a8d606.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.0
-  },
-  {
-    "title": "JACKASS: BEST AND LAST (OPEN CAPTION)",
-    "start": "2026-07-08T19:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTRlYzQwYjItNDljNC00YmI2LWEwYmEtMjhhM2NiMGFhNTYyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.7
-  },
-  {
-    "title": "O Horizon",
-    "start": "2026-07-08T19:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/o-horizon",
-    "poster": "https://indy-systems.imgix.net/2g169fdtrv3q9hgu3vnq1a236gyl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt25971256/",
-    "rating": 6.9
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-08T19:15:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/843F3CFA6A950F8F9D8426323C13394A64FE5F8F21EDD1FB60999172C7F35995_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "Supergirl",
-    "start": "2026-07-08T19:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/18969?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001531&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.1
-  },
-  {
-    "title": "JACKASS BEST AND LAST",
-    "start": "2026-07-08T19:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.7
-  },
-  {
-    "title": "GODZILLA VS. HEDORAH",
-    "start": "2026-07-08T19:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWI5YWYxNjgtYTZmOC00YmFlLWJjMGUtMmNiZDk3NGVjOGY0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0067148/",
-    "rating": 6.1
-  },
-  {
-    "title": "ROMEO + JULIET",
-    "start": "2026-07-08T19:30:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/romeo-juliet/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/romeo1.jpg?fit=540%2C314&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt0117509/",
-    "rating": 6.7
-  },
-  {
-    "title": "I Love Boosters",
-    "start": "2026-07-08T19:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
-    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 6.8
-  },
-  {
-    "title": "SUPERGIRL",
-    "start": "2026-07-08T19:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.1
-  },
-  {
-    "title": "TOY STORY 5",
-    "start": "2026-07-08T19:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A1A9D48E91DFBDFA0A654DF093F60D9AC0534D025C7B8D89558590B58D79AFF_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29355505/",
-    "rating": 7.5
-  },
-  {
-    "title": "BACKROOMS EVERYTHING MUST GO",
-    "start": "2026-07-08T20:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E79669DB37DAE18796C2D5A08D9A1DBBA10E59C7E3A842E80E7739215420494_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-08T20:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.0
-  },
-  {
-    "title": "Secret Screening",
-    "start": "2026-07-08T20:45:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/18970?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001326&isHighRes=true",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-07-08T21:00:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/disclosure-day/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/disclosure-day1.jpg?fit=540%2C304&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "SUPERGIRL",
-    "start": "2026-07-08T21:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DDF674298F81A89F6A8BD9B7423809F0019F50C8F5262C6D960D5000161174AA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8814476/",
-    "rating": 6.1
-  },
-  {
-    "title": "MINIONS AND MONSTERS",
-    "start": "2026-07-08T21:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "DISCLOSURE DAY",
-    "start": "2026-07-08T21:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/97DF514D2835FA7ADFECC66F09A9840672E5DD004DAA3BC67D3615C1C17B8D65_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.7
-  },
-  {
-    "title": "BACKROOMS: EVERYTHING MUST GO EDITION",
-    "start": "2026-07-08T21:35:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/backrooms-everything-must-go-edition/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/backrooms1.jpg?fit=540%2C289&ssl=1",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "JACKASS BEST AND LAST",
-    "start": "2026-07-08T22:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F5B512E0B06C57B7D8A22AA49215B94E10588E6DF0BFF136D77DEC2FBB73056A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt39316472/",
-    "rating": 6.7
-  },
-  {
-    "title": "BACKROOMS EVERYTHING MUST GO",
-    "start": "2026-07-08T22:25:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E79669DB37DAE18796C2D5A08D9A1DBBA10E59C7E3A842E80E7739215420494_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-08T22:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 8.0
-  },
-  {
     "title": "Creating Culture and Investment in Portland through Art & Sports",
     "start": "2026-07-09T11:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -1212,7 +384,7 @@
     "url": "https://tickets.thecinemagictheater.com/movie/the-furious",
     "poster": "https://indy-systems.imgix.net/wlo2nfranpx6hksfm6cjbwrmotfo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "Supergirl",
@@ -1950,7 +1122,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/3BC3E33669A5747871CB88DADF57A8E6B6FE819284BEBFD6056D9B69BD4B0412_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "Rose of Nevada",
@@ -2508,7 +1680,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/3BC3E33669A5747871CB88DADF57A8E6B6FE819284BEBFD6056D9B69BD4B0412_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "Obsession",
@@ -2814,7 +1986,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/3BC3E33669A5747871CB88DADF57A8E6B6FE819284BEBFD6056D9B69BD4B0412_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "EVIL DEAD BURN",
@@ -3381,7 +2553,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/3BC3E33669A5747871CB88DADF57A8E6B6FE819284BEBFD6056D9B69BD4B0412_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "The Invite",
@@ -4272,7 +3444,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/3BC3E33669A5747871CB88DADF57A8E6B6FE819284BEBFD6056D9B69BD4B0412_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "Rose of Nevada",
@@ -4776,7 +3948,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/3BC3E33669A5747871CB88DADF57A8E6B6FE819284BEBFD6056D9B69BD4B0412_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "TOY STORY 5",
@@ -4902,7 +4074,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/3BC3E33669A5747871CB88DADF57A8E6B6FE819284BEBFD6056D9B69BD4B0412_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "THE INVITE",
@@ -5190,7 +4362,7 @@
     "url": "https://tickets.thecinemagictheater.com/movie/the-furious",
     "poster": "https://indy-systems.imgix.net/wlo2nfranpx6hksfm6cjbwrmotfo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "JAWS",
@@ -5334,7 +4506,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/3BC3E33669A5747871CB88DADF57A8E6B6FE819284BEBFD6056D9B69BD4B0412_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "Maddie\u2019s Secret w/ prerecorded Amy Sedaris Q&A",
@@ -5883,7 +5055,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/3BC3E33669A5747871CB88DADF57A8E6B6FE819284BEBFD6056D9B69BD4B0412_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "Rose of Nevada",
@@ -6369,7 +5541,7 @@
     "url": "https://tickets.thecinemagictheater.com/movie/the-furious",
     "poster": "https://indy-systems.imgix.net/wlo2nfranpx6hksfm6cjbwrmotfo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "EVIL DEAD BURN",
@@ -6522,7 +5694,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/3BC3E33669A5747871CB88DADF57A8E6B6FE819284BEBFD6056D9B69BD4B0412_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "THE INVITE",
@@ -6810,7 +5982,7 @@
     "url": "https://tickets.thecinemagictheater.com/movie/the-furious",
     "poster": "https://indy-systems.imgix.net/wlo2nfranpx6hksfm6cjbwrmotfo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "JAWS",
@@ -6945,7 +6117,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/3BC3E33669A5747871CB88DADF57A8E6B6FE819284BEBFD6056D9B69BD4B0412_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "Maddie\u2019s Secret w/ prerecorded Amy Sedaris Q&A",
@@ -7425,15 +6597,6 @@
     "rating": null
   },
   {
-    "title": "THE FURIOUS",
-    "start": "2026-07-16T15:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3BC3E33669A5747871CB88DADF57A8E6B6FE819284BEBFD6056D9B69BD4B0412_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.8
-  },
-  {
     "title": "Rose of Nevada",
     "start": "2026-07-16T15:45:00-07:00",
     "theater": "Cinema 21",
@@ -7486,6 +6649,15 @@
     "poster": "https://indy-systems.imgix.net/zy8x0dbmqukx9ue5lkrg6td2yfhz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29355505/",
     "rating": 7.5
+  },
+  {
+    "title": "THE FURIOUS",
+    "start": "2026-07-16T16:15:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BC3E33669A5747871CB88DADF57A8E6B6FE819284BEBFD6056D9B69BD4B0412_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33311069/",
+    "rating": 7.7
   },
   {
     "title": "The Invite",
@@ -9072,6 +8244,15 @@
     "rating": 6.8
   },
   {
+    "title": "Before Sunrise",
+    "start": "2026-07-19T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/before-sunrise",
+    "poster": "https://indy-systems.imgix.net/mwtevrpzq37pd4w5meci30uh80zp?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0112471/",
+    "rating": 8.1
+  },
+  {
     "title": "Vegas in Space",
     "start": "2026-07-19T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -9322,6 +8503,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31170389/",
     "rating": null
+  },
+  {
+    "title": "Before Sunset",
+    "start": "2026-07-20T17:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/before-sunset",
+    "poster": "https://indy-systems.imgix.net/ymkfzmyk47fda4e94npzisczscr0?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0381681/",
+    "rating": 8.1
   },
   {
     "title": "ODYSSEY",
@@ -9655,6 +8845,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31170389/",
     "rating": null
+  },
+  {
+    "title": "Before Sunrise",
+    "start": "2026-07-21T16:45:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/before-sunrise",
+    "poster": "https://indy-systems.imgix.net/mwtevrpzq37pd4w5meci30uh80zp?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0112471/",
+    "rating": 8.1
   },
   {
     "title": "ODYSSEY",
@@ -10278,6 +9477,15 @@
     "rating": null
   },
   {
+    "title": "The Furious",
+    "start": "2026-07-23T16:30:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-furious",
+    "poster": "https://indy-systems.imgix.net/wlo2nfranpx6hksfm6cjbwrmotfo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33311069/",
+    "rating": 7.7
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-07-23T17:30:00-07:00",
     "theater": "Studio One",
@@ -10798,6 +10006,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/118A43B7ED3AE9ACD951F266B44DEAAD4E8F3973775ECF4BC99C1F8E0B60CF03_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0053221/",
     "rating": 7.9
+  },
+  {
+    "title": "She\u2019s the He",
+    "start": "2026-07-25T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/shes-the-he/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/14111401/z5zlRWl4DNrhGLB4st2Kn68HaUq-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261856/",
+    "rating": 5.2
   },
   {
     "title": "ODYSSEY",
@@ -11772,6 +10989,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-07-31T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-07-31T18:30:00-07:00",
     "theater": "Moreland Theater",
@@ -11806,15 +11032,6 @@
     "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": null
-  },
-  {
-    "title": "The Travel Companion w/ Virtual Q&A",
-    "start": "2026-07-31T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/the-travel-companion/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/28131039/9kgNTjPBpD6eshgvgRIPD0G9wBC.jpg",
-    "imdb": "https://www.imdb.com/title/tt34430279/",
-    "rating": 8.3
   },
   {
     "title": "Rosebush Pruning",
@@ -11934,6 +11151,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-01T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "Barry Lyndon in 35mm",
     "start": "2026-08-01T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -11976,6 +11202,15 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-01T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
   {
@@ -12114,6 +11349,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-02T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": null
+  },
+  {
     "title": "Twin Peaks Season 2: Episodes 11, 12, 13, 14, 15",
     "start": "2026-08-02T14:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -12174,6 +11418,15 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-02T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": null
   },
   {
@@ -12453,7 +11706,7 @@
     "url": "https://hollywoodtheatre.org/show/masters-of-the-universe/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/IMG_1872.jpeg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0427340/",
-    "rating": 6.9
+    "rating": 6.8
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -12580,5 +11833,131 @@
     "poster": "https://indy-systems.imgix.net/6k1wmnv44w1sgbz9zoxo142421pr?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0115610/",
     "rating": 5.8
+  },
+  {
+    "title": "His Girl Friday (1940)",
+    "start": "2026-08-08T11:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/his-girl-friday-1940",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_5b0562a2-9872-40da-9e8f-f23a1be12da8.jpg",
+    "imdb": "https://www.imdb.com/title/tt0032599/",
+    "rating": 7.8
+  },
+  {
+    "title": "CatVideoFest 2026",
+    "start": "2026-08-08T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
+    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
+  },
+  {
+    "title": "CatVideoFest 2026",
+    "start": "2026-08-08T13:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
+    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
+  },
+  {
+    "title": "Spirited Away (2001)",
+    "start": "2026-08-08T14:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/spirited-away-2001/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/06/Spirited-Away-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0245429/",
+    "rating": 8.6
+  },
+  {
+    "title": "MICHAEL MANN\u2019S MANHUNTER: THE FINAL CUT",
+    "start": "2026-08-08T14:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/michael-manns-manhunter-the-final-cut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/manhunter1.jpg?fit=540%2C329&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Filmed by Bike Block 3: Finish Line",
+    "start": "2026-08-08T15:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/filmed-by-bike-block-3-finish-line/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/07/FilmedByBike-poster.png",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "THE LAND BEFORE TIME",
+    "start": "2026-08-08T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-land-before-time/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/THE-LAND-BEFORE-TIME.jpg?fit=540%2C302&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0095489/",
+    "rating": 7.4
+  },
+  {
+    "title": "Filmed by Bike Block 4: Bike Love",
+    "start": "2026-08-08T18:30:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/filmed-by-bike-block-4-bike-love/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/07/FilmedByBike-poster.png",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "MICHAEL MANN\u2019S MANHUNTER: THE FINAL CUT",
+    "start": "2026-08-08T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/michael-manns-manhunter-the-final-cut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/manhunter1.jpg?fit=540%2C329&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Ice Cream Man",
+    "start": "2026-08-08T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/ice-cream-man",
+    "poster": "https://indy-systems.imgix.net/c6i4kdz9yi05ywqcf7dhlpiwwdgh?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36893729/",
+    "rating": null
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-08-08T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "DON\u2019T TELL MOM THE BABYSITTER\u2019S DEAD",
+    "start": "2026-08-08T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/dont-tell-mom-the-babysitters-dead/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/donttellmomthebabysittersdead.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0101757/",
+    "rating": 6.4
+  },
+  {
+    "title": "Ice Cream Man",
+    "start": "2026-08-08T21:15:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/ice-cream-man",
+    "poster": "https://indy-systems.imgix.net/c6i4kdz9yi05ywqcf7dhlpiwwdgh?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36893729/",
+    "rating": null
+  },
+  {
+    "title": "The Rocky Horror Picture Show with Sinophelia",
+    "start": "2026-08-08T23:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-sinophelia-20/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2023/07/rhps-virgins.webp",
+    "imdb": null,
+    "rating": null
   }
 ]

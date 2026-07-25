@@ -1,1679 +1,5 @@
 [
   {
-    "title": "Gail Daughtry and the Celebrity Sex Pass",
-    "start": "2026-07-23T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
-    "poster": "https://indy-systems.imgix.net/no4i7catxr3zdscr0o4y1ej2rfyj?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.8
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-07-23T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/xhuzpbr45f9c0u5vmigw4yqyocan?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.6
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-23T12:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "STOP! THAT! TRAIN!",
-    "start": "2026-07-23T12:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/stop-that-train",
-    "poster": "https://indy-systems.imgix.net/im6jtfzqfki1imfnacd49ziuz8eb?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt38128726/",
-    "rating": 5.9
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-23T12:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "MINIONS AND MONSTERS",
-    "start": "2026-07-23T12:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-23T12:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Romer\u00eda",
-    "start": "2026-07-23T12:25:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/romera",
-    "poster": "https://indy-systems.imgix.net/fzdieyj9addnl612x17ujfx22zye?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32538648/",
-    "rating": 6.8
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-23T12:25:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E90A935F2F7B1F4CAFD44D987BD8D7EB5694EAC6551A143F5C9F476CE90DB2EB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-23T12:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "INDIANA JONES AND THE LAST CRUSADE (1989)",
-    "start": "2026-07-23T13:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0097576/",
-    "rating": 8.2
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-23T13:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6D89A14F65C342C170698B7BFF1286475F2CB477AF190792F05932D96FD68DB3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-23T13:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-23T13:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "MOANA",
-    "start": "2026-07-23T14:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E00DCCEE663A0BC907B657734881ED4DB583E0F574122B38C242036F87355A6F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt27419466/",
-    "rating": 5.7
-  },
-  {
-    "title": "I Love Boosters",
-    "start": "2026-07-23T14:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/i-love-boosters",
-    "poster": "https://indy-systems.imgix.net/7vnq4z1o4r5s4phqian2l2pc49zn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 6.7
-  },
-  {
-    "title": "Minions & Monsters",
-    "start": "2026-07-23T14:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
-    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.5
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-23T14:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Romer\u00eda",
-    "start": "2026-07-23T14:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/romera",
-    "poster": "https://indy-systems.imgix.net/fzdieyj9addnl612x17ujfx22zye?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32538648/",
-    "rating": 6.8
-  },
-  {
-    "title": "MINIONS AND MONSTERS",
-    "start": "2026-07-23T14:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-23T15:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-23T15:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-23T15:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-23T15:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-odyssey",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-23T15:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-23T15:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/18869?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-23T15:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E90A935F2F7B1F4CAFD44D987BD8D7EB5694EAC6551A143F5C9F476CE90DB2EB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-23T15:25:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-23T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-23T15:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "Maddie\u2019s Secret w/ prerecorded Amy Sedaris Q&A",
-    "start": "2026-07-23T15:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/maddies-secret",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ceb859d8-d3a3-4a4f-8553-c7cecd8886db.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-23T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-07-23T15:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/xhuzpbr45f9c0u5vmigw4yqyocan?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.6
-  },
-  {
-    "title": "SAVAGE STREETS (1984)",
-    "start": "2026-07-23T16:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWNiMDUyYjItOTRjZC00ZTA0LWFmZDAtY2RkYzlhZDZkNjE2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0088044/",
-    "rating": 6.2
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-23T16:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-23T16:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6D89A14F65C342C170698B7BFF1286475F2CB477AF190792F05932D96FD68DB3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-07-23T16:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "Evil Dead Burn",
-    "start": "2026-07-23T16:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19083?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001515&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-23T16:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Furious",
-    "start": "2026-07-23T16:30:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/the-furious",
-    "poster": "https://indy-systems.imgix.net/wlo2nfranpx6hksfm6cjbwrmotfo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33311069/",
-    "rating": 7.4
-  },
-  {
-    "title": "Gail Daughtry and the Celebrity Sex Pass",
-    "start": "2026-07-23T16:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/gail-daughtry-and-the-celebrity-sex-pass",
-    "poster": "https://indy-systems.imgix.net/no4i7catxr3zdscr0o4y1ej2rfyj?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.8
-  },
-  {
-    "title": "MOANA",
-    "start": "2026-07-23T17:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E00DCCEE663A0BC907B657734881ED4DB583E0F574122B38C242036F87355A6F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt27419466/",
-    "rating": 5.7
-  },
-  {
-    "title": "Romer\u00eda",
-    "start": "2026-07-23T17:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/romera",
-    "poster": "https://indy-systems.imgix.net/fzdieyj9addnl612x17ujfx22zye?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32538648/",
-    "rating": 6.8
-  },
-  {
-    "title": "Minions & Monsters",
-    "start": "2026-07-23T17:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
-    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.5
-  },
-  {
-    "title": "MINIONS AND MONSTERS",
-    "start": "2026-07-23T17:10:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-23T17:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-23T18:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-23T18:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E90A935F2F7B1F4CAFD44D987BD8D7EB5694EAC6551A143F5C9F476CE90DB2EB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-23T18:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-23T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-23T18:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Reel Science: The (M) Factor 2",
-    "start": "2026-07-23T18:30:00-07:00",
-    "theater": "OMSI Empirical Theater",
-    "url": "https://omsi.edu/events/reel-science-the-m-factor-2-before-the-pause-perimenopause/",
-    "poster": "https://omsi.edu/wp-content/uploads/2026/06/M-Factor-2-Title-Art_stacked-blk-on-white.png",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-23T18:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-23T18:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-23T18:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-odyssey",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-23T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-07-23T18:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/xhuzpbr45f9c0u5vmigw4yqyocan?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.6
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-23T18:50:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "EL MARIACHI (1992)",
-    "start": "2026-07-23T19:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDc0ZmVjYWItMmY4MC00NzFmLThhZjktZWQzMDI1NmE0ZTc4XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0104815/",
-    "rating": 6.8
-  },
-  {
-    "title": "THE EASY KIND with Katy Chevigny Q&A",
-    "start": "2026-07-23T19:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-easy-kind",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_acfa04e2-6c12-428d-b9ba-63f35c199916.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Escape From LA",
-    "start": "2026-07-23T19:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/escape-from-la",
-    "poster": "https://indy-systems.imgix.net/jnpycrt4pyj4g8wucoezwv40vyvx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "SIA: NOSTALGIC FOR THE PRESENT",
-    "start": "2026-07-23T19:00:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/sia-nostalgic-for-the-present",
-    "poster": "https://indy-systems.imgix.net/xq97kulsv745qer2b2ly3bacwcds?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt43465871/",
-    "rating": null
-  },
-  {
-    "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS",
-    "start": "2026-07-23T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOGJhNzEtMWUxMC00Yjc1LWE1MTUtODc4Yzk3MzVjMWUyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.8
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-23T19:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6D89A14F65C342C170698B7BFF1286475F2CB477AF190792F05932D96FD68DB3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-07-23T19:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "Reading Lolita in Tehran",
-    "start": "2026-07-23T19:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
-    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27679443/",
-    "rating": 6.2
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-23T19:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-23T19:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/18868?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Her Private Hell",
-    "start": "2026-07-23T19:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
-    "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-23T19:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
-  },
-  {
-    "title": "Minions & Monsters",
-    "start": "2026-07-23T19:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
-    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.5
-  },
-  {
-    "title": "Evil Dead Burn",
-    "start": "2026-07-23T19:45:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19084?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001515&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-23T19:50:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Bike Smut",
-    "start": "2026-07-23T20:00:00-07:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/bike-smut/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/06/4317.png",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "MINIONS AND MONSTERS",
-    "start": "2026-07-23T20:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D11D80C87B48CDCEA6E7C1B89501A9E6338E55DFF2D1E6385289719712CF1143_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "MOANA",
-    "start": "2026-07-23T20:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E00DCCEE663A0BC907B657734881ED4DB583E0F574122B38C242036F87355A6F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt27419466/",
-    "rating": 5.7
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-23T20:50:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E90A935F2F7B1F4CAFD44D987BD8D7EB5694EAC6551A143F5C9F476CE90DB2EB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "Obsession",
-    "start": "2026-07-23T21:15:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/obsession",
-    "poster": "https://indy-systems.imgix.net/kd49gipiby3f7azuulkyk8rcoyfe?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-23T21:20:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SAVAGE STREETS (1984)",
-    "start": "2026-07-23T21:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWNiMDUyYjItOTRjZC00ZTA0LWFmZDAtY2RkYzlhZDZkNjE2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0088044/",
-    "rating": 6.2
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-23T21:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-23T22:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-23T22:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6D89A14F65C342C170698B7BFF1286475F2CB477AF190792F05932D96FD68DB3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "Reading Lolita in Tehran",
-    "start": "2026-07-24T11:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
-    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27679443/",
-    "rating": 6.2
-  },
-  {
-    "title": "Minions & Monsters",
-    "start": "2026-07-24T11:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
-    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.5
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-07-24T11:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/xhuzpbr45f9c0u5vmigw4yqyocan?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.6
-  },
-  {
-    "title": "Her Private Hell",
-    "start": "2026-07-24T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
-    "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-24T12:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "MOANA",
-    "start": "2026-07-24T12:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E00DCCEE663A0BC907B657734881ED4DB583E0F574122B38C242036F87355A6F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt27419466/",
-    "rating": 5.7
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-24T12:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-24T12:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Romer\u00eda",
-    "start": "2026-07-24T12:25:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/romera",
-    "poster": "https://indy-systems.imgix.net/fzdieyj9addnl612x17ujfx22zye?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32538648/",
-    "rating": 6.8
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-24T12:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "RIO BRAVO (1959)",
-    "start": "2026-07-24T13:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/118A43B7ED3AE9ACD951F266B44DEAAD4E8F3973775ECF4BC99C1F8E0B60CF03_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0053221/",
-    "rating": 7.9
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-24T13:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6D89A14F65C342C170698B7BFF1286475F2CB477AF190792F05932D96FD68DB3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-24T13:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-24T13:40:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Reading Lolita in Tehran",
-    "start": "2026-07-24T14:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
-    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27679443/",
-    "rating": 6.2
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-24T14:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E90A935F2F7B1F4CAFD44D987BD8D7EB5694EAC6551A143F5C9F476CE90DB2EB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "Minions & Monsters",
-    "start": "2026-07-24T14:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
-    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.5
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-24T14:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Her Private Hell",
-    "start": "2026-07-24T14:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
-    "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-24T14:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "MOANA",
-    "start": "2026-07-24T14:50:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E00DCCEE663A0BC907B657734881ED4DB583E0F574122B38C242036F87355A6F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt27419466/",
-    "rating": 5.7
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-24T15:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-24T15:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-24T15:10:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-24T15:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-24T15:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-24T15:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19053?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-24T15:20:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-odyssey",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-24T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-24T15:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS",
-    "start": "2026-07-24T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOGJhNzEtMWUxMC00Yjc1LWE1MTUtODc4Yzk3MzVjMWUyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.8
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-07-24T15:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/xhuzpbr45f9c0u5vmigw4yqyocan?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.6
-  },
-  {
-    "title": "SLC PUNK! (1998)",
-    "start": "2026-07-24T16:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ1YWNkMDgtNjY3OC00MTcwLTljODktZmZjMTJkNmU5MDQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0133189/",
-    "rating": 7.3
-  },
-  {
-    "title": "Maddie\u2019s Secret w/ prerecorded Amy Sedaris Q&A",
-    "start": "2026-07-24T16:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/maddies-secret",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ceb859d8-d3a3-4a4f-8553-c7cecd8886db.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-24T16:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-24T16:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-07-24T16:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "Reading Lolita in Tehran",
-    "start": "2026-07-24T16:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
-    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27679443/",
-    "rating": 6.2
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-07-24T16:30:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19066?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001570&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-24T16:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
-  },
-  {
-    "title": "MUPPETS FROM SPACE",
-    "start": "2026-07-24T16:50:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/muppets-from-space",
-    "poster": "https://indy-systems.imgix.net/pht78uoupd49mdgj0y07eerlwp8o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0158811/",
-    "rating": 6.3
-  },
-  {
-    "title": "Her Private Hell",
-    "start": "2026-07-24T17:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
-    "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
-  },
-  {
-    "title": "Minions & Monsters",
-    "start": "2026-07-24T17:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
-    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.5
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-24T17:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E90A935F2F7B1F4CAFD44D987BD8D7EB5694EAC6551A143F5C9F476CE90DB2EB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-24T17:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "MOANA",
-    "start": "2026-07-24T17:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E00DCCEE663A0BC907B657734881ED4DB583E0F574122B38C242036F87355A6F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt27419466/",
-    "rating": 5.7
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-24T18:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-24T18:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-24T18:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-24T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "Reading Lolita in Tehran",
-    "start": "2026-07-24T18:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
-    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27679443/",
-    "rating": 6.2
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-24T18:30:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-24T18:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Maddie\u2019s Secret w/ prerecorded Amy Sedaris Q&A",
-    "start": "2026-07-24T18:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/maddies-secret",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ceb859d8-d3a3-4a4f-8553-c7cecd8886db.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-24T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "Minions & Monsters",
-    "start": "2026-07-24T18:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
-    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.5
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-24T19:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-07-24T19:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "THEY LIVE and THE THING 35mm Double Feature",
-    "start": "2026-07-24T19:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/they-live-and-the-thing-35mm-double-feature",
-    "poster": "https://indy-systems.imgix.net/6ml7c3q2vnq8rd9v0u6474bp8ydj?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "They Live",
-    "start": "2026-07-24T19:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/they-live",
-    "poster": "https://indy-systems.imgix.net/t9jaiu8xs6q4cg20qfd0aqjrsifu?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0096256/",
-    "rating": 7.2
-  },
-  {
-    "title": "MUPPETS FROM SPACE",
-    "start": "2026-07-24T19:00:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/muppets-from-space",
-    "poster": "https://indy-systems.imgix.net/pht78uoupd49mdgj0y07eerlwp8o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0158811/",
-    "rating": 6.3
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-24T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-07-24T19:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/xhuzpbr45f9c0u5vmigw4yqyocan?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.6
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-24T19:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "BACK TO THE FUTURE (1985)",
-    "start": "2026-07-24T19:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/678558D95E55E759782092A72CE3987DB8DC62AAB957B386EAF6C9EDCD8B4E72_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0088763/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-24T19:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-odyssey",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Her Private Hell",
-    "start": "2026-07-24T19:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
-    "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-24T19:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19054?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-24T19:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-24T19:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-07-24T19:45:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19065?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001570&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-24T19:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E90A935F2F7B1F4CAFD44D987BD8D7EB5694EAC6551A143F5C9F476CE90DB2EB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "UNCAGED: A Nic Cage Drag Show",
-    "start": "2026-07-24T20:00:00-07:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/uncaged-a-nic-cage-drag-show/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/06/uncaged-nic-cage.jpeg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-24T20:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Thing",
-    "start": "2026-07-24T20:42:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/the-thing",
-    "poster": "https://indy-systems.imgix.net/0g67eognbccm69y0yicj40ituvkt?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0084787/",
-    "rating": 8.2
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-24T20:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Romer\u00eda",
-    "start": "2026-07-24T20:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/romera",
-    "poster": "https://indy-systems.imgix.net/fzdieyj9addnl612x17ujfx22zye?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32538648/",
-    "rating": 6.8
-  },
-  {
-    "title": "MOANA",
-    "start": "2026-07-24T20:55:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E00DCCEE663A0BC907B657734881ED4DB583E0F574122B38C242036F87355A6F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt27419466/",
-    "rating": 5.7
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-24T21:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-07-24T21:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-24T21:10:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-24T21:20:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "Maddie\u2019s Secret w/ prerecorded Amy Sedaris Q&A",
-    "start": "2026-07-24T21:25:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/maddies-secret",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ceb859d8-d3a3-4a4f-8553-c7cecd8886db.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "PORTAL TO HELL",
-    "start": "2026-07-24T21:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C5C41F6488E598855F2DC857CDD155359688F86155B4200E90903B41B382DB20_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29543015/",
-    "rating": 6.1
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-24T21:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-24T21:35:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-07-24T21:35:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "Her Private Hell",
-    "start": "2026-07-24T21:40:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
-    "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
-  },
-  {
-    "title": "SLC PUNK! (1998)",
-    "start": "2026-07-24T21:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ1YWNkMDgtNjY3OC00MTcwLTljODktZmZjMTJkNmU5MDQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0133189/",
-    "rating": 7.3
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-07-24T21:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/xhuzpbr45f9c0u5vmigw4yqyocan?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.6
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-24T22:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "Minions & Monsters",
-    "start": "2026-07-24T22:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/minions-monsters",
-    "poster": "https://indy-systems.imgix.net/ei7jnbp2c7zns3vsdlubx2r664l9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32890033/",
-    "rating": 6.5
-  },
-  {
-    "title": "DAZED AND CONFUSED",
-    "start": "2026-07-24T22:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3673F298D2B9E87A926BD32C45B1D5C1E3324D305889C41B0058ABB206B1F9AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0106677/",
-    "rating": 7.6
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-24T22:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6D89A14F65C342C170698B7BFF1286475F2CB477AF190792F05932D96FD68DB3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-24T22:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/DD96E1FB09DDC5AB12A136280241A910AB028D1CD9BA4EBBDDD5D2C1A5DDADCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-24T22:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E90A935F2F7B1F4CAFD44D987BD8D7EB5694EAC6551A143F5C9F476CE90DB2EB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-25T09:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-25T09:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-25T10:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6D89A14F65C342C170698B7BFF1286475F2CB477AF190792F05932D96FD68DB3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-25T10:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-25T10:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E90A935F2F7B1F4CAFD44D987BD8D7EB5694EAC6551A143F5C9F476CE90DB2EB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "Out of the Past (1947)",
-    "start": "2026-07-25T11:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/out-of-the-past-1947",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_10cc84ba-6cd2-4a24-8bf6-69e05fc66bd5.jpg",
-    "imdb": "https://www.imdb.com/title/tt0039689/",
-    "rating": 7.9
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-07-25T11:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
     "title": "The Invite",
     "start": "2026-07-25T11:15:00-07:00",
     "theater": "Cinema 21",
@@ -1737,22 +63,13 @@
     "rating": 6.6
   },
   {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-25T12:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
     "title": "Her Private Hell",
     "start": "2026-07-25T12:00:00-07:00",
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "THE ODYSSEY",
@@ -1762,15 +79,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-25T12:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
   },
   {
     "title": "The Odyssey",
@@ -1818,15 +126,6 @@
     "rating": null
   },
   {
-    "title": "THE INVITE",
-    "start": "2026-07-25T12:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
     "title": "BACK TO THE FUTURE (1985)",
     "start": "2026-07-25T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -1834,15 +133,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/678558D95E55E759782092A72CE3987DB8DC62AAB957B386EAF6C9EDCD8B4E72_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0088763/",
     "rating": 8.5
-  },
-  {
-    "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS",
-    "start": "2026-07-25T13:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOGJhNzEtMWUxMC00Yjc1LWE1MTUtODc4Yzk3MzVjMWUyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.8
   },
   {
     "title": "ODYSSEY",
@@ -1908,6 +198,15 @@
     "rating": 6.2
   },
   {
+    "title": "Sexy Beast in 35mm",
+    "start": "2026-07-25T14:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/sexy-beast/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/04/Sexy-Beast-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0203119/",
+    "rating": 7.3
+  },
+  {
     "title": "THE INVITE",
     "start": "2026-07-25T14:00:00-07:00",
     "theater": "Studio One",
@@ -1968,7 +267,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "The Odyssey",
@@ -1976,15 +275,6 @@
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
     "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-25T15:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
   },
@@ -2007,15 +297,6 @@
     "rating": 8.5
   },
   {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-25T15:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
     "title": "The Odyssey",
     "start": "2026-07-25T15:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -2034,15 +315,6 @@
     "rating": null
   },
   {
-    "title": "THE INVITE",
-    "start": "2026-07-25T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
     "title": "THE ODYSSEY",
     "start": "2026-07-25T15:40:00-07:00",
     "theater": "Moreland Theater",
@@ -2059,15 +331,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.9
-  },
-  {
-    "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS",
-    "start": "2026-07-25T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOGJhNzEtMWUxMC00Yjc1LWE1MTUtODc4Yzk3MzVjMWUyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.8
   },
   {
     "title": "Disclosure Day",
@@ -2148,7 +411,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "Minions & Monsters",
@@ -2205,15 +468,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-25T18:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
     "title": "The Odyssey",
     "start": "2026-07-25T18:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -2241,15 +495,6 @@
     "rating": 6.3
   },
   {
-    "title": "THE INVITE",
-    "start": "2026-07-25T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
     "title": "Reading Lolita in Tehran",
     "start": "2026-07-25T18:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -2266,15 +511,6 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_ceb859d8-d3a3-4a4f-8553-c7cecd8886db.jpg",
     "imdb": null,
     "rating": null
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-25T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
   },
   {
     "title": "Minions & Monsters",
@@ -2340,15 +576,6 @@
     "rating": 6.2
   },
   {
-    "title": "OBSESSION",
-    "start": "2026-07-25T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
-  },
-  {
     "title": "Disclosure Day",
     "start": "2026-07-25T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -2391,7 +618,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "The Odyssey",
@@ -2475,15 +702,6 @@
     "rating": null
   },
   {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-25T21:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
     "title": "The Odyssey",
     "start": "2026-07-25T21:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -2502,24 +720,6 @@
     "rating": 8.5
   },
   {
-    "title": "OBSESSION",
-    "start": "2026-07-25T21:10:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-25T21:20:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
     "title": "Maddie\u2019s Secret w/ prerecorded Amy Sedaris Q&A",
     "start": "2026-07-25T21:25:00-07:00",
     "theater": "Cinema 21",
@@ -2527,15 +727,6 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_ceb859d8-d3a3-4a4f-8553-c7cecd8886db.jpg",
     "imdb": null,
     "rating": null
-  },
-  {
-    "title": "PORTAL TO HELL",
-    "start": "2026-07-25T21:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C5C41F6488E598855F2DC857CDD155359688F86155B4200E90903B41B382DB20_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29543015/",
-    "rating": 6.1
   },
   {
     "title": "ODYSSEY",
@@ -2571,7 +762,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "BACK TO THE FUTURE (1985)",
@@ -2772,22 +963,13 @@
     "rating": 6.6
   },
   {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-26T12:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
     "title": "Her Private Hell",
     "start": "2026-07-26T12:00:00-07:00",
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "THE ODYSSEY",
@@ -2797,15 +979,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-26T12:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
   },
   {
     "title": "The Odyssey",
@@ -2835,15 +1008,6 @@
     "rating": 7.9
   },
   {
-    "title": "THE INVITE",
-    "start": "2026-07-26T12:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
     "title": "SLC PUNK! (1998)",
     "start": "2026-07-26T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -2860,15 +1024,6 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_ceb859d8-d3a3-4a4f-8553-c7cecd8886db.jpg",
     "imdb": null,
     "rating": null
-  },
-  {
-    "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS",
-    "start": "2026-07-26T13:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOGJhNzEtMWUxMC00Yjc1LWE1MTUtODc4Yzk3MzVjMWUyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.8
   },
   {
     "title": "ODYSSEY",
@@ -2931,7 +1086,7 @@
     "url": "https://www.kigginstheatre.com/movie/sia-nostalgic-for-the-present",
     "poster": "https://indy-systems.imgix.net/xq97kulsv745qer2b2ly3bacwcds?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt43465871/",
-    "rating": null
+    "rating": 8.7
   },
   {
     "title": "Reading Lolita in Tehran",
@@ -2950,6 +1105,15 @@
     "poster": "https://indy-systems.imgix.net/r2st3auq6hv217859bsay4z2srak?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Women on the Verge of a Nervous Breakdown",
+    "start": "2026-07-26T14:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/women-on-the-verge-of-a-nervous-breakdown/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/04/Women-on-the-Verge-of-a-Nervous-Breakdown-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0095675/",
+    "rating": 7.5
   },
   {
     "title": "THE INVITE",
@@ -3006,15 +1170,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-26T15:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
     "title": "ODYSSEY",
     "start": "2026-07-26T15:00:00-07:00",
     "theater": "Studio One",
@@ -3033,15 +1188,6 @@
     "rating": 8.5
   },
   {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-26T15:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
-  },
-  {
     "title": "The Odyssey",
     "start": "2026-07-26T15:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -3049,15 +1195,6 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-26T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
   },
   {
     "title": "THE ODYSSEY",
@@ -3085,15 +1222,6 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_ceb859d8-d3a3-4a4f-8553-c7cecd8886db.jpg",
     "imdb": null,
     "rating": null
-  },
-  {
-    "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS",
-    "start": "2026-07-26T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOGJhNzEtMWUxMC00Yjc1LWE1MTUtODc4Yzk3MzVjMWUyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.8
   },
   {
     "title": "Disclosure Day",
@@ -3130,15 +1258,6 @@
     "poster": "https://indy-systems.imgix.net/pht78uoupd49mdgj0y07eerlwp8o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0158811/",
     "rating": 6.3
-  },
-  {
-    "title": "Bend It Like Beckham x Portland Arts Week",
-    "start": "2026-07-26T16:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/bend-it-like-beckham/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/01135100/10.png",
-    "imdb": "https://www.imdb.com/title/tt0286499/",
-    "rating": 6.7
   },
   {
     "title": "The Odyssey",
@@ -3183,7 +1302,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "ODYSSEY",
@@ -3240,15 +1359,6 @@
     "rating": null
   },
   {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-26T18:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
     "title": "UNDERLAND",
     "start": "2026-07-26T18:15:00-07:00",
     "theater": "Kiggins Theatre",
@@ -3285,15 +1395,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE INVITE",
-    "start": "2026-07-26T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
     "title": "Reading Lolita in Tehran",
     "start": "2026-07-26T18:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -3319,15 +1420,6 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_ceb859d8-d3a3-4a4f-8553-c7cecd8886db.jpg",
     "imdb": null,
     "rating": null
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-26T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
   },
   {
     "title": "Minions & Monsters",
@@ -3375,15 +1467,6 @@
     "rating": 8.2
   },
   {
-    "title": "OBSESSION",
-    "start": "2026-07-26T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
-  },
-  {
     "title": "THE ODYSSEY",
     "start": "2026-07-26T19:00:00-07:00",
     "theater": "Moreland Theater",
@@ -3426,7 +1509,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "Disclosure Day",
@@ -3588,7 +1671,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "MOANA",
@@ -3732,7 +1815,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "The Odyssey",
@@ -3744,15 +1827,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-27T15:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
     "title": "MOANA",
     "start": "2026-07-27T15:00:00-07:00",
     "theater": "Studio One",
@@ -3760,15 +1834,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E00DCCEE663A0BC907B657734881ED4DB583E0F574122B38C242036F87355A6F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt27419466/",
     "rating": 5.7
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-27T15:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
   },
   {
     "title": "The Odyssey",
@@ -3798,15 +1863,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE INVITE",
-    "start": "2026-07-27T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
     "title": "THE ODYSSEY",
     "start": "2026-07-27T15:40:00-07:00",
     "theater": "Moreland Theater",
@@ -3823,15 +1879,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
-  },
-  {
-    "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS",
-    "start": "2026-07-27T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOGJhNzEtMWUxMC00Yjc1LWE1MTUtODc4Yzk3MzVjMWUyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.8
   },
   {
     "title": "Disclosure Day",
@@ -3930,7 +1977,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "THE INVITE",
@@ -3960,15 +2007,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-27T18:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
     "title": "MOANA",
     "start": "2026-07-27T18:00:00-07:00",
     "theater": "Studio One",
@@ -3987,15 +2025,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE INVITE",
-    "start": "2026-07-27T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
     "title": "ODYSSEY",
     "start": "2026-07-27T18:30:00-07:00",
     "theater": "Studio One",
@@ -4003,15 +2032,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-27T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
   },
   {
     "title": "Minions & Monsters",
@@ -4057,15 +2077,6 @@
     "poster": "https://indy-systems.imgix.net/pht78uoupd49mdgj0y07eerlwp8o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0158811/",
     "rating": 6.3
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-27T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
   },
   {
     "title": "THE ODYSSEY",
@@ -4128,7 +2139,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "SLC PUNK! (1998)",
@@ -4263,7 +2274,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "MOANA",
@@ -4398,7 +2409,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "The Odyssey",
@@ -4410,15 +2421,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-28T15:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
     "title": "MOANA",
     "start": "2026-07-28T15:00:00-07:00",
     "theater": "Studio One",
@@ -4426,15 +2428,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E00DCCEE663A0BC907B657734881ED4DB583E0F574122B38C242036F87355A6F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt27419466/",
     "rating": 5.7
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-28T15:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
   },
   {
     "title": "The Odyssey",
@@ -4464,15 +2457,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE INVITE",
-    "start": "2026-07-28T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
     "title": "THE ODYSSEY",
     "start": "2026-07-28T15:40:00-07:00",
     "theater": "Moreland Theater",
@@ -4489,15 +2473,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
-  },
-  {
-    "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS",
-    "start": "2026-07-28T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOGJhNzEtMWUxMC00Yjc1LWE1MTUtODc4Yzk3MzVjMWUyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.8
   },
   {
     "title": "Disclosure Day",
@@ -4605,7 +2580,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "THE INVITE",
@@ -4635,15 +2610,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-28T18:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
     "title": "MOANA",
     "start": "2026-07-28T18:00:00-07:00",
     "theater": "Studio One",
@@ -4660,15 +2626,6 @@
     "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-28T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
   },
   {
     "title": "Reading Lolita in Tehran",
@@ -4696,15 +2653,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/118A43B7ED3AE9ACD951F266B44DEAAD4E8F3973775ECF4BC99C1F8E0B60CF03_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0053221/",
     "rating": 7.9
-  },
-  {
-    "title": "EVIL DEAD BURN",
-    "start": "2026-07-28T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D91D12F10FB15A4194EDC7A466B33A86E8D517195EB66BE0535C9DE6D255D675_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
   },
   {
     "title": "Minions & Monsters",
@@ -4759,15 +2707,6 @@
     "poster": "https://indy-systems.imgix.net/qc6goty706wct96gy99r4qj0w8qu?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": null,
     "rating": null
-  },
-  {
-    "title": "OBSESSION",
-    "start": "2026-07-28T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FD612211B5E2FD028B691F108B1180477D88D8768BF764A6DF2465F606A7D6FD_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
   },
   {
     "title": "THE ODYSSEY",
@@ -4830,7 +2769,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "WHAM! 10 Days in China",
@@ -4965,7 +2904,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "MOANA",
@@ -5100,7 +3039,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "The Odyssey",
@@ -5112,15 +3051,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE ODYSSEY (OPEN CAPTION)",
-    "start": "2026-07-29T15:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDY2NTkxMWQtMmNkMC00NmNjLWIzMmItNmEyMmRmMDk2YmY2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
     "title": "MOANA",
     "start": "2026-07-29T15:00:00-07:00",
     "theater": "Studio One",
@@ -5128,15 +3058,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E00DCCEE663A0BC907B657734881ED4DB583E0F574122B38C242036F87355A6F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt27419466/",
     "rating": 5.7
-  },
-  {
-    "title": "EVIL DEAD BURN (OPEN CAPTION)",
-    "start": "2026-07-29T15:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
   },
   {
     "title": "The Odyssey",
@@ -5166,15 +3087,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE INVITE (OPEN CAPTION)",
-    "start": "2026-07-29T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
     "title": "THE ODYSSEY",
     "start": "2026-07-29T15:40:00-07:00",
     "theater": "Moreland Theater",
@@ -5191,15 +3103,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
-  },
-  {
-    "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS (OPEN CAPTION)",
-    "start": "2026-07-29T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOGJhNzEtMWUxMC00Yjc1LWE1MTUtODc4Yzk3MzVjMWUyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt36834010/",
-    "rating": 6.8
   },
   {
     "title": "Disclosure Day",
@@ -5298,7 +3201,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "THE INVITE",
@@ -5328,15 +3231,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE ODYSSEY (OPEN CAPTION)",
-    "start": "2026-07-29T18:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDY2NTkxMWQtMmNkMC00NmNjLWIzMmItNmEyMmRmMDk2YmY2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
     "title": "MOANA",
     "start": "2026-07-29T18:00:00-07:00",
     "theater": "Studio One",
@@ -5355,15 +3249,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE INVITE (OPEN CAPTION)",
-    "start": "2026-07-29T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
     "title": "Reading Lolita in Tehran",
     "start": "2026-07-29T18:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -5380,15 +3265,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
-  },
-  {
-    "title": "EVIL DEAD BURN (OPEN CAPTION)",
-    "start": "2026-07-29T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt31170389/",
-    "rating": 6.7
   },
   {
     "title": "THE ODYSSEY",
@@ -5425,15 +3301,6 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/06/dvoje.jpg",
     "imdb": null,
     "rating": null
-  },
-  {
-    "title": "OBSESSION (OPEN CAPTION)",
-    "start": "2026-07-29T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
   },
   {
     "title": "Horsegirls",
@@ -5505,7 +3372,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "SLC PUNK! (1998)",
@@ -5649,7 +3516,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -5733,22 +3600,13 @@
     "rating": 6.5
   },
   {
-    "title": "SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-07-30T14:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": null
-  },
-  {
     "title": "Her Private Hell",
     "start": "2026-07-30T14:45:00-07:00",
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "The Odyssey",
@@ -5764,15 +3622,6 @@
     "start": "2026-07-30T15:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-30T15:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
@@ -5805,15 +3654,6 @@
     "rating": null
   },
   {
-    "title": "SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-07-30T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": null
-  },
-  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-07-30T15:35:00-07:00",
     "theater": "Moreland Theater",
@@ -5827,15 +3667,6 @@
     "start": "2026-07-30T15:45:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-07-30T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.9
@@ -5919,7 +3750,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
     "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.8
+    "rating": 4.9
   },
   {
     "title": "Minions & Monsters",
@@ -5938,15 +3769,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": null
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-07-30T18:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
   },
   {
     "title": "ODYSSEY",
@@ -5985,15 +3807,6 @@
     "rating": 8.5
   },
   {
-    "title": "THE INVITE",
-    "start": "2026-07-30T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
     "title": "The Envisionaries",
     "start": "2026-07-30T18:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -6019,15 +3832,6 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
-  },
-  {
-    "title": "SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-07-30T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": null
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -6075,15 +3879,6 @@
     "rating": 7.3
   },
   {
-    "title": "I WANT YOUR SEX",
-    "start": "2026-07-30T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/691D759AD069A778DACD23D7F03781FBAD7D6917B6BD80CE55665DB28D8358DB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32332915/",
-    "rating": null
-  },
-  {
     "title": "Spider-Man: Brand New Day",
     "start": "2026-07-30T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -6100,15 +3895,6 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
-  },
-  {
-    "title": "Jaws (4K Restoration)",
-    "start": "2026-07-30T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/jaws-4k-restoration/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/03/31134122/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg",
-    "imdb": "https://www.imdb.com/title/tt0073195/",
-    "rating": 8.1
   },
   {
     "title": "Horsegirls",
@@ -6327,6 +4113,15 @@
     "rating": 8.5
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-07-31T15:20:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-07-31T15:20:00-07:00",
     "theater": "Studio One",
@@ -6361,6 +4156,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C617A405FB193D48927C8DB48DDA62D0FBC1158891EC957B9D6DAFC47190F404_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0048424/",
     "rating": 8.0
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-07-31T16:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
   },
   {
     "title": "I Want Your Sex",
@@ -6417,6 +4221,15 @@
     "rating": null
   },
   {
+    "title": "The Invite",
+    "start": "2026-07-31T18:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-07-31T18:45:00-07:00",
     "theater": "Studio One",
@@ -6433,6 +4246,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C49D4DC41A641B2956B2628DB2499DE25C602CD0CFD4BA749F0C260972FA6787_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0120611/",
     "rating": 7.1
+  },
+  {
+    "title": "I Want Your Sex",
+    "start": "2026-07-31T19:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/i-want-your-sex",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_48bee6ae-1e3e-46c8-aa1d-8cfe74fa8812.jpg",
+    "imdb": "https://www.imdb.com/title/tt32332915/",
+    "rating": null
   },
   {
     "title": "Starship Troopers",
@@ -6462,13 +4284,13 @@
     "rating": 8.5
   },
   {
-    "title": "I Want Your Sex",
+    "title": "The Odyssey",
     "start": "2026-07-31T19:15:00-07:00",
     "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/i-want-your-sex",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_48bee6ae-1e3e-46c8-aa1d-8cfe74fa8812.jpg",
-    "imdb": "https://www.imdb.com/title/tt32332915/",
-    "rating": null
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "Rosebush Pruning",
@@ -6687,6 +4509,33 @@
     "rating": null
   },
   {
+    "title": "The Invite",
+    "start": "2026-08-01T13:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-01T14:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "Barry Lyndon in 35mm",
+    "start": "2026-08-01T14:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/barry-lyndon/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/04/Barry-Lyndon-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0072684/",
+    "rating": 8.1
+  },
+  {
     "title": "I Want Your Sex",
     "start": "2026-08-01T14:15:00-07:00",
     "theater": "Cinema 21",
@@ -6768,13 +4617,13 @@
     "rating": 7.1
   },
   {
-    "title": "Monty Python and the Holy Grail",
-    "start": "2026-08-01T16:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/monty-python-and-the-holy-grail/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/08120349/h3rksLHevpCbHfSoaUXm85nt2CH.jpg",
-    "imdb": "https://www.imdb.com/title/tt0071853/",
-    "rating": 8.1
+    "title": "The Invite",
+    "start": "2026-08-01T16:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
   },
   {
     "title": "I Want Your Sex",
@@ -6793,6 +4642,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": null
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-01T18:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "PDX 48 Hour Film Project 2026: Block D",
@@ -6829,6 +4687,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": null
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-01T18:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -6876,15 +4743,6 @@
     "rating": 8.5
   },
   {
-    "title": "Picnic at Hanging Rock",
-    "start": "2026-08-01T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/picnic-at-hanging-rock/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/08160027/7BAXwmFN4pZDNb9N6kzmAAwdssi.jpg",
-    "imdb": "https://www.imdb.com/title/tt0073540/",
-    "rating": 7.3
-  },
-  {
     "title": "I Want Your Sex",
     "start": "2026-08-01T19:15:00-07:00",
     "theater": "Cinema 21",
@@ -6930,6 +4788,15 @@
     "rating": 7.1
   },
   {
+    "title": "The Invite",
+    "start": "2026-08-01T21:20:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-01T21:25:00-07:00",
     "theater": "Moreland Theater",
@@ -6944,6 +4811,15 @@
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-01T21:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
   },
@@ -7074,6 +4950,24 @@
     "rating": 7.1
   },
   {
+    "title": "The Invite",
+    "start": "2026-08-02T13:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-02T13:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "I Want Your Sex",
     "start": "2026-08-02T14:00:00-07:00",
     "theater": "Cinema 21",
@@ -7092,6 +4986,15 @@
     "rating": null
   },
   {
+    "title": "McCabe and Mrs. Miller x Film School",
+    "start": "2026-08-02T14:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/mccabe-and-mrs-miller-x-film-school/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/06/McCabe-and-Mrs-Miller-scaled.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-08-02T15:00:00-07:00",
     "theater": "Academy Theater",
@@ -7099,15 +5002,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
-  },
-  {
-    "title": "Nashville",
-    "start": "2026-08-02T15:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/nashville/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/02151906/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
-    "imdb": "https://www.imdb.com/title/tt0073440/",
-    "rating": 7.6
   },
   {
     "title": "SPIDERMAN: BRAND NEW DAY",
@@ -7164,6 +5058,15 @@
     "rating": 5.9
   },
   {
+    "title": "The Invite",
+    "start": "2026-08-02T16:20:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
     "title": "I Want Your Sex",
     "start": "2026-08-02T16:30:00-07:00",
     "theater": "Cinema 21",
@@ -7180,6 +5083,15 @@
     "poster": "https://indy-systems.imgix.net/ygh12ii7xbqdd2qxq5u7110q91qw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0100814/",
     "rating": 7.2
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-02T18:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "THE ODYSSEY",
@@ -7227,6 +5139,15 @@
     "rating": 8.0
   },
   {
+    "title": "The Invite",
+    "start": "2026-08-02T19:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
     "title": "The Furious",
     "start": "2026-08-02T19:00:00-07:00",
     "theater": "Cinemagic",
@@ -7252,15 +5173,6 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
-  },
-  {
-    "title": "One Flew Over the Cuckoo\u2019s Nest",
-    "start": "2026-08-02T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/one-flew-over-the-cuckoos-nest/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/02153937/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
-    "imdb": "https://www.imdb.com/title/tt0073486/",
-    "rating": 8.6
   },
   {
     "title": "I Want Your Sex",
@@ -7373,6 +5285,15 @@
   {
     "title": "The Odyssey",
     "start": "2026-08-03T15:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-03T15:15:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19037?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
@@ -7434,6 +5355,15 @@
     "rating": 8.0
   },
   {
+    "title": "The Invite",
+    "start": "2026-08-03T16:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
     "title": "Starship Troopers",
     "start": "2026-08-03T16:15:00-07:00",
     "theater": "Cinemagic",
@@ -7470,6 +5400,15 @@
     "rating": 8.5
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-08-03T18:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-03T18:45:00-07:00",
     "theater": "Studio One",
@@ -7486,6 +5425,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": null
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-03T19:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
   },
   {
     "title": "Mars Attacks!",
@@ -7605,6 +5553,15 @@
     "rating": 8.5
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-08-04T15:20:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-04T15:20:00-07:00",
     "theater": "Studio One",
@@ -7659,6 +5616,15 @@
     "rating": 7.1
   },
   {
+    "title": "The Invite",
+    "start": "2026-08-04T16:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
     "title": "I Want Your Sex",
     "start": "2026-08-04T16:30:00-07:00",
     "theater": "Cinema 21",
@@ -7711,6 +5677,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": null
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-04T19:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "Wild Inside",
@@ -7832,6 +5807,15 @@
   {
     "title": "The Odyssey",
     "start": "2026-08-05T15:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-05T15:15:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19045?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
@@ -7893,6 +5877,15 @@
     "rating": 8.0
   },
   {
+    "title": "The Invite",
+    "start": "2026-08-05T16:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
     "title": "I Want Your Sex",
     "start": "2026-08-05T16:30:00-07:00",
     "theater": "Cinema 21",
@@ -7929,6 +5922,15 @@
     "rating": 8.5
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-08-05T18:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-05T18:45:00-07:00",
     "theater": "Studio One",
@@ -7945,6 +5947,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": null
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-05T19:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
   },
   {
     "title": "Sorry To Bother You",
@@ -8055,6 +6066,15 @@
     "rating": null
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-08-06T15:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-06T15:20:00-07:00",
     "theater": "Studio One",
@@ -8080,6 +6100,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjMyNmEzNWYtMDNkYS00NGFmLWE3YjYtNDViYjUyMDA3MTlkXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0457510/",
     "rating": 5.9
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-06T16:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
   },
   {
     "title": "I Want Your Sex",
@@ -8127,6 +6156,15 @@
     "rating": null
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-08-06T18:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-odyssey",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-06T18:45:00-07:00",
     "theater": "Studio One",
@@ -8143,6 +6181,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C617A405FB193D48927C8DB48DDA62D0FBC1158891EC957B9D6DAFC47190F404_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0048424/",
     "rating": 8.0
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-06T19:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
   },
   {
     "title": "Starship Troopers",
@@ -8178,6 +6225,15 @@
     "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
     "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
+  },
+  {
+    "title": "I Want Your Sex",
+    "start": "2026-08-06T19:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/i-want-your-sex",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_48bee6ae-1e3e-46c8-aa1d-8cfe74fa8812.jpg",
+    "imdb": "https://www.imdb.com/title/tt32332915/",
     "rating": null
   },
   {
@@ -8451,6 +6507,15 @@
     "rating": null
   },
   {
+    "title": "Spirited Away (2001)",
+    "start": "2026-08-08T14:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/spirited-away-2001/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/06/Spirited-Away-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0245429/",
+    "rating": 8.6
+  },
+  {
     "title": "Filmed by Bike Block 3: Finish Line",
     "start": "2026-08-08T15:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -8640,6 +6705,15 @@
     "rating": null
   },
   {
+    "title": "The Wizard of Oz (1939)",
+    "start": "2026-08-09T14:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/the-wizard-of-oz-1939/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/06/Wizard-of-Oz-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0032138/",
+    "rating": 8.1
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-09T15:15:00-07:00",
     "theater": "Academy Theater",
@@ -8691,7 +6765,7 @@
     "url": "https://cstpdx.com/event/40-years-of-fuckin-up-4/",
     "poster": "https://cstpdx.com/wp-content/uploads/2026/03/NOFX-40-Years-of-Fuckin-Up-Poster-Web.jpg",
     "imdb": "https://www.imdb.com/title/tt40644918/",
-    "rating": 9.1
+    "rating": 9.2
   },
   {
     "title": "One Night Only",
@@ -8713,7 +6787,7 @@
   },
   {
     "title": "Ice Cream Man",
-    "start": "2026-08-09T21:15:00-07:00",
+    "start": "2026-08-09T21:35:00-07:00",
     "theater": "Cinemagic",
     "url": "https://tickets.thecinemagictheater.com/movie/ice-cream-man",
     "poster": "https://indy-systems.imgix.net/c6i4kdz9yi05ywqcf7dhlpiwwdgh?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
@@ -8874,15 +6948,6 @@
     "rating": 7.0
   },
   {
-    "title": "Science Pub: Titanic \u2013 Beyond the Wreck",
-    "start": "2026-08-11T19:00:00-07:00",
-    "theater": "OMSI Empirical Theater",
-    "url": "https://omsi.edu/events/science-pub-titanic-beyond-the-wreck/",
-    "poster": "https://omsi.edu/wp-content/uploads/2026/06/08.11.26-Titanic-Ross-2.png",
-    "imdb": null,
-    "rating": null
-  },
-  {
     "title": "PUMPKINHEAD (1988)",
     "start": "2026-08-11T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -8892,15 +6957,6 @@
     "rating": 6.2
   },
   {
-    "title": "Ice Cream Man",
-    "start": "2026-08-11T21:15:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/ice-cream-man",
-    "poster": "https://indy-systems.imgix.net/c6i4kdz9yi05ywqcf7dhlpiwwdgh?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36893729/",
-    "rating": null
-  },
-  {
     "title": "PHANTOM TOLLBOOTH",
     "start": "2026-08-11T21:30:00-07:00",
     "theater": "Moreland Theater",
@@ -8908,6 +6964,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/3062C8542515972CE8B49BB69353AE3D46B453A9926882C2302F589919C8129E_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0064806/",
     "rating": 6.8
+  },
+  {
+    "title": "Ice Cream Man",
+    "start": "2026-08-11T21:35:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/ice-cream-man",
+    "poster": "https://indy-systems.imgix.net/c6i4kdz9yi05ywqcf7dhlpiwwdgh?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36893729/",
+    "rating": null
   },
   {
     "title": "PHANTOM TOLLBOOTH",
@@ -8978,15 +7043,6 @@
     "theater": "Clinton Street Theater",
     "url": "https://cstpdx.com/event/life-of-a-shock-force-worker-1972-church-of-film/",
     "poster": "https://cstpdx.com/wp-content/uploads/2026/07/Shock-Worker-Poster.png",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Reel Eats: Thelma and Louise",
-    "start": "2026-08-12T19:00:00-07:00",
-    "theater": "OMSI Empirical Theater",
-    "url": "https://omsi.edu/events/reel-eats-thelma-and-louise/",
-    "poster": "https://omsi.edu/wp-content/uploads/2026/06/images.jpg",
     "imdb": null,
     "rating": null
   },
@@ -9088,15 +7144,6 @@
     "poster": "https://indy-systems.imgix.net/ktgkd9wzfdumqhf1345bmr286yll?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0355702/",
     "rating": 7.1
-  },
-  {
-    "title": "Reel Eats: Thelma and Louise",
-    "start": "2026-08-13T19:00:00-07:00",
-    "theater": "OMSI Empirical Theater",
-    "url": "https://omsi.edu/events/reel-eats-thelma-and-louise/",
-    "poster": "https://omsi.edu/wp-content/uploads/2026/06/images.jpg",
-    "imdb": null,
-    "rating": null
   },
   {
     "title": "The Samurai and the Prisoner",
@@ -9207,15 +7254,6 @@
     "rating": null
   },
   {
-    "title": "Mary Oliver: Saved by the Beauty of the World \u2013 Encore Screening",
-    "start": "2026-08-14T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/mary-oliver-saved-by-the-beauty-of-the-world-encore-screening/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/24103725/aAZ7Ih2tU65y55CfE0nIFSaow4n-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt39643966/",
-    "rating": 7.8
-  },
-  {
     "title": "Sleepaway Camp",
     "start": "2026-08-14T21:10:00-07:00",
     "theater": "Cinemagic",
@@ -9277,6 +7315,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_08e59ca5-4a9a-452f-ba57-b75fecb9d83f.jpg",
     "imdb": "https://www.imdb.com/title/tt39676060/",
     "rating": null
+  },
+  {
+    "title": "The Dark Crystal (1982)",
+    "start": "2026-08-15T14:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/the-dark-crystal-1982/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/06/The-Dark-Crystal-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0083791/",
+    "rating": 7.1
   },
   {
     "title": "CRUISING (1980)",
@@ -9414,6 +7461,15 @@
     "rating": null
   },
   {
+    "title": "Labyrinth (1986)",
+    "start": "2026-08-16T14:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/labyrinth-1986/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/06/Labyrinth-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0091369/",
+    "rating": 7.3
+  },
+  {
     "title": "THE HOLY MOUNTAIN (1973)",
     "start": "2026-08-16T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -9475,15 +7531,6 @@
     "poster": "https://indy-systems.imgix.net/y774l62xaldr76lpaaxtt3vajaw2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt27165187/",
     "rating": null
-  },
-  {
-    "title": "Rosebush Pruning // Presented by MUBI",
-    "start": "2026-08-16T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/rosebush-pruning/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/07110435/RP_KeyArt_OS_EN_ComingSoon.jpg",
-    "imdb": "https://www.imdb.com/title/tt27844906/",
-    "rating": 5.6
   },
   {
     "title": "THE HOLY MOUNTAIN (1973)",
@@ -9675,15 +7722,6 @@
     "rating": null
   },
   {
-    "title": "NT Live: Inter Alia // Presented by Third Rail Repertory Theatre",
-    "start": "2026-08-19T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/nt-live-inter-alia-presented-by-third-rail-repertory-theatre/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/07125109/INTERALIAPoster.png",
-    "imdb": "https://www.imdb.com/title/tt36364878/",
-    "rating": 8.4
-  },
-  {
     "title": "CRUISING (1980)",
     "start": "2026-08-19T19:30:00-07:00",
     "theater": "Academy Theater",
@@ -9828,6 +7866,15 @@
     "rating": 6.8
   },
   {
+    "title": "World premiere of Portland feature film Secret Life",
+    "start": "2026-08-21T19:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/world-premiere-of-portland-feature-film-secret-life/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/07/Secret-Life-scaled.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "The Warped Forest",
     "start": "2026-08-21T21:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -9885,10 +7932,19 @@
     "title": "Kintsukuroi",
     "start": "2026-08-22T14:00:00-07:00",
     "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/kinstukuroi/",
+    "url": "https://cstpdx.com/event/kintsukuroi/",
     "poster": "https://cstpdx.com/wp-content/uploads/2026/07/2525_KintsukuroiPoster_05a-scaled.jpg",
     "imdb": "https://www.imdb.com/title/tt30476184/",
     "rating": 8.4
+  },
+  {
+    "title": "The Last Unicorn (1982)",
+    "start": "2026-08-22T14:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/the-last-unicorn-1982/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/06/The-Last-Unicorn-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0084237/",
+    "rating": 7.3
   },
   {
     "title": "PIRANHA (1978)",
@@ -9961,5 +8017,122 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2023/07/rhps-virgins.webp",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "PIRANHA (1978)",
+    "start": "2026-08-23T13:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/DE271A782294F9AA94D4ECC031159DCBE7A9452B3E3DEC907EE72767C752C641_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0078087/",
+    "rating": 5.9
+  },
+  {
+    "title": "The Maiku Hama Trilogy",
+    "start": "2026-08-23T13:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/the-maiku-hama-trilogy/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/05/The-Maiku-Hama-Trilogy.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Fantastic Planet (1973)",
+    "start": "2026-08-23T14:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/fantastic-planet-1973/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/06/Fantastic-Planet-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0070544/",
+    "rating": 7.6
+  },
+  {
+    "title": "THE TRIAL (1962)",
+    "start": "2026-08-23T16:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmJmNDM5ZmYtODIwNS00YjM4LTlkYzktZTFjNTg3ODg0NDcwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0057427/",
+    "rating": 7.6
+  },
+  {
+    "title": "MYSTERY TRAIN (1989)",
+    "start": "2026-08-23T19:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmUxNTQzYTItZjkwNi00NWVhLTk5MzEtNjhmN2U4MDYyNmY3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0097940/",
+    "rating": 7.5
+  },
+  {
+    "title": "Teenage Sex And Death At Camp Miasma",
+    "start": "2026-08-23T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/teenage-sex-and-death-at-camp-miasma",
+    "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 6.8
+  },
+  {
+    "title": "THE TRIAL (1962)",
+    "start": "2026-08-23T21:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmJmNDM5ZmYtODIwNS00YjM4LTlkYzktZTFjNTg3ODg0NDcwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0057427/",
+    "rating": 7.6
+  },
+  {
+    "title": "LITTLE GIANTS",
+    "start": "2026-08-24T11:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/B6F164D54858840D4F51004D5290E624B2BAAA19DCB3B5A7BA4646AC7EEB12E7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0110364/",
+    "rating": 6.5
+  },
+  {
+    "title": "THE TRIAL (1962)",
+    "start": "2026-08-24T13:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmJmNDM5ZmYtODIwNS00YjM4LTlkYzktZTFjNTg3ODg0NDcwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0057427/",
+    "rating": 7.6
+  },
+  {
+    "title": "MYSTERY TRAIN (1989)",
+    "start": "2026-08-24T16:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmUxNTQzYTItZjkwNi00NWVhLTk5MzEtNjhmN2U4MDYyNmY3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0097940/",
+    "rating": 7.5
+  },
+  {
+    "title": "Battles Without Honor and Humanity",
+    "start": "2026-08-24T18:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/battles-without-honor-and-humanity/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/05/Battles-Without-Honor-and-Humanity.jpg",
+    "imdb": "https://www.imdb.com/title/tt0070246/",
+    "rating": 7.4
+  },
+  {
+    "title": "PIRANHA (1978)",
+    "start": "2026-08-24T19:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/DE271A782294F9AA94D4ECC031159DCBE7A9452B3E3DEC907EE72767C752C641_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0078087/",
+    "rating": 5.9
+  },
+  {
+    "title": "EGG",
+    "start": "2026-08-24T21:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/egg/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/05/egg.jpg",
+    "imdb": "https://www.imdb.com/title/tt7317324/",
+    "rating": 5.1
   }
 ]

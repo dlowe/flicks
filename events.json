@@ -1,689 +1,5 @@
 [
   {
-    "title": "THE ODYSSEY",
-    "start": "2026-08-04T11:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Horsegirls",
-    "start": "2026-08-04T11:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
-    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt13652006/",
-    "rating": 7.8
-  },
-  {
-    "title": "Reading Lolita in Tehran",
-    "start": "2026-08-04T11:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
-    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27679443/",
-    "rating": 6.2
-  },
-  {
-    "title": "SPIDERMAN: BRAND NEW DAY",
-    "start": "2026-08-04T12:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-04T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-08-04T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/xhuzpbr45f9c0u5vmigw4yqyocan?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.5
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T12:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-04T12:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "Romer\u00eda",
-    "start": "2026-08-04T12:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/romera",
-    "poster": "https://indy-systems.imgix.net/fzdieyj9addnl612x17ujfx22zye?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32538648/",
-    "rating": 6.8
-  },
-  {
-    "title": "I WANT YOUR SEX",
-    "start": "2026-08-04T12:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/94EA3BE7814C0F08D1FDD87427D31397E1E3093F3AF670017A7EDF8121E2F851_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32332915/",
-    "rating": 6.2
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T12:40:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "NIGHT OF THE HUNTER (1955)",
-    "start": "2026-08-04T13:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C617A405FB193D48927C8DB48DDA62D0FBC1158891EC957B9D6DAFC47190F404_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0048424/",
-    "rating": 7.9
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T13:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-04T13:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T13:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "Her Private Hell",
-    "start": "2026-08-04T14:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/her-private-hell",
-    "poster": "https://indy-systems.imgix.net/isob70754ypwnhfvrkc4aewzlwlm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36629665/",
-    "rating": 4.7
-  },
-  {
-    "title": "Reading Lolita in Tehran",
-    "start": "2026-08-04T14:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
-    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27679443/",
-    "rating": 6.2
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T14:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "Rosebush Pruning",
-    "start": "2026-08-04T14:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/rosebush-pruning",
-    "poster": "https://indy-systems.imgix.net/tmuggfc6k8tdv75rh20iwj5bqal0?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27844906/",
-    "rating": 5.6
-  },
-  {
-    "title": "SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-04T15:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-08-04T15:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/xhuzpbr45f9c0u5vmigw4yqyocan?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.5
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-04T15:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-04T15:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-odyssey",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-08-04T15:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-04T15:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-04T15:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19041?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T15:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-08-04T15:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-04T15:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T15:35:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "SPIDERMAN: BRAND NEW DAY",
-    "start": "2026-08-04T15:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-08-04T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-04T15:45:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19039?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001538&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "BLADE (1998)",
-    "start": "2026-08-04T16:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C49D4DC41A641B2956B2628DB2499DE25C602CD0CFD4BA749F0C260972FA6787_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0120611/",
-    "rating": 7.1
-  },
-  {
-    "title": "I WANT YOUR SEX",
-    "start": "2026-08-04T16:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/691D759AD069A778DACD23D7F03781FBAD7D6917B6BD80CE55665DB28D8358DB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32332915/",
-    "rating": 6.2
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-04T16:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-08-04T16:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T16:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "Horsegirls",
-    "start": "2026-08-04T16:25:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
-    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt13652006/",
-    "rating": 7.8
-  },
-  {
-    "title": "I Want Your Sex",
-    "start": "2026-08-04T16:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/i-want-your-sex",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_48bee6ae-1e3e-46c8-aa1d-8cfe74fa8812.jpg",
-    "imdb": "https://www.imdb.com/title/tt32332915/",
-    "rating": 6.2
-  },
-  {
-    "title": "Sorry To Bother You",
-    "start": "2026-08-04T16:30:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/sorry-to-bother-you",
-    "poster": "https://indy-systems.imgix.net/d31rjjqhubn291s6lztyiqwgluev?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt5688932/",
-    "rating": 6.9
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-04T16:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "Rosebush Pruning",
-    "start": "2026-08-04T17:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/rosebush-pruning",
-    "poster": "https://indy-systems.imgix.net/tmuggfc6k8tdv75rh20iwj5bqal0?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27844906/",
-    "rating": 5.6
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-04T17:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-08-04T18:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T18:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-04T18:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-08-04T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-04T18:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T18:30:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-08-04T18:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-04T18:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-odyssey",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-04T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "Reading Lolita in Tehran",
-    "start": "2026-08-04T18:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
-    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27679443/",
-    "rating": 6.2
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T18:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "SPIDERMAN: BRAND NEW DAY",
-    "start": "2026-08-04T19:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "Wild Inside",
-    "start": "2026-08-04T19:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/wild-inside",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_a3499b4e-2cca-4d38-9a1f-3b4d30650a20.jpg",
-    "imdb": "https://www.imdb.com/title/tt36000564/",
-    "rating": null
-  },
-  {
-    "title": "Tremors",
-    "start": "2026-08-04T19:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/tremors",
-    "poster": "https://indy-systems.imgix.net/ygh12ii7xbqdd2qxq5u7110q91qw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0100814/",
-    "rating": 7.2
-  },
-  {
-    "title": "CANDIDS: A Comic Reading",
-    "start": "2026-08-04T19:00:00-07:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/candids-a-comic-reading/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/07/CANDIDS.OCP_.eventposter.png",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "I WANT YOUR SEX",
-    "start": "2026-08-04T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/691D759AD069A778DACD23D7F03781FBAD7D6917B6BD80CE55665DB28D8358DB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32332915/",
-    "rating": 6.2
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-04T19:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-04T19:00:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19042?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T19:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-04T19:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "NACHO LIBRE (2006)",
-    "start": "2026-08-04T19:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjMyNmEzNWYtMDNkYS00NGFmLWE3YjYtNDViYjUyMDA3MTlkXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0457510/",
-    "rating": 5.9
-  },
-  {
-    "title": "I Want Your Sex",
-    "start": "2026-08-04T19:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/i-want-your-sex",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_48bee6ae-1e3e-46c8-aa1d-8cfe74fa8812.jpg",
-    "imdb": "https://www.imdb.com/title/tt32332915/",
-    "rating": 6.2
-  },
-  {
-    "title": "Rosebush Pruning",
-    "start": "2026-08-04T19:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/rosebush-pruning",
-    "poster": "https://indy-systems.imgix.net/tmuggfc6k8tdv75rh20iwj5bqal0?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27844906/",
-    "rating": 5.6
-  },
-  {
-    "title": "Disclosure Day",
-    "start": "2026-08-04T19:25:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
-    "poster": "https://indy-systems.imgix.net/xhuzpbr45f9c0u5vmigw4yqyocan?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15047880/",
-    "rating": 6.5
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-04T19:30:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19040?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001538&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "I WANT YOUR SEX",
-    "start": "2026-08-04T19:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/94EA3BE7814C0F08D1FDD87427D31397E1E3093F3AF670017A7EDF8121E2F851_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32332915/",
-    "rating": 6.2
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T20:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-04T21:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T21:25:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T21:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-04T22:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.2
-  },
-  {
-    "title": "I WANT YOUR SEX",
-    "start": "2026-08-04T22:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/94EA3BE7814C0F08D1FDD87427D31397E1E3093F3AF670017A7EDF8121E2F851_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32332915/",
-    "rating": 6.2
-  },
-  {
     "title": "FLOW",
     "start": "2026-08-05T11:00:00-07:00",
     "theater": "Moreland Theater",
@@ -1089,6 +405,15 @@
     "rating": 8.5
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-05T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "THE ODYSSEY (OPEN CAPTION)",
     "start": "2026-08-05T18:00:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -1114,6 +439,15 @@
     "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "On the Road with Claire Denis",
+    "start": "2026-08-05T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/on-the-road-with-claire-denis/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/MMU_On_the_Road_with_Claire_Denis_IMAGE_Aug_2026.png?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "THE INVITE (OPEN CAPTION)",
@@ -1224,6 +558,15 @@
     "rating": null
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-08-05T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
     "title": "I WANT YOUR SEX (OPEN CAPTION)",
     "start": "2026-08-05T19:00:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -1293,6 +636,15 @@
     "url": "https://pdx.livingroomtheaters.com/movie/disclosure-day",
     "poster": "https://indy-systems.imgix.net/xhuzpbr45f9c0u5vmigw4yqyocan?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15047880/",
+    "rating": 6.5
+  },
+  {
+    "title": "MASTERS OF THE UNIVERSE",
+    "start": "2026-08-05T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/masters-of-the-universe/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/IMG_1872.jpeg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0427340/",
     "rating": 6.5
   },
   {
@@ -1764,6 +1116,15 @@
     "rating": 8.5
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-06T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-08-06T18:00:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -1807,6 +1168,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "It Couldn\u2019t Happen Here: Horror Movies in the Suburbs",
+    "start": "2026-08-06T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/it-couldnt-happen-here-horror-movies-in-the-suburbs/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/MMU_Suburbs_IMAGE_Aug_2026.png?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "THE INVITE",
@@ -1908,6 +1278,15 @@
     "rating": null
   },
   {
+    "title": "THE INVITE",
+    "start": "2026-08-06T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-invite/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/invite1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
     "title": "MAJOR LEAGUE",
     "start": "2026-08-06T19:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -1978,6 +1357,15 @@
     "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt37853455/",
     "rating": null
+  },
+  {
+    "title": "MIKEY AND NICKY",
+    "start": "2026-08-06T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/mikey-and-nicky/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/mikey-nicky1.jpg?fit=540%2C290&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0074901/",
+    "rating": 7.3
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -2124,11 +1512,38 @@
     "rating": 5.0
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-07T12:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Horsegirls",
+    "start": "2026-08-07T12:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
+    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13652006/",
+    "rating": 7.8
+  },
+  {
     "title": "ONE NIGHT ONLY",
     "start": "2026-08-07T12:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/BCAD59F1FBCD2AD1515F1F2B4E7FE51672971337D3C76A3A37C7EFB604D7D5DB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
+    "title": "One Night Only",
+    "start": "2026-08-07T12:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt37853455/",
     "rating": null
   },
@@ -2140,6 +1555,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0477348/",
     "rating": 8.2
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-07T13:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "ODYSSEY",
@@ -2178,6 +1602,15 @@
     "rating": null
   },
   {
+    "title": "Reading Lolita in Tehran",
+    "start": "2026-08-07T14:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
+    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27679443/",
+    "rating": 6.2
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-07T14:30:00-07:00",
     "theater": "Studio One",
@@ -2185,6 +1618,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "One Night Only",
+    "start": "2026-08-07T14:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
   },
   {
     "title": "THE ODYSSEY",
@@ -2210,6 +1652,15 @@
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-07T15:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
   },
@@ -2268,6 +1719,15 @@
     "rating": 8.2
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-08-07T15:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "ONE NIGHT ONLY",
     "start": "2026-08-07T15:35:00-07:00",
     "theater": "Studio One",
@@ -2281,7 +1741,7 @@
     "start": "2026-08-07T15:45:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-piano-1993",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ff9e865c-a14d-4a75-adcd-3c10771b9770.jpg",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_2de6273c-06f9-4a32-b00e-61bec7cdbf84.jpg",
     "imdb": "https://www.imdb.com/title/tt0107822/",
     "rating": 7.5
   },
@@ -2349,12 +1809,39 @@
     "rating": 5.0
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-07T16:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
     "title": "SUPER TROOPERS 3",
     "start": "2026-08-07T16:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
+    "rating": null
+  },
+  {
+    "title": "Horsegirls",
+    "start": "2026-08-07T16:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
+    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13652006/",
+    "rating": 7.8
+  },
+  {
+    "title": "One Night Only",
+    "start": "2026-08-07T17:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
     "rating": null
   },
   {
@@ -2385,6 +1872,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-07T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-08-07T18:00:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -2412,8 +1908,17 @@
     "rating": 8.5
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-07T18:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
     "title": "ONE NIGHT ONLY",
-    "start": "2026-08-07T18:25:00-07:00",
+    "start": "2026-08-07T18:20:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/BCAD59F1FBCD2AD1515F1F2B4E7FE51672971337D3C76A3A37C7EFB604D7D5DB_200_300_85.jpg",
@@ -2461,7 +1966,7 @@
     "start": "2026-08-07T18:45:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-piano-1993",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ff9e865c-a14d-4a75-adcd-3c10771b9770.jpg",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_2de6273c-06f9-4a32-b00e-61bec7cdbf84.jpg",
     "imdb": "https://www.imdb.com/title/tt0107822/",
     "rating": 7.5
   },
@@ -2473,6 +1978,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "CatVideoFest 2026",
+    "start": "2026-08-07T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
+    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -2511,6 +2025,15 @@
     "rating": null
   },
   {
+    "title": "MICHAEL MANN\u2019S MANHUNTER: THE FINAL CUT",
+    "start": "2026-08-07T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/michael-manns-manhunter-the-final-cut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/manhunter1.jpg?fit=540%2C329&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "DAZED AND CONFUSED",
     "start": "2026-08-07T19:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -2527,6 +2050,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/691D759AD069A778DACD23D7F03781FBAD7D6917B6BD80CE55665DB28D8358DB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32332915/",
     "rating": 6.2
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-07T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
   },
   {
     "title": "The Odyssey",
@@ -2574,6 +2106,24 @@
     "rating": 8.5
   },
   {
+    "title": "FANTASTIC VOYAGE",
+    "start": "2026-08-07T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/fantasic-voyage/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/fantasticvoyage1.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0060397/",
+    "rating": 6.8
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-07T19:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "Spider-Man: Brand New Day",
     "start": "2026-08-07T19:30:00-07:00",
     "theater": "St. Johns Cinema",
@@ -2590,6 +2140,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/07/FBB-2026_Block02_Adventure.png",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Reading Lolita in Tehran",
+    "start": "2026-08-07T20:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
+    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27679443/",
+    "rating": 6.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -2619,6 +2178,15 @@
     "rating": null
   },
   {
+    "title": "CatVideoFest 2026",
+    "start": "2026-08-07T21:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
+    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
+  },
+  {
     "title": "THE INVITE",
     "start": "2026-08-07T21:15:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -2626,6 +2194,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.9
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-07T21:20:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -2664,6 +2241,15 @@
     "rating": 8.2
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-07T21:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
     "title": "I Want Your Sex",
     "start": "2026-08-07T21:35:00-07:00",
     "theater": "Cinema 21",
@@ -2680,6 +2266,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "MICHAEL MANN\u2019S MANHUNTER: THE FINAL CUT",
+    "start": "2026-08-07T21:40:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/michael-manns-manhunter-the-final-cut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/manhunter1.jpg?fit=540%2C329&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "ODYSSEY",
@@ -2916,6 +2511,15 @@
     "rating": 8.2
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-08T12:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
     "title": "THE INVITE",
     "start": "2026-08-08T12:30:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -2923,6 +2527,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.9
+  },
+  {
+    "title": "Horsegirls",
+    "start": "2026-08-08T12:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
+    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13652006/",
+    "rating": 7.8
   },
   {
     "title": "ONE NIGHT ONLY",
@@ -2943,6 +2556,15 @@
     "rating": 6.2
   },
   {
+    "title": "One Night Only",
+    "start": "2026-08-08T12:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
     "title": "DONKEY SKIN (1970)",
     "start": "2026-08-08T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -2950,6 +2572,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZDg5ZmFiNGMtNzc3NS00NzBlLWJhNTYtODRjMjNmZjhmZTIzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0066207/",
     "rating": 7.0
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-08T13:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "ODYSSEY",
@@ -2997,6 +2628,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-08T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "CatVideoFest 2026",
     "start": "2026-08-08T13:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -3015,6 +2655,24 @@
     "rating": 8.6
   },
   {
+    "title": "Reading Lolita in Tehran",
+    "start": "2026-08-08T14:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
+    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27679443/",
+    "rating": 6.2
+  },
+  {
+    "title": "MICHAEL MANN\u2019S MANHUNTER: THE FINAL CUT",
+    "start": "2026-08-08T14:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/michael-manns-manhunter-the-final-cut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/manhunter1.jpg?fit=540%2C329&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-08T14:30:00-07:00",
     "theater": "Studio One",
@@ -3022,6 +2680,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "One Night Only",
+    "start": "2026-08-08T14:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
   },
   {
     "title": "THE ODYSSEY",
@@ -3042,11 +2709,29 @@
     "rating": null
   },
   {
+    "title": "THE LAND BEFORE TIME",
+    "start": "2026-08-08T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-land-before-time/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/THE-LAND-BEFORE-TIME.jpg?fit=540%2C302&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0095489/",
+    "rating": 7.4
+  },
+  {
     "title": "SPIDER-MAN: BRAND NEW DAY",
     "start": "2026-08-08T15:00:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-08T15:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
   },
@@ -3114,6 +2799,15 @@
     "rating": 8.2
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-08-08T15:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "ONE NIGHT ONLY",
     "start": "2026-08-08T15:35:00-07:00",
     "theater": "Studio One",
@@ -3127,7 +2821,7 @@
     "start": "2026-08-08T15:45:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-piano-1993",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ff9e865c-a14d-4a75-adcd-3c10771b9770.jpg",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_2de6273c-06f9-4a32-b00e-61bec7cdbf84.jpg",
     "imdb": "https://www.imdb.com/title/tt0107822/",
     "rating": 7.5
   },
@@ -3195,12 +2889,39 @@
     "rating": 8.2
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-08T16:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
     "title": "SUPER TROOPERS 3",
     "start": "2026-08-08T16:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
+    "rating": null
+  },
+  {
+    "title": "Horsegirls",
+    "start": "2026-08-08T16:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
+    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13652006/",
+    "rating": 7.8
+  },
+  {
+    "title": "One Night Only",
+    "start": "2026-08-08T17:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
     "rating": null
   },
   {
@@ -3240,6 +2961,15 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-08T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-08-08T18:00:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -3267,6 +2997,15 @@
     "rating": 8.5
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-08T18:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
     "title": "ONE NIGHT ONLY",
     "start": "2026-08-08T18:25:00-07:00",
     "theater": "Studio One",
@@ -3281,6 +3020,15 @@
     "theater": "Clinton Street Theater",
     "url": "https://cstpdx.com/event/filmed-by-bike-block-4-bike-love/",
     "poster": "https://cstpdx.com/wp-content/uploads/2026/07/FBB-2026_Block04_BikeLove.png",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "MICHAEL MANN\u2019S MANHUNTER: THE FINAL CUT",
+    "start": "2026-08-08T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/michael-manns-manhunter-the-final-cut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/manhunter1.jpg?fit=540%2C329&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -3325,7 +3073,7 @@
     "start": "2026-08-08T18:45:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-piano-1993",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ff9e865c-a14d-4a75-adcd-3c10771b9770.jpg",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_2de6273c-06f9-4a32-b00e-61bec7cdbf84.jpg",
     "imdb": "https://www.imdb.com/title/tt0107822/",
     "rating": 7.5
   },
@@ -3337,6 +3085,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "CatVideoFest 2026",
+    "start": "2026-08-08T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
+    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -3375,6 +3132,24 @@
     "rating": null
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-08-08T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "DON\u2019T TELL MOM THE BABYSITTER\u2019S DEAD",
+    "start": "2026-08-08T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/dont-tell-mom-the-babysitters-dead/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/donttellmomthebabysittersdead.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0101757/",
+    "rating": 6.4
+  },
+  {
     "title": "I WANT YOUR SEX",
     "start": "2026-08-08T19:00:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -3382,6 +3157,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/691D759AD069A778DACD23D7F03781FBAD7D6917B6BD80CE55665DB28D8358DB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32332915/",
     "rating": 6.2
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-08T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
   },
   {
     "title": "The Odyssey",
@@ -3429,6 +3213,15 @@
     "rating": 7.6
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-08-08T19:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "Spider-Man: Brand New Day",
     "start": "2026-08-08T19:30:00-07:00",
     "theater": "St. Johns Cinema",
@@ -3436,6 +3229,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001538&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "Reading Lolita in Tehran",
+    "start": "2026-08-08T20:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
+    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27679443/",
+    "rating": 6.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -3474,12 +3276,30 @@
     "rating": null
   },
   {
+    "title": "CatVideoFest 2026",
+    "start": "2026-08-08T21:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
+    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
+  },
+  {
     "title": "Ice Cream Man",
     "start": "2026-08-08T21:15:00-07:00",
     "theater": "Cinemagic",
     "url": "https://tickets.thecinemagictheater.com/movie/ice-cream-man",
     "poster": "https://indy-systems.imgix.net/c6i4kdz9yi05ywqcf7dhlpiwwdgh?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36893729/",
+    "rating": null
+  },
+  {
+    "title": "MICHAEL MANN\u2019S MANHUNTER: THE FINAL CUT",
+    "start": "2026-08-08T21:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/michael-manns-manhunter-the-final-cut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/manhunter1.jpg?fit=540%2C329&ssl=1",
+    "imdb": null,
     "rating": null
   },
   {
@@ -3490,6 +3310,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.9
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-08T21:20:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "ODYSSEY",
@@ -3524,6 +3353,15 @@
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-08T21:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
   },
@@ -3771,6 +3609,15 @@
     "rating": 8.2
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-09T12:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
     "title": "THE INVITE",
     "start": "2026-08-09T12:30:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -3798,6 +3645,15 @@
     "rating": 6.2
   },
   {
+    "title": "One Night Only",
+    "start": "2026-08-09T12:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
     "title": "NO COUNTRY FOR OLD MEN (2007)",
     "start": "2026-08-09T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -3811,9 +3667,18 @@
     "start": "2026-08-09T13:00:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-piano-1993",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ff9e865c-a14d-4a75-adcd-3c10771b9770.jpg",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_2de6273c-06f9-4a32-b00e-61bec7cdbf84.jpg",
     "imdb": "https://www.imdb.com/title/tt0107822/",
     "rating": 7.5
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-09T13:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "ODYSSEY",
@@ -3850,6 +3715,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-09T13:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "CatVideoFest 2026",
@@ -3897,6 +3771,24 @@
     "rating": 6.9
   },
   {
+    "title": "Reading Lolita in Tehran",
+    "start": "2026-08-09T14:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
+    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27679443/",
+    "rating": 6.2
+  },
+  {
+    "title": "MICHAEL MANN\u2019S MANHUNTER: THE FINAL CUT",
+    "start": "2026-08-09T14:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/michael-manns-manhunter-the-final-cut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/manhunter1.jpg?fit=540%2C329&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-09T14:30:00-07:00",
     "theater": "Studio One",
@@ -3904,6 +3796,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "One Night Only",
+    "start": "2026-08-09T14:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
   },
   {
     "title": "THE ODYSSEY",
@@ -3915,11 +3816,29 @@
     "rating": 8.5
   },
   {
+    "title": "THE LAND BEFORE TIME",
+    "start": "2026-08-09T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-land-before-time/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/THE-LAND-BEFORE-TIME.jpg?fit=540%2C302&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0095489/",
+    "rating": 7.4
+  },
+  {
     "title": "SPIDER-MAN: BRAND NEW DAY",
     "start": "2026-08-09T15:00:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-09T15:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
   },
@@ -3978,6 +3897,15 @@
     "rating": 8.2
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-08-09T15:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "ONE NIGHT ONLY",
     "start": "2026-08-09T15:35:00-07:00",
     "theater": "Studio One",
@@ -4018,7 +3946,7 @@
     "start": "2026-08-09T16:00:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-piano-1993",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ff9e865c-a14d-4a75-adcd-3c10771b9770.jpg",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_2de6273c-06f9-4a32-b00e-61bec7cdbf84.jpg",
     "imdb": "https://www.imdb.com/title/tt0107822/",
     "rating": 7.5
   },
@@ -4068,12 +3996,39 @@
     "rating": 7.3
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-09T16:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
     "title": "SUPER TROOPERS 3",
     "start": "2026-08-09T16:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
+    "rating": null
+  },
+  {
+    "title": "Horsegirls",
+    "start": "2026-08-09T16:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
+    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13652006/",
+    "rating": 7.8
+  },
+  {
+    "title": "One Night Only",
+    "start": "2026-08-09T17:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
     "rating": null
   },
   {
@@ -4100,6 +4055,15 @@
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-odyssey",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-09T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
   },
@@ -4131,6 +4095,15 @@
     "rating": 8.5
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-08-09T18:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "ONE NIGHT ONLY",
     "start": "2026-08-09T18:25:00-07:00",
     "theater": "Studio One",
@@ -4147,6 +4120,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "MICHAEL MANN\u2019S MANHUNTER: THE FINAL CUT",
+    "start": "2026-08-09T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/michael-manns-manhunter-the-final-cut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/manhunter1.jpg?fit=540%2C329&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "THE INVITE",
@@ -4194,6 +4176,15 @@
     "rating": 8.2
   },
   {
+    "title": "CatVideoFest 2026",
+    "start": "2026-08-09T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
+    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-09T18:50:00-07:00",
     "theater": "Studio One",
@@ -4239,6 +4230,15 @@
     "rating": 8.7
   },
   {
+    "title": "BLACK CHARIOT",
+    "start": "2026-08-09T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/black-chariot/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/black-chariot1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt28277324/",
+    "rating": null
+  },
+  {
     "title": "ODD MAN OUT",
     "start": "2026-08-09T19:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -4255,6 +4255,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/691D759AD069A778DACD23D7F03781FBAD7D6917B6BD80CE55665DB28D8358DB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32332915/",
     "rating": 6.2
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-09T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
   },
   {
     "title": "The Odyssey",
@@ -4291,6 +4300,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
     "rating": null
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-09T19:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -4437,6 +4455,24 @@
     "rating": 5.0
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-10T12:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Horsegirls",
+    "start": "2026-08-10T12:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
+    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13652006/",
+    "rating": 7.8
+  },
+  {
     "title": "CatVideoFest 2026",
     "start": "2026-08-10T12:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -4455,6 +4491,15 @@
     "rating": null
   },
   {
+    "title": "One Night Only",
+    "start": "2026-08-10T12:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
     "title": "PUMPKINHEAD (1988)",
     "start": "2026-08-10T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -4462,6 +4507,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F12A6558E76762B15EBEC55D31800F3B0A1DA6F5462F1ED3FC22E92056A85BA7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0095925/",
     "rating": 6.2
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-10T13:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "ODYSSEY",
@@ -4491,6 +4545,15 @@
     "rating": 8.2
   },
   {
+    "title": "Reading Lolita in Tehran",
+    "start": "2026-08-10T14:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
+    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27679443/",
+    "rating": 6.2
+  },
+  {
     "title": "CatVideoFest 2026",
     "start": "2026-08-10T14:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -4509,11 +4572,29 @@
     "rating": 8.2
   },
   {
+    "title": "One Night Only",
+    "start": "2026-08-10T14:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
     "title": "SPIDER-MAN: BRAND NEW DAY",
     "start": "2026-08-10T15:00:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-10T15:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
   },
@@ -4590,6 +4671,15 @@
     "rating": 8.5
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-08-10T15:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "ONE NIGHT ONLY",
     "start": "2026-08-10T15:35:00-07:00",
     "theater": "Studio One",
@@ -4612,7 +4702,7 @@
     "start": "2026-08-10T15:45:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-piano-1993",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ff9e865c-a14d-4a75-adcd-3c10771b9770.jpg",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_2de6273c-06f9-4a32-b00e-61bec7cdbf84.jpg",
     "imdb": "https://www.imdb.com/title/tt0107822/",
     "rating": 7.5
   },
@@ -4680,6 +4770,33 @@
     "rating": 7.9
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-10T16:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Horsegirls",
+    "start": "2026-08-10T16:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
+    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13652006/",
+    "rating": 7.8
+  },
+  {
+    "title": "One Night Only",
+    "start": "2026-08-10T17:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-10T17:05:00-07:00",
     "theater": "Studio One",
@@ -4707,6 +4824,24 @@
     "rating": 6.2
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-10T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "Oscilloscope Laboratories Presents \u2013 THE VOURDALAK",
+    "start": "2026-08-10T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/oscilloscope-laboratories-presents-the-vourdalak/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNlMTE5Y2ItNmI1NC00Yjk5LWEzYmMtODhkOGRjOTkxMDVhXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt28313478/",
+    "rating": 6.4
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-08-10T18:00:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -4723,6 +4858,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-10T18:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "ONE NIGHT ONLY",
@@ -4750,15 +4894,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.9
-  },
-  {
-    "title": "Cookie Queens",
-    "start": "2026-08-10T18:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/cookie-queens",
-    "poster": "https://indy-systems.imgix.net/4tmgieyzmh56jobwbv6awrubkbap?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt38503564/",
-    "rating": 5.0
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -4797,6 +4932,15 @@
     "rating": 8.2
   },
   {
+    "title": "CatVideoFest 2026",
+    "start": "2026-08-10T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
+    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-10T18:45:00-07:00",
     "theater": "Studio One",
@@ -4833,6 +4977,24 @@
     "rating": 5.9
   },
   {
+    "title": "MMU@PSU: What is Screenwriting?",
+    "start": "2026-08-10T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/mmupsu-what-is-screenwriting/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/Screenwriting.png?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "MICHAEL MANN\u2019S MANHUNTER: THE FINAL CUT",
+    "start": "2026-08-10T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/michael-manns-manhunter-the-final-cut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/manhunter1.jpg?fit=540%2C329&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "DAZED AND CONFUSED",
     "start": "2026-08-10T19:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -4849,6 +5011,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/691D759AD069A778DACD23D7F03781FBAD7D6917B6BD80CE55665DB28D8358DB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32332915/",
     "rating": 6.2
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-10T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
   },
   {
     "title": "The Odyssey",
@@ -4878,6 +5049,15 @@
     "rating": 8.2
   },
   {
+    "title": "One Night Only",
+    "start": "2026-08-10T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
     "title": "SUPER TROOPERS 3",
     "start": "2026-08-10T19:15:00-07:00",
     "theater": "Studio One",
@@ -4885,6 +5065,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
     "rating": null
+  },
+  {
+    "title": "THE JERICHO MILE",
+    "start": "2026-08-10T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-jericho-mile/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/jericho-mile1.jpg?fit=494%2C262&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0079366/",
+    "rating": 7.0
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-10T19:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -4903,6 +5101,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.9
+  },
+  {
+    "title": "Oscilloscope Laboratories Presents \u2013 THE VOURDALAK",
+    "start": "2026-08-10T20:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/oscilloscope-laboratories-presents-the-vourdalak/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNlMTE5Y2ItNmI1NC00Yjk5LWEzYmMtODhkOGRjOTkxMDVhXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt28313478/",
+    "rating": 6.4
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -5013,6 +5220,24 @@
     "rating": 8.2
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-11T12:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Horsegirls",
+    "start": "2026-08-11T12:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
+    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13652006/",
+    "rating": 7.8
+  },
+  {
     "title": "CatVideoFest 2026",
     "start": "2026-08-11T12:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -5031,6 +5256,15 @@
     "rating": null
   },
   {
+    "title": "One Night Only",
+    "start": "2026-08-11T12:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
     "title": "DONKEY SKIN (1970)",
     "start": "2026-08-11T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -5038,6 +5272,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZDg5ZmFiNGMtNzc3NS00NzBlLWJhNTYtODRjMjNmZjhmZTIzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0066207/",
     "rating": 7.0
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-11T13:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "ODYSSEY",
@@ -5067,6 +5310,15 @@
     "rating": 8.2
   },
   {
+    "title": "Reading Lolita in Tehran",
+    "start": "2026-08-11T14:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
+    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27679443/",
+    "rating": 6.2
+  },
+  {
     "title": "CatVideoFest 2026",
     "start": "2026-08-11T14:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -5085,11 +5337,29 @@
     "rating": 8.2
   },
   {
+    "title": "One Night Only",
+    "start": "2026-08-11T14:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
     "title": "SPIDER-MAN: BRAND NEW DAY",
     "start": "2026-08-11T15:00:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-11T15:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
   },
@@ -5166,6 +5436,15 @@
     "rating": 8.5
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-08-11T15:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "ONE NIGHT ONLY",
     "start": "2026-08-11T15:35:00-07:00",
     "theater": "Studio One",
@@ -5188,7 +5467,7 @@
     "start": "2026-08-11T15:45:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-piano-1993",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ff9e865c-a14d-4a75-adcd-3c10771b9770.jpg",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_2de6273c-06f9-4a32-b00e-61bec7cdbf84.jpg",
     "imdb": "https://www.imdb.com/title/tt0107822/",
     "rating": 7.5
   },
@@ -5247,6 +5526,33 @@
     "rating": 5.0
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-11T16:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Horsegirls",
+    "start": "2026-08-11T16:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
+    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13652006/",
+    "rating": 7.8
+  },
+  {
+    "title": "One Night Only",
+    "start": "2026-08-11T17:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-11T17:05:00-07:00",
     "theater": "Studio One",
@@ -5274,6 +5580,15 @@
     "rating": 6.2
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-11T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-08-11T18:00:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -5290,6 +5605,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-11T18:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "ONE NIGHT ONLY",
@@ -5355,6 +5679,15 @@
     "rating": 8.2
   },
   {
+    "title": "CatVideoFest 2026",
+    "start": "2026-08-11T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
+    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-11T18:45:00-07:00",
     "theater": "Studio One",
@@ -5377,7 +5710,7 @@
     "start": "2026-08-11T19:00:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-piano-1993",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ff9e865c-a14d-4a75-adcd-3c10771b9770.jpg",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_2de6273c-06f9-4a32-b00e-61bec7cdbf84.jpg",
     "imdb": "https://www.imdb.com/title/tt0107822/",
     "rating": 7.5
   },
@@ -5398,6 +5731,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/06/Careful_poster_ZG_2026_2025x3000-scaled.jpg",
     "imdb": "https://www.imdb.com/title/tt0103926/",
     "rating": 7.0
+  },
+  {
+    "title": "MICHAEL MANN\u2019S MANHUNTER: THE FINAL CUT",
+    "start": "2026-08-11T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/michael-manns-manhunter-the-final-cut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/manhunter1.jpg?fit=540%2C329&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "DAZED AND CONFUSED",
@@ -5470,6 +5812,33 @@
     "poster": "https://indy-systems.imgix.net/vxj62yumay5hr4c2w0h1ztz3ac87?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0120791/",
     "rating": 6.4
+  },
+  {
+    "title": "One Night Only",
+    "start": "2026-08-11T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
+    "title": "LEGENDARY WEAPONS OF KUNG FU in 16mm",
+    "start": "2026-08-11T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/legendary-weapons-of-kung-fu-in-16mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/legendary-weapons1.jpg?fit=540%2C342&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-11T19:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -5607,6 +5976,24 @@
     "rating": 5.0
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-12T12:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Horsegirls",
+    "start": "2026-08-12T12:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
+    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13652006/",
+    "rating": 7.8
+  },
+  {
     "title": "CatVideoFest 2026",
     "start": "2026-08-12T12:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -5625,6 +6012,15 @@
     "rating": null
   },
   {
+    "title": "One Night Only",
+    "start": "2026-08-12T12:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
     "title": "DONKEY SKIN (1970)",
     "start": "2026-08-12T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -5632,6 +6028,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZDg5ZmFiNGMtNzc3NS00NzBlLWJhNTYtODRjMjNmZjhmZTIzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0066207/",
     "rating": 7.0
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-12T13:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "ODYSSEY",
@@ -5661,6 +6066,15 @@
     "rating": 8.2
   },
   {
+    "title": "Reading Lolita in Tehran",
+    "start": "2026-08-12T14:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
+    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27679443/",
+    "rating": 6.2
+  },
+  {
     "title": "CatVideoFest 2026",
     "start": "2026-08-12T14:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -5679,11 +6093,29 @@
     "rating": 8.2
   },
   {
+    "title": "One Night Only",
+    "start": "2026-08-12T14:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
     "title": "SPIDER-MAN: BRAND NEW DAY (OPEN CAPTION)",
     "start": "2026-08-12T15:00:00-07:00",
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-12T15:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
   },
@@ -5760,6 +6192,15 @@
     "rating": 8.5
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-08-12T15:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "ONE NIGHT ONLY",
     "start": "2026-08-12T15:35:00-07:00",
     "theater": "Studio One",
@@ -5782,7 +6223,7 @@
     "start": "2026-08-12T15:45:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-piano-1993",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ff9e865c-a14d-4a75-adcd-3c10771b9770.jpg",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_2de6273c-06f9-4a32-b00e-61bec7cdbf84.jpg",
     "imdb": "https://www.imdb.com/title/tt0107822/",
     "rating": 7.5
   },
@@ -5850,6 +6291,33 @@
     "rating": 7.9
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-12T16:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Horsegirls",
+    "start": "2026-08-12T16:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
+    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13652006/",
+    "rating": 7.8
+  },
+  {
+    "title": "One Night Only",
+    "start": "2026-08-12T17:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-12T17:05:00-07:00",
     "theater": "Studio One",
@@ -5877,6 +6345,15 @@
     "rating": 6.2
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-12T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "THE ODYSSEY (OPEN CAPTION)",
     "start": "2026-08-12T18:00:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -5893,6 +6370,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-12T18:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "ONE NIGHT ONLY",
@@ -5958,6 +6444,15 @@
     "rating": 8.2
   },
   {
+    "title": "CatVideoFest 2026",
+    "start": "2026-08-12T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
+    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-12T18:45:00-07:00",
     "theater": "Studio One",
@@ -5980,7 +6475,7 @@
     "start": "2026-08-12T19:00:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-piano-1993",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ff9e865c-a14d-4a75-adcd-3c10771b9770.jpg",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_2de6273c-06f9-4a32-b00e-61bec7cdbf84.jpg",
     "imdb": "https://www.imdb.com/title/tt0107822/",
     "rating": 7.5
   },
@@ -6003,6 +6498,15 @@
     "rating": null
   },
   {
+    "title": "MICHAEL MANN\u2019S MANHUNTER: THE FINAL CUT",
+    "start": "2026-08-12T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/michael-manns-manhunter-the-final-cut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/manhunter1.jpg?fit=540%2C329&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "SPECIAL EVENT 2 hours",
     "start": "2026-08-12T19:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -6019,6 +6523,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYTM4YmE0NDQtM2I4ZS00YTcyLTk5ZjEtMjdmOTYzYTYxY2RjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt32332915/",
     "rating": 6.2
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-12T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
   },
   {
     "title": "Reel Eats: Thelma and Louise",
@@ -6063,6 +6576,33 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0477348/",
+    "rating": 8.2
+  },
+  {
+    "title": "One Night Only",
+    "start": "2026-08-12T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
+    "title": "SHE-DEVILS ON WHEELS",
+    "start": "2026-08-12T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/she-devils-on-wheels/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/she-devils1.jpg?fit=540%2C323&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0063595/",
+    "rating": 4.6
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-12T19:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
   },
   {
@@ -6183,12 +6723,39 @@
     "rating": 5.0
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-13T12:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Horsegirls",
+    "start": "2026-08-13T12:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
+    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13652006/",
+    "rating": 7.8
+  },
+  {
     "title": "CatVideoFest 2026",
     "start": "2026-08-13T12:30:00-07:00",
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
     "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
+  },
+  {
+    "title": "One Night Only",
+    "start": "2026-08-13T12:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
     "rating": null
   },
   {
@@ -6199,6 +6766,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0477348/",
     "rating": 8.2
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-13T13:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "ODYSSEY",
@@ -6228,6 +6804,15 @@
     "rating": 8.2
   },
   {
+    "title": "Reading Lolita in Tehran",
+    "start": "2026-08-13T14:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
+    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27679443/",
+    "rating": 6.2
+  },
+  {
     "title": "CatVideoFest 2026",
     "start": "2026-08-13T14:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -6246,6 +6831,15 @@
     "rating": null
   },
   {
+    "title": "One Night Only",
+    "start": "2026-08-13T14:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
     "title": "THE ODYSSEY",
     "start": "2026-08-13T15:00:00-07:00",
     "theater": "Academy Theater",
@@ -6253,6 +6847,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
+  },
+  {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-13T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-13T15:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
   },
   {
     "title": "ODYSSEY",
@@ -6291,6 +6903,15 @@
     "rating": 8.5
   },
   {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-13T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-13T15:20:00-07:00",
     "theater": "Studio One",
@@ -6309,6 +6930,15 @@
     "rating": 8.2
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-08-13T15:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "END OF OAK STREET",
     "start": "2026-08-13T15:40:00-07:00",
     "theater": "Studio One",
@@ -6322,9 +6952,18 @@
     "start": "2026-08-13T15:45:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-piano-1993",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_ff9e865c-a14d-4a75-adcd-3c10771b9770.jpg",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_2de6273c-06f9-4a32-b00e-61bec7cdbf84.jpg",
     "imdb": "https://www.imdb.com/title/tt0107822/",
     "rating": 7.5
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-08-13T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
   },
   {
     "title": "NO COUNTRY FOR OLD MEN (2007)",
@@ -6334,6 +6973,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0477348/",
     "rating": 8.2
+  },
+  {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-13T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
   },
   {
     "title": "SUPER TROOPERS 3",
@@ -6363,6 +7011,33 @@
     "rating": 8.2
   },
   {
+    "title": "Spider-Man: Brand New Day",
+    "start": "2026-08-13T16:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
+  },
+  {
+    "title": "Horsegirls",
+    "start": "2026-08-13T16:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
+    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13652006/",
+    "rating": 7.8
+  },
+  {
+    "title": "One Night Only",
+    "start": "2026-08-13T17:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
+    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37853455/",
+    "rating": null
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-08-13T17:30:00-07:00",
     "theater": "Studio One",
@@ -6390,6 +7065,15 @@
     "rating": 8.2
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-13T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "ONE NIGHT ONLY",
     "start": "2026-08-13T18:05:00-07:00",
     "theater": "Studio One",
@@ -6404,6 +7088,24 @@
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-13T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-08-13T18:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
   },
@@ -6426,13 +7128,13 @@
     "rating": null
   },
   {
-    "title": "Cookie Queens",
+    "title": "SPIDER-MAN: BRAND NEW DAY",
     "start": "2026-08-13T18:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/cookie-queens",
-    "poster": "https://indy-systems.imgix.net/4tmgieyzmh56jobwbv6awrubkbap?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt38503564/",
-    "rating": 5.0
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -6460,6 +7162,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
+  },
+  {
+    "title": "THE INVITE",
+    "start": "2026-08-13T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
+    "title": "CatVideoFest 2026",
+    "start": "2026-08-13T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
+    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt39676060/",
+    "rating": null
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -6495,6 +7215,24 @@
     "url": "https://cstpdx.com/event/revolutions-per-movie-urgh-a-music-war/",
     "poster": "https://cstpdx.com/wp-content/uploads/2026/06/UrghAMusicWar_vertical.jpg",
     "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "MICHAEL MANN\u2019S MANHUNTER: THE FINAL CUT",
+    "start": "2026-08-13T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/michael-manns-manhunter-the-final-cut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/manhunter1.jpg?fit=540%2C329&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-13T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
     "rating": null
   },
   {
@@ -6552,13 +7290,22 @@
     "rating": 8.5
   },
   {
-    "title": "The End of Oak Street",
+    "title": "LEGENDARY WEAPONS OF KUNG FU in 16mm",
+    "start": "2026-08-13T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/legendary-weapons-of-kung-fu-in-16mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/legendary-weapons1.jpg?fit=540%2C342&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
     "start": "2026-08-13T19:30:00-07:00",
     "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-end-of-oak-street",
-    "poster": "https://indy-systems.imgix.net/y774l62xaldr76lpaaxtt3vajaw2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27165187/",
-    "rating": null
+    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
+    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.2
   },
   {
     "title": "The Invite",
@@ -6759,6 +7506,15 @@
     "rating": 8.2
   },
   {
+    "title": "HEAT",
+    "start": "2026-08-14T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/heat/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/heat.jpg?fit=540%2C292&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0113277/",
+    "rating": 8.3
+  },
+  {
     "title": "The Samurai and the Prisoner",
     "start": "2026-08-14T18:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -6813,6 +7569,24 @@
     "rating": null
   },
   {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-14T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-08-14T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "The End of Oak Street",
     "start": "2026-08-14T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -6820,6 +7594,15 @@
     "poster": "https://indy-systems.imgix.net/y774l62xaldr76lpaaxtt3vajaw2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt27165187/",
     "rating": null
+  },
+  {
+    "title": "THE ODYSSEY (Digital)",
+    "start": "2026-08-14T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-digital/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odysseydigital1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "MANHUNTER: THE FINAL CUT",
@@ -6892,6 +7675,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-14T21:35:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "CRUISING (1980)",
@@ -6975,6 +7767,24 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-15T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-08-15T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "The Dark Crystal (1982)",
     "start": "2026-08-15T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -7000,6 +7810,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-15T15:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "END OF OAK STREET",
@@ -7074,6 +7893,15 @@
     "rating": 8.2
   },
   {
+    "title": "HEAT",
+    "start": "2026-08-15T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/heat/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/heat.jpg?fit=540%2C292&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0113277/",
+    "rating": 8.3
+  },
+  {
     "title": "The Samurai and the Prisoner",
     "start": "2026-08-15T18:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -7128,6 +7956,24 @@
     "rating": 7.7
   },
   {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-15T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-08-15T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "The End of Oak Street",
     "start": "2026-08-15T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -7135,6 +7981,15 @@
     "poster": "https://indy-systems.imgix.net/y774l62xaldr76lpaaxtt3vajaw2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt27165187/",
     "rating": null
+  },
+  {
+    "title": "THE ODYSSEY (Digital)",
+    "start": "2026-08-15T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-digital/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odysseydigital1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "O BROTHER WHERE ART THOU",
@@ -7209,6 +8064,15 @@
     "rating": 5.7
   },
   {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-15T21:35:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-15T21:45:00-07:00",
     "theater": "Academy Theater",
@@ -7281,6 +8145,24 @@
     "rating": null
   },
   {
+    "title": "THE ODYSSEY in 70mm",
+    "start": "2026-08-16T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odyssey-nolan1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-08-16T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Labyrinth (1986)",
     "start": "2026-08-16T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -7297,6 +8179,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.2
+  },
+  {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-16T15:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "END OF OAK STREET",
@@ -7380,6 +8271,15 @@
     "rating": 8.2
   },
   {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-16T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "MANHUNTER: THE FINAL CUT",
     "start": "2026-08-16T18:30:00-07:00",
     "theater": "Kiggins Theatre",
@@ -7434,6 +8334,15 @@
     "rating": 6.2
   },
   {
+    "title": "APPLESEED + BLACK MAGIC M-66",
+    "start": "2026-08-16T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/appleseed/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/appleseed_blackmagic.jpg?fit=540%2C302&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "The End of Oak Street",
     "start": "2026-08-16T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -7441,6 +8350,24 @@
     "poster": "https://indy-systems.imgix.net/y774l62xaldr76lpaaxtt3vajaw2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt27165187/",
     "rating": null
+  },
+  {
+    "title": "Rosebush Pruning // Presented by MUBI",
+    "start": "2026-08-16T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/rosebush-pruning/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/07110435/RP_KeyArt_OS_EN_ComingSoon.jpg",
+    "imdb": "https://www.imdb.com/title/tt27844906/",
+    "rating": 5.6
+  },
+  {
+    "title": "THE ODYSSEY (Digital)",
+    "start": "2026-08-16T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-digital/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odysseydigital1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "The Wrong Girls",
@@ -7459,6 +8386,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/69F40D2E5FC2845FE68FC9B371E58797066E650D1B37700AD0974460B228EE00_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15574270/",
     "rating": 5.8
+  },
+  {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-16T21:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "END OF OAK STREET",
@@ -7587,6 +8523,24 @@
     "rating": 8.1
   },
   {
+    "title": "Vinegar Syndrome Presents \u2013 DEMON WIND",
+    "start": "2026-08-17T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/vinegar-syndrome-presents-demon-wind/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBjMzhhNWMtNTcwNi00MWUwLWFlYTItMWMyNWQwNzhlNjNhXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0099401/",
+    "rating": 4.8
+  },
+  {
+    "title": "THE ODYSSEY (Digital)",
+    "start": "2026-08-17T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-digital/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odysseydigital1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "END OF OAK STREET",
     "start": "2026-08-17T18:30:00-07:00",
     "theater": "Studio One",
@@ -7614,6 +8568,15 @@
     "rating": 7.7
   },
   {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-17T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "start": "2026-08-17T19:15:00-07:00",
     "theater": "Cinema 21",
@@ -7630,6 +8593,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMDU4ZTNiYTMtNDFkYS00ZmJhLWFmOWItYTExMTllMmNiMTRlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0071615/",
     "rating": 7.7
+  },
+  {
+    "title": "GO with WAKING UP FROM A NAP ON A LONG DAY OF DOING NOTHING",
+    "start": "2026-08-17T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/go-with-waking-up-from-a-nap-on-a-long-day-of-doing-nothing/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/wakingup.jpg?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "O BROTHER WHERE ART THOU",
@@ -7650,6 +8622,15 @@
     "rating": 5.8
   },
   {
+    "title": "Vinegar Syndrome Presents \u2013 DEMON WIND",
+    "start": "2026-08-17T20:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/vinegar-syndrome-presents-demon-wind/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBjMzhhNWMtNTcwNi00MWUwLWFlYTItMWMyNWQwNzhlNjNhXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0099401/",
+    "rating": 4.8
+  },
+  {
     "title": "Diary of a Shinjuku Thief",
     "start": "2026-08-17T21:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -7665,6 +8646,15 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/919B6E11886C51D1F08099AC4B6A3D89DFCF036CF480E106D62310FC6A7A78F1_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
+  },
+  {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-17T21:35:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
     "rating": null
   },
   {
@@ -7740,6 +8730,15 @@
     "rating": 7.7
   },
   {
+    "title": "THE ODYSSEY (Digital)",
+    "start": "2026-08-18T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-digital/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odysseydigital1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-18T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -7758,6 +8757,15 @@
     "rating": 6.1
   },
   {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-18T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "start": "2026-08-18T19:15:00-07:00",
     "theater": "Cinema 21",
@@ -7774,6 +8782,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjQxZDlmNjUtM2RjMS00MWYwLWJhNjYtNGJhNzg2YWVmMzQwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0236348/",
     "rating": 5.7
+  },
+  {
+    "title": "1960S SUPER SHOW in 16mm",
+    "start": "2026-08-18T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/1960s-super-show-in-16mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2025/07/super-show.jpg?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "MANHUNTER: THE FINAL CUT",
@@ -7801,6 +8818,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F58D0628C1B0D8E8B0CF7D89B884D9792B87D7408B52FFAE655CC44C9B7F6862_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0084649/",
     "rating": 7.5
+  },
+  {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-18T21:35:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "THE SECRET OF NIMH",
@@ -7866,6 +8892,15 @@
     "rating": 6.9
   },
   {
+    "title": "THE ODYSSEY (Digital)",
+    "start": "2026-08-19T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-digital/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odysseydigital1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-19T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -7893,6 +8928,24 @@
     "rating": null
   },
   {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-19T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "NT Live: Inter Alia // Presented by Third Rail Repertory Theatre",
+    "start": "2026-08-19T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/nt-live-inter-alia-presented-by-third-rail-repertory-theatre/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/07125109/INTERALIAPoster.png",
+    "imdb": "https://www.imdb.com/title/tt36364878/",
+    "rating": 8.4
+  },
+  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "start": "2026-08-19T19:15:00-07:00",
     "theater": "Cinema 21",
@@ -7911,6 +8964,15 @@
     "rating": 6.5
   },
   {
+    "title": "MIAMI VICE in 35mm",
+    "start": "2026-08-19T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/miami-vice-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miami-vice-movie1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0430357/",
+    "rating": 6.1
+  },
+  {
     "title": "I SAW THE TV GLOW",
     "start": "2026-08-19T19:45:00-07:00",
     "theater": "Academy Theater",
@@ -7927,6 +8989,15 @@
     "poster": "https://indy-systems.imgix.net/x9v0tj0h9qrpbhqrur3g2tw3lc9n?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0086320/",
     "rating": 6.2
+  },
+  {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-19T21:35:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "SPIDERMAN: BRAND NEW DAY",
@@ -8001,6 +9072,15 @@
     "rating": 7.8
   },
   {
+    "title": "THE ODYSSEY (Digital)",
+    "start": "2026-08-20T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-odyssey-digital/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/odysseydigital1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "PETER ASHER EVERYWHERE MAN",
     "start": "2026-08-20T18:30:00-07:00",
     "theater": "Kiggins Theatre",
@@ -8037,6 +9117,15 @@
     "rating": 6.5
   },
   {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-20T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "start": "2026-08-20T19:15:00-07:00",
     "theater": "Cinema 21",
@@ -8055,6 +9144,15 @@
     "rating": 6.9
   },
   {
+    "title": "BATMAN: THE MOVIE (1966)",
+    "start": "2026-08-20T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/batman-the-movie-1966/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/batman-movie1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0060153/",
+    "rating": 6.5
+  },
+  {
     "title": "Inu-Oh",
     "start": "2026-08-20T21:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -8071,6 +9169,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt35298123/",
     "rating": 6.9
+  },
+  {
+    "title": "TEENAGE SEX & DEATH AT CAMP MIASMA",
+    "start": "2026-08-20T21:35:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/teenage-sex-death-at-camp-miasma/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/miasmare.jpg?fit=540%2C359&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "CRUISING (1980)",
@@ -8127,6 +9234,24 @@
     "rating": null
   },
   {
+    "title": "Noir City 2026 VIP Festival Pass",
+    "start": "2026-08-21T17:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/noir-city-2026-vip-festival-pass/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/VIP.jpg?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Noir City 2026 Festival Pass",
+    "start": "2026-08-21T17:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/noir-city-2026-festival-pass/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/reg.jpg?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Poca Pon",
     "start": "2026-08-21T18:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -8134,6 +9259,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/05/poca-pon-poster.jpg",
     "imdb": "https://www.imdb.com/title/tt38589495/",
     "rating": null
+  },
+  {
+    "title": "BLACK ANGEL",
+    "start": "2026-08-21T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/black-angel/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/Black-Angel_2000-1570.jpg?fit=539%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0267261/",
+    "rating": 5.0
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -8152,6 +9286,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/DE271A782294F9AA94D4ECC031159DCBE7A9452B3E3DEC907EE72767C752C641_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0078087/",
     "rating": 5.9
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-08-21T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "Teenage Sex And Death At Camp Miasma",
@@ -8179,6 +9322,15 @@
     "poster": "https://indy-systems.imgix.net/gaclmq4yg1mb302wzk9jqr2k2qzo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": null
+  },
+  {
+    "title": "THE MAN I LOVE",
+    "start": "2026-08-21T20:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-man-i-love/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/The-Man-I-Love_2560-1913.jpg?fit=539%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt37522972/",
+    "rating": 5.2
   },
   {
     "title": "The Warped Forest",
@@ -8253,6 +9405,15 @@
     "rating": 7.5
   },
   {
+    "title": "A Conversation with Eddie Muller & Book Signing",
+    "start": "2026-08-22T13:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/a-conversation-with-eddie-muller-book-signing/",
+    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/06/A-CONVERSATION-WITH-EDDIE-MULLER-01.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Kintsukuroi",
     "start": "2026-08-22T14:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -8260,6 +9421,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/07/2525_KintsukuroiPoster_05a-scaled.jpg",
     "imdb": "https://www.imdb.com/title/tt30476184/",
     "rating": 8.4
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-08-22T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "The Last Unicorn (1982)",
@@ -8298,6 +9468,15 @@
     "rating": 5.9
   },
   {
+    "title": "A MAN CALLED ADAM",
+    "start": "2026-08-22T16:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/a-man-called-adam/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/A-Man-Called-Adam_1750-1080.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0060660/",
+    "rating": 6.6
+  },
+  {
     "title": "TONY",
     "start": "2026-08-22T17:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -8305,6 +9484,15 @@
     "poster": "https://indy-systems.imgix.net/gaclmq4yg1mb302wzk9jqr2k2qzo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": null
+  },
+  {
+    "title": "TO HAVE AND HAVE NOT",
+    "start": "2026-08-22T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/to-have-and-have-not/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/To-have-and-have-not_2560-2016.jpg?fit=539%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0037382/",
+    "rating": 7.8
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -8334,6 +9522,15 @@
     "rating": 7.6
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-08-22T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Teenage Sex And Death At Camp Miasma",
     "start": "2026-08-22T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -8350,6 +9547,15 @@
     "poster": "https://indy-systems.imgix.net/0m2s51gss3mmkuu2j2qrtf5v67ul?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "THE YELLOW CANARY",
+    "start": "2026-08-22T21:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-yellow-canary/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/TheYellowCanary_BarbaraEden_PatBoone.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0057700/",
+    "rating": 6.2
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -8385,6 +9591,15 @@
     "url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-thom-hilton-19/",
     "poster": "https://cstpdx.com/wp-content/uploads/2023/07/rhps-virgins.webp",
     "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Shadows At Noon",
+    "start": "2026-08-23T12:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/shadows-at-noon/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/MMU_One_Afternoon_Shadows_at_Noon_IMAGE_August_2026.png?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt21029404/",
     "rating": null
   },
   {
@@ -8424,6 +9639,15 @@
     "rating": 7.6
   },
   {
+    "title": "Blue Crush Crafternoon x Ritual Dyes",
+    "start": "2026-08-23T14:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/blue-crush-crafternoon-x-ritual-dyes/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/17143503/iZSw0JVG0cIFuZoTHuQU3nmGT4k.jpg",
+    "imdb": "https://www.imdb.com/title/tt0300532/",
+    "rating": 5.7
+  },
+  {
     "title": "TONY",
     "start": "2026-08-23T14:30:00-07:00",
     "theater": "Kiggins Theatre",
@@ -8460,6 +9684,15 @@
     "rating": 7.6
   },
   {
+    "title": "THE MAN WITH THE GOLDEN ARM",
+    "start": "2026-08-23T16:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-man-with-the-golden-arm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/05/The-Man-with-the-Golden-Arm_2046-1293-1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0048347/",
+    "rating": 7.3
+  },
+  {
     "title": "TONY",
     "start": "2026-08-23T17:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -8467,6 +9700,15 @@
     "poster": "https://indy-systems.imgix.net/gaclmq4yg1mb302wzk9jqr2k2qzo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": null
+  },
+  {
+    "title": "NT Live: The Playboy of the Western World // Presented by Third Rail Repertory Theatre",
+    "start": "2026-08-23T17:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/nt-live-the-playboy-of-the-western-world-presented-by-third-rail-repertory-theatre/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/07154809/THEPLAYBOYOFTHEWESTERNWORLDPoster.png",
+    "imdb": "https://www.imdb.com/title/tt40031882/",
+    "rating": 7.0
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -8487,6 +9729,15 @@
     "rating": 7.5
   },
   {
+    "title": "THE SWEET SMELL OF SUCCESS",
+    "start": "2026-08-23T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/the-sweet-smell-of-success/",
+    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2025/09/MMU_One_Evening_The_Sweet_Smell_of_Success_IMAGE_2025.png",
+    "imdb": "https://www.imdb.com/title/tt0051036/",
+    "rating": 8.0
+  },
+  {
     "title": "Teenage Sex And Death At Camp Miasma",
     "start": "2026-08-23T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -8494,6 +9745,15 @@
     "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35298123/",
     "rating": 6.9
+  },
+  {
+    "title": "Bill Plympton's Barkin' Dog Collection",
+    "start": "2026-08-23T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/bill-plymptons-barkin-dog-collection",
+    "poster": "https://indy-systems.imgix.net/mii1kofdoq95izvplw4itkgztidy?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "TONY",
@@ -8586,11 +9846,29 @@
     "rating": 7.4
   },
   {
+    "title": "Severin Presents \u2013 DELICATESSEN",
+    "start": "2026-08-24T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/severin-presents-delicatessen/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGM3ZjE4ZjMtOGIxNi00ODc3LWI2OGQtY2E5MDlkMjAwZWZjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0101700/",
+    "rating": 7.5
+  },
+  {
     "title": "Running Wild Special 3D Screening",
     "start": "2026-08-24T18:30:00-07:00",
     "theater": "OMSI Empirical Theater",
     "url": "https://omsi.edu/events/running-wild-special-screening/",
     "poster": "https://omsi.edu/wp-content/uploads/2026/05/RunningWild.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "MMU@PSU: Lost and Found: Lost Films and Rediscoveries",
+    "start": "2026-08-24T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/mmupsu-lost-and-found-lost-films-and-rediscoveries/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/MMU%40PSU_Lost_and_Found_IMAGE_August_2026.png?fit=540%2C303&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -8613,6 +9891,15 @@
     "rating": 5.9
   },
   {
+    "title": "THE HOLE (1998) in 35mm",
+    "start": "2026-08-24T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-hole-1998-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/thehole1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0156610/",
+    "rating": 7.4
+  },
+  {
     "title": "TONY",
     "start": "2026-08-24T19:30:00-07:00",
     "theater": "Kiggins Theatre",
@@ -8620,6 +9907,15 @@
     "poster": "https://indy-systems.imgix.net/gaclmq4yg1mb302wzk9jqr2k2qzo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": null
+  },
+  {
+    "title": "Severin Presents \u2013 DELICATESSEN",
+    "start": "2026-08-24T20:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/severin-presents-delicatessen/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGM3ZjE4ZjMtOGIxNi00ODc3LWI2OGQtY2E5MDlkMjAwZWZjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0101700/",
+    "rating": 7.5
   },
   {
     "title": "EGG",
@@ -8719,6 +10015,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNmJmNDM5ZmYtODIwNS00YjM4LTlkYzktZTFjNTg3ODg0NDcwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0057427/",
     "rating": 7.6
+  },
+  {
+    "title": "THIEF in 35mm",
+    "start": "2026-08-25T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/thief-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/thiefmann1.jpg?fit=540%2C340&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0083190/",
+    "rating": 7.4
   },
   {
     "title": "TONY",
@@ -8829,6 +10134,15 @@
     "rating": 5.9
   },
   {
+    "title": "MACHO DANCER",
+    "start": "2026-08-26T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/macho-dancer/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/macho-dancer1.jpg?fit=540%2C365&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0095562/",
+    "rating": 6.6
+  },
+  {
     "title": "TONY",
     "start": "2026-08-26T19:30:00-07:00",
     "theater": "Kiggins Theatre",
@@ -8910,6 +10224,15 @@
     "rating": 7.5
   },
   {
+    "title": "FIVE FILMS BY PHIL SOLOMON in 16mm",
+    "start": "2026-08-27T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/five-films-by-phil-solomon-in-16mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/Solomon_YesISaidYesIWillYes_5.jpg?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "The Marching Band",
     "start": "2026-08-27T19:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -8917,6 +10240,15 @@
     "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt30327451/",
     "rating": 7.4
+  },
+  {
+    "title": "LAST OF THE MOHICANS",
+    "start": "2026-08-27T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/last-of-the-mohicans/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/last-of-mohicans1.jpg?fit=540%2C270&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0104691/",
+    "rating": 7.6
   },
   {
     "title": "TONY",
@@ -9027,6 +10359,33 @@
     "rating": 7.1
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-08-28T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Body Heat",
+    "start": "2026-08-28T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/body-heat/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/08160343/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
+    "imdb": "https://www.imdb.com/title/tt0082089/",
+    "rating": 7.4
+  },
+  {
+    "title": "THE CRAFT",
+    "start": "2026-08-28T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-craft/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/thecraft.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0115963/",
+    "rating": 6.5
+  },
+  {
     "title": "The Marching Band",
     "start": "2026-08-28T20:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -9108,6 +10467,15 @@
     "rating": null
   },
   {
+    "title": "BUT I\u2019M A CHEERLEADER",
+    "start": "2026-08-29T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/but-im-a-cheerleader/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/06/butimacheerleader.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0179116/",
+    "rating": 6.9
+  },
+  {
     "title": "Alice (1988)",
     "start": "2026-08-29T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -9124,6 +10492,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/2FB7955A1E04CADB3BD902BDEFE59AE3BBE4CDF349D530BA8F38A1F3E84CBF15_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0120616/",
     "rating": 7.1
+  },
+  {
+    "title": "Do the Right Thing (4K Restoration)",
+    "start": "2026-08-29T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/do-the-right-thing/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/08163456/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+    "imdb": "https://www.imdb.com/title/tt0097216/",
+    "rating": 7.9
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -9180,6 +10557,33 @@
     "rating": 6.6
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-08-29T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Rear Window  (4K Restoration)",
+    "start": "2026-08-29T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/rear-window/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/08163035/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+    "imdb": "https://www.imdb.com/title/tt0047396/",
+    "rating": 8.4
+  },
+  {
+    "title": "JAWBREAKER",
+    "start": "2026-08-29T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/jawbreaker/",
+    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/jawbreaker-1.jpg",
+    "imdb": "https://www.imdb.com/title/tt0155776/",
+    "rating": 5.8
+  },
+  {
     "title": "The Marching Band",
     "start": "2026-08-29T20:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -9234,6 +10638,24 @@
     "rating": 7.1
   },
   {
+    "title": "RRR",
+    "start": "2026-08-30T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/rrr/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/RRR-1.jpg?fit=540%2C281&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt8178634/",
+    "rating": 7.8
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-08-30T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
     "start": "2026-08-30T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -9250,6 +10672,15 @@
     "poster": "https://indy-systems.imgix.net/xdxvwhru2birp7fzjzrcrpvhz0ye?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0027977/",
     "rating": 8.5
+  },
+  {
+    "title": "The Talented Mr. Ripley",
+    "start": "2026-08-30T15:30:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/the-talented-mr-ripley-2/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/08162121/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+    "imdb": "https://www.imdb.com/title/tt0134119/",
+    "rating": 7.4
   },
   {
     "title": "A BAY OF BLOOD (1971)",
@@ -9295,6 +10726,24 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BY2YzZmFhNDgtOTE0MS00NTA1LTgzZDYtMGZiZWJiNTQxMGM3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0057197/",
     "rating": 7.3
+  },
+  {
+    "title": "Call Me by Your Name",
+    "start": "2026-08-30T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/call-me-by-your-name/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/08162746/mZ4gBdfkhP9tvLH1DO4m4HYtiyi-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt5726616/",
+    "rating": 7.8
+  },
+  {
+    "title": "EASTERN PROMISES",
+    "start": "2026-08-30T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/eastern-promises/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/eastern-promises1.jpg?fit=540%2C323&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0765443/",
+    "rating": 7.6
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -9360,6 +10809,15 @@
     "rating": 6.9
   },
   {
+    "title": "Error 4444 Presents \u2013 THE CRAZY FAMILY",
+    "start": "2026-08-31T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/error-4444-presents-the-crazy-family/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjExNjU5NDItMWRjZi00OTUwLWFlYTAtNTdkZWVlNzJkMTAzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0087377/",
+    "rating": 7.0
+  },
+  {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
     "start": "2026-08-31T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -9376,6 +10834,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/2FB7955A1E04CADB3BD902BDEFE59AE3BBE4CDF349D530BA8F38A1F3E84CBF15_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0120616/",
     "rating": 7.1
+  },
+  {
+    "title": "BONNIE AND CLYDE in 35mm",
+    "start": "2026-08-31T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/bonnie-and-clyde-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/07/bonnie-and-clyde1.jpg?fit=540%2C325&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0061418/",
+    "rating": 7.7
+  },
+  {
+    "title": "Error 4444 Presents \u2013 THE CRAZY FAMILY",
+    "start": "2026-08-31T20:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/error-4444-presents-the-crazy-family/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjExNjU5NDItMWRjZi00OTUwLWFlYTAtNTdkZWVlNzJkMTAzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0087377/",
+    "rating": 7.0
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -9522,6 +10998,15 @@
     "rating": 6.5
   },
   {
+    "title": "SHOWDOWN IN LITTLE TOKYO",
+    "start": "2026-09-02T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/showdown-in-little-tokyo/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/IMG_2213.jpeg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0102915/",
+    "rating": 6.1
+  },
+  {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
     "start": "2026-09-03T12:45:00-07:00",
     "theater": "Academy Theater",
@@ -9601,5 +11086,59 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDZhYjM0ZTctMTBmMi00OTk0LTlhZDMtMGJhODQzOWY0NWE0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0067656/",
     "rating": 6.5
+  },
+  {
+    "title": "BABY DOE",
+    "start": "2026-09-04T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/baby-doe/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ2MDcwZDEtYzA3Zi00ZjY3LTljNzYtOGEzNDY1OWVjMjJmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt34923417/",
+    "rating": 7.1
+  },
+  {
+    "title": "The Salt Path",
+    "start": "2026-09-04T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-salt-path",
+    "poster": "https://indy-systems.imgix.net/zyjw8kyikzqtrsuqmr1niyyrs1yx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27766440/",
+    "rating": 6.6
+  },
+  {
+    "title": "Cross-Faded Cinema: The Wizard of Oz",
+    "start": "2026-09-04T19:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/cross-faded-cinema-the-wizard-of-oz/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/07/Ian-Permana_WizardOfOz.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "BUTTHOLE SURFERS: THE HOLE TRUTH AND NOTHING BUTT",
+    "start": "2026-09-04T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/butthole-surfers-the-hole-truth-and-nothing-butt/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/bh1.jpg?fit=540%2C367&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt16304140/",
+    "rating": 9.0
+  },
+  {
+    "title": "BABY DOE",
+    "start": "2026-09-04T20:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/baby-doe/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ2MDcwZDEtYzA3Zi00ZjY3LTljNzYtOGEzNDY1OWVjMjJmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt34923417/",
+    "rating": 7.1
+  },
+  {
+    "title": "The Salt Path",
+    "start": "2026-09-04T21:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-salt-path",
+    "poster": "https://indy-systems.imgix.net/zyjw8kyikzqtrsuqmr1niyyrs1yx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27766440/",
+    "rating": 6.6
   }
 ]

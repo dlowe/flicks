@@ -1,716 +1,5 @@
 [
   {
-    "title": "PHANTOM TOLLBOOTH",
-    "start": "2026-08-10T11:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3062C8542515972CE8B49BB69353AE3D46B453A9926882C2302F589919C8129E_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0064806/",
-    "rating": 6.8
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-08-10T11:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SPIDERMAN: BRAND NEW DAY",
-    "start": "2026-08-10T12:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-10T12:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "Cookie Queens",
-    "start": "2026-08-10T12:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/cookie-queens",
-    "poster": "https://indy-systems.imgix.net/4tmgieyzmh56jobwbv6awrubkbap?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt38503564/",
-    "rating": 5.9
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-10T12:25:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "Horsegirls",
-    "start": "2026-08-10T12:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
-    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt13652006/",
-    "rating": 7.8
-  },
-  {
-    "title": "CatVideoFest 2026",
-    "start": "2026-08-10T12:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
-    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt39676060/",
-    "rating": null
-  },
-  {
-    "title": "ONE NIGHT ONLY",
-    "start": "2026-08-10T12:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/BCAD59F1FBCD2AD1515F1F2B4E7FE51672971337D3C76A3A37C7EFB604D7D5DB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37853455/",
-    "rating": 6.4
-  },
-  {
-    "title": "One Night Only",
-    "start": "2026-08-10T12:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
-    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37853455/",
-    "rating": 6.4
-  },
-  {
-    "title": "PUMPKINHEAD (1988)",
-    "start": "2026-08-10T13:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F12A6558E76762B15EBEC55D31800F3B0A1DA6F5462F1ED3FC22E92056A85BA7_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0095925/",
-    "rating": 6.2
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-10T13:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-10T13:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SUPER TROOPERS 3",
-    "start": "2026-08-10T13:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-10T13:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "Reading Lolita in Tehran",
-    "start": "2026-08-10T14:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/reading-lolita-in-tehran",
-    "poster": "https://indy-systems.imgix.net/xhl3cwjlpxk92zt9wskq3kygesdg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27679443/",
-    "rating": 6.2
-  },
-  {
-    "title": "CatVideoFest 2026",
-    "start": "2026-08-10T14:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
-    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt39676060/",
-    "rating": null
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-10T14:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "One Night Only",
-    "start": "2026-08-10T14:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
-    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37853455/",
-    "rating": 6.4
-  },
-  {
-    "title": "SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-10T15:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-10T15:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-10T15:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-08-10T15:10:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-10T15:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-odyssey",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-08-10T15:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-10T15:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19104?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-10T15:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-10T15:25:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-08-10T15:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-10T15:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "ONE NIGHT ONLY",
-    "start": "2026-08-10T15:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/BCAD59F1FBCD2AD1515F1F2B4E7FE51672971337D3C76A3A37C7EFB604D7D5DB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37853455/",
-    "rating": 6.4
-  },
-  {
-    "title": "SPIDERMAN: BRAND NEW DAY",
-    "start": "2026-08-10T15:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "The Piano (1993)",
-    "start": "2026-08-10T15:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-piano-1993",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2de6273c-06f9-4a32-b00e-61bec7cdbf84.jpg",
-    "imdb": "https://www.imdb.com/title/tt0107822/",
-    "rating": 7.5
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-08-10T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-10T15:45:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19105?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001538&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "DONKEY SKIN (1970)",
-    "start": "2026-08-10T16:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDg5ZmFiNGMtNzc3NS00NzBlLWJhNTYtODRjMjNmZjhmZTIzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0066207/",
-    "rating": 7.0
-  },
-  {
-    "title": "I WANT YOUR SEX",
-    "start": "2026-08-10T16:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/691D759AD069A778DACD23D7F03781FBAD7D6917B6BD80CE55665DB28D8358DB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32332915/",
-    "rating": 6.4
-  },
-  {
-    "title": "Cookie Queens",
-    "start": "2026-08-10T16:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/cookie-queens",
-    "poster": "https://indy-systems.imgix.net/4tmgieyzmh56jobwbv6awrubkbap?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt38503564/",
-    "rating": 5.9
-  },
-  {
-    "title": "SUPER TROOPERS 3",
-    "start": "2026-08-10T16:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
-  },
-  {
-    "title": "Obsession",
-    "start": "2026-08-10T16:30:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/obsession",
-    "poster": "https://indy-systems.imgix.net/kd49gipiby3f7azuulkyk8rcoyfe?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-10T16:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "Horsegirls",
-    "start": "2026-08-10T16:35:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/horsegirls",
-    "poster": "https://indy-systems.imgix.net/mri35haiifkh29na3uxegq22n945?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt13652006/",
-    "rating": 7.8
-  },
-  {
-    "title": "One Night Only",
-    "start": "2026-08-10T17:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
-    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37853455/",
-    "rating": 6.4
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-10T17:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-10T17:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "I Want Your Sex",
-    "start": "2026-08-10T17:35:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/i-want-your-sex",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_48bee6ae-1e3e-46c8-aa1d-8cfe74fa8812.jpg",
-    "imdb": "https://www.imdb.com/title/tt32332915/",
-    "rating": 6.4
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-08-10T18:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-10T18:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-10T18:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "ONE NIGHT ONLY",
-    "start": "2026-08-10T18:25:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/BCAD59F1FBCD2AD1515F1F2B4E7FE51672971337D3C76A3A37C7EFB604D7D5DB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37853455/",
-    "rating": 6.4
-  },
-  {
-    "title": "Grateful Dead Meet-Up At The Movies 2026",
-    "start": "2026-08-10T18:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/grateful-dead-meet-up-at-the-movies-2026",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_8d98787e-5f7b-4114-aabf-df4ac222467c.jpg",
-    "imdb": "https://www.imdb.com/title/tt43679436/",
-    "rating": null
-  },
-  {
-    "title": "THE INVITE",
-    "start": "2026-08-10T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8D3F7F6019E6FC978CCF64567A368D8A6628B2B511D77D50B4AF8D0A6FC6113A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-10T18:30:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "THE ODYSSEY",
-    "start": "2026-08-10T18:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-10T18:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-odyssey",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_a168fc09-f16a-4a48-83ba-3f588f39fbdc.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-10T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "CatVideoFest 2026",
-    "start": "2026-08-10T18:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
-    "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt39676060/",
-    "rating": null
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-10T18:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "SPIDERMAN: BRAND NEW DAY",
-    "start": "2026-08-10T19:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": null,
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "Ice Cream Man",
-    "start": "2026-08-10T19:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/ice-cream-man",
-    "poster": "https://indy-systems.imgix.net/c6i4kdz9yi05ywqcf7dhlpiwwdgh?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36893729/",
-    "rating": 3.8
-  },
-  {
-    "title": "Cuba After Castro",
-    "start": "2026-08-10T19:00:00-07:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/cuba-after-castro/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/06/cuba-after-castro-poster.png",
-    "imdb": "https://www.imdb.com/title/tt41542884/",
-    "rating": 5.9
-  },
-  {
-    "title": "DAZED AND CONFUSED",
-    "start": "2026-08-10T19:00:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/dazed-and-confused",
-    "poster": "https://indy-systems.imgix.net/avaej829pitkyf2d1szzukwtjwvm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0106677/",
-    "rating": 7.6
-  },
-  {
-    "title": "I WANT YOUR SEX",
-    "start": "2026-08-10T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/691D759AD069A778DACD23D7F03781FBAD7D6917B6BD80CE55665DB28D8358DB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32332915/",
-    "rating": 6.4
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-10T19:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-10T19:00:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19106?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001529&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-10T19:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "NO COUNTRY FOR OLD MEN (2007)",
-    "start": "2026-08-10T19:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0477348/",
-    "rating": 8.2
-  },
-  {
-    "title": "One Night Only",
-    "start": "2026-08-10T19:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/one-night-only",
-    "poster": "https://indy-systems.imgix.net/d4cm1avb212rdnjv1lif6vhmeu6o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37853455/",
-    "rating": 6.4
-  },
-  {
-    "title": "SUPER TROOPERS 3",
-    "start": "2026-08-10T19:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-10T19:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-10T19:30:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19107?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001538&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-08-10T19:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-10T20:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "ONE NIGHT ONLY",
-    "start": "2026-08-10T21:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/BCAD59F1FBCD2AD1515F1F2B4E7FE51672971337D3C76A3A37C7EFB604D7D5DB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37853455/",
-    "rating": 6.4
-  },
-  {
-    "title": "Obsession",
-    "start": "2026-08-10T21:10:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/obsession",
-    "poster": "https://indy-systems.imgix.net/kd49gipiby3f7azuulkyk8rcoyfe?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37287335/",
-    "rating": 7.9
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-10T21:25:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-10T21:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
-    "title": "SUPER TROOPERS 3",
-    "start": "2026-08-10T22:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-10T22:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.1
-  },
-  {
     "title": "THE ODYSSEY",
     "start": "2026-08-11T11:45:00-07:00",
     "theater": "Academy Theater",
@@ -744,7 +33,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/cookie-queens",
     "poster": "https://indy-systems.imgix.net/4tmgieyzmh56jobwbv6awrubkbap?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38503564/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -780,7 +69,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
     "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39676060/",
-    "rating": null
+    "rating": 7.2
   },
   {
     "title": "ONE NIGHT ONLY",
@@ -834,7 +123,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -861,7 +150,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
     "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39676060/",
-    "rating": null
+    "rating": 7.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -1026,6 +315,15 @@
     "rating": 8.1
   },
   {
+    "title": "SUPER TROOPERS 3",
+    "start": "2026-08-11T15:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt8820258/",
+    "rating": 6.2
+  },
+  {
     "title": "NO COUNTRY FOR OLD MEN (2007)",
     "start": "2026-08-11T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -1044,22 +342,13 @@
     "rating": 6.4
   },
   {
-    "title": "SUPER TROOPERS 3",
-    "start": "2026-08-11T16:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
-  },
-  {
     "title": "Cookie Queens",
     "start": "2026-08-11T16:15:00-07:00",
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/cookie-queens",
     "poster": "https://indy-systems.imgix.net/4tmgieyzmh56jobwbv6awrubkbap?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38503564/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "The Furious",
@@ -1143,6 +432,15 @@
     "rating": 8.1
   },
   {
+    "title": "PRACTICAL MAGIC",
+    "start": "2026-08-11T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7C0C8A3B547855CEDB2E5719340E61D1699ED3591063BE930B8631E6A684F733_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0120791/",
+    "rating": 6.4
+  },
+  {
     "title": "The Odyssey",
     "start": "2026-08-11T18:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -1176,7 +474,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/cookie-queens",
     "poster": "https://indy-systems.imgix.net/4tmgieyzmh56jobwbv6awrubkbap?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38503564/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -1221,7 +519,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
     "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39676060/",
-    "rating": null
+    "rating": 7.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -1314,15 +612,6 @@
     "rating": 8.5
   },
   {
-    "title": "SUPER TROOPERS 3",
-    "start": "2026-08-11T19:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
-  },
-  {
     "title": "PUMPKINHEAD (1988)",
     "start": "2026-08-11T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -1375,6 +664,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
     "imdb": "https://www.imdb.com/title/tt14173636/",
     "rating": 7.9
+  },
+  {
+    "title": "SUPER TROOPERS 3",
+    "start": "2026-08-11T20:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt8820258/",
+    "rating": 6.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -1431,15 +729,6 @@
     "rating": 8.1
   },
   {
-    "title": "SUPER TROOPERS 3",
-    "start": "2026-08-11T22:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
-  },
-  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-11T22:15:00-07:00",
     "theater": "Studio One",
@@ -1447,6 +736,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.1
+  },
+  {
+    "title": "SUPER TROOPERS 3",
+    "start": "2026-08-11T22:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt8820258/",
+    "rating": 6.2
   },
   {
     "title": "PHANTOM TOLLBOOTH",
@@ -1491,7 +789,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/cookie-queens",
     "poster": "https://indy-systems.imgix.net/4tmgieyzmh56jobwbv6awrubkbap?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38503564/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -1518,7 +816,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
     "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39676060/",
-    "rating": null
+    "rating": 7.2
   },
   {
     "title": "ONE NIGHT ONLY",
@@ -1572,7 +870,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -1599,7 +897,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
     "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39676060/",
-    "rating": null
+    "rating": 7.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -1788,7 +1086,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/cookie-queens",
     "poster": "https://indy-systems.imgix.net/4tmgieyzmh56jobwbv6awrubkbap?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38503564/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "SUPER TROOPERS 3",
@@ -1797,7 +1095,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "Obsession",
@@ -1914,7 +1212,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/cookie-queens",
     "poster": "https://indy-systems.imgix.net/4tmgieyzmh56jobwbv6awrubkbap?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38503564/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -1959,7 +1257,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
     "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39676060/",
-    "rating": null
+    "rating": 7.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -2067,7 +1365,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "NO COUNTRY FOR OLD MEN (2007)",
@@ -2166,7 +1464,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -2211,7 +1509,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/cookie-queens",
     "poster": "https://indy-systems.imgix.net/4tmgieyzmh56jobwbv6awrubkbap?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38503564/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -2238,7 +1536,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
     "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39676060/",
-    "rating": null
+    "rating": 7.2
   },
   {
     "title": "One Night Only",
@@ -2283,7 +1581,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -2310,7 +1608,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
     "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39676060/",
-    "rating": null
+    "rating": 7.2
   },
   {
     "title": "ONE NIGHT ONLY",
@@ -2481,7 +1779,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "Cookie Queens",
@@ -2490,7 +1788,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/cookie-queens",
     "poster": "https://indy-systems.imgix.net/4tmgieyzmh56jobwbv6awrubkbap?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt38503564/",
-    "rating": 5.9
+    "rating": 6.0
   },
   {
     "title": "Am\u00e9lie",
@@ -2661,7 +1959,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/catvideofest-2026",
     "poster": "https://indy-systems.imgix.net/t8cubwcnj9ubx8gbmi16rhz16equ?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39676060/",
-    "rating": null
+    "rating": 7.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -2733,7 +2031,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -2850,7 +2148,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -2931,7 +2229,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "ODYSSEY",
@@ -2961,6 +2259,15 @@
     "rating": 6.4
   },
   {
+    "title": "SAMURAI AND PRISONER",
+    "start": "2026-08-14T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": null,
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-14T15:05:00-07:00",
     "theater": "Studio One",
@@ -2968,6 +2275,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.1
+  },
+  {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-14T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "ODYSSEY",
@@ -2979,11 +2295,38 @@
     "rating": 8.5
   },
   {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-14T15:25:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-14T15:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "start": "2026-08-14T15:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-samurai-and-the-prisoner",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0692e2a0-3daf-48f5-933f-cdddeadc9a39.jpg",
+    "imdb": "https://www.imdb.com/title/tt39602215/",
+    "rating": 6.9
+  },
+  {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-14T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.1
   },
@@ -3006,6 +2349,24 @@
     "rating": 7.7
   },
   {
+    "title": "The Invite",
+    "start": "2026-08-14T16:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-14T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
+  },
+  {
     "title": "The Piano",
     "start": "2026-08-14T16:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -3021,7 +2382,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "I SAW THE TV GLOW",
@@ -3078,11 +2439,29 @@
     "rating": 6.4
   },
   {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-14T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-14T18:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-14T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.1
   },
@@ -3094,6 +2473,15 @@
     "poster": "https://indy-systems.imgix.net/hzy758hfhq63508nlelnni4fs7rz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39602215/",
     "rating": 6.9
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-14T18:30:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "END OF OAK STREET",
@@ -3112,6 +2500,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/691D759AD069A778DACD23D7F03781FBAD7D6917B6BD80CE55665DB28D8358DB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32332915/",
     "rating": 6.4
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-14T18:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
+    "title": "THE WRONG GIRLS",
+    "start": "2026-08-14T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6168CD5F740326A358DA06F70369FA22D7A38E868F5661D2809ADF784EF7EF8F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35060353/",
+    "rating": null
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -3159,6 +2565,15 @@
     "rating": null
   },
   {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-14T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
+  },
+  {
     "title": "The End of Oak Street",
     "start": "2026-08-14T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -3168,22 +2583,22 @@
     "rating": null
   },
   {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "start": "2026-08-14T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/mary-oliver-saved-by-the-beauty-of-the-world-encore-screening/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/24103725/aAZ7Ih2tU65y55CfE0nIFSaow4n-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt39643966/",
-    "rating": 7.7
-  },
-  {
     "title": "SUPER TROOPERS 3",
     "start": "2026-08-14T19:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "start": "2026-08-14T19:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-samurai-and-the-prisoner",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0692e2a0-3daf-48f5-933f-cdddeadc9a39.jpg",
+    "imdb": "https://www.imdb.com/title/tt39602215/",
+    "rating": 6.9
   },
   {
     "title": "ODYSSEY",
@@ -3231,6 +2646,15 @@
     "rating": 6.4
   },
   {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-14T21:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "Sleepaway Camp",
     "start": "2026-08-14T21:10:00-07:00",
     "theater": "Cinemagic",
@@ -3247,6 +2671,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/69F40D2E5FC2845FE68FC9B371E58797066E650D1B37700AD0974460B228EE00_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15574270/",
     "rating": 5.8
+  },
+  {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-14T21:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "END OF OAK STREET",
@@ -3267,6 +2700,15 @@
     "rating": 6.9
   },
   {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-14T21:25:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-14T21:30:00-07:00",
     "theater": "Academy Theater",
@@ -3274,6 +2716,24 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.1
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-14T21:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-14T21:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
   },
   {
     "title": "ODYSSEY",
@@ -3303,6 +2763,15 @@
     "rating": 7.1
   },
   {
+    "title": "THE WRONG GIRLS",
+    "start": "2026-08-14T21:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6168CD5F740326A358DA06F70369FA22D7A38E868F5661D2809ADF784EF7EF8F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35060353/",
+    "rating": null
+  },
+  {
     "title": "The Wrong Girls",
     "start": "2026-08-14T21:50:00-07:00",
     "theater": "Living Room Theaters",
@@ -3318,7 +2787,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -3372,7 +2841,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "Hail The Conquering Hero (1944)",
@@ -3389,6 +2858,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-15T11:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
   },
@@ -3411,6 +2889,15 @@
     "rating": null
   },
   {
+    "title": "SAMURAI AND PRISONER",
+    "start": "2026-08-15T12:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": null,
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-15T12:00:00-07:00",
     "theater": "Studio One",
@@ -3429,6 +2916,24 @@
     "rating": 8.1
   },
   {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-15T12:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-15T12:20:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "I SAW THE TV GLOW",
     "start": "2026-08-15T12:30:00-07:00",
     "theater": "Academy Theater",
@@ -3436,6 +2941,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/69F40D2E5FC2845FE68FC9B371E58797066E650D1B37700AD0974460B228EE00_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15574270/",
     "rating": 5.8
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-15T12:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-15T12:40:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
   },
   {
     "title": "ODYSSEY",
@@ -3456,6 +2979,15 @@
     "rating": 7.7
   },
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-15T13:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
+  },
+  {
     "title": "END OF OAK STREET",
     "start": "2026-08-15T13:00:00-07:00",
     "theater": "Studio One",
@@ -3465,31 +2997,13 @@
     "rating": null
   },
   {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-15T13:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.1
-  },
-  {
     "title": "SUPER TROOPERS 3",
     "start": "2026-08-15T13:15:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-08-15T13:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
+    "rating": 6.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -3507,7 +3021,7 @@
     "url": "https://www.cinema21.com/movie/catvideofest-2026",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_08e59ca5-4a9a-452f-ba57-b75fecb9d83f.jpg",
     "imdb": "https://www.imdb.com/title/tt39676060/",
-    "rating": null
+    "rating": 7.2
   },
   {
     "title": "The Dark Crystal (1982)",
@@ -3537,6 +3051,24 @@
     "rating": 6.4
   },
   {
+    "title": "SAMURAI AND PRISONER",
+    "start": "2026-08-15T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": null,
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-15T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-08-15T15:20:00-07:00",
     "theater": "Studio One",
@@ -3544,6 +3076,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-15T15:25:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -3560,6 +3101,24 @@
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "start": "2026-08-15T15:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-samurai-and-the-prisoner",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0692e2a0-3daf-48f5-933f-cdddeadc9a39.jpg",
+    "imdb": "https://www.imdb.com/title/tt39602215/",
+    "rating": 6.9
+  },
+  {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-15T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.1
   },
@@ -3582,6 +3141,24 @@
     "rating": 6.5
   },
   {
+    "title": "The Invite",
+    "start": "2026-08-15T16:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-15T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
+  },
+  {
     "title": "The Piano",
     "start": "2026-08-15T16:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -3597,7 +3174,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "I WANT YOUR SEX",
@@ -3672,11 +3249,29 @@
     "rating": 6.4
   },
   {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-15T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-15T18:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-15T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.1
   },
@@ -3688,6 +3283,15 @@
     "poster": "https://indy-systems.imgix.net/hzy758hfhq63508nlelnni4fs7rz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39602215/",
     "rating": 6.9
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-15T18:30:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "END OF OAK STREET",
@@ -3706,6 +3310,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/69F40D2E5FC2845FE68FC9B371E58797066E650D1B37700AD0974460B228EE00_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15574270/",
     "rating": 5.8
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-15T18:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
+    "title": "THE WRONG GIRLS",
+    "start": "2026-08-15T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6168CD5F740326A358DA06F70369FA22D7A38E868F5661D2809ADF784EF7EF8F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35060353/",
+    "rating": null
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -3744,6 +3366,15 @@
     "rating": 7.7
   },
   {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-15T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
+  },
+  {
     "title": "The End of Oak Street",
     "start": "2026-08-15T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -3753,22 +3384,22 @@
     "rating": null
   },
   {
-    "title": "Heathers",
-    "start": "2026-08-15T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/heathers-2/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/22145759/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
-    "imdb": "https://www.imdb.com/title/tt0097493/",
-    "rating": 7.1
-  },
-  {
     "title": "SUPER TROOPERS 3",
     "start": "2026-08-15T19:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "start": "2026-08-15T19:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-samurai-and-the-prisoner",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0692e2a0-3daf-48f5-933f-cdddeadc9a39.jpg",
+    "imdb": "https://www.imdb.com/title/tt39602215/",
+    "rating": 6.9
   },
   {
     "title": "ODYSSEY",
@@ -3816,6 +3447,15 @@
     "rating": 6.4
   },
   {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-15T21:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "Friday the 13th Part 2",
     "start": "2026-08-15T21:10:00-07:00",
     "theater": "Cinemagic",
@@ -3832,6 +3472,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/691D759AD069A778DACD23D7F03781FBAD7D6917B6BD80CE55665DB28D8358DB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32332915/",
     "rating": 6.4
+  },
+  {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-15T21:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "Fade to Black - St. Johns Horror Night!",
@@ -3870,6 +3519,24 @@
     "rating": 5.7
   },
   {
+    "title": "The Invite",
+    "start": "2026-08-15T21:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-15T21:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-08-15T21:30:00-07:00",
     "theater": "Studio One",
@@ -3877,6 +3544,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-15T21:35:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "SPIDERMAN: BRAND NEW DAY",
@@ -3897,6 +3573,15 @@
     "rating": 7.1
   },
   {
+    "title": "THE WRONG GIRLS",
+    "start": "2026-08-15T21:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6168CD5F740326A358DA06F70369FA22D7A38E868F5661D2809ADF784EF7EF8F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35060353/",
+    "rating": null
+  },
+  {
     "title": "The Wrong Girls",
     "start": "2026-08-15T21:50:00-07:00",
     "theater": "Living Room Theaters",
@@ -3912,7 +3597,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -3975,7 +3660,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "ODYSSEY",
@@ -3983,6 +3668,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-16T11:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
   },
@@ -4005,6 +3699,15 @@
     "rating": null
   },
   {
+    "title": "SAMURAI AND PRISONER",
+    "start": "2026-08-16T12:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": null,
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-16T12:00:00-07:00",
     "theater": "Studio One",
@@ -4023,6 +3726,24 @@
     "rating": 8.1
   },
   {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-16T12:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-16T12:20:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "I WANT YOUR SEX",
     "start": "2026-08-16T12:30:00-07:00",
     "theater": "Academy Theater",
@@ -4030,6 +3751,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/691D759AD069A778DACD23D7F03781FBAD7D6917B6BD80CE55665DB28D8358DB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32332915/",
     "rating": 6.4
+  },
+  {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-16T12:40:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
   },
   {
     "title": "ODYSSEY",
@@ -4074,7 +3804,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -4101,7 +3831,7 @@
     "url": "https://www.cinema21.com/movie/catvideofest-2026",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_08e59ca5-4a9a-452f-ba57-b75fecb9d83f.jpg",
     "imdb": "https://www.imdb.com/title/tt39676060/",
-    "rating": null
+    "rating": 7.2
   },
   {
     "title": "Labyrinth (1986)",
@@ -4131,6 +3861,24 @@
     "rating": 6.4
   },
   {
+    "title": "SAMURAI AND PRISONER",
+    "start": "2026-08-16T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": null,
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-16T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-08-16T15:20:00-07:00",
     "theater": "Studio One",
@@ -4138,6 +3886,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "start": "2026-08-16T15:25:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-samurai-and-the-prisoner",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0692e2a0-3daf-48f5-933f-cdddeadc9a39.jpg",
+    "imdb": "https://www.imdb.com/title/tt39602215/",
+    "rating": 6.9
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-16T15:25:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -4154,6 +3920,15 @@
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-16T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.1
   },
@@ -4185,6 +3960,15 @@
     "rating": 7.7
   },
   {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-16T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
+  },
+  {
     "title": "The Piano",
     "start": "2026-08-16T16:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -4194,22 +3978,13 @@
     "rating": 7.5
   },
   {
-    "title": "Desert Hearts",
-    "start": "2026-08-16T16:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/desert-hearts/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/01110316/klAHoWOZgL8sR74Tnl7K7z4Lziq-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt0089015/",
-    "rating": 7.1
-  },
-  {
     "title": "SUPER TROOPERS 3",
     "start": "2026-08-16T16:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "I SAW THE TV GLOW",
@@ -4221,15 +3996,6 @@
     "rating": 5.8
   },
   {
-    "title": "The Invite",
-    "start": "2026-08-16T16:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
-  },
-  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "start": "2026-08-16T16:15:00-07:00",
     "theater": "Cinema 21",
@@ -4237,6 +4003,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
     "imdb": "https://www.imdb.com/title/tt35298123/",
     "rating": 7.1
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-16T16:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
   },
   {
     "title": "Moonrise Kingdom",
@@ -4284,6 +4059,15 @@
     "rating": 6.4
   },
   {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-16T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-16T18:30:00-07:00",
     "theater": "Academy Theater",
@@ -4302,6 +4086,15 @@
     "rating": null
   },
   {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-16T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "The Samurai and the Prisoner",
     "start": "2026-08-16T18:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -4309,6 +4102,15 @@
     "poster": "https://indy-systems.imgix.net/hzy758hfhq63508nlelnni4fs7rz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39602215/",
     "rating": 6.9
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-16T18:30:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "END OF OAK STREET",
@@ -4329,13 +4131,22 @@
     "rating": 6.4
   },
   {
-    "title": "The Invite",
+    "title": "The Samurai and the Prisoner",
     "start": "2026-08-16T18:45:00-07:00",
     "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.9
+    "url": "https://www.cinema21.com/movie/the-samurai-and-the-prisoner",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0692e2a0-3daf-48f5-933f-cdddeadc9a39.jpg",
+    "imdb": "https://www.imdb.com/title/tt39602215/",
+    "rating": 6.9
+  },
+  {
+    "title": "THE WRONG GIRLS",
+    "start": "2026-08-16T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6168CD5F740326A358DA06F70369FA22D7A38E868F5661D2809ADF784EF7EF8F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35060353/",
+    "rating": null
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -4374,6 +4185,15 @@
     "rating": 6.2
   },
   {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-16T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
+  },
+  {
     "title": "The End of Oak Street",
     "start": "2026-08-16T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -4398,7 +4218,16 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-16T19:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
   },
   {
     "title": "ODYSSEY",
@@ -4488,7 +4317,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/4669A40132EC10CA4D01B7E6128E626BD89FA1469CE6850A187E0861AC1356DC_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt8820258/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -4536,6 +4365,51 @@
     "rating": 6.5
   },
   {
+    "title": "SAMURAI AND PRISONER",
+    "start": "2026-08-17T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": null,
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-17T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "start": "2026-08-17T15:25:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-samurai-and-the-prisoner",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0692e2a0-3daf-48f5-933f-cdddeadc9a39.jpg",
+    "imdb": "https://www.imdb.com/title/tt39602215/",
+    "rating": 6.9
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-17T15:25:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-17T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-17T15:45:00-07:00",
     "theater": "Academy Theater",
@@ -4561,6 +4435,24 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjQxZDlmNjUtM2RjMS00MWYwLWJhNjYtNGJhNzg2YWVmMzQwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0236348/",
     "rating": 5.7
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-17T16:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-17T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
   },
   {
     "title": "I WANT YOUR SEX",
@@ -4608,12 +4500,57 @@
     "rating": 8.1
   },
   {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-17T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-17T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-17T18:30:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "END OF OAK STREET",
     "start": "2026-08-17T18:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/919B6E11886C51D1F08099AC4B6A3D89DFCF036CF480E106D62310FC6A7A78F1_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "start": "2026-08-17T18:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-samurai-and-the-prisoner",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0692e2a0-3daf-48f5-933f-cdddeadc9a39.jpg",
+    "imdb": "https://www.imdb.com/title/tt39602215/",
+    "rating": 6.9
+  },
+  {
+    "title": "THE WRONG GIRLS",
+    "start": "2026-08-17T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6168CD5F740326A358DA06F70369FA22D7A38E868F5661D2809ADF784EF7EF8F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35060353/",
     "rating": null
   },
   {
@@ -4626,6 +4563,15 @@
     "rating": 8.1
   },
   {
+    "title": "The Invite",
+    "start": "2026-08-17T19:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
     "title": "Moonrise Kingdom",
     "start": "2026-08-17T19:00:00-07:00",
     "theater": "Cinemagic",
@@ -4633,6 +4579,15 @@
     "poster": "https://indy-systems.imgix.net/dl02y7wsiggcjins6hy5jq0on2co?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt1748122/",
     "rating": 7.7
+  },
+  {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-17T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -4698,6 +4653,15 @@
     "rating": 8.1
   },
   {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-18T12:20:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "I WANT YOUR SEX",
     "start": "2026-08-18T12:30:00-07:00",
     "theater": "Academy Theater",
@@ -4716,6 +4680,51 @@
     "rating": 7.7
   },
   {
+    "title": "SAMURAI AND PRISONER",
+    "start": "2026-08-18T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": null,
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-18T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "start": "2026-08-18T15:25:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-samurai-and-the-prisoner",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0692e2a0-3daf-48f5-933f-cdddeadc9a39.jpg",
+    "imdb": "https://www.imdb.com/title/tt39602215/",
+    "rating": 6.9
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-18T15:25:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-18T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-18T15:45:00-07:00",
     "theater": "Academy Theater",
@@ -4732,6 +4741,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/CD45F9D81DDF4B2C0F7235712872812D03DAE3E846A6134404E151784ACB00D2_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0080569/",
     "rating": 6.5
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-18T16:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-18T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
   },
   {
     "title": "I SAW THE TV GLOW",
@@ -4770,6 +4797,51 @@
     "rating": 7.7
   },
   {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-18T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-18T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-18T18:30:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "start": "2026-08-18T18:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-samurai-and-the-prisoner",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0692e2a0-3daf-48f5-933f-cdddeadc9a39.jpg",
+    "imdb": "https://www.imdb.com/title/tt39602215/",
+    "rating": 6.9
+  },
+  {
+    "title": "THE WRONG GIRLS",
+    "start": "2026-08-18T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6168CD5F740326A358DA06F70369FA22D7A38E868F5661D2809ADF784EF7EF8F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35060353/",
+    "rating": null
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-18T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -4779,6 +4851,15 @@
     "rating": 8.1
   },
   {
+    "title": "The Invite",
+    "start": "2026-08-18T19:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
     "title": "Friday the 13th Part 2",
     "start": "2026-08-18T19:00:00-07:00",
     "theater": "Cinemagic",
@@ -4786,6 +4867,15 @@
     "poster": "https://indy-systems.imgix.net/z854uzmijk0bdwu8jh2aqc07lfol?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0082418/",
     "rating": 6.1
+  },
+  {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-18T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -4878,6 +4968,42 @@
     "rating": 5.7
   },
   {
+    "title": "SAMURAI AND PRISONER",
+    "start": "2026-08-19T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": null,
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "start": "2026-08-19T15:25:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-samurai-and-the-prisoner",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0692e2a0-3daf-48f5-933f-cdddeadc9a39.jpg",
+    "imdb": "https://www.imdb.com/title/tt39602215/",
+    "rating": 6.9
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-19T15:25:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "SPIDER-MAN: BRAND NEW DAY (OPEN CAPTION)",
+    "start": "2026-08-19T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-19T15:45:00-07:00",
     "theater": "Academy Theater",
@@ -4894,6 +5020,24 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMDU4ZTNiYTMtNDFkYS00ZmJhLWFmOWItYTExMTllMmNiMTRlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0071615/",
     "rating": 7.7
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-19T16:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
+    "title": "THE END OF OAK STREET (OPEN CAPTION)",
+    "start": "2026-08-19T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
   },
   {
     "title": "I WANT YOUR SEX",
@@ -4914,6 +5058,51 @@
     "rating": 7.1
   },
   {
+    "title": "THE ODYSSEY (OPEN CAPTION)",
+    "start": "2026-08-19T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDY2NTkxMWQtMmNkMC00NmNjLWIzMmItNmEyMmRmMDk2YmY2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "SPIDER-MAN: BRAND NEW DAY (OPEN CAPTION)",
+    "start": "2026-08-19T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-08-19T18:30:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "start": "2026-08-19T18:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-samurai-and-the-prisoner",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0692e2a0-3daf-48f5-933f-cdddeadc9a39.jpg",
+    "imdb": "https://www.imdb.com/title/tt39602215/",
+    "rating": 6.9
+  },
+  {
+    "title": "THE WRONG GIRLS (OPEN CAPTION)",
+    "start": "2026-08-19T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc5ZTZiMmQtMDRjYi00NDAzLWEyMTQtYWIxNTFkMmE5ZWZkXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt35060353/",
+    "rating": null
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-19T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -4921,6 +5110,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.1
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-19T19:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
   },
   {
     "title": "Tiger Cage II",
@@ -4938,6 +5136,15 @@
     "url": "https://cstpdx.com/event/occupation-in-26-pictures-1976-church-of-film/",
     "poster": "https://cstpdx.com/wp-content/uploads/2026/07/Occupation-in-26-Poster-scaled.jpg",
     "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "THE END OF OAK STREET (OPEN CAPTION)",
+    "start": "2026-08-19T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
     "rating": null
   },
   {
@@ -5013,6 +5220,24 @@
     "rating": 6.5
   },
   {
+    "title": "SAMURAI AND PRISONER",
+    "start": "2026-08-20T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": null,
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-20T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "SPIDERMAN: BRAND NEW DAY",
     "start": "2026-08-20T15:30:00-07:00",
     "theater": "Academy Theater",
@@ -5022,6 +5247,24 @@
     "rating": 8.1
   },
   {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-20T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "start": "2026-08-20T15:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-samurai-and-the-prisoner",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0692e2a0-3daf-48f5-933f-cdddeadc9a39.jpg",
+    "imdb": "https://www.imdb.com/title/tt39602215/",
+    "rating": 6.9
+  },
+  {
     "title": "JOSIE AND THE PUSSYCATS (2001)",
     "start": "2026-08-20T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -5029,6 +5272,24 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjQxZDlmNjUtM2RjMS00MWYwLWJhNjYtNGJhNzg2YWVmMzQwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0236348/",
     "rating": 5.7
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-20T16:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
+  },
+  {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-20T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
   },
   {
     "title": "I SAW THE TV GLOW",
@@ -5045,6 +5306,15 @@
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
+  },
+  {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-20T16:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19148?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt35298123/",
     "rating": 7.1
   },
@@ -5067,6 +5337,24 @@
     "rating": 7.8
   },
   {
+    "title": "THE ODYSSEY",
+    "start": "2026-08-20T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/35FA8CA98301278D36B1DF10AD5E3323C8228B158709D0589F55F72FB3B845AB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-20T18:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "PETER ASHER EVERYWHERE MAN",
     "start": "2026-08-20T18:30:00-07:00",
     "theater": "Kiggins Theatre",
@@ -5076,6 +5364,15 @@
     "rating": 8.6
   },
   {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "start": "2026-08-20T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E24B2946D443140C13E71138C63B9C4684C4B5C0C370394FD525C72A35C75112_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
     "start": "2026-08-20T18:45:00-07:00",
     "theater": "Academy Theater",
@@ -5083,6 +5380,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt35298123/",
     "rating": 7.1
+  },
+  {
+    "title": "The Invite",
+    "start": "2026-08-20T18:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-invite",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
+    "imdb": "https://www.imdb.com/title/tt14173636/",
+    "rating": 7.9
   },
   {
     "title": "THE HOLY MOUNTAIN (1973)",
@@ -5112,6 +5418,15 @@
     "rating": 6.5
   },
   {
+    "title": "THE END OF OAK STREET",
+    "start": "2026-08-20T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FD4B849AB1356A7DBE87BE8837B103F779D797A9A0CC65305BA0E906BF19CBB9_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27165187/",
+    "rating": null
+  },
+  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "start": "2026-08-20T19:15:00-07:00",
     "theater": "Cinema 21",
@@ -5121,11 +5436,29 @@
     "rating": 7.1
   },
   {
+    "title": "TONY",
+    "start": "2026-08-20T19:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.7
+  },
+  {
     "title": "Teenage Sex And Death At Camp Miasma",
     "start": "2026-08-20T19:15:00-07:00",
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/teenage-sex-and-death-at-camp-miasma",
     "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
+  },
+  {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-20T19:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19149?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt35298123/",
     "rating": 7.1
   },
@@ -5148,6 +5481,15 @@
     "rating": 7.1
   },
   {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-20T21:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "CRUISING (1980)",
     "start": "2026-08-20T21:45:00-07:00",
     "theater": "Academy Theater",
@@ -5155,6 +5497,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/CD45F9D81DDF4B2C0F7235712872812D03DAE3E846A6134404E151784ACB00D2_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0080569/",
     "rating": 6.5
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-21T12:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -5193,6 +5544,15 @@
     "rating": 7.7
   },
   {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-21T15:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
     "start": "2026-08-21T15:45:00-07:00",
     "theater": "Academy Theater",
@@ -5229,6 +5589,15 @@
     "rating": 7.7
   },
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-21T16:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19151?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
+  },
+  {
     "title": "TONY",
     "start": "2026-08-21T17:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -5254,6 +5623,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/05/poca-pon-poster.jpg",
     "imdb": "https://www.imdb.com/title/tt38589495/",
     "rating": null
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-21T18:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -5319,13 +5697,13 @@
     "rating": null
   },
   {
-    "title": "Saved! Movie Bingo w/ Violet Hex",
-    "start": "2026-08-21T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/saved-movie-bingo-w-violet-hex/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/12120507/nmf2tFTcRJZVEQ9e3mgLH5gAQYs.jpg",
-    "imdb": "https://www.imdb.com/title/tt0332375/",
-    "rating": 6.7
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-21T19:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19154?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
   },
   {
     "title": "TONY",
@@ -5362,6 +5740,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt35298123/",
     "rating": 7.1
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-21T21:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "Tony",
@@ -5436,6 +5823,15 @@
     "rating": 7.7
   },
   {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-22T12:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
     "start": "2026-08-22T12:45:00-07:00",
     "theater": "Academy Theater",
@@ -5470,6 +5866,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": 7.7
+  },
+  {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-22T13:45:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19171?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
   },
   {
     "title": "Kintsukuroi",
@@ -5508,6 +5913,15 @@
     "rating": 7.7
   },
   {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-22T15:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
     "start": "2026-08-22T15:45:00-07:00",
     "theater": "Academy Theater",
@@ -5544,6 +5958,15 @@
     "rating": 7.7
   },
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-22T16:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19155?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
+  },
+  {
     "title": "TONY",
     "start": "2026-08-22T17:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -5560,6 +5983,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": 7.7
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-22T18:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -5625,6 +6057,15 @@
     "rating": null
   },
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-22T19:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19158?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
+  },
+  {
     "title": "LITTLE SHOP OF HORRORS with live shadow cast",
     "start": "2026-08-22T20:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -5650,6 +6091,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt35298123/",
     "rating": 7.1
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-22T21:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "Tony",
@@ -5715,6 +6165,15 @@
     "rating": 7.7
   },
   {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-23T12:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
     "start": "2026-08-23T12:45:00-07:00",
     "theater": "Academy Theater",
@@ -5758,6 +6217,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": 7.7
+  },
+  {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-23T13:45:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19173?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
   },
   {
     "title": "Fantastic Planet (1973)",
@@ -5805,6 +6273,15 @@
     "rating": 8.5
   },
   {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-23T15:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
     "start": "2026-08-23T15:45:00-07:00",
     "theater": "Academy Theater",
@@ -5841,6 +6318,15 @@
     "rating": 7.7
   },
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-23T16:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19159?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
+  },
+  {
     "title": "TONY",
     "start": "2026-08-23T17:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -5866,6 +6352,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": 7.7
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-23T18:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -5931,6 +6426,15 @@
     "rating": 7.7
   },
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-23T19:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19162?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
+  },
+  {
     "title": "TONY",
     "start": "2026-08-23T20:05:00-07:00",
     "theater": "Studio One",
@@ -5947,6 +6451,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt35298123/",
     "rating": 7.1
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-23T21:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "THE TRIAL (1962)",
@@ -5974,6 +6487,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/B6F164D54858840D4F51004D5290E624B2BAAA19DCB3B5A7BA4646AC7EEB12E7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0110364/",
     "rating": 6.5
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-24T12:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -6012,6 +6534,15 @@
     "rating": 7.7
   },
   {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-24T15:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "MYSTERY TRAIN (1989)",
     "start": "2026-08-24T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -6048,6 +6579,15 @@
     "rating": 7.7
   },
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-24T16:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19163?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
+  },
+  {
     "title": "TONY",
     "start": "2026-08-24T17:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -6082,6 +6622,15 @@
     "poster": "https://omsi.edu/wp-content/uploads/2026/05/RunningWild.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-24T19:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "Tony",
@@ -6129,6 +6678,15 @@
     "rating": 7.7
   },
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-24T19:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19166?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
+  },
+  {
     "title": "TONY",
     "start": "2026-08-24T20:05:00-07:00",
     "theater": "Studio One",
@@ -6154,6 +6712,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
     "rating": null
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-25T12:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -6192,6 +6759,15 @@
     "rating": 7.7
   },
   {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-25T15:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "PIRANHA (1978)",
     "start": "2026-08-25T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -6228,6 +6804,15 @@
     "rating": 7.7
   },
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-25T16:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19167?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
+  },
+  {
     "title": "TONY",
     "start": "2026-08-25T17:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -6262,6 +6847,15 @@
     "poster": "https://omsi.edu/wp-content/uploads/2026/07/USGTW_PWP_0589-1.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-25T19:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "Tony",
@@ -6318,6 +6912,15 @@
     "rating": 7.7
   },
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-25T19:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19170?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
+  },
+  {
     "title": "TONY",
     "start": "2026-08-25T20:05:00-07:00",
     "theater": "Studio One",
@@ -6354,6 +6957,15 @@
     "rating": 6.5
   },
   {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-26T12:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
+  },
+  {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
     "start": "2026-08-26T12:45:00-07:00",
     "theater": "Academy Theater",
@@ -6388,6 +7000,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": 7.7
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-26T15:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "MYSTERY TRAIN (1989)",
@@ -6435,6 +7056,15 @@
     "rating": 7.7
   },
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-26T16:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19179?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
+  },
+  {
     "title": "TONY",
     "start": "2026-08-26T17:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -6451,6 +7081,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": 7.7
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-26T19:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "Tony",
@@ -6516,6 +7155,15 @@
     "rating": 7.7
   },
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "start": "2026-08-26T19:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19176?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.1
+  },
+  {
     "title": "TONY",
     "start": "2026-08-26T20:05:00-07:00",
     "theater": "Studio One",
@@ -6532,6 +7180,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
     "rating": null
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-27T12:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -6568,6 +7225,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": 7.7
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-27T15:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -6631,6 +7297,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/05/Tokyo-Drifter-scaled.jpg",
     "imdb": "https://www.imdb.com/title/tt0061101/",
     "rating": 7.1
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-27T18:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -6721,6 +7396,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt35298123/",
     "rating": 7.1
+  },
+  {
+    "title": "SPIDERMAN: BRAND NEW DAY",
+    "start": "2026-08-27T21:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": null,
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.1
   },
   {
     "title": "PIRANHA (1978)",
@@ -7569,15 +8253,6 @@
     "rating": 6.6
   },
   {
-    "title": "I Love Boosters",
-    "start": "2026-09-06T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/i-love-boosters/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/18120642/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
-    "imdb": "https://www.imdb.com/title/tt30827810/",
-    "rating": 6.6
-  },
-  {
     "title": "The Great Dictator",
     "start": "2026-09-08T19:00:00-07:00",
     "theater": "Cinemagic",
@@ -7594,5 +8269,23 @@
     "poster": "https://indy-systems.imgix.net/tmqr8yqsn67kvd3zv1fmv3kon8z7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Shrek 2",
+    "start": "2026-09-10T19:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/shrek-2/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/04/shrek-2-poster.jpeg",
+    "imdb": "https://www.imdb.com/title/tt0298148/",
+    "rating": 7.4
+  },
+  {
+    "title": "By Hook or by Crook x Lesbian Cinema Club",
+    "start": "2026-09-10T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/by-hook-or-by-crook-x-lesbian-cinema-club/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/07114459/vnXJwknZCuuQ4ebX8Mr60FgN8Jd.jpg",
+    "imdb": "https://www.imdb.com/title/tt0290498/",
+    "rating": 5.9
   }
 ]

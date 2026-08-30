@@ -1,1104 +1,6 @@
 [
   {
     "title": "TONY",
-    "start": "2026-08-29T09:25:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-29T09:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "HARRY POTTER CHAMBER OF S",
-    "start": "2026-08-29T10:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6D27DF1BA748FD62FA680A944BCD1848482080664A3ED6FD64A456662C3EF73F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0295297/",
-    "rating": 7.5
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-08-29T10:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
-  },
-  {
-    "title": "Some Like It Hot (1959)",
-    "start": "2026-08-29T11:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/some-like-it-hot-1959",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_25978464-56a3-4dc2-b9ca-ffad0e1c9075.jpg",
-    "imdb": "https://www.imdb.com/title/tt0053291/",
-    "rating": 8.2
-  },
-  {
-    "title": "ChaO",
-    "start": "2026-08-29T11:00:00-07:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/chao/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/05/Chao-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt36592916/",
-    "rating": 6.8
-  },
-  {
-    "title": "DOG STARS",
-    "start": "2026-08-29T11:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
-  },
-  {
-    "title": "The Marching Band",
-    "start": "2026-08-29T11:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
-    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30327451/",
-    "rating": 7.4
-  },
-  {
-    "title": "The Wrong Girls",
-    "start": "2026-08-29T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
-    "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-29T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "DOG STARS",
-    "start": "2026-08-29T12:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-29T12:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "THE DOG STARS",
-    "start": "2026-08-29T12:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
-  },
-  {
-    "title": "The End of Oak Street",
-    "start": "2026-08-29T12:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-end-of-oak-street",
-    "poster": "https://indy-systems.imgix.net/y774l62xaldr76lpaaxtt3vajaw2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27165187/",
-    "rating": 6.6
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-29T12:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "COYOTE VS. ACME",
-    "start": "2026-08-29T12:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-29T12:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-29T12:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-29T12:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-08-29T12:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.5
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-29T12:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "JASON AND THE ARGONAUTS (1963)",
-    "start": "2026-08-29T13:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2YzZmFhNDgtOTE0MS00NTA1LTgzZDYtMGZiZWJiNTQxMGM3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0057197/",
-    "rating": 7.3
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-29T13:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-29T13:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Tony",
-    "start": "2026-08-29T13:00:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19210?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001588&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-29T13:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-08-29T13:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-29T13:45:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19211?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Tony",
-    "start": "2026-08-29T14:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/tony",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "Iria: Zeiram the Animation",
-    "start": "2026-08-29T14:00:00-07:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/iria-zeiram-the-animation/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/05/Iria-Zeiram-the-Animation.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "The Marching Band",
-    "start": "2026-08-29T14:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
-    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30327451/",
-    "rating": 7.4
-  },
-  {
-    "title": "Alice (1988)",
-    "start": "2026-08-29T14:00:00-07:00",
-    "theater": "PAM CUT / Whitsell",
-    "url": "https://portlandartmuseum.org/event/alice-1988/",
-    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/07/Alice-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt0095715/",
-    "rating": 7.4
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-29T14:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "The Wrong Girls",
-    "start": "2026-08-29T14:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
-    "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
-  },
-  {
-    "title": "HARRY POTTER CHAMBER OF S",
-    "start": "2026-08-29T14:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6D27DF1BA748FD62FA680A944BCD1848482080664A3ED6FD64A456662C3EF73F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0295297/",
-    "rating": 7.5
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-29T14:30:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/tony",
-    "poster": "https://indy-systems.imgix.net/gaclmq4yg1mb302wzk9jqr2k2qzo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "Spa Weekend",
-    "start": "2026-08-29T14:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spa-weekend",
-    "poster": "https://indy-systems.imgix.net/rbsvz3wmj8ttdczlz5rvr9oe7yse?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33305867/",
-    "rating": 5.5
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-29T14:30:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-29T14:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-29T15:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-29T15:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "THE DOG STARS",
-    "start": "2026-08-29T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-29T15:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-29T15:30:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19207?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "COYOTE VS. ACME",
-    "start": "2026-08-29T15:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-08-29T15:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.5
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-29T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-29T15:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "THE MUMMY (1999)",
-    "start": "2026-08-29T16:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/2FB7955A1E04CADB3BD902BDEFE59AE3BBE4CDF349D530BA8F38A1F3E84CBF15_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0120616/",
-    "rating": 7.1
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-29T16:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-29T16:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-29T16:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-29T16:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-29T16:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "start": "2026-08-29T16:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-samurai-and-the-prisoner",
-    "poster": "https://indy-systems.imgix.net/hzy758hfhq63508nlelnni4fs7rz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt39602215/",
-    "rating": 7.0
-  },
-  {
-    "title": "The Wrong Girls",
-    "start": "2026-08-29T16:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
-    "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
-  },
-  {
-    "title": "Tony",
-    "start": "2026-08-29T16:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/tony",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "A Summer's Tale",
-    "start": "2026-08-29T16:30:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/a-summers-tale",
-    "poster": "https://indy-systems.imgix.net/er5hl4wmpsbg5ry1pqcl50r95wtr?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0115940/",
-    "rating": 7.6
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-08-29T16:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
-  },
-  {
-    "title": "The End of Oak Street",
-    "start": "2026-08-29T16:40:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-end-of-oak-street",
-    "poster": "https://indy-systems.imgix.net/y774l62xaldr76lpaaxtt3vajaw2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27165187/",
-    "rating": 6.6
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-29T16:45:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "Tony",
-    "start": "2026-08-29T16:45:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19209?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001588&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-29T17:00:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/tony",
-    "poster": "https://indy-systems.imgix.net/gaclmq4yg1mb302wzk9jqr2k2qzo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "The Man Who Fell to Earth (1976)",
-    "start": "2026-08-29T17:00:00-07:00",
-    "theater": "PAM CUT / Whitsell",
-    "url": "https://portlandartmuseum.org/event/the-man-who-fell-to-earth-1976/",
-    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/07/The-Man-Who-Fell-to-Earth-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt0074851/",
-    "rating": 6.6
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-29T17:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-29T17:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-29T17:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "HARRY POTTER CHAMBER OF S",
-    "start": "2026-08-29T18:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6D27DF1BA748FD62FA680A944BCD1848482080664A3ED6FD64A456662C3EF73F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0295297/",
-    "rating": 7.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-29T18:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-29T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "The Marching Band",
-    "start": "2026-08-29T18:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
-    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30327451/",
-    "rating": 7.4
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-29T18:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-29T18:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-08-29T18:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.5
-  },
-  {
-    "title": "THE DOG STARS",
-    "start": "2026-08-29T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
-  },
-  {
-    "title": "Spa Weekend",
-    "start": "2026-08-29T18:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spa-weekend",
-    "poster": "https://indy-systems.imgix.net/rbsvz3wmj8ttdczlz5rvr9oe7yse?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33305867/",
-    "rating": 5.5
-  },
-  {
-    "title": "Tony",
-    "start": "2026-08-29T18:45:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19206?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001588&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "DOG STARS",
-    "start": "2026-08-29T18:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
-  },
-  {
-    "title": "A BAY OF BLOOD (1971)",
-    "start": "2026-08-29T19:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDZhYjM0ZTctMTBmMi00OTk0LTlhZDMtMGJhODQzOWY0NWE0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0067656/",
-    "rating": 6.4
-  },
-  {
-    "title": "Tony",
-    "start": "2026-08-29T19:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/tony",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "Lady Bird",
-    "start": "2026-08-29T19:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/lady-bird",
-    "poster": "https://indy-systems.imgix.net/qopdl8saqvgtbmtwl0w4cuy3ldqj?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt4925292/",
-    "rating": 7.4
-  },
-  {
-    "title": "P.P. Rider",
-    "start": "2026-08-29T19:00:00-07:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/p-p-rider/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/05/pprider-poster.jpg",
-    "imdb": "https://www.imdb.com/title/tt0086306/",
-    "rating": 6.6
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-29T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-29T19:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-29T19:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-29T19:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "COYOTE VS. ACME",
-    "start": "2026-08-29T19:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-29T19:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-29T19:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "The Wrong Girls",
-    "start": "2026-08-29T19:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
-    "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-08-29T19:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-29T19:30:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/tony",
-    "poster": "https://indy-systems.imgix.net/gaclmq4yg1mb302wzk9jqr2k2qzo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-29T19:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-29T19:35:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19208?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-29T19:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "The Marching Band",
-    "start": "2026-08-29T20:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
-    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30327451/",
-    "rating": 7.4
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-29T21:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-29T21:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Public Domain Theater",
-    "start": "2026-08-29T21:00:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19088?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001586&isHighRes=true",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-29T21:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "Silence of the Lambs",
-    "start": "2026-08-29T21:10:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/silence-of-the-lambs",
-    "poster": "https://indy-systems.imgix.net/nhb7tvq7ifkr9u8ctdmfa8thibxo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0102926/",
-    "rating": 8.6
-  },
-  {
-    "title": "COYOTE VS. ACME",
-    "start": "2026-08-29T21:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "THE DOG STARS",
-    "start": "2026-08-29T21:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-29T21:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-29T21:25:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-29T21:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-08-29T21:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.5
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-29T21:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Tony",
-    "start": "2026-08-29T21:40:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/tony",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-29T21:40:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "start": "2026-08-29T21:40:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-samurai-and-the-prisoner",
-    "poster": "https://indy-systems.imgix.net/hzy758hfhq63508nlelnni4fs7rz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt39602215/",
-    "rating": 7.0
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-29T21:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "JASON AND THE ARGONAUTS (1963)",
-    "start": "2026-08-29T21:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2YzZmFhNDgtOTE0MS00NTA1LTgzZDYtMGZiZWJiNTQxMGM3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0057197/",
-    "rating": 7.3
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-29T21:50:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-29T21:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "DOG STARS",
-    "start": "2026-08-29T22:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
-  },
-  {
-    "title": "The End of Oak Street",
-    "start": "2026-08-29T22:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-end-of-oak-street",
-    "poster": "https://indy-systems.imgix.net/y774l62xaldr76lpaaxtt3vajaw2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27165187/",
-    "rating": 6.6
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-08-29T22:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
-  },
-  {
-    "title": "The Rocky Horror Picture Show with the Clinton Street Cabaret",
-    "start": "2026-08-29T22:30:00-07:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-the-clinton-street-cabaret-96/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2022/05/rockyhorror.jpeg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-29T22:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-29T22:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-30T09:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "TONY",
     "start": "2026-08-30T09:15:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
@@ -1140,7 +42,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "COYOTE VS ACME",
@@ -1167,7 +69,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "The Odyssey",
@@ -1194,7 +96,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "The End of Oak Street",
@@ -1356,7 +258,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -1392,7 +294,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "The Wrong Girls",
@@ -1401,7 +303,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "HARRY POTTER PRISONER OF",
@@ -1464,7 +366,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "The Odyssey",
@@ -1483,6 +385,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.0
+  },
+  {
+    "title": "The Talented Mr. Ripley",
+    "start": "2026-08-30T15:30:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/the-talented-mr-ripley-2/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/08162121/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+    "imdb": "https://www.imdb.com/title/tt0134119/",
+    "rating": 7.4
   },
   {
     "title": "COYOTE VS. ACME",
@@ -1590,7 +501,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-samurai-and-the-prisoner",
     "poster": "https://indy-systems.imgix.net/hzy758hfhq63508nlelnni4fs7rz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39602215/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "Tony",
@@ -1608,7 +519,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -1626,7 +537,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -1779,7 +690,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "Spa Weekend",
@@ -1797,7 +708,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "JASON AND THE ARGONAUTS (1963)",
@@ -1854,6 +765,15 @@
     "rating": 8.0
   },
   {
+    "title": "Call Me by Your Name",
+    "start": "2026-08-30T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/call-me-by-your-name/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/08162746/mZ4gBdfkhP9tvLH1DO4m4HYtiyi-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt5726616/",
+    "rating": 7.8
+  },
+  {
     "title": "Running Scared",
     "start": "2026-08-30T19:10:00-07:00",
     "theater": "Cinemagic",
@@ -1896,7 +816,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "Tony",
@@ -1914,7 +834,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -1944,13 +864,13 @@
     "rating": 7.7
   },
   {
-    "title": "TONY",
+    "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-30T21:10:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
   },
   {
     "title": "COYOTE VS. ACME",
@@ -1980,6 +900,15 @@
     "rating": 7.2
   },
   {
+    "title": "COYOTE VS ACME",
+    "start": "2026-08-30T21:35:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
     "title": "THE MUMMY (1999)",
     "start": "2026-08-30T21:45:00-07:00",
     "theater": "Academy Theater",
@@ -1989,49 +918,31 @@
     "rating": 7.1
   },
   {
-    "title": "HARRY POTTER PRISONER OF",
-    "start": "2026-08-30T21:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/7480C6F82AB5A1976FD815C1FFC8ECA3FF12BA0C91D7B6BB29E29E4CCA43EE2B_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "DOG STARS",
-    "start": "2026-08-30T22:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
-  },
-  {
     "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-08-30T22:15:00-07:00",
+    "start": "2026-08-30T21:45:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-30T22:30:00-07:00",
+    "title": "TONY",
+    "start": "2026-08-30T22:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-30T22:35:00-07:00",
+    "title": "DOG STARS",
+    "start": "2026-08-30T22:15:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
   },
   {
     "title": "SCHOOL OF ROCK",
@@ -2058,7 +969,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "The Odyssey",
@@ -2139,7 +1050,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "Spa Weekend",
@@ -2175,7 +1086,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "The Odyssey",
@@ -2196,6 +1107,15 @@
     "rating": 8.0
   },
   {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-08-31T15:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
     "title": "COYOTE VS. ACME",
     "start": "2026-08-31T15:45:00-07:00",
     "theater": "Academy Theater",
@@ -2214,13 +1134,13 @@
     "rating": 7.7
   },
   {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-31T15:45:00-07:00",
+    "title": "TONY",
+    "start": "2026-08-31T15:50:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "JASON AND THE ARGONAUTS (1963)",
@@ -2250,13 +1170,13 @@
     "rating": 7.6
   },
   {
-    "title": "TONY",
-    "start": "2026-08-31T16:00:00-07:00",
+    "title": "COYOTE VS ACME",
+    "start": "2026-08-31T16:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -2292,7 +1212,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-samurai-and-the-prisoner",
     "poster": "https://indy-systems.imgix.net/hzy758hfhq63508nlelnni4fs7rz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39602215/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "Tony",
@@ -2319,7 +1239,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -2329,15 +1249,6 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
     "imdb": "https://www.imdb.com/title/tt35298123/",
     "rating": 7.2
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-08-31T16:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -2368,7 +1279,7 @@
   },
   {
     "title": "COYOTE VS ACME",
-    "start": "2026-08-31T17:00:00-07:00",
+    "start": "2026-08-31T17:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
@@ -2401,6 +1312,15 @@
     "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-08-31T18:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
   },
   {
     "title": "TONY",
@@ -2445,7 +1365,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "Spa Weekend",
@@ -2455,15 +1375,6 @@
     "poster": "https://indy-systems.imgix.net/rbsvz3wmj8ttdczlz5rvr9oe7yse?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33305867/",
     "rating": 5.5
-  },
-  {
-    "title": "DOG STARS",
-    "start": "2026-08-31T18:50:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
   },
   {
     "title": "COYOTE VS. ACME",
@@ -2530,7 +1441,7 @@
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-31T19:05:00-07:00",
+    "start": "2026-08-31T19:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
@@ -2571,7 +1482,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "Tony",
@@ -2584,12 +1495,12 @@
   },
   {
     "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-08-31T19:20:00-07:00",
+    "start": "2026-08-31T19:15:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "THE MUMMY (1999)",
@@ -2638,12 +1549,21 @@
   },
   {
     "title": "ODYSSEY",
-    "start": "2026-08-31T21:25:00-07:00",
+    "start": "2026-08-31T21:20:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-08-31T21:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
   },
   {
     "title": "HARRY POTTER GOBLET OF FI",
@@ -2655,13 +1575,13 @@
     "rating": null
   },
   {
-    "title": "DOG STARS",
+    "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-08-31T22:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
   },
   {
     "title": "INSIDIOUS OUT OF THE FURTHER",
@@ -2670,20 +1590,11 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-31T22:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
+    "rating": 6.2
   },
   {
     "title": "COYOTE VS ACME",
-    "start": "2026-08-31T22:35:00-07:00",
+    "start": "2026-08-31T22:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
@@ -2706,7 +1617,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "The Odyssey",
@@ -2787,7 +1698,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "Spa Weekend",
@@ -2823,7 +1734,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "The Odyssey",
@@ -2844,6 +1755,15 @@
     "rating": 8.0
   },
   {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-01T15:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
     "title": "COYOTE VS. ACME",
     "start": "2026-09-01T15:45:00-07:00",
     "theater": "Academy Theater",
@@ -2858,15 +1778,6 @@
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-09-01T15:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt1756855/",
     "rating": 7.7
   },
@@ -2907,6 +1818,15 @@
     "rating": 7.6
   },
   {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-01T16:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
     "start": "2026-09-01T16:15:00-07:00",
     "theater": "Academy Theater",
@@ -2940,7 +1860,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-samurai-and-the-prisoner",
     "poster": "https://indy-systems.imgix.net/hzy758hfhq63508nlelnni4fs7rz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39602215/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "Tony",
@@ -2958,7 +1878,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -2977,15 +1897,6 @@
     "poster": "https://indy-systems.imgix.net/er5hl4wmpsbg5ry1pqcl50r95wtr?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0115940/",
     "rating": 7.6
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-09-01T16:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -3016,7 +1927,7 @@
   },
   {
     "title": "COYOTE VS ACME",
-    "start": "2026-09-01T17:00:00-07:00",
+    "start": "2026-09-01T17:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
@@ -3058,6 +1969,15 @@
     "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-01T18:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
   },
   {
     "title": "TONY",
@@ -3102,7 +2022,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "Spa Weekend",
@@ -3112,15 +2032,6 @@
     "poster": "https://indy-systems.imgix.net/rbsvz3wmj8ttdczlz5rvr9oe7yse?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33305867/",
     "rating": 5.5
-  },
-  {
-    "title": "DOG STARS",
-    "start": "2026-09-01T18:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
   },
   {
     "title": "COYOTE VS. ACME",
@@ -3228,7 +2139,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "Tony",
@@ -3241,12 +2152,12 @@
   },
   {
     "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-09-01T19:20:00-07:00",
+    "start": "2026-09-01T19:15:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "JASON AND THE ARGONAUTS (1963)",
@@ -3321,8 +2232,17 @@
     "rating": 7.2
   },
   {
+    "title": "DOG STARS",
+    "start": "2026-09-01T21:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
     "title": "HARRY POTTER ORDER OF THE",
-    "start": "2026-09-01T21:45:00-07:00",
+    "start": "2026-09-01T21:35:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/76FBB270943E7FF36E7114BF4A6D610596BEE453DE6339C4433C1647B80135C3_200_300_85.jpg",
@@ -3330,13 +2250,13 @@
     "rating": null
   },
   {
-    "title": "DOG STARS",
+    "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-09-01T22:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
   },
   {
     "title": "INSIDIOUS OUT OF THE FURTHER",
@@ -3345,16 +2265,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-09-01T22:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
+    "rating": 6.2
   },
   {
     "title": "COYOTE VS ACME",
@@ -3390,7 +2301,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "The Odyssey",
@@ -3471,7 +2382,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "Spa Weekend",
@@ -3501,6 +2412,15 @@
     "rating": 8.0
   },
   {
+    "title": "DOG STARS",
+    "start": "2026-09-02T15:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
     "title": "COYOTE VS ACME (OPEN CAPTION)",
     "start": "2026-09-02T15:25:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -3516,7 +2436,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "The Odyssey",
@@ -3546,13 +2466,13 @@
     "rating": 7.7
   },
   {
-    "title": "COYOTE VS ACME",
+    "title": "TONY",
     "start": "2026-09-02T15:45:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "THE MUMMY (1999)",
@@ -3582,13 +2502,13 @@
     "rating": 7.6
   },
   {
-    "title": "TONY",
-    "start": "2026-09-02T16:00:00-07:00",
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-02T16:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -3624,7 +2544,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-samurai-and-the-prisoner",
     "poster": "https://indy-systems.imgix.net/hzy758hfhq63508nlelnni4fs7rz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39602215/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "Tony",
@@ -3642,7 +2562,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -3660,7 +2580,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -3700,7 +2620,7 @@
   },
   {
     "title": "COYOTE VS ACME",
-    "start": "2026-09-02T17:00:00-07:00",
+    "start": "2026-09-02T17:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
@@ -3754,7 +2674,7 @@
   },
   {
     "title": "TONY",
-    "start": "2026-09-02T18:35:00-07:00",
+    "start": "2026-09-02T18:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
@@ -3777,7 +2697,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "Spa Weekend",
@@ -3789,13 +2709,13 @@
     "rating": 5.5
   },
   {
-    "title": "DOG STARS",
-    "start": "2026-09-02T18:45:00-07:00",
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-02T18:50:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
   },
   {
     "title": "COYOTE VS. ACME",
@@ -3912,7 +2832,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "Tony",
@@ -3924,13 +2844,13 @@
     "rating": 7.6
   },
   {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-09-02T19:20:00-07:00",
+    "title": "DOG STARS",
+    "start": "2026-09-02T19:15:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
   },
   {
     "title": "A BAY OF BLOOD (1971)",
@@ -3969,13 +2889,13 @@
     "rating": 7.7
   },
   {
-    "title": "TONY",
+    "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-09-02T21:10:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
   },
   {
     "title": "ODYSSEY",
@@ -3985,6 +2905,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.5
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-02T21:35:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
   },
   {
     "title": "HARRY POTTER HALF BLOOD P",
@@ -3997,34 +2926,25 @@
   },
   {
     "title": "DOG STARS",
-    "start": "2026-09-02T22:00:00-07:00",
+    "start": "2026-09-02T22:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "title": "TONY",
     "start": "2026-09-02T22:15:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-09-02T22:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "COYOTE VS ACME",
-    "start": "2026-09-02T22:35:00-07:00",
+    "start": "2026-09-02T22:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
@@ -4047,7 +2967,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "The Odyssey",
@@ -4128,7 +3048,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "Spa Weekend",
@@ -4164,7 +3084,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "The Odyssey",
@@ -4281,7 +3201,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-samurai-and-the-prisoner",
     "poster": "https://indy-systems.imgix.net/hzy758hfhq63508nlelnni4fs7rz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39602215/",
-    "rating": 7.0
+    "rating": 7.1
   },
   {
     "title": "The Wrong Girls",
@@ -4290,7 +3210,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.1
+    "rating": 6.0
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -4308,7 +3228,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "The End of Oak Street",
@@ -4339,7 +3259,7 @@
   },
   {
     "title": "COYOTE VS ACME",
-    "start": "2026-09-03T17:00:00-07:00",
+    "start": "2026-09-03T17:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
@@ -4357,7 +3277,7 @@
   },
   {
     "title": "ODYSSEY",
-    "start": "2026-09-03T17:30:00-07:00",
+    "start": "2026-09-03T17:25:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
@@ -4366,7 +3286,7 @@
   },
   {
     "title": "HARRY POTTER PT 1 DEATHLY",
-    "start": "2026-09-03T18:05:00-07:00",
+    "start": "2026-09-03T18:10:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/5EABCBF2382A523A83B097053CB685643D77D362AB6DDCFC5DD96A835F86BC05_200_300_85.jpg",
@@ -4425,7 +3345,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "Spa Weekend",
@@ -4443,7 +3363,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "THELONIUS MONK: STRAIGHT NO CHASER (1988)",
@@ -4509,7 +3429,7 @@
     "rating": 8.0
   },
   {
-    "title": "BEST LITTLE WHOREHOUSE IN",
+    "title": "BEST LITTLE WHOREHOUSE IN TEXAS",
     "start": "2026-09-03T19:00:00-07:00",
     "theater": "Moreland Theater",
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
@@ -4525,6 +3445,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.0
+  },
+  {
+    "title": "Free Leonard Peltier x Native Arts and Cultures Foundation",
+    "start": "2026-09-03T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/free-leonard-peltier-x-native-arts-and-culture-foundation/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/27112729/UPDATED-FLP-POSTER-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt34966036/",
+    "rating": 7.6
   },
   {
     "title": "COYOTE VS. ACME",
@@ -4569,7 +3498,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -4590,13 +3519,13 @@
     "rating": 7.7
   },
   {
-    "title": "TONY",
+    "title": "SPIDER MAN BRAND NEW DAY",
     "start": "2026-09-03T21:10:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
   },
   {
     "title": "COYOTE VS. ACME",
@@ -4609,7 +3538,7 @@
   },
   {
     "title": "ODYSSEY",
-    "start": "2026-09-03T21:25:00-07:00",
+    "start": "2026-09-03T21:20:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
@@ -4626,6 +3555,15 @@
     "rating": 7.2
   },
   {
+    "title": "HARRY POTTER PT 2 DEATHLY",
+    "start": "2026-09-03T21:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6FF59D235BDE662FEA0222DC105662B9F99B1BE4E4D4A124524AD452CB7D934B_200_300_85.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "A BAY OF BLOOD (1971)",
     "start": "2026-09-03T21:45:00-07:00",
     "theater": "Academy Theater",
@@ -4635,44 +3573,35 @@
     "rating": 6.4
   },
   {
-    "title": "HARRY POTTER PT 2 DEATHLY",
+    "title": "BY ANY MEANS",
     "start": "2026-09-03T21:45:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6FF59D235BDE662FEA0222DC105662B9F99B1BE4E4D4A124524AD452CB7D934B_200_300_85.jpg",
-    "imdb": null,
+    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
     "rating": null
   },
   {
     "title": "DOG STARS",
-    "start": "2026-09-03T22:00:00-07:00",
+    "start": "2026-09-03T22:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.4
+    "rating": 6.5
   },
   {
     "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-09-03T22:15:00-07:00",
+    "start": "2026-09-03T22:20:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.3
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-09-03T22:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
+    "rating": 6.2
   },
   {
     "title": "COYOTE VS ACME",
-    "start": "2026-09-03T22:35:00-07:00",
+    "start": "2026-09-03T22:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
@@ -4698,6 +3627,33 @@
     "rating": 6.8
   },
   {
+    "title": "BY ANY MEANS",
+    "start": "2026-09-04T15:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": null
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-04T15:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-04T15:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
     "title": "COYOTE VS. ACME",
     "start": "2026-09-04T15:45:00-07:00",
     "theater": "Academy Theater",
@@ -4705,15 +3661,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt1756855/",
     "rating": 7.7
-  },
-  {
-    "title": "BY ANY MEANS",
-    "start": "2026-09-04T15:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34379051/",
-    "rating": null
   },
   {
     "title": "BREATHLESS (1960)",
@@ -4725,6 +3672,24 @@
     "rating": 7.6
   },
   {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-04T16:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-04T16:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
     "title": "GREASE",
     "start": "2026-09-04T16:30:00-07:00",
     "theater": "Moreland Theater",
@@ -4732,6 +3697,42 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E880E238B86F4D2DA5EFC64FEE949011D715150166339B18D69689EEF5A44BAA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0077631/",
     "rating": 7.2
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-04T17:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-04T17:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-04T17:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-04T18:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "BY ANY MEANS",
@@ -4788,6 +3789,15 @@
     "rating": 7.2
   },
   {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-04T19:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
     "title": "COYOTE VS. ACME",
     "start": "2026-09-04T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -4795,6 +3805,42 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt1756855/",
     "rating": 7.7
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-04T19:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-04T19:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-04T20:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-04T20:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "COYOTE VS. ACME",
@@ -4813,6 +3859,15 @@
     "poster": "https://indy-systems.imgix.net/zyjw8kyikzqtrsuqmr1niyyrs1yx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt27766440/",
     "rating": 6.6
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-04T21:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "TO DIE FOR (1995)",
@@ -4834,7 +3889,7 @@
   },
   {
     "title": "BY ANY MEANS",
-    "start": "2026-09-04T21:35:00-07:00",
+    "start": "2026-09-04T21:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
@@ -4851,6 +3906,78 @@
     "rating": 5.9
   },
   {
+    "title": "DOG STARS",
+    "start": "2026-09-04T22:10:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-04T22:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-04T22:35:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-05T09:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-05T09:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-05T09:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-05T09:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-05T10:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
     "title": "8\u00bd (1963)",
     "start": "2026-09-05T11:00:00-07:00",
     "theater": "Cinema 21",
@@ -4860,13 +3987,40 @@
     "rating": 8.0
   },
   {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-05T11:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
     "title": "BY ANY MEANS",
-    "start": "2026-09-05T12:20:00-07:00",
+    "start": "2026-09-05T11:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt34379051/",
     "rating": null
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-05T12:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-05T12:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "COYOTE VS. ACME",
@@ -4878,6 +4032,15 @@
     "rating": 7.7
   },
   {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-05T12:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
     "title": "BREATHLESS (1960)",
     "start": "2026-09-05T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -4885,6 +4048,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/0955B0051F0F6A29CF971FC02FCF70625776BFC23881C99EAEDDAA5CB7BE9373_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0053472/",
     "rating": 7.6
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-05T13:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-05T13:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "Third Act",
@@ -4914,13 +4095,49 @@
     "rating": null
   },
   {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-05T14:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
     "title": "BY ANY MEANS",
-    "start": "2026-09-05T15:20:00-07:00",
+    "start": "2026-09-05T14:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt34379051/",
     "rating": null
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-05T15:10:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-05T15:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-05T15:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
   },
   {
     "title": "COYOTE VS. ACME",
@@ -4941,6 +4158,15 @@
     "rating": 7.1
   },
   {
+    "title": "DOG STARS",
+    "start": "2026-09-05T16:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
     "title": "Colony",
     "start": "2026-09-05T16:20:00-07:00",
     "theater": "Cinemagic",
@@ -4959,8 +4185,44 @@
     "rating": 7.8
   },
   {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-05T17:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-05T17:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-05T17:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-05T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
     "title": "BY ANY MEANS",
-    "start": "2026-09-05T18:20:00-07:00",
+    "start": "2026-09-05T18:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
@@ -5013,6 +4275,15 @@
     "rating": 6.5
   },
   {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-05T19:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
     "title": "COYOTE VS. ACME",
     "start": "2026-09-05T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -5020,6 +4291,42 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt1756855/",
     "rating": 7.7
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-05T19:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-05T19:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-05T20:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-05T20:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "COYOTE VS. ACME",
@@ -5040,13 +4347,13 @@
     "rating": 6.6
   },
   {
-    "title": "BY ANY MEANS",
-    "start": "2026-09-05T21:20:00-07:00",
+    "title": "ODYSSEY",
+    "start": "2026-09-05T21:15:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34379051/",
-    "rating": null
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "DAY OF THE DEAD (1985)",
@@ -5067,6 +4374,33 @@
     "rating": 6.9
   },
   {
+    "title": "BY ANY MEANS",
+    "start": "2026-09-05T21:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": null
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-05T22:10:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-05T22:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
     "title": "The Rocky Horror Picture Show with the Clinton Street Cabaret",
     "start": "2026-09-05T22:30:00-07:00",
     "theater": "Clinton Street Theater",
@@ -5076,13 +4410,94 @@
     "rating": null
   },
   {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-05T22:35:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-06T09:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-06T09:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-06T09:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-06T09:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-06T10:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-06T11:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
     "title": "BY ANY MEANS",
-    "start": "2026-09-06T12:20:00-07:00",
+    "start": "2026-09-06T11:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt34379051/",
     "rating": null
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-06T12:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-06T12:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "COYOTE VS. ACME",
@@ -5094,6 +4509,15 @@
     "rating": 7.7
   },
   {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-06T12:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
     "title": "BREATHLESS (1960)",
     "start": "2026-09-06T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -5101,6 +4525,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/0955B0051F0F6A29CF971FC02FCF70625776BFC23881C99EAEDDAA5CB7BE9373_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0053472/",
     "rating": 7.6
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-06T13:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-06T13:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "Twin Peaks Season 2: Episodes 16, 17, 18, 19, 20",
@@ -5130,6 +4572,15 @@
     "rating": null
   },
   {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-06T14:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
     "title": "The Great Dictator",
     "start": "2026-09-06T14:30:00-07:00",
     "theater": "Cinemagic",
@@ -5140,12 +4591,48 @@
   },
   {
     "title": "BY ANY MEANS",
-    "start": "2026-09-06T15:20:00-07:00",
+    "start": "2026-09-06T14:35:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt34379051/",
     "rating": null
+  },
+  {
+    "title": "Sherman\u2019s March (4K Restoration)",
+    "start": "2026-09-06T15:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/shermans-march-4k-restoration/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/24115915/unnamed-1.jpg",
+    "imdb": "https://www.imdb.com/title/tt0091943/",
+    "rating": 7.2
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-06T15:10:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-06T15:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-06T15:35:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
   },
   {
     "title": "COYOTE VS. ACME",
@@ -5166,6 +4653,15 @@
     "rating": 6.8
   },
   {
+    "title": "DOG STARS",
+    "start": "2026-09-06T16:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
     "title": "PURPLE RAIN",
     "start": "2026-09-06T16:30:00-07:00",
     "theater": "Moreland Theater",
@@ -5175,8 +4671,44 @@
     "rating": 6.5
   },
   {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-06T17:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-06T17:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-06T17:35:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-06T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
     "title": "BY ANY MEANS",
-    "start": "2026-09-06T18:20:00-07:00",
+    "start": "2026-09-06T18:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
@@ -5220,6 +4752,24 @@
     "rating": 7.8
   },
   {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-06T19:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "I Love Boosters",
+    "start": "2026-09-06T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/i-love-boosters/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/18120642/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+    "imdb": "https://www.imdb.com/title/tt30827810/",
+    "rating": 6.6
+  },
+  {
     "title": "COYOTE VS. ACME",
     "start": "2026-09-06T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -5229,6 +4779,42 @@
     "rating": 7.7
   },
   {
+    "title": "DOG STARS",
+    "start": "2026-09-06T19:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-06T19:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-06T20:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-06T20:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
     "title": "COYOTE VS. ACME",
     "start": "2026-09-06T21:15:00-07:00",
     "theater": "Academy Theater",
@@ -5236,6 +4822,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt1756855/",
     "rating": 7.7
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-06T21:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "BY ANY MEANS",
@@ -5265,11 +4860,74 @@
     "rating": 6.5
   },
   {
+    "title": "DOG STARS",
+    "start": "2026-09-06T22:10:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-06T22:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-06T22:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "BY ANY MEANS",
+    "start": "2026-09-07T12:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": null
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-07T12:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-07T12:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
     "title": "COYOTE VS. ACME",
     "start": "2026-09-07T12:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-07T12:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt1756855/",
     "rating": 7.7
   },
@@ -5283,13 +4941,67 @@
     "rating": 6.8
   },
   {
+    "title": "DOG STARS",
+    "start": "2026-09-07T13:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-07T13:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-07T14:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
     "title": "BY ANY MEANS",
-    "start": "2026-09-07T15:30:00-07:00",
+    "start": "2026-09-07T14:45:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt34379051/",
     "rating": null
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-07T15:10:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-07T15:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-07T15:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
   },
   {
     "title": "COYOTE VS. ACME",
@@ -5310,6 +5022,15 @@
     "rating": 7.6
   },
   {
+    "title": "DOG STARS",
+    "start": "2026-09-07T16:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
     "title": "Colony",
     "start": "2026-09-07T16:20:00-07:00",
     "theater": "Cinemagic",
@@ -5326,6 +5047,42 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/3674ED250F771EF1706B85D32DFE9E846892EA8747CDF2DC831F9EC6E535710F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0068327/",
     "rating": 7.8
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-07T17:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-07T17:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-07T17:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-07T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "BY ANY MEANS",
@@ -5364,6 +5121,24 @@
     "rating": 7.2
   },
   {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-07T19:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-07T19:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
     "title": "DAY OF THE DEAD (1985)",
     "start": "2026-09-07T19:30:00-07:00",
     "theater": "Academy Theater",
@@ -5373,8 +5148,44 @@
     "rating": 7.1
   },
   {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-07T19:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-07T20:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-07T20:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-07T21:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
     "title": "BY ANY MEANS",
-    "start": "2026-09-07T21:25:00-07:00",
+    "start": "2026-09-07T21:20:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
@@ -5389,6 +5200,33 @@
     "poster": "https://indy-systems.imgix.net/vpit6qut4ob1acwxsmrfd7is5g60?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt34385135/",
     "rating": 6.5
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-07T22:10:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-07T22:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-07T22:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
   },
   {
     "title": "COYOTE VS. ACME",
@@ -5418,13 +5256,31 @@
     "rating": 7.2
   },
   {
-    "title": "BY ANY MEANS",
+    "title": "TONY",
+    "start": "2026-09-08T15:10:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "COYOTE VS ACME",
     "start": "2026-09-08T15:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34379051/",
-    "rating": null
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-08T15:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
   },
   {
     "title": "COYOTE VS. ACME",
@@ -5445,6 +5301,15 @@
     "rating": 7.1
   },
   {
+    "title": "DOG STARS",
+    "start": "2026-09-08T16:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
     "title": "Colony",
     "start": "2026-09-08T16:20:00-07:00",
     "theater": "Cinemagic",
@@ -5461,6 +5326,42 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/AE94B53928EA8E35E18F4C66902B4D96560199E28D2BD2F0CE9F10C11E64286A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0084021/",
     "rating": 4.6
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-08T17:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-08T17:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-08T17:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-08T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "BY ANY MEANS",
@@ -5508,6 +5409,24 @@
     "rating": 7.8
   },
   {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-08T19:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-08T19:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
     "title": "TO DIE FOR (1995)",
     "start": "2026-09-08T19:30:00-07:00",
     "theater": "Academy Theater",
@@ -5515,6 +5434,42 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZWJlODViYTUtMzY3MS00ZDRlLTkzODQtMDdiOTBiN2E0MDA5XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0114681/",
     "rating": 6.8
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-08T19:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-08T20:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-08T20:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-08T21:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "BY ANY MEANS",
@@ -5544,6 +5499,33 @@
     "rating": 6.5
   },
   {
+    "title": "DOG STARS",
+    "start": "2026-09-08T22:10:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-08T22:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-08T22:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
     "title": "COYOTE VS. ACME",
     "start": "2026-09-09T12:30:00-07:00",
     "theater": "Academy Theater",
@@ -5560,6 +5542,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZWJlODViYTUtMzY3MS00ZDRlLTkzODQtMDdiOTBiN2E0MDA5XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0114681/",
     "rating": 6.8
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-09T15:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
   },
   {
     "title": "BY ANY MEANS",
@@ -5580,6 +5571,15 @@
     "rating": 7.7
   },
   {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-09T15:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
     "title": "BREATHLESS (1960)",
     "start": "2026-09-09T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -5598,6 +5598,15 @@
     "rating": 6.5
   },
   {
+    "title": "DOG STARS",
+    "start": "2026-09-09T16:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
     "title": "GREASE",
     "start": "2026-09-09T16:30:00-07:00",
     "theater": "Moreland Theater",
@@ -5605,6 +5614,33 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/E880E238B86F4D2DA5EFC64FEE949011D715150166339B18D69689EEF5A44BAA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0077631/",
     "rating": 7.2
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-09T17:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-09T17:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-09T17:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
   },
   {
     "title": "HOPE",
@@ -5670,6 +5706,24 @@
     "rating": 6.5
   },
   {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-09T19:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-09T19:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
     "title": "DAY OF THE DEAD (1985)",
     "start": "2026-09-09T19:30:00-07:00",
     "theater": "Academy Theater",
@@ -5677,6 +5731,33 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/121D8FFD1190CA9C9CFB2A1226DF051F83A387FA8D1693D927E7A88D9D436A0D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0088993/",
     "rating": 7.1
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-09T19:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-09T20:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.7
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-09T21:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.5
   },
   {
     "title": "BY ANY MEANS",
@@ -5695,6 +5776,33 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt27369017/",
     "rating": 6.9
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-09T22:10:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-09T22:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-09T22:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
   },
   {
     "title": "COYOTE VS. ACME",
@@ -5848,6 +5956,15 @@
     "poster": "https://omsi.edu/wp-content/uploads/2026/08/09.10.26-Titanic-Deep-Ocean-Young-2.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "By Hook or by Crook x Lesbian Cinema Club",
+    "start": "2026-09-10T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/by-hook-or-by-crook-x-lesbian-cinema-club/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/07114459/vnXJwknZCuuQ4ebX8Mr60FgN8Jd.jpg",
+    "imdb": "https://www.imdb.com/title/tt0290498/",
+    "rating": 5.9
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -6012,6 +6129,15 @@
     "rating": null
   },
   {
+    "title": "Summer Tour w/ Garcia Birthday Band",
+    "start": "2026-09-11T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/summer-tour-w-garcia-birthday-band/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/08130416/ySCWWRKQtbBE37HpBdOCELe28cq.jpg",
+    "imdb": "https://www.imdb.com/title/tt38066155/",
+    "rating": 6.7
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-11T19:50:00-07:00",
     "theater": "Studio One",
@@ -6082,6 +6208,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-12T10:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "Tokyo Story (1953)",
@@ -6156,6 +6291,15 @@
     "rating": null
   },
   {
+    "title": "HOPE",
+    "start": "2026-09-12T14:35:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-12T15:05:00-07:00",
     "theater": "Studio One",
@@ -6183,6 +6327,15 @@
     "rating": 8.2
   },
   {
+    "title": "Lady Terminator x Brain Dead",
+    "start": "2026-09-12T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/lady-terminator-x-brain-dead/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/12102516/lwOK1GHK8KRgiWhfBkEnQKPLgEi.jpg",
+    "imdb": "https://www.imdb.com/title/tt0095483/",
+    "rating": 5.5
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-12T16:20:00-07:00",
     "theater": "Moreland Theater",
@@ -6208,6 +6361,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-12T18:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "SCANNERS (1981)",
@@ -6279,7 +6441,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/dont-let-them-out",
     "poster": "https://indy-systems.imgix.net/m1kmvsifs7c8qytn4z02bydafi4u?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32187239/",
-    "rating": 8.9
+    "rating": 9.0
   },
   {
     "title": "BATMAN: MASK OF THE PHANTASM",
@@ -6289,6 +6451,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYjYwN2ZmZWYtMTdlNC00ZDQxLWEyNmUtZDI5Yjk5MzQ2N2Y3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0106364/",
     "rating": 7.8
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-12T22:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -6316,6 +6487,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-13T10:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -6399,6 +6579,15 @@
     "rating": null
   },
   {
+    "title": "HOPE",
+    "start": "2026-09-13T14:35:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-13T15:20:00-07:00",
     "theater": "Studio One",
@@ -6424,6 +6613,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/ECB129191C5808D1454E41C24029CE09D686F16CB96A97AEF54F903907835BE8_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0081455/",
     "rating": 6.7
+  },
+  {
+    "title": "Cookie Queens",
+    "start": "2026-09-13T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/cookie-queens/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/26091649/080_Cookie_Queens_Digital_One_Sheet_FINAL_1_dbf2b83089-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt38503564/",
+    "rating": 5.7
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -6460,6 +6658,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-13T18:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "BATMAN: MASK OF THE PHANTASM",
@@ -6516,17 +6723,17 @@
     "rating": null
   },
   {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-13T22:35:00-07:00",
+    "title": "HOPE",
+    "start": "2026-09-13T22:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": null
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-14T09:05:00-07:00",
+    "start": "2026-09-13T22:35:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
@@ -6586,6 +6793,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-14T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -6651,6 +6867,15 @@
     "rating": null
   },
   {
+    "title": "HOPE",
+    "start": "2026-09-14T21:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-15T09:05:00-07:00",
     "theater": "Studio One",
@@ -6712,6 +6937,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-15T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -6777,6 +7011,15 @@
     "rating": null
   },
   {
+    "title": "HOPE",
+    "start": "2026-09-15T21:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-16T09:05:00-07:00",
     "theater": "Studio One",
@@ -6838,6 +7081,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-16T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -6912,6 +7164,15 @@
     "rating": null
   },
   {
+    "title": "HOPE",
+    "start": "2026-09-16T21:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "BATMAN: MASK OF THE PHANTASM",
     "start": "2026-09-17T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -6919,6 +7180,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYjYwN2ZmZWYtMTdlNC00ZDQxLWEyNmUtZDI5Yjk5MzQ2N2Y3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0106364/",
     "rating": 7.8
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-17T15:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
   },
   {
     "title": "Hope",
@@ -6943,6 +7213,15 @@
     "start": "2026-09-17T16:20:00-07:00",
     "theater": "Moreland Theater",
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-17T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
@@ -6993,6 +7272,33 @@
     "rating": null
   },
   {
+    "title": "WEIGHT",
+    "start": "2026-09-17T19:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22AC40ABC7AA23707E7DF3072D7B59CF8FB3625AA142C8BA4E2FEECCDD53743A_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt10794054/",
+    "rating": 7.3
+  },
+  {
+    "title": "Party Monster Movie Bingo w/ Violet Hex",
+    "start": "2026-09-17T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/party-monster/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/25110337/2.-PARTY-MONSTER-BINGO-POSTER.png",
+    "imdb": "https://www.imdb.com/title/tt0320244/",
+    "rating": 6.2
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-17T20:50:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
     "title": "SCANNERS (1981)",
     "start": "2026-09-17T22:00:00-07:00",
     "theater": "Academy Theater",
@@ -7000,6 +7306,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/ECB129191C5808D1454E41C24029CE09D686F16CB96A97AEF54F903907835BE8_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0081455/",
     "rating": 6.7
+  },
+  {
+    "title": "WEIGHT",
+    "start": "2026-09-17T22:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22AC40ABC7AA23707E7DF3072D7B59CF8FB3625AA142C8BA4E2FEECCDD53743A_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt10794054/",
+    "rating": 7.3
   },
   {
     "title": "PONYO (SUB)",
@@ -7039,7 +7354,7 @@
   },
   {
     "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T18:05:00-07:00",
+    "start": "2026-09-18T18:20:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
@@ -7075,7 +7390,7 @@
   },
   {
     "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T21:05:00-07:00",
+    "start": "2026-09-18T21:20:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
@@ -8001,6 +8316,15 @@
     "rating": null
   },
   {
+    "title": "Mary Oliver: Saved by the Beauty of the World \u2013 Encore Screening",
+    "start": "2026-09-23T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/mary-oliver-saved-by-the-beauty-of-the-world-2/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/08/13144313/aAZ7Ih2tU65y55CfE0nIFSaow4n-1-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt39643966/",
+    "rating": 7.4
+  },
+  {
     "title": "RESIDENT EVIL",
     "start": "2026-09-23T19:35:00-07:00",
     "theater": "Studio One",
@@ -8307,6 +8631,15 @@
     "rating": null
   },
   {
+    "title": "THE BATTLE OF ALGIERS (1966)",
+    "start": "2026-09-26T13:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0058946/",
+    "rating": 8.1
+  },
+  {
     "title": "Nowhere x Director Fits",
     "start": "2026-09-26T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -8314,6 +8647,15 @@
     "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/07/Nowhere-scaled.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "The Bride!",
+    "start": "2026-09-26T15:30:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/the-bride/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/24112934/lV8YHwGkYZsm6EfIqnhaSz2avKt-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt30851137/",
+    "rating": 5.6
   },
   {
     "title": "MY NEIGHBOR TOTORO (DUB)",
@@ -8476,5 +8818,50 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0096283/",
     "rating": 8.1
+  },
+  {
+    "title": "MY NEIGHBOR TOTORO (DUB)",
+    "start": "2026-09-29T13:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0096283/",
+    "rating": 8.1
+  },
+  {
+    "title": "THE BATTLE OF ALGIERS (1966)",
+    "start": "2026-09-29T16:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0058946/",
+    "rating": 8.1
+  },
+  {
+    "title": "AVENGERS ENDGAME ENCORE",
+    "start": "2026-09-29T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/518A58519FD89ED24F6B9F963191DB9E0E08DE0D3C083CF442ACAA43A7F7594D_200_300_85.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Manhattan Short",
+    "start": "2026-09-29T19:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/manhattan-short-3/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/05/Manhattan-Short-Poster.png",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "TIMES SQUARE (1980)",
+    "start": "2026-09-29T19:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTFkMDYyOTYtMDlkZi00MjkzLTllNDktMzAzODY4NjUxNjhmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0081635/",
+    "rating": 6.6
   }
 ]

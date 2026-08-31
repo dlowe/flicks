@@ -1,950 +1,5 @@
 [
   {
-    "title": "TONY",
-    "start": "2026-08-30T09:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-30T09:25:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-30T09:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "HARRY POTTER PRISONER OF",
-    "start": "2026-08-30T10:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/7480C6F82AB5A1976FD815C1FFC8ECA3FF12BA0C91D7B6BB29E29E4CCA43EE2B_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-08-30T10:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.2
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-30T11:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "The Marching Band",
-    "start": "2026-08-30T11:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
-    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30327451/",
-    "rating": 7.4
-  },
-  {
-    "title": "The Wrong Girls",
-    "start": "2026-08-30T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
-    "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.0
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-30T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-30T12:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "THE DOG STARS",
-    "start": "2026-08-30T12:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.5
-  },
-  {
-    "title": "The End of Oak Street",
-    "start": "2026-08-30T12:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-end-of-oak-street",
-    "poster": "https://indy-systems.imgix.net/y774l62xaldr76lpaaxtt3vajaw2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27165187/",
-    "rating": 6.6
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-30T12:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "COYOTE VS. ACME",
-    "start": "2026-08-30T12:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-30T12:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-30T12:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-30T12:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-30T12:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-30T12:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-30T12:50:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "THE MUMMY (1999)",
-    "start": "2026-08-30T13:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/2FB7955A1E04CADB3BD902BDEFE59AE3BBE4CDF349D530BA8F38A1F3E84CBF15_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0120616/",
-    "rating": 7.1
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-08-30T13:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.5
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-30T13:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-30T13:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-30T13:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Tony",
-    "start": "2026-08-30T13:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/tony",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-30T13:30:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/tony",
-    "poster": "https://indy-systems.imgix.net/gaclmq4yg1mb302wzk9jqr2k2qzo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "Tony",
-    "start": "2026-08-30T13:30:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19281?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001588&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-08-30T13:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.2
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-30T13:45:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19280?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "The Marching Band",
-    "start": "2026-08-30T14:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
-    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30327451/",
-    "rating": 7.4
-  },
-  {
-    "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
-    "start": "2026-08-30T14:00:00-07:00",
-    "theater": "PAM CUT / Whitsell",
-    "url": "https://portlandartmuseum.org/event/the-lord-of-the-rings-the-fellowship-of-the-ring-2001/",
-    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/07/Lord-of-the-Rings-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt0120737/",
-    "rating": 8.9
-  },
-  {
-    "title": "DOG STARS",
-    "start": "2026-08-30T14:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.5
-  },
-  {
-    "title": "The Wrong Girls",
-    "start": "2026-08-30T14:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
-    "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.0
-  },
-  {
-    "title": "HARRY POTTER PRISONER OF",
-    "start": "2026-08-30T14:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/7480C6F82AB5A1976FD815C1FFC8ECA3FF12BA0C91D7B6BB29E29E4CCA43EE2B_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Spa Weekend",
-    "start": "2026-08-30T14:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spa-weekend",
-    "poster": "https://indy-systems.imgix.net/rbsvz3wmj8ttdczlz5rvr9oe7yse?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33305867/",
-    "rating": 5.5
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-30T14:30:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-30T14:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Modern TImes",
-    "start": "2026-08-30T15:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/modern-times",
-    "poster": "https://indy-systems.imgix.net/xdxvwhru2birp7fzjzrcrpvhz0ye?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0027977/",
-    "rating": 8.5
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-30T15:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "THE DOG STARS",
-    "start": "2026-08-30T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-30T15:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-30T15:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "The Talented Mr. Ripley",
-    "start": "2026-08-30T15:30:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/the-talented-mr-ripley-2/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/08162121/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
-    "imdb": "https://www.imdb.com/title/tt0134119/",
-    "rating": 7.4
-  },
-  {
-    "title": "COYOTE VS. ACME",
-    "start": "2026-08-30T15:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-30T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-30T15:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "A BAY OF BLOOD (1971)",
-    "start": "2026-08-30T16:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDZhYjM0ZTctMTBmMi00OTk0LTlhZDMtMGJhODQzOWY0NWE0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0067656/",
-    "rating": 6.4
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-08-30T16:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.5
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-30T16:00:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/tony",
-    "poster": "https://indy-systems.imgix.net/gaclmq4yg1mb302wzk9jqr2k2qzo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-30T16:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-30T16:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-30T16:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Tony",
-    "start": "2026-08-30T16:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/tony",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-30T16:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "start": "2026-08-30T16:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-samurai-and-the-prisoner",
-    "poster": "https://indy-systems.imgix.net/hzy758hfhq63508nlelnni4fs7rz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt39602215/",
-    "rating": 7.1
-  },
-  {
-    "title": "Tony",
-    "start": "2026-08-30T16:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19264?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001588&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "The Wrong Girls",
-    "start": "2026-08-30T16:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
-    "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.0
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-30T16:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-08-30T16:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.2
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-30T16:35:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19265?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "The End of Oak Street",
-    "start": "2026-08-30T16:40:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-end-of-oak-street",
-    "poster": "https://indy-systems.imgix.net/y774l62xaldr76lpaaxtt3vajaw2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27165187/",
-    "rating": 6.6
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-30T16:45:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "Fantastic Mr. Fox",
-    "start": "2026-08-30T17:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/fantastic-mr-fox",
-    "poster": "https://indy-systems.imgix.net/csqtwkyvptk1vj1vnyszt08g53v0?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0432283/",
-    "rating": 7.9
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-30T17:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-30T17:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-30T17:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "Melange: A Queer and P.O.C. Variety Show",
-    "start": "2026-08-30T18:00:00-07:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/melange-a-queer-and-p-o-c-variety-show-10/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/08/melange-a-queer-and-p-o-c-variety-show-all-welcome.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "HARRY POTTER PRISONER OF",
-    "start": "2026-08-30T18:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/7480C6F82AB5A1976FD815C1FFC8ECA3FF12BA0C91D7B6BB29E29E4CCA43EE2B_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-08-30T18:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-30T18:30:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/tony",
-    "poster": "https://indy-systems.imgix.net/gaclmq4yg1mb302wzk9jqr2k2qzo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-30T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "The Marching Band",
-    "start": "2026-08-30T18:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
-    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30327451/",
-    "rating": 7.4
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-30T18:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-30T18:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-08-30T18:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.5
-  },
-  {
-    "title": "THE DOG STARS",
-    "start": "2026-08-30T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.5
-  },
-  {
-    "title": "Spa Weekend",
-    "start": "2026-08-30T18:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spa-weekend",
-    "poster": "https://indy-systems.imgix.net/rbsvz3wmj8ttdczlz5rvr9oe7yse?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33305867/",
-    "rating": 5.5
-  },
-  {
-    "title": "DOG STARS",
-    "start": "2026-08-30T18:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.5
-  },
-  {
-    "title": "JASON AND THE ARGONAUTS (1963)",
-    "start": "2026-08-30T19:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2YzZmFhNDgtOTE0MS00NTA1LTgzZDYtMGZiZWJiNTQxMGM3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0057197/",
-    "rating": 7.3
-  },
-  {
-    "title": "Tony",
-    "start": "2026-08-30T19:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/tony",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-30T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-08-30T19:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-30T19:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-30T19:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "Call Me by Your Name",
-    "start": "2026-08-30T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/call-me-by-your-name/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/05/08162746/mZ4gBdfkhP9tvLH1DO4m4HYtiyi-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt5726616/",
-    "rating": 7.8
-  },
-  {
-    "title": "Running Scared",
-    "start": "2026-08-30T19:10:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/running-scared",
-    "poster": "https://indy-systems.imgix.net/0p9cdzk805sub2sfg94xeew2l7pc?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0404390/",
-    "rating": 7.3
-  },
-  {
-    "title": "COYOTE VS. ACME",
-    "start": "2026-08-30T19:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-30T19:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-30T19:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "The Wrong Girls",
-    "start": "2026-08-30T19:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
-    "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 6.0
-  },
-  {
-    "title": "Tony",
-    "start": "2026-08-30T19:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19266?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001588&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-08-30T19:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.2
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-30T19:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-08-30T19:35:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19267?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001541&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-30T19:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-08-30T21:10:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "COYOTE VS. ACME",
-    "start": "2026-08-30T21:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-08-30T21:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.5
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-08-30T21:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-08-30T21:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.7
-  },
-  {
-    "title": "THE MUMMY (1999)",
-    "start": "2026-08-30T21:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/2FB7955A1E04CADB3BD902BDEFE59AE3BBE4CDF349D530BA8F38A1F3E84CBF15_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0120616/",
-    "rating": 7.1
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-08-30T21:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.2
-  },
-  {
-    "title": "TONY",
-    "start": "2026-08-30T22:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "DOG STARS",
-    "start": "2026-08-30T22:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.5
-  },
-  {
     "title": "SCHOOL OF ROCK",
     "start": "2026-08-31T11:00:00-07:00",
     "theater": "Moreland Theater",
@@ -3447,15 +2502,6 @@
     "rating": 8.0
   },
   {
-    "title": "Free Leonard Peltier x Native Arts and Cultures Foundation",
-    "start": "2026-09-03T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/free-leonard-peltier-x-native-arts-and-culture-foundation/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/27112729/UPDATED-FLP-POSTER-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt34966036/",
-    "rating": 7.6
-  },
-  {
     "title": "COYOTE VS. ACME",
     "start": "2026-09-03T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -3708,6 +2754,15 @@
     "rating": 6.2
   },
   {
+    "title": "THE SUN NEVER SETS",
+    "start": "2026-09-04T17:10:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-sun-never-sets",
+    "poster": "https://indy-systems.imgix.net/fl2qnzxym39hppd83ygd0afwsfv7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37818327/",
+    "rating": 6.7
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-09-04T17:20:00-07:00",
     "theater": "Studio One",
@@ -3718,7 +2773,7 @@
   },
   {
     "title": "COYOTE VS ACME",
-    "start": "2026-09-04T17:40:00-07:00",
+    "start": "2026-09-04T17:45:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
@@ -3814,6 +2869,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
     "rating": 6.5
+  },
+  {
+    "title": "THE IDIOTS",
+    "start": "2026-09-04T19:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-idiots",
+    "poster": "https://indy-systems.imgix.net/afobk6ps2gfkcel2gmvhgzj5u41j?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt6628920/",
+    "rating": 6.1
   },
   {
     "title": "INSIDIOUS OUT OF THE FURTHER",
@@ -4113,6 +3177,15 @@
     "rating": null
   },
   {
+    "title": "THE SUN NEVER SETS",
+    "start": "2026-09-05T14:50:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-sun-never-sets",
+    "poster": "https://indy-systems.imgix.net/fl2qnzxym39hppd83ygd0afwsfv7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37818327/",
+    "rating": 6.7
+  },
+  {
     "title": "TONY",
     "start": "2026-09-05T15:10:00-07:00",
     "theater": "Studio One",
@@ -4192,6 +3265,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32393988/",
     "rating": 6.2
+  },
+  {
+    "title": "THE IDIOTS",
+    "start": "2026-09-05T17:10:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-idiots",
+    "poster": "https://indy-systems.imgix.net/afobk6ps2gfkcel2gmvhgzj5u41j?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt6628920/",
+    "rating": 6.1
   },
   {
     "title": "ODYSSEY",
@@ -4300,6 +3382,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt21285562/",
     "rating": 6.5
+  },
+  {
+    "title": "THE SUN NEVER SETS",
+    "start": "2026-09-05T19:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-sun-never-sets",
+    "poster": "https://indy-systems.imgix.net/fl2qnzxym39hppd83ygd0afwsfv7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37818327/",
+    "rating": 6.7
   },
   {
     "title": "INSIDIOUS OUT OF THE FURTHER",
@@ -4581,6 +3672,15 @@
     "rating": 6.2
   },
   {
+    "title": "THE IDIOTS",
+    "start": "2026-09-06T14:20:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-idiots",
+    "poster": "https://indy-systems.imgix.net/afobk6ps2gfkcel2gmvhgzj5u41j?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt6628920/",
+    "rating": 6.1
+  },
+  {
     "title": "The Great Dictator",
     "start": "2026-09-06T14:30:00-07:00",
     "theater": "Cinemagic",
@@ -4597,15 +3697,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt34379051/",
     "rating": null
-  },
-  {
-    "title": "Sherman\u2019s March (4K Restoration)",
-    "start": "2026-09-06T15:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/shermans-march-4k-restoration/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/24115915/unnamed-1.jpg",
-    "imdb": "https://www.imdb.com/title/tt0091943/",
-    "rating": 7.2
   },
   {
     "title": "TONY",
@@ -4669,6 +3760,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/6275FCB20A195AE75E60E4FD16BADAFBE509A6709C8C997CC529209607963AB7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0087957/",
     "rating": 6.5
+  },
+  {
+    "title": "THE SUN NEVER SETS",
+    "start": "2026-09-06T16:40:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-sun-never-sets",
+    "poster": "https://indy-systems.imgix.net/fl2qnzxym39hppd83ygd0afwsfv7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37818327/",
+    "rating": 6.7
   },
   {
     "title": "INSIDIOUS OUT OF THE FURTHER",
@@ -4741,6 +3841,15 @@
     "poster": "https://indy-systems.imgix.net/vpit6qut4ob1acwxsmrfd7is5g60?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt34385135/",
     "rating": 6.5
+  },
+  {
+    "title": "THE IDIOTS",
+    "start": "2026-09-06T19:00:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-idiots",
+    "poster": "https://indy-systems.imgix.net/afobk6ps2gfkcel2gmvhgzj5u41j?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt6628920/",
+    "rating": 6.1
   },
   {
     "title": "CABARET 50TH",
@@ -4978,7 +4087,7 @@
   },
   {
     "title": "TONY",
-    "start": "2026-09-07T15:10:00-07:00",
+    "start": "2026-09-07T15:15:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
@@ -5058,6 +4167,15 @@
     "rating": 6.2
   },
   {
+    "title": "THE SUN NEVER SETS",
+    "start": "2026-09-07T17:10:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-sun-never-sets",
+    "poster": "https://indy-systems.imgix.net/fl2qnzxym39hppd83ygd0afwsfv7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37818327/",
+    "rating": 6.7
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-09-07T17:15:00-07:00",
     "theater": "Studio One",
@@ -5068,7 +4186,7 @@
   },
   {
     "title": "COYOTE VS ACME",
-    "start": "2026-09-07T17:30:00-07:00",
+    "start": "2026-09-07T17:40:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
@@ -5077,7 +4195,7 @@
   },
   {
     "title": "TONY",
-    "start": "2026-09-07T18:00:00-07:00",
+    "start": "2026-09-07T18:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
@@ -5146,6 +4264,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/121D8FFD1190CA9C9CFB2A1226DF051F83A387FA8D1693D927E7A88D9D436A0D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0088993/",
     "rating": 7.1
+  },
+  {
+    "title": "THE IDIOTS",
+    "start": "2026-09-07T19:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-idiots",
+    "poster": "https://indy-systems.imgix.net/afobk6ps2gfkcel2gmvhgzj5u41j?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt6628920/",
+    "rating": 6.1
   },
   {
     "title": "INSIDIOUS OUT OF THE FURTHER",
@@ -5337,6 +4464,15 @@
     "rating": 6.2
   },
   {
+    "title": "THE IDIOTS",
+    "start": "2026-09-08T17:10:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-idiots",
+    "poster": "https://indy-systems.imgix.net/afobk6ps2gfkcel2gmvhgzj5u41j?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt6628920/",
+    "rating": 6.1
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-09-08T17:15:00-07:00",
     "theater": "Studio One",
@@ -5434,6 +4570,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZWJlODViYTUtMzY3MS00ZDRlLTkzODQtMDdiOTBiN2E0MDA5XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0114681/",
     "rating": 6.8
+  },
+  {
+    "title": "THE SUN NEVER SETS",
+    "start": "2026-09-08T19:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-sun-never-sets",
+    "poster": "https://indy-systems.imgix.net/fl2qnzxym39hppd83ygd0afwsfv7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt37818327/",
+    "rating": 6.7
   },
   {
     "title": "INSIDIOUS OUT OF THE FURTHER",
@@ -5688,11 +4833,11 @@
     "rating": null
   },
   {
-    "title": "SCIENCE ON TAP - HOW TO THINK LIKE A VOLCANO",
+    "title": "MALOMBRA (1942) (Church of Film)",
     "start": "2026-09-09T19:00:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/science-on-tap---how-to-think-like-a-volcano",
-    "poster": "https://indy-systems.imgix.net/tmqr8yqsn67kvd3zv1fmv3kon8z7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/malombra-1942-church-of-film/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/08/cof_malombra.jpg",
     "imdb": null,
     "rating": null
   },
@@ -5956,15 +5101,6 @@
     "poster": "https://omsi.edu/wp-content/uploads/2026/08/09.10.26-Titanic-Deep-Ocean-Young-2.jpg",
     "imdb": null,
     "rating": null
-  },
-  {
-    "title": "By Hook or by Crook x Lesbian Cinema Club",
-    "start": "2026-09-10T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/by-hook-or-by-crook-x-lesbian-cinema-club/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/07114459/vnXJwknZCuuQ4ebX8Mr60FgN8Jd.jpg",
-    "imdb": "https://www.imdb.com/title/tt0290498/",
-    "rating": 5.9
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -7128,6 +6264,15 @@
     "rating": 6.9
   },
   {
+    "title": "SALOME (1972) (Church of Film)",
+    "start": "2026-09-16T19:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/salome-1972-church-of-film/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/08/sof_Salome-Poster.png",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-16T19:00:00-07:00",
     "theater": "Moreland Theater",
@@ -7521,6 +6666,15 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": null
+  },
+  {
+    "title": "Maddie\u2019s Secret",
+    "start": "2026-09-19T14:30:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/maddies-secret/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/07102457/gtssK2SacGjpj2psN0Ee2TcTgso.jpg",
+    "imdb": "https://www.imdb.com/title/tt37675037/",
     "rating": null
   },
   {
@@ -8307,6 +7461,15 @@
     "rating": 8.3
   },
   {
+    "title": "ARCANA (1972) (Church of Film)",
+    "start": "2026-09-23T19:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/arcana-1972-church-of-film-2/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/08/cof_Arcana.png",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Reel Eats: Crazy Rich Asians",
     "start": "2026-09-23T19:00:00-07:00",
     "theater": "OMSI Empirical Theater",
@@ -8314,15 +7477,6 @@
     "poster": "https://omsi.edu/wp-content/uploads/2026/08/images-1.jpg",
     "imdb": null,
     "rating": null
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World \u2013 Encore Screening",
-    "start": "2026-09-23T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/mary-oliver-saved-by-the-beauty-of-the-world-2/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/08/13144313/aAZ7Ih2tU65y55CfE0nIFSaow4n-1-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt39643966/",
-    "rating": 7.4
   },
   {
     "title": "RESIDENT EVIL",
@@ -8649,15 +7803,6 @@
     "rating": null
   },
   {
-    "title": "The Bride!",
-    "start": "2026-09-26T15:30:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/the-bride/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/24112934/lV8YHwGkYZsm6EfIqnhaSz2avKt-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt30851137/",
-    "rating": 5.6
-  },
-  {
     "title": "MY NEIGHBOR TOTORO (DUB)",
     "start": "2026-09-26T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -8863,5 +8008,50 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTFkMDYyOTYtMDlkZi00MjkzLTllNDktMzAzODY4NjUxNjhmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0081635/",
     "rating": 6.6
+  },
+  {
+    "title": "THE BATTLE OF ALGIERS (1966)",
+    "start": "2026-09-30T13:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0058946/",
+    "rating": 8.1
+  },
+  {
+    "title": "TIMES SQUARE (1980)",
+    "start": "2026-09-30T16:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTFkMDYyOTYtMDlkZi00MjkzLTllNDktMzAzODY4NjUxNjhmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0081635/",
+    "rating": 6.6
+  },
+  {
+    "title": "NIGHT VOICES (1995) Episodes 1 & 2 (Church of Film)",
+    "start": "2026-09-30T19:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/night-voices-1995-episodes-1-2-church-of-film/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/08/cof_Night-Voices-Poster-not-by-Em.png",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "MOMS UNHINGED STANDUP COMEDY SHOW SEPTEMBER 2026",
+    "start": "2026-09-30T19:00:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/moms-unhinged-standup-comedy-show-september-2026",
+    "poster": "https://indy-systems.imgix.net/ev32vadpdya9oh8rnq31o6f463cf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "MY NEIGHBOR TOTORO (SUB)",
+    "start": "2026-09-30T19:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0096283/",
+    "rating": 8.1
   }
 ]

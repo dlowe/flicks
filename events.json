@@ -1,708 +1,6 @@
 [
   {
     "title": "The Marching Band",
-    "start": "2026-09-08T11:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
-    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30327451/",
-    "rating": 7.4
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-09-08T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.4
-  },
-  {
-    "title": "Late Fame",
-    "start": "2026-09-08T12:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
-    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32298494/",
-    "rating": 6.9
-  },
-  {
-    "title": "By Any Means",
-    "start": "2026-09-08T12:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
-    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt34379051/",
-    "rating": 6.8
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-09-08T12:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "The Salt Path",
-    "start": "2026-09-08T12:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-salt-path",
-    "poster": "https://indy-systems.imgix.net/zyjw8kyikzqtrsuqmr1niyyrs1yx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27766440/",
-    "rating": 6.6
-  },
-  {
-    "title": "COYOTE VS. ACME",
-    "start": "2026-09-08T12:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.6
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-09-08T12:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "BREATHLESS (1960)",
-    "start": "2026-09-08T13:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/0955B0051F0F6A29CF971FC02FCF70625776BFC23881C99EAEDDAA5CB7BE9373_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0053472/",
-    "rating": 7.6
-  },
-  {
-    "title": "The Marching Band",
-    "start": "2026-09-08T14:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
-    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30327451/",
-    "rating": 7.4
-  },
-  {
-    "title": "GREASE",
-    "start": "2026-09-08T14:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E880E238B86F4D2DA5EFC64FEE949011D715150166339B18D69689EEF5A44BAA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0077631/",
-    "rating": 7.2
-  },
-  {
-    "title": "Late Fame",
-    "start": "2026-09-08T14:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
-    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32298494/",
-    "rating": 6.9
-  },
-  {
-    "title": "By Any Means",
-    "start": "2026-09-08T14:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
-    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt34379051/",
-    "rating": 6.8
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-09-08T14:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "TONY",
-    "start": "2026-09-08T15:10:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-09-08T15:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-09-08T15:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "THE DOG STARS",
-    "start": "2026-09-08T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-09-08T15:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.4
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-09-08T15:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.6
-  },
-  {
-    "title": "COYOTE VS. ACME",
-    "start": "2026-09-08T15:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.6
-  },
-  {
-    "title": "TONY",
-    "start": "2026-09-08T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-09-08T15:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.2
-  },
-  {
-    "title": "DAY OF THE DEAD (1985)",
-    "start": "2026-09-08T16:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/121D8FFD1190CA9C9CFB2A1226DF051F83A387FA8D1693D927E7A88D9D436A0D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0088993/",
-    "rating": 7.1
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-09-08T16:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.5
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-09-08T16:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-09-08T16:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Tony",
-    "start": "2026-09-08T16:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/tony",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-09-08T16:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.6
-  },
-  {
-    "title": "The Wrong Girls",
-    "start": "2026-09-08T16:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
-    "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 5.5
-  },
-  {
-    "title": "DOG STARS",
-    "start": "2026-09-08T16:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.5
-  },
-  {
-    "title": "Colony",
-    "start": "2026-09-08T16:20:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/colony",
-    "poster": "https://indy-systems.imgix.net/vpit6qut4ob1acwxsmrfd7is5g60?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt34385135/",
-    "rating": 6.5
-  },
-  {
-    "title": "The Salt Path",
-    "start": "2026-09-08T16:25:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-salt-path",
-    "poster": "https://indy-systems.imgix.net/zyjw8kyikzqtrsuqmr1niyyrs1yx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27766440/",
-    "rating": 6.6
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-09-08T16:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "GREASE 2",
-    "start": "2026-09-08T16:30:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/AE94B53928EA8E35E18F4C66902B4D96560199E28D2BD2F0CE9F10C11E64286A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0084021/",
-    "rating": 4.6
-  },
-  {
-    "title": "Onslaught",
-    "start": "2026-09-08T16:30:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19311?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001610&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt32268691/",
-    "rating": 6.3
-  },
-  {
-    "title": "Coyote vs. Acme",
-    "start": "2026-09-08T16:45:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19309?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.6
-  },
-  {
-    "title": "By Any Means",
-    "start": "2026-09-08T16:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
-    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt34379051/",
-    "rating": 6.8
-  },
-  {
-    "title": "IDIOTS",
-    "start": "2026-09-08T17:10:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/the-idiots",
-    "poster": "https://indy-systems.imgix.net/afobk6ps2gfkcel2gmvhgzj5u41j?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt6628920/",
-    "rating": 6.2
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-09-08T17:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-09-08T17:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.6
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-09-08T18:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.4
-  },
-  {
-    "title": "TONY",
-    "start": "2026-09-08T18:10:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "THE DOG STARS",
-    "start": "2026-09-08T18:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/30DA5526E9974C44E3D076A8E3662CA8952A9BA376D18399EA2FE212676752A0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.5
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-09-08T18:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.4
-  },
-  {
-    "title": "TONY",
-    "start": "2026-09-08T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "The Marching Band",
-    "start": "2026-09-08T18:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
-    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30327451/",
-    "rating": 7.4
-  },
-  {
-    "title": "BY ANY MEANS",
-    "start": "2026-09-08T18:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34379051/",
-    "rating": 6.8
-  },
-  {
-    "title": "The Invite",
-    "start": "2026-09-08T18:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-invite",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_45735fb3-5de0-4a9d-b969-d4647a47b82f.jpg",
-    "imdb": "https://www.imdb.com/title/tt14173636/",
-    "rating": 7.5
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-09-08T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "The Salt Path",
-    "start": "2026-09-08T18:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-salt-path",
-    "poster": "https://indy-systems.imgix.net/zyjw8kyikzqtrsuqmr1niyyrs1yx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27766440/",
-    "rating": 6.6
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-09-08T18:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.2
-  },
-  {
-    "title": "COYOTE VS. ACME",
-    "start": "2026-09-08T19:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.6
-  },
-  {
-    "title": "Tony",
-    "start": "2026-09-08T19:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/tony",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "The Great Dictator",
-    "start": "2026-09-08T19:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/the-great-dictator-2",
-    "poster": "https://indy-systems.imgix.net/h4tn0mr57to6u3bzih14hpi4xvx0?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0032553/",
-    "rating": 8.4
-  },
-  {
-    "title": "My Friend the Terrorist: A Tale of Love and Revolution",
-    "start": "2026-09-08T19:00:00-07:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/my-friend-the-terrorist-a-tale-of-love-and-revolution/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/08/03E5FF79-EE90-451E-BCBD-8EC0F1723A53.jpg",
-    "imdb": "https://www.imdb.com/title/tt38592482/",
-    "rating": null
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-09-08T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.6
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "start": "2026-09-08T19:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/spider-man-brand-new-day",
-    "poster": "https://indy-systems.imgix.net/ttq66pav209nc1gsopqpj5qjxvi6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "CABARET 50TH",
-    "start": "2026-09-08T19:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3674ED250F771EF1706B85D32DFE9E846892EA8747CDF2DC831F9EC6E535710F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0068327/",
-    "rating": 7.8
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-09-08T19:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "start": "2026-09-08T19:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-09-08T19:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "By Any Means",
-    "start": "2026-09-08T19:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
-    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt34379051/",
-    "rating": 6.8
-  },
-  {
-    "title": "Coyote vs. Acme",
-    "start": "2026-09-08T19:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19312?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.6
-  },
-  {
-    "title": "DOG STARS",
-    "start": "2026-09-08T19:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.5
-  },
-  {
-    "title": "TO DIE FOR (1995)",
-    "start": "2026-09-08T19:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWJlODViYTUtMzY3MS00ZDRlLTkzODQtMDdiOTBiN2E0MDA5XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0114681/",
-    "rating": 6.8
-  },
-  {
-    "title": "THE SUN NEVER SETS",
-    "start": "2026-09-08T19:30:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/the-sun-never-sets",
-    "poster": "https://indy-systems.imgix.net/fl2qnzxym39hppd83ygd0afwsfv7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37818327/",
-    "rating": 6.6
-  },
-  {
-    "title": "Late Fame",
-    "start": "2026-09-08T19:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
-    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32298494/",
-    "rating": 6.9
-  },
-  {
-    "title": "Onslaught",
-    "start": "2026-09-08T19:35:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19420?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001610&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt32268691/",
-    "rating": 6.3
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-09-08T20:25:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.6
-  },
-  {
-    "title": "SPIDER MAN BRAND NEW DAY",
-    "start": "2026-09-08T20:55:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt22084616/",
-    "rating": 8.0
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-09-08T21:10:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.4
-  },
-  {
-    "title": "PURPLE RAIN",
-    "start": "2026-09-08T21:30:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6275FCB20A195AE75E60E4FD16BADAFBE509A6709C8C997CC529209607963AB7_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0087957/",
-    "rating": 6.5
-  },
-  {
-    "title": "Colony",
-    "start": "2026-09-08T21:35:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/colony",
-    "poster": "https://indy-systems.imgix.net/vpit6qut4ob1acwxsmrfd7is5g60?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt34385135/",
-    "rating": 6.5
-  },
-  {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-09-08T21:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.2
-  },
-  {
-    "title": "BY ANY MEANS",
-    "start": "2026-09-08T21:50:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34379051/",
-    "rating": 6.8
-  },
-  {
-    "title": "DOG STARS",
-    "start": "2026-09-08T22:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.5
-  },
-  {
-    "title": "TONY",
-    "start": "2026-09-08T22:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.6
-  },
-  {
-    "title": "The Marching Band",
     "start": "2026-09-09T11:45:00-07:00",
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
@@ -817,6 +115,15 @@
     "poster": "https://indy-systems.imgix.net/t7lse7u3dt1rlps538syicrao82y?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35298123/",
     "rating": 7.2
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-09T15:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
   },
   {
     "title": "COYOTE VS ACME",
@@ -960,16 +267,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-wrong-girls",
     "poster": "https://indy-systems.imgix.net/0h1aqp16xts4opn7ey6bfwbcmas4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35060353/",
-    "rating": 5.5
-  },
-  {
-    "title": "DOG STARS",
-    "start": "2026-09-09T16:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt21285562/",
-    "rating": 6.5
+    "rating": 5.4
   },
   {
     "title": "The Salt Path",
@@ -1005,7 +303,16 @@
     "url": "https://ticketing.useast.veezi.com/purchase/19315?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001610&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt32268691/",
-    "rating": 6.3
+    "rating": 6.2
+  },
+  {
+    "title": "INSIDIOUS OUT OF THE FURTHER",
+    "start": "2026-09-09T16:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32393988/",
+    "rating": 6.2
   },
   {
     "title": "Coyote vs. Acme",
@@ -1026,13 +333,13 @@
     "rating": 6.8
   },
   {
-    "title": "INSIDIOUS OUT OF THE FURTHER",
-    "start": "2026-09-09T17:00:00-07:00",
+    "title": "TONY",
+    "start": "2026-09-09T17:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/93B19DFF7716089AC7CE57BB01908BE0A147465943886CBBCF0711F469D2F83B_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32393988/",
-    "rating": 6.2
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -1284,7 +591,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/19421?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001610&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt32268691/",
-    "rating": 6.3
+    "rating": 6.2
   },
   {
     "title": "INSIDIOUS OUT OF THE FURTHER",
@@ -1476,6 +783,24 @@
     "rating": 7.2
   },
   {
+    "title": "DOG STARS",
+    "start": "2026-09-10T15:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-10T15:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
     "title": "HOPE",
     "start": "2026-09-10T15:15:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -1548,6 +873,15 @@
     "rating": 7.6
   },
   {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-10T15:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
     "title": "TO DIE FOR (1995)",
     "start": "2026-09-10T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -1572,6 +906,15 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-10T16:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22713FE6F9F42ACA4E83BD6386CCB676A877CA6501ADA06DDAA8C5FC11268B3C_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
     "rating": 7.6
   },
   {
@@ -1629,13 +972,13 @@
     "rating": null
   },
   {
-    "title": "Onslaught",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-10T16:20:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19323?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001610&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt32268691/",
-    "rating": 6.3
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
   },
   {
     "title": "The Salt Path",
@@ -1654,6 +997,15 @@
     "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt34379051/",
     "rating": 6.8
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-10T17:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/62DB51E461662C59594BFD1F9E930DC8061D26C87FBEC9082F77832D61885030_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -1845,13 +1197,22 @@
     "rating": null
   },
   {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-10T19:05:00-07:00",
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-10T19:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": null
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "By Hook or by Crook x Lesbian Cinema Club",
+    "start": "2026-09-10T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/by-hook-or-by-crook-x-lesbian-cinema-club/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/07114459/vnXJwknZCuuQ4ebX8Mr60FgN8Jd.jpg",
+    "imdb": "https://www.imdb.com/title/tt0290498/",
+    "rating": 5.9
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -1915,6 +1276,15 @@
     "poster": "https://indy-systems.imgix.net/zyjw8kyikzqtrsuqmr1niyyrs1yx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt27766440/",
     "rating": 6.6
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-10T19:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -1998,6 +1368,69 @@
     "rating": 6.9
   },
   {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-10T22:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "DOG STARS",
+    "start": "2026-09-10T22:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F67DE044449BF5F364455E16481A914BFE80869AB0543795D18DA13E0837DAD3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21285562/",
+    "rating": 6.5
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-11T11:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-11T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-11T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "The Salt Path",
+    "start": "2026-09-11T12:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-salt-path",
+    "poster": "https://indy-systems.imgix.net/zyjw8kyikzqtrsuqmr1niyyrs1yx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27766440/",
+    "rating": 6.6
+  },
+  {
+    "title": "Hope",
+    "start": "2026-09-11T12:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-11T12:30:00-07:00",
     "theater": "Academy Theater",
@@ -2005,6 +1438,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-11T12:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
   },
   {
     "title": "COYOTE VS. ACME",
@@ -2034,6 +1476,24 @@
     "rating": 8.0
   },
   {
+    "title": "By Any Means",
+    "start": "2026-09-11T14:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "Late Fame",
+    "start": "2026-09-11T14:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
+  },
+  {
     "title": "HOPE",
     "start": "2026-09-11T14:30:00-07:00",
     "theater": "Studio One",
@@ -2061,6 +1521,15 @@
     "rating": null
   },
   {
+    "title": "Practical Magic 2",
+    "start": "2026-09-11T14:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
     "title": "BY ANY MEANS",
     "start": "2026-09-11T14:45:00-07:00",
     "theater": "Studio One",
@@ -2068,6 +1537,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt34379051/",
     "rating": 6.8
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-11T14:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-11T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -2080,6 +1567,15 @@
   },
   {
     "title": "Hope",
+    "start": "2026-09-11T15:20:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "Hope",
     "start": "2026-09-11T15:30:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/hope",
@@ -2089,12 +1585,30 @@
   },
   {
     "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-11T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-11T15:45:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-11T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "SCANNERS (1981)",
@@ -2113,6 +1627,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": 7.6
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-11T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-11T16:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
   },
   {
     "title": "COYOTE VS. ACME",
@@ -2135,6 +1667,15 @@
   {
     "title": "Practical Magic 2",
     "start": "2026-09-11T16:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-11T16:15:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19325?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001598&isHighRes=true",
@@ -2151,13 +1692,22 @@
     "rating": null
   },
   {
-    "title": "Onslaught",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-11T16:45:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19327?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001610&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt32268691/",
-    "rating": 6.3
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "The Marching Band",
+    "start": "2026-09-11T16:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
+    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30327451/",
+    "rating": 7.4
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -2176,6 +1726,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.4
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-11T17:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
   },
   {
     "title": "BY ANY MEANS",
@@ -2205,11 +1764,38 @@
     "rating": 6.9
   },
   {
+    "title": "HOPE",
+    "start": "2026-09-11T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-11T18:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-11T18:20:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-11T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
   },
@@ -2237,6 +1823,15 @@
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/tony",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-11T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": 7.6
   },
@@ -2286,6 +1881,15 @@
     "rating": 7.9
   },
   {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-11T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
     "title": "Practical Magic 2",
     "start": "2026-09-11T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -2331,6 +1935,15 @@
     "rating": 7.2
   },
   {
+    "title": "Late Fame",
+    "start": "2026-09-11T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
+  },
+  {
     "title": "Practical Magic 2",
     "start": "2026-09-11T19:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -2340,13 +1953,22 @@
     "rating": null
   },
   {
-    "title": "Buddy",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-11T19:35:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19328?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001613&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt37281055/",
-    "rating": 7.1
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-11T19:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -2385,6 +2007,15 @@
     "rating": null
   },
   {
+    "title": "HOPE",
+    "start": "2026-09-11T21:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "COYOTE VS. ACME",
     "start": "2026-09-11T21:15:00-07:00",
     "theater": "Academy Theater",
@@ -2401,6 +2032,15 @@
     "poster": "https://indy-systems.imgix.net/hr06xar2x2dpzfy9gtmchch6kr18?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35887048/",
     "rating": 6.3
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-11T21:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
   },
   {
     "title": "ODYSSEY",
@@ -2421,6 +2061,15 @@
     "rating": 6.9
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-09-11T21:20:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-11T21:25:00-07:00",
     "theater": "Studio One",
@@ -2439,6 +2088,15 @@
     "rating": 7.6
   },
   {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-11T21:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
     "title": "BATMAN: MASK OF THE PHANTASM",
     "start": "2026-09-11T21:35:00-07:00",
     "theater": "Academy Theater",
@@ -2448,6 +2106,15 @@
     "rating": 7.8
   },
   {
+    "title": "Late Fame",
+    "start": "2026-09-11T21:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
+  },
+  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "start": "2026-09-11T21:40:00-07:00",
     "theater": "Cinema 21",
@@ -2455,6 +2122,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
     "imdb": "https://www.imdb.com/title/tt35298123/",
     "rating": 7.2
+  },
+  {
+    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
+    "start": "2026-09-11T21:40:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.2
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-11T21:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -2484,6 +2169,15 @@
     "rating": null
   },
   {
+    "title": "By Any Means",
+    "start": "2026-09-11T22:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-11T22:35:00-07:00",
     "theater": "Studio One",
@@ -2493,6 +2187,15 @@
     "rating": null
   },
   {
+    "title": "BY ANY MEANS",
+    "start": "2026-09-12T09:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-12T09:05:00-07:00",
     "theater": "Studio One",
@@ -2500,6 +2203,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-12T09:35:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
   },
   {
     "title": "ODYSSEY",
@@ -2556,6 +2268,15 @@
     "rating": 7.5
   },
   {
+    "title": "By Any Means",
+    "start": "2026-09-12T11:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
     "title": "Hope",
     "start": "2026-09-12T12:00:00-07:00",
     "theater": "Cinema 21",
@@ -2563,6 +2284,42 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_43baf7fc-585c-4a21-ac29-1f12d05061c3.jpg",
     "imdb": "https://www.imdb.com/title/tt27369017/",
     "rating": 6.9
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-12T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-12T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-12T12:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
+  },
+  {
+    "title": "The Salt Path",
+    "start": "2026-09-12T12:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-salt-path",
+    "poster": "https://indy-systems.imgix.net/zyjw8kyikzqtrsuqmr1niyyrs1yx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27766440/",
+    "rating": 6.6
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -2574,6 +2331,24 @@
     "rating": null
   },
   {
+    "title": "HOPE",
+    "start": "2026-09-12T12:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "Hope",
+    "start": "2026-09-12T12:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-12T12:30:00-07:00",
     "theater": "Academy Theater",
@@ -2581,6 +2356,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-12T12:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-12T12:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
   },
   {
     "title": "COYOTE VS. ACME",
@@ -2592,6 +2385,15 @@
     "rating": 7.6
   },
   {
+    "title": "TONY",
+    "start": "2026-09-12T12:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
     "title": "BATMAN: MASK OF THE PHANTASM",
     "start": "2026-09-12T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -2599,6 +2401,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYjYwN2ZmZWYtMTdlNC00ZDQxLWEyNmUtZDI5Yjk5MzQ2N2Y3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0106364/",
     "rating": 7.8
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-12T13:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
   },
   {
     "title": "UPRISING",
@@ -2637,6 +2448,15 @@
     "rating": null
   },
   {
+    "title": "BY ANY MEANS",
+    "start": "2026-09-12T13:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
     "title": "Tony",
     "start": "2026-09-12T14:00:00-07:00",
     "theater": "Cinema 21",
@@ -2644,6 +2464,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": 7.6
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-12T14:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
   },
   {
     "title": "Romeo + Juliet",
@@ -2655,13 +2484,13 @@
     "rating": 6.7
   },
   {
-    "title": "Buddy",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-12T14:00:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19351?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001613&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt37281055/",
-    "rating": 7.1
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -2669,6 +2498,24 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "Late Fame",
+    "start": "2026-09-12T14:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-12T14:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
   },
@@ -2682,6 +2529,15 @@
     "rating": 6.9
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-09-12T14:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-12T15:05:00-07:00",
     "theater": "Studio One",
@@ -2689,6 +2545,33 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-12T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "Hope",
+    "start": "2026-09-12T15:20:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-12T15:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
   },
   {
     "title": "Hope",
@@ -2701,12 +2584,30 @@
   },
   {
     "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-12T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-12T15:45:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-12T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "HOWLS MOVING CASTLE DUB",
@@ -2716,6 +2617,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C0C19F7F588E90564E728648AA3DEE0478194B516B6C726598960AC2369D3E8B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0347149/",
     "rating": 8.2
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-12T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-12T16:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
   },
   {
     "title": "Lady Terminator x Brain Dead",
@@ -2734,6 +2653,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt1756855/",
     "rating": 7.6
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-12T16:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
   },
   {
     "title": "Practical Magic 2",
@@ -2781,13 +2709,31 @@
     "rating": 7.5
   },
   {
-    "title": "Onslaught",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-12T16:45:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19331?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001610&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt32268691/",
-    "rating": 6.3
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "The Marching Band",
+    "start": "2026-09-12T16:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
+    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30327451/",
+    "rating": 7.4
+  },
+  {
+    "title": "Wallace & Gromit: The Classic Shorts",
+    "start": "2026-09-12T17:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/wallace-gromit-the-classic-shorts",
+    "poster": "https://indy-systems.imgix.net/nymky1ouhfnnhwpkeihk8qnnapkm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -2799,6 +2745,15 @@
     "rating": null
   },
   {
+    "title": "BY ANY MEANS",
+    "start": "2026-09-12T17:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-09-12T17:20:00-07:00",
     "theater": "Studio One",
@@ -2806,6 +2761,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.4
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-12T17:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -2818,12 +2782,39 @@
   },
   {
     "title": "HOPE",
+    "start": "2026-09-12T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-12T18:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
+    "title": "HOPE",
     "start": "2026-09-12T18:25:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt27369017/",
     "rating": 6.9
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-12T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
   },
   {
     "title": "Hope",
@@ -2833,6 +2824,15 @@
     "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt27369017/",
     "rating": 6.9
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-12T18:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
   },
   {
     "title": "COYOTE VS. ACME",
@@ -2853,13 +2853,22 @@
     "rating": 7.6
   },
   {
-    "title": "The Uprising",
+    "title": "TONY",
     "start": "2026-09-12T18:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
-    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36983905/",
-    "rating": null
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-12T18:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
   },
   {
     "title": "SCANNERS (1981)",
@@ -2907,6 +2916,15 @@
     "rating": 7.9
   },
   {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-12T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
     "title": "Practical Magic 2",
     "start": "2026-09-12T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -2943,6 +2961,15 @@
     "rating": 7.2
   },
   {
+    "title": "Late Fame",
+    "start": "2026-09-12T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
+  },
+  {
     "title": "Practical Magic 2",
     "start": "2026-09-12T19:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -2961,13 +2988,22 @@
     "rating": null
   },
   {
-    "title": "Buddy",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-12T19:35:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19332?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001613&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt37281055/",
-    "rating": 7.1
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-12T19:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -2977,6 +3013,33 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-12T20:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "BY ANY MEANS",
+    "start": "2026-09-12T20:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-12T21:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -2995,6 +3058,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt1756855/",
     "rating": 7.6
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-12T21:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
   },
   {
     "title": "Don't Let Them Out",
@@ -3033,6 +3105,15 @@
     "rating": 7.6
   },
   {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-12T21:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
     "title": "BATMAN: MASK OF THE PHANTASM",
     "start": "2026-09-12T21:35:00-07:00",
     "theater": "Academy Theater",
@@ -3042,6 +3123,15 @@
     "rating": 7.8
   },
   {
+    "title": "Late Fame",
+    "start": "2026-09-12T21:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
+  },
+  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "start": "2026-09-12T21:40:00-07:00",
     "theater": "Cinema 21",
@@ -3049,6 +3139,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
     "imdb": "https://www.imdb.com/title/tt35298123/",
     "rating": 7.2
+  },
+  {
+    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
+    "start": "2026-09-12T21:40:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 7.2
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-12T21:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -3067,6 +3175,24 @@
     "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-12T22:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-12T22:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt22084616/",
+    "rating": 8.0
   },
   {
     "title": "HOPE",
@@ -3168,6 +3294,15 @@
     "rating": null
   },
   {
+    "title": "By Any Means",
+    "start": "2026-09-13T11:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
     "title": "Hope",
     "start": "2026-09-13T12:00:00-07:00",
     "theater": "Cinema 21",
@@ -3184,6 +3319,24 @@
     "poster": "https://indy-systems.imgix.net/1mm8ho0xnkia7czhsubir8gfysog?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0316396/",
     "rating": 6.8
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-13T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-13T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -3204,6 +3357,33 @@
     "rating": 7.5
   },
   {
+    "title": "The Salt Path",
+    "start": "2026-09-13T12:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-salt-path",
+    "poster": "https://indy-systems.imgix.net/zyjw8kyikzqtrsuqmr1niyyrs1yx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27766440/",
+    "rating": 6.6
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-13T12:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "Hope",
+    "start": "2026-09-13T12:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-13T12:15:00-07:00",
     "theater": "Studio One",
@@ -3220,6 +3400,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-13T12:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-13T12:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
   },
   {
     "title": "ROMAN HOLIDAY",
@@ -3249,6 +3447,15 @@
     "rating": 7.6
   },
   {
+    "title": "TONY",
+    "start": "2026-09-13T12:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
     "title": "HOWLS MOVING CASTLE DUB",
     "start": "2026-09-13T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -3256,6 +3463,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C0C19F7F588E90564E728648AA3DEE0478194B516B6C726598960AC2369D3E8B_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0347149/",
     "rating": 8.2
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-13T13:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
   },
   {
     "title": "ODYSSEY",
@@ -3303,6 +3519,15 @@
     "rating": 6.8
   },
   {
+    "title": "By Any Means",
+    "start": "2026-09-13T14:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
     "title": "Jane B. by Agn\u00e8s V. x Director Fits",
     "start": "2026-09-13T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -3312,13 +3537,13 @@
     "rating": null
   },
   {
-    "title": "Buddy",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-13T14:00:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19352?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001613&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt37281055/",
-    "rating": 7.1
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -3348,6 +3573,24 @@
     "rating": 7.5
   },
   {
+    "title": "Late Fame",
+    "start": "2026-09-13T14:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-13T14:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
     "title": "HOPE",
     "start": "2026-09-13T14:45:00-07:00",
     "theater": "Studio One",
@@ -3357,6 +3600,15 @@
     "rating": 6.9
   },
   {
+    "title": "The Odyssey",
+    "start": "2026-09-13T14:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
     "title": "BOOGIE NIGHTS",
     "start": "2026-09-13T15:15:00-07:00",
     "theater": "Kiggins Theatre",
@@ -3364,6 +3616,24 @@
     "poster": "https://indy-systems.imgix.net/jellnmb2lvdjrie1n8815bhchbyk?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0118749/",
     "rating": 7.9
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-13T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "Hope",
+    "start": "2026-09-13T15:20:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -3382,6 +3652,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_43baf7fc-585c-4a21-ac29-1f12d05061c3.jpg",
     "imdb": "https://www.imdb.com/title/tt27369017/",
     "rating": 6.9
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-13T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -3411,6 +3690,15 @@
     "rating": 7.6
   },
   {
+    "title": "TONY",
+    "start": "2026-09-13T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
     "title": "SCANNERS (1981)",
     "start": "2026-09-13T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -3418,6 +3706,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/ECB129191C5808D1454E41C24029CE09D686F16CB96A97AEF54F903907835BE8_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0081455/",
     "rating": 6.7
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-13T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-13T16:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
   },
   {
     "title": "Cookie Queens",
@@ -3440,6 +3746,15 @@
   {
     "title": "Practical Magic 2",
     "start": "2026-09-13T16:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-13T16:15:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19333?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001598&isHighRes=true",
@@ -3456,13 +3771,13 @@
     "rating": null
   },
   {
-    "title": "Onslaught",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-13T16:45:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19335?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001610&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt32268691/",
-    "rating": 6.3
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
   },
   {
     "title": "BY ANY MEANS",
@@ -3472,6 +3787,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt34379051/",
     "rating": 6.8
+  },
+  {
+    "title": "The Marching Band",
+    "start": "2026-09-13T16:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
+    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30327451/",
+    "rating": 7.4
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -3501,6 +3825,15 @@
     "rating": 8.4
   },
   {
+    "title": "By Any Means",
+    "start": "2026-09-13T17:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
     "title": "UPRISING",
     "start": "2026-09-13T17:40:00-07:00",
     "theater": "Studio One",
@@ -3519,11 +3852,29 @@
     "rating": null
   },
   {
+    "title": "HOPE",
+    "start": "2026-09-13T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-13T18:20:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-13T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
   },
@@ -3564,6 +3915,15 @@
     "rating": 7.6
   },
   {
+    "title": "TONY",
+    "start": "2026-09-13T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
     "title": "The Uprising",
     "start": "2026-09-13T18:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -3591,6 +3951,15 @@
     "rating": 6.9
   },
   {
+    "title": "Wallace & Gromit: The Classic Shorts",
+    "start": "2026-09-13T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/wallace-gromit-the-classic-shorts",
+    "poster": "https://indy-systems.imgix.net/nymky1ouhfnnhwpkeihk8qnnapkm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "THE SMALL BACK ROOM",
     "start": "2026-09-13T19:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -3598,6 +3967,15 @@
     "poster": "https://indy-systems.imgix.net/rhiyihk7lnvst1og3cx0gwx46q45?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0041886/",
     "rating": 7.1
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-13T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
   },
   {
     "title": "Practical Magic 2",
@@ -3636,6 +4014,15 @@
     "rating": null
   },
   {
+    "title": "Late Fame",
+    "start": "2026-09-13T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
+  },
+  {
     "title": "Practical Magic 2",
     "start": "2026-09-13T19:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -3654,13 +4041,22 @@
     "rating": 7.2
   },
   {
-    "title": "Buddy",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-13T19:35:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19336?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001613&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt37281055/",
-    "rating": 7.1
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-13T19:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -3726,6 +4122,51 @@
     "rating": null
   },
   {
+    "title": "By Any Means",
+    "start": "2026-09-14T11:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-14T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-14T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "The Salt Path",
+    "start": "2026-09-14T12:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-salt-path",
+    "poster": "https://indy-systems.imgix.net/zyjw8kyikzqtrsuqmr1niyyrs1yx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27766440/",
+    "rating": 6.6
+  },
+  {
+    "title": "Hope",
+    "start": "2026-09-14T12:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-14T12:30:00-07:00",
     "theater": "Academy Theater",
@@ -3733,6 +4174,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-14T12:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
   },
   {
     "title": "COYOTE VS. ACME",
@@ -3753,6 +4203,42 @@
     "rating": 7.8
   },
   {
+    "title": "By Any Means",
+    "start": "2026-09-14T14:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "Late Fame",
+    "start": "2026-09-14T14:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-14T14:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-14T14:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
     "title": "ODYSSEY",
     "start": "2026-09-14T15:00:00-07:00",
     "theater": "Studio One",
@@ -3760,6 +4246,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.4
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-14T15:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-14T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -3772,12 +4276,39 @@
   },
   {
     "title": "Hope",
+    "start": "2026-09-14T15:20:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "BY ANY MEANS",
+    "start": "2026-09-14T15:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "Hope",
     "start": "2026-09-14T15:30:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/hope",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_43baf7fc-585c-4a21-ac29-1f12d05061c3.jpg",
     "imdb": "https://www.imdb.com/title/tt27369017/",
     "rating": 6.9
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-14T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -3798,6 +4329,15 @@
     "rating": null
   },
   {
+    "title": "TONY",
+    "start": "2026-09-14T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
     "title": "HOWLS MOVING CASTLE DUB",
     "start": "2026-09-14T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -3816,13 +4356,22 @@
     "rating": 7.6
   },
   {
-    "title": "BY ANY MEANS",
+    "title": "COYOTE VS ACME",
     "start": "2026-09-14T16:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34379051/",
-    "rating": 6.8
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-14T16:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
   },
   {
     "title": "COYOTE VS. ACME",
@@ -3845,6 +4394,15 @@
   {
     "title": "Practical Magic 2",
     "start": "2026-09-14T16:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-14T16:15:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19337?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001598&isHighRes=true",
@@ -3861,13 +4419,13 @@
     "rating": null
   },
   {
-    "title": "Onslaught",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-14T16:45:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19339?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001610&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt32268691/",
-    "rating": 6.3
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
   },
   {
     "title": "ROMAN HOLIDAY",
@@ -3879,6 +4437,24 @@
     "rating": 8.0
   },
   {
+    "title": "The Marching Band",
+    "start": "2026-09-14T16:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
+    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30327451/",
+    "rating": 7.4
+  },
+  {
+    "title": "Wallace & Gromit: The Classic Shorts",
+    "start": "2026-09-14T17:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/wallace-gromit-the-classic-shorts",
+    "poster": "https://indy-systems.imgix.net/nymky1ouhfnnhwpkeihk8qnnapkm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-14T17:05:00-07:00",
     "theater": "Studio One",
@@ -3886,6 +4462,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-14T17:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
   },
   {
     "title": "UPRISING",
@@ -3906,6 +4491,24 @@
     "rating": 6.9
   },
   {
+    "title": "HOPE",
+    "start": "2026-09-14T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-14T18:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-14T18:20:00-07:00",
     "theater": "Studio One",
@@ -3913,6 +4516,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-14T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "Hope",
+    "start": "2026-09-14T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -3931,6 +4552,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": 7.6
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-14T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-14T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
   },
   {
     "title": "BY ANY MEANS",
@@ -3969,6 +4608,24 @@
     "rating": 6.4
   },
   {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-14T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-14T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-14T19:00:00-07:00",
     "theater": "Moreland Theater",
@@ -4005,6 +4662,15 @@
     "rating": 7.2
   },
   {
+    "title": "Late Fame",
+    "start": "2026-09-14T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
+  },
+  {
     "title": "Practical Magic 2",
     "start": "2026-09-14T19:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -4032,13 +4698,22 @@
     "rating": 7.9
   },
   {
-    "title": "Buddy",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-14T19:35:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19340?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001613&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt37281055/",
-    "rating": 7.1
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-14T19:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -4104,6 +4779,51 @@
     "rating": null
   },
   {
+    "title": "By Any Means",
+    "start": "2026-09-15T11:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-15T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-15T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "The Salt Path",
+    "start": "2026-09-15T12:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-salt-path",
+    "poster": "https://indy-systems.imgix.net/zyjw8kyikzqtrsuqmr1niyyrs1yx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27766440/",
+    "rating": 6.6
+  },
+  {
+    "title": "Hope",
+    "start": "2026-09-15T12:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-15T12:30:00-07:00",
     "theater": "Academy Theater",
@@ -4111,6 +4831,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-15T12:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
   },
   {
     "title": "COYOTE VS. ACME",
@@ -4131,8 +4860,53 @@
     "rating": 6.7
   },
   {
-    "title": "ODYSSEY",
+    "title": "By Any Means",
+    "start": "2026-09-15T14:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "Late Fame",
+    "start": "2026-09-15T14:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-15T14:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-15T14:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
+    "title": "HOPE",
     "start": "2026-09-15T15:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-15T15:10:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
@@ -4140,22 +4914,40 @@
     "rating": 8.4
   },
   {
-    "title": "SPIDER MAN BRAND NEW DAY",
+    "title": "HOPE",
     "start": "2026-09-15T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "BY ANY MEANS",
+    "start": "2026-09-15T15:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "Hope",
+    "start": "2026-09-15T15:20:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "SPIDER MAN BRAND NEW DAY",
+    "start": "2026-09-15T15:20:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.0
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-15T15:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": null
   },
   {
     "title": "Hope",
@@ -4168,12 +4960,39 @@
   },
   {
     "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-15T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-15T15:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-15T15:45:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-15T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
   },
   {
     "title": "BATMAN: MASK OF THE PHANTASM",
@@ -4194,13 +5013,22 @@
     "rating": 7.6
   },
   {
-    "title": "BY ANY MEANS",
+    "title": "COYOTE VS ACME",
     "start": "2026-09-15T16:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34379051/",
-    "rating": 6.8
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-15T16:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
   },
   {
     "title": "COYOTE VS. ACME",
@@ -4223,6 +5051,15 @@
   {
     "title": "Practical Magic 2",
     "start": "2026-09-15T16:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-15T16:15:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19341?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001598&isHighRes=true",
@@ -4239,13 +5076,22 @@
     "rating": null
   },
   {
-    "title": "Onslaught",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-15T16:45:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19343?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001610&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt32268691/",
-    "rating": 6.3
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "The Marching Band",
+    "start": "2026-09-15T16:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
+    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30327451/",
+    "rating": 7.4
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -4255,6 +5101,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-15T17:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
   },
   {
     "title": "UPRISING",
@@ -4275,6 +5130,24 @@
     "rating": 6.9
   },
   {
+    "title": "HOPE",
+    "start": "2026-09-15T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-15T18:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-15T18:20:00-07:00",
     "theater": "Studio One",
@@ -4282,6 +5155,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-15T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "Hope",
+    "start": "2026-09-15T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -4300,6 +5191,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": 7.6
+  },
+  {
+    "title": "TONY",
+    "start": "2026-09-15T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D3A6D478AFFD9D63EAC6D791606AA1C50DAB23FC65F0036261B25E20B8CB888D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-15T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
   },
   {
     "title": "BY ANY MEANS",
@@ -4347,6 +5256,24 @@
     "rating": 6.5
   },
   {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-15T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-15T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-15T19:00:00-07:00",
     "theater": "Moreland Theater",
@@ -4383,6 +5310,15 @@
     "rating": 7.5
   },
   {
+    "title": "Late Fame",
+    "start": "2026-09-15T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
+  },
+  {
     "title": "Practical Magic 2",
     "start": "2026-09-15T19:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -4401,13 +5337,22 @@
     "rating": 8.2
   },
   {
-    "title": "Buddy",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-15T19:35:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19344?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001613&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt37281055/",
-    "rating": 7.1
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-15T19:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -4473,6 +5418,51 @@
     "rating": null
   },
   {
+    "title": "By Any Means",
+    "start": "2026-09-16T11:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-16T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-16T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "The Salt Path",
+    "start": "2026-09-16T12:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-salt-path",
+    "poster": "https://indy-systems.imgix.net/zyjw8kyikzqtrsuqmr1niyyrs1yx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27766440/",
+    "rating": 6.6
+  },
+  {
+    "title": "Hope",
+    "start": "2026-09-16T12:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-16T12:30:00-07:00",
     "theater": "Academy Theater",
@@ -4480,6 +5470,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-16T12:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
   },
   {
     "title": "COYOTE VS. ACME",
@@ -4500,13 +5499,49 @@
     "rating": 8.2
   },
   {
-    "title": "ODYSSEY",
-    "start": "2026-09-16T15:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "title": "By Any Means",
+    "start": "2026-09-16T14:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "Late Fame",
+    "start": "2026-09-16T14:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-16T14:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-16T14:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt33764258/",
     "rating": 8.4
+  },
+  {
+    "title": "HOPE (OPEN CAPTION)",
+    "start": "2026-09-16T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
   },
   {
     "title": "SPIDER MAN BRAND NEW DAY",
@@ -4519,12 +5554,48 @@
   },
   {
     "title": "Hope",
+    "start": "2026-09-16T15:20:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "BY ANY MEANS",
+    "start": "2026-09-16T15:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-16T15:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
+    "title": "Hope",
     "start": "2026-09-16T15:30:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/hope",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_43baf7fc-585c-4a21-ac29-1f12d05061c3.jpg",
     "imdb": "https://www.imdb.com/title/tt27369017/",
     "rating": 6.9
+  },
+  {
+    "title": "PRACTICAL MAGIC 2 (OPEN CAPTION)",
+    "start": "2026-09-16T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -4554,6 +5625,24 @@
     "rating": null
   },
   {
+    "title": "TONY (OPEN CAPTION)",
+    "start": "2026-09-16T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDc1NGEyMzAtZWNiNC00MDY0LTg2NmYtZWIxZmM0NTNhNjc0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "UPRISING",
+    "start": "2026-09-16T15:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/052027BD7A89C9CDD3B32A957BEDA05DAAB1E54D3C6CA834695DFE96EA0FEE75_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
+  },
+  {
     "title": "SCANNERS (1981)",
     "start": "2026-09-16T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -4563,13 +5652,22 @@
     "rating": 6.7
   },
   {
-    "title": "BY ANY MEANS",
+    "title": "COYOTE VS ACME (OPEN CAPTION)",
     "start": "2026-09-16T16:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34379051/",
-    "rating": 6.8
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-16T16:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
   },
   {
     "title": "COYOTE VS. ACME",
@@ -4588,6 +5686,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": 7.6
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-16T16:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
   },
   {
     "title": "Practical Magic 2",
@@ -4617,13 +5724,22 @@
     "rating": 7.0
   },
   {
-    "title": "Onslaught",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-16T16:45:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19347?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001610&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt32268691/",
-    "rating": 6.3
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "The Marching Band",
+    "start": "2026-09-16T16:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
+    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30327451/",
+    "rating": 7.4
   },
   {
     "title": "UPRISING",
@@ -4633,6 +5749,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/052027BD7A89C9CDD3B32A957BEDA05DAAB1E54D3C6CA834695DFE96EA0FEE75_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt36983905/",
     "rating": null
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-16T17:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -4653,6 +5778,24 @@
     "rating": 6.9
   },
   {
+    "title": "HOPE (OPEN CAPTION)",
+    "start": "2026-09-16T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-16T18:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-16T18:20:00-07:00",
     "theater": "Studio One",
@@ -4671,6 +5814,24 @@
     "rating": null
   },
   {
+    "title": "PRACTICAL MAGIC 2 (OPEN CAPTION)",
+    "start": "2026-09-16T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "Hope",
+    "start": "2026-09-16T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "Best of Fungi Film Festival",
     "start": "2026-09-16T18:30:00-07:00",
     "theater": "OMSI Empirical Theater",
@@ -4687,6 +5848,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/66A3E41E8DFA68AA1B67A1E0100346DDCFBA6779F800A4F38F3041C63C31FC94_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt22084616/",
     "rating": 8.0
+  },
+  {
+    "title": "TONY (OPEN CAPTION)",
+    "start": "2026-09-16T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDc1NGEyMzAtZWNiNC00MDY0LTg2NmYtZWIxZmM0NTNhNjc0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt33095251/",
+    "rating": 7.6
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-16T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
   },
   {
     "title": "BY ANY MEANS",
@@ -4734,6 +5913,24 @@
     "rating": null
   },
   {
+    "title": "COYOTE VS ACME (OPEN CAPTION)",
+    "start": "2026-09-16T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-16T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-16T19:00:00-07:00",
     "theater": "Moreland Theater",
@@ -4759,6 +5956,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
     "imdb": "https://www.imdb.com/title/tt33095251/",
     "rating": 7.6
+  },
+  {
+    "title": "Late Fame",
+    "start": "2026-09-16T19:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
   },
   {
     "title": "Practical Magic 2",
@@ -4788,13 +5994,22 @@
     "rating": 7.8
   },
   {
-    "title": "Buddy",
+    "title": "Coyote vs. Acme",
     "start": "2026-09-16T19:35:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19348?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001613&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt37281055/",
-    "rating": 7.1
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001576&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-16T19:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
   },
   {
     "title": "UPRISING",
@@ -4851,6 +6066,51 @@
     "rating": 6.8
   },
   {
+    "title": "By Any Means",
+    "start": "2026-09-17T11:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-17T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-17T12:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "The Salt Path",
+    "start": "2026-09-17T12:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-salt-path",
+    "poster": "https://indy-systems.imgix.net/zyjw8kyikzqtrsuqmr1niyyrs1yx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27766440/",
+    "rating": 6.6
+  },
+  {
+    "title": "Hope",
+    "start": "2026-09-17T12:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-17T12:30:00-07:00",
     "theater": "Academy Theater",
@@ -4858,6 +6118,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": null
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-17T12:35:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
   },
   {
     "title": "COYOTE VS. ACME",
@@ -4878,6 +6147,69 @@
     "rating": 7.8
   },
   {
+    "title": "By Any Means",
+    "start": "2026-09-17T14:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "Late Fame",
+    "start": "2026-09-17T14:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-17T14:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-17T14:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
+    "title": "HOPE",
+    "start": "2026-09-17T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "ODYSSEY",
+    "start": "2026-09-17T15:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
+    "title": "Hope",
+    "start": "2026-09-17T15:20:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/hope",
+    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
     "title": "Hope",
     "start": "2026-09-17T15:30:00-07:00",
     "theater": "Cinema 21",
@@ -4885,6 +6217,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_43baf7fc-585c-4a21-ac29-1f12d05061c3.jpg",
     "imdb": "https://www.imdb.com/title/tt27369017/",
     "rating": 6.9
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-17T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -4914,6 +6255,15 @@
     "rating": null
   },
   {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-17T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
     "title": "SCANNERS (1981)",
     "start": "2026-09-17T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -4923,11 +6273,29 @@
     "rating": 6.7
   },
   {
+    "title": "The Uprising",
+    "start": "2026-09-17T16:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": null
+  },
+  {
     "title": "RESIDENT EVIL",
     "start": "2026-09-17T16:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": null
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-09-17T16:10:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt35538033/",
     "rating": null
   },
@@ -4959,6 +6327,15 @@
     "rating": 7.4
   },
   {
+    "title": "Practical Magic 2",
+    "start": "2026-09-17T16:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-17T16:20:00-07:00",
     "theater": "Moreland Theater",
@@ -4977,6 +6354,15 @@
     "rating": null
   },
   {
+    "title": "The Marching Band",
+    "start": "2026-09-17T16:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
+    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt30327451/",
+    "rating": 7.4
+  },
+  {
     "title": "Resident Evil",
     "start": "2026-09-17T17:00:00-07:00",
     "theater": "St. Johns Cinema",
@@ -4991,6 +6377,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/C970EEA1DF76085741A307044086CF2F41CAF4F85278E7DFA7AA6655CC66735F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34379051/",
+    "rating": 6.8
+  },
+  {
+    "title": "By Any Means",
+    "start": "2026-09-17T17:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/by-any-means",
+    "poster": "https://indy-systems.imgix.net/mgk5ivf8wkojjz2mpuhc55tndjh4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt34379051/",
     "rating": 6.8
   },
@@ -5013,6 +6408,24 @@
     "rating": 6.9
   },
   {
+    "title": "HOPE",
+    "start": "2026-09-17T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.9
+  },
+  {
+    "title": "The Odyssey",
+    "start": "2026-09-17T18:15:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
+    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-17T18:20:00-07:00",
     "theater": "Studio One",
@@ -5023,11 +6436,47 @@
   },
   {
     "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-17T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "The Weight",
+    "start": "2026-09-17T18:30:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-weight",
+    "poster": "https://indy-systems.imgix.net/s4kcc10st8p1ofhuw4forqpf03ub?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt10794054/",
+    "rating": 6.9
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-17T18:45:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
+  },
+  {
+    "title": "COYOTE VS ACME",
+    "start": "2026-09-17T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1756855/",
+    "rating": 7.6
+  },
+  {
+    "title": "The Uprising",
+    "start": "2026-09-17T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
+    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
     "rating": null
   },
   {
@@ -5074,6 +6523,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/04/shrek-the-third.jpg",
     "imdb": "https://www.imdb.com/title/tt0413267/",
     "rating": 6.1
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-09-17T19:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": null
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -5130,13 +6588,22 @@
     "rating": 7.6
   },
   {
-    "title": "The Weight",
+    "title": "RESIDENT EVIL",
+    "start": "2026-09-17T19:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": null
+  },
+  {
+    "title": "The Blue Trail",
     "start": "2026-09-17T19:15:00-07:00",
     "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-weight",
-    "poster": "https://indy-systems.imgix.net/s4kcc10st8p1ofhuw4forqpf03ub?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt10794054/",
-    "rating": 6.9
+    "url": "https://pdx.livingroomtheaters.com/movie/the-blue-trail",
+    "poster": "https://indy-systems.imgix.net/iv6rcxk7r6r9ck8g6i8dio3jkmtf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt35340614/",
+    "rating": 7.0
   },
   {
     "title": "Practical Magic 2",
@@ -5148,6 +6615,15 @@
     "rating": null
   },
   {
+    "title": "ODYSSEY",
+    "start": "2026-09-17T19:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
     "title": "Resident Evil",
     "start": "2026-09-17T19:35:00-07:00",
     "theater": "St. Johns Cinema",
@@ -5155,6 +6631,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt35538033/",
     "rating": null
+  },
+  {
+    "title": "Late Fame",
+    "start": "2026-09-17T19:40:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
+    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32298494/",
+    "rating": 6.9
   },
   {
     "title": "BY ANY MEANS",
@@ -5865,7 +7350,7 @@
     "url": "https://ticketing.useast.veezi.com/purchase/19150?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001590&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt36173361/",
-    "rating": 8.0
+    "rating": 8.1
   },
   {
     "title": "RESIDENT EVIL",
@@ -7395,7 +8880,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "Ha-Chan, Shake Your Booty!",
@@ -7516,7 +9001,7 @@
   },
   {
     "title": "HEART OF THE BEAST",
-    "start": "2026-09-25T15:45:00-07:00",
+    "start": "2026-09-25T15:40:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/094F90FF6E3AD2007B262F1BDADCC725B359E886E548D89F303AB99247008143_200_300_85.jpg",
@@ -7548,7 +9033,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "RESIDENT EVIL",
@@ -7570,10 +9055,19 @@
   },
   {
     "title": "HEART OF THE BEAST",
-    "start": "2026-09-25T18:30:00-07:00",
+    "start": "2026-09-25T18:25:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/094F90FF6E3AD2007B262F1BDADCC725B359E886E548D89F303AB99247008143_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt7526136/",
+    "rating": null
+  },
+  {
+    "title": "Heart Of The Beast",
+    "start": "2026-09-25T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/heart-of-the-beast",
+    "poster": "https://indy-systems.imgix.net/cyffzke0faa0xa8u9guwo1f5jjvi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt7526136/",
     "rating": null
   },
@@ -7602,7 +9096,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "Resident Evil",
@@ -7648,6 +9142,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0058946/",
     "rating": 8.1
+  },
+  {
+    "title": "Heart Of The Beast",
+    "start": "2026-09-25T21:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/heart-of-the-beast",
+    "poster": "https://indy-systems.imgix.net/cyffzke0faa0xa8u9guwo1f5jjvi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt7526136/",
+    "rating": null
   },
   {
     "title": "Resident Evil",
@@ -7710,7 +9213,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "Ha-Chan, Shake Your Booty!",
@@ -7791,7 +9294,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "Peaking: Psychedelics and the Pursuit of Happiness",
@@ -7836,7 +9339,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "RESIDENT EVIL",
@@ -7884,6 +9387,15 @@
     "rating": null
   },
   {
+    "title": "Heart Of The Beast",
+    "start": "2026-09-26T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/heart-of-the-beast",
+    "poster": "https://indy-systems.imgix.net/cyffzke0faa0xa8u9guwo1f5jjvi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt7526136/",
+    "rating": null
+  },
+  {
     "title": "TIMES SQUARE (1980)",
     "start": "2026-09-26T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -7899,7 +9411,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "Resident Evil",
@@ -7953,6 +9465,15 @@
     "url": "https://www.kigginstheatre.com/movie/the-rocky-horror-picture-show-with-the-denton-delinquents",
     "poster": "https://indy-systems.imgix.net/h0ljb0hgmocqco3k112vctmhocer?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Heart Of The Beast",
+    "start": "2026-09-26T21:00:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/heart-of-the-beast",
+    "poster": "https://indy-systems.imgix.net/cyffzke0faa0xa8u9guwo1f5jjvi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt7526136/",
     "rating": null
   },
   {
@@ -8016,7 +9537,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "Ha-Chan, Shake Your Booty!",
@@ -8082,6 +9603,15 @@
     "rating": 8.1
   },
   {
+    "title": "GP NOW presents: Lilly (2025) + Panel Discussion",
+    "start": "2026-09-27T13:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/lilly",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_ce265357-8df0-4849-ae85-1bad3ed749af.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "HEART OF THE BEAST",
     "start": "2026-09-27T13:00:00-07:00",
     "theater": "Studio One",
@@ -8097,7 +9627,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "HEART OF THE BEAST",
@@ -8124,7 +9654,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "RESIDENT EVIL",
@@ -8172,6 +9702,15 @@
     "rating": null
   },
   {
+    "title": "Heart Of The Beast",
+    "start": "2026-09-27T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/heart-of-the-beast",
+    "poster": "https://indy-systems.imgix.net/cyffzke0faa0xa8u9guwo1f5jjvi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt7526136/",
+    "rating": null
+  },
+  {
     "title": "THE BATTLE OF ALGIERS (1966)",
     "start": "2026-09-27T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -8187,7 +9726,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "Resident Evil",
@@ -8295,7 +9834,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "RESIDENT EVIL",
@@ -8340,7 +9879,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "The Movie Quiz",
@@ -8421,7 +9960,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "RESIDENT EVIL",
@@ -8475,7 +10014,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "Resident Evil",
@@ -8574,7 +10113,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "RESIDENT EVIL",
@@ -8631,6 +10170,15 @@
     "rating": null
   },
   {
+    "title": "Verity",
+    "start": "2026-09-30T18:45:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/verity",
+    "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": null
+  },
+  {
     "title": "Privileged Tongue - Isang Privileged na Dila",
     "start": "2026-09-30T18:45:00-07:00",
     "theater": "St. Johns Cinema",
@@ -8646,7 +10194,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "Resident Evil",
@@ -8772,7 +10320,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "RESIDENT EVIL",
@@ -8856,6 +10404,15 @@
     "rating": null
   },
   {
+    "title": "Black Zombie",
+    "start": "2026-10-01T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/black-zombie/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/18120709/BlackZombie_KL_poster_2025x3000-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt39368474/",
+    "rating": 7.0
+  },
+  {
     "title": "RESIDENT EVIL",
     "start": "2026-10-01T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -8871,7 +10428,7 @@
     "url": "https://www.cinema21.com/movie/primetime",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 8.7
+    "rating": 7.7
   },
   {
     "title": "RESIDENT EVIL",
@@ -8935,6 +10492,15 @@
     "poster": "https://indy-systems.imgix.net/v1dst8gdnflp7c826b4ql5ju55ml?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0091064/",
     "rating": 7.6
+  },
+  {
+    "title": "SHOCK SHOW IN SPACE",
+    "start": "2026-10-02T20:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/shock-show-in-space/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/09/XO-Shock-Show-Space.png",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "Verity",
@@ -9385,5 +10951,59 @@
     "poster": "https://indy-systems.imgix.net/iaq3ew9lrofoxjxo89xmkzsopg5w?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0063522/",
     "rating": 8.0
+  },
+  {
+    "title": "SISTER ACT",
+    "start": "2026-10-09T13:00:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/sister-act",
+    "poster": "https://indy-systems.imgix.net/6tw9u7xv2qugntw89qfomagv3l7r?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0105417/",
+    "rating": 6.6
+  },
+  {
+    "title": "QUEEN BUDAPEST",
+    "start": "2026-10-09T16:45:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/queen-budapest",
+    "poster": "https://indy-systems.imgix.net/w941rrvtsafuopkxcaj5fkxtpudk?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Killer Klowns from Outer Space",
+    "start": "2026-10-09T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/killer-klowns-from-outer-space",
+    "poster": "https://indy-systems.imgix.net/dvzti1u3r31qck7qil16itv6zghw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0095444/",
+    "rating": 6.2
+  },
+  {
+    "title": "Friday the 13th: The Final Chapter with Rue Morgue Magazine",
+    "start": "2026-10-09T19:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/friday-the-13th-the-final-chapter-with-rue-morgue-magazine/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/07/friday-the-13th_-the-final-chapter-1984-poster-scaled.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "SISTER ACT",
+    "start": "2026-10-09T19:00:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/sister-act",
+    "poster": "https://indy-systems.imgix.net/6tw9u7xv2qugntw89qfomagv3l7r?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0105417/",
+    "rating": 6.6
+  },
+  {
+    "title": "Slumber Party Massacre II",
+    "start": "2026-10-09T21:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/slumber-party-massacre-ii",
+    "poster": "https://indy-systems.imgix.net/d9sw86cq4iv19c3c3ndfxjysf7hv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0093996/",
+    "rating": 4.7
   }
 ]

@@ -1,797 +1,5 @@
 [
   {
-    "title": "The Blue Trail",
-    "start": "2026-09-18T11:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-blue-trail",
-    "poster": "https://indy-systems.imgix.net/iv6rcxk7r6r9ck8g6i8dio3jkmtf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35340614/",
-    "rating": 7.0
-  },
-  {
-    "title": "The Weight",
-    "start": "2026-09-18T11:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-weight",
-    "poster": "https://indy-systems.imgix.net/s4kcc10st8p1ofhuw4forqpf03ub?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt10794054/",
-    "rating": 6.8
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-09-18T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
-    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "The Marching Band",
-    "start": "2026-09-18T12:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
-    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30327451/",
-    "rating": 7.4
-  },
-  {
-    "title": "Hope",
-    "start": "2026-09-18T12:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/hope",
-    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27369017/",
-    "rating": 6.9
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-18T12:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-09-18T12:35:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.4
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T12:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "PONYO (SUB)",
-    "start": "2026-09-18T13:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDkzMzQ5ZmQtOTA3MC00MjhiLTk5M2UtNzk0MjEzZmVjN2UxXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0876563/",
-    "rating": 7.6
-  },
-  {
-    "title": "The Blue Trail",
-    "start": "2026-09-18T14:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-blue-trail",
-    "poster": "https://indy-systems.imgix.net/iv6rcxk7r6r9ck8g6i8dio3jkmtf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35340614/",
-    "rating": 7.0
-  },
-  {
-    "title": "The Marching Band",
-    "start": "2026-09-18T14:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-marching-band",
-    "poster": "https://indy-systems.imgix.net/bcse6m14513igpiqea02jbu6e2ju?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt30327451/",
-    "rating": 7.4
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-09-18T14:40:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
-    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-09-18T14:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.4
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-18T15:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "HOPE",
-    "start": "2026-09-18T15:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt27369017/",
-    "rating": 6.9
-  },
-  {
-    "title": "Hope",
-    "start": "2026-09-18T15:25:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/hope",
-    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27369017/",
-    "rating": 6.9
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T15:25:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "Hope",
-    "start": "2026-09-18T15:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/hope",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_43baf7fc-585c-4a21-ac29-1f12d05061c3.jpg",
-    "imdb": "https://www.imdb.com/title/tt27369017/",
-    "rating": 6.9
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-09-18T15:40:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_04d1d5fc-8a45-4976-ac9c-1f3b36bfb5bd.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 7.2
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-09-18T15:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.5
-  },
-  {
-    "title": "WEIGHT",
-    "start": "2026-09-18T15:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AC40ABC7AA23707E7DF3072D7B59CF8FB3625AA142C8BA4E2FEECCDD53743A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt10794054/",
-    "rating": 6.8
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T16:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "Tony",
-    "start": "2026-09-18T16:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/tony",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.5
-  },
-  {
-    "title": "The Uprising",
-    "start": "2026-09-18T16:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
-    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36983905/",
-    "rating": 6.3
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-18T16:10:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "KLUTE (1971)",
-    "start": "2026-09-18T16:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NWE4NWYtZmQ0OS00MjBmLWJiN2MtZmZjMmJhNmNhNmIwXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0067309/",
-    "rating": 7.1
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-09-18T16:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
-    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-09-18T16:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19359?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001598&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T16:20:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-18T16:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "The Weight",
-    "start": "2026-09-18T16:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-weight",
-    "poster": "https://indy-systems.imgix.net/s4kcc10st8p1ofhuw4forqpf03ub?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt10794054/",
-    "rating": 6.8
-  },
-  {
-    "title": "THE LONG KISS GOODNIGHT",
-    "start": "2026-09-18T16:50:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/the-long-kiss-goodnight",
-    "poster": "https://indy-systems.imgix.net/jphd10iutyxwb1rvys9gm1xot6bg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0116908/",
-    "rating": 6.8
-  },
-  {
-    "title": "Resident Evil",
-    "start": "2026-09-18T17:00:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19361?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-18T17:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-09-18T17:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.4
-  },
-  {
-    "title": "UPRISING",
-    "start": "2026-09-18T17:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/052027BD7A89C9CDD3B32A957BEDA05DAAB1E54D3C6CA834695DFE96EA0FEE75_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt36983905/",
-    "rating": 6.3
-  },
-  {
-    "title": "Late Fame",
-    "start": "2026-09-18T17:25:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
-    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32298494/",
-    "rating": 6.9
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T17:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "HOPE",
-    "start": "2026-09-18T18:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt27369017/",
-    "rating": 6.9
-  },
-  {
-    "title": "HOPE",
-    "start": "2026-09-18T18:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt27369017/",
-    "rating": 6.9
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-09-18T18:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.4
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "The Blue Trail",
-    "start": "2026-09-18T18:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-blue-trail",
-    "poster": "https://indy-systems.imgix.net/iv6rcxk7r6r9ck8g6i8dio3jkmtf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35340614/",
-    "rating": 7.0
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T18:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T18:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-09-18T18:45:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.5
-  },
-  {
-    "title": "The Uprising",
-    "start": "2026-09-18T18:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-uprising",
-    "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36983905/",
-    "rating": 6.3
-  },
-  {
-    "title": "WEIGHT",
-    "start": "2026-09-18T18:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AC40ABC7AA23707E7DF3072D7B59CF8FB3625AA142C8BA4E2FEECCDD53743A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt10794054/",
-    "rating": 6.8
-  },
-  {
-    "title": "PONYO (DUB)",
-    "start": "2026-09-18T19:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDkzMzQ5ZmQtOTA3MC00MjhiLTk5M2UtNzk0MjEzZmVjN2UxXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0876563/",
-    "rating": 7.6
-  },
-  {
-    "title": "Tony",
-    "start": "2026-09-18T19:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/tony",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.5
-  },
-  {
-    "title": "Resident Evil",
-    "start": "2026-09-18T19:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/resident-evil",
-    "poster": "https://indy-systems.imgix.net/yuaxqi8bkr7t5ephr8xlewsldo9b?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "Trigger Warning: Night Train to Terror",
-    "start": "2026-09-18T19:00:00-07:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/trigger-warning-night-train-to-terror/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/08/night-train-to-terror.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-18T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-09-18T19:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
-    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T19:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-18T19:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "Hope",
-    "start": "2026-09-18T19:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/hope",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_43baf7fc-585c-4a21-ac29-1f12d05061c3.jpg",
-    "imdb": "https://www.imdb.com/title/tt27369017/",
-    "rating": 6.9
-  },
-  {
-    "title": "The Weight",
-    "start": "2026-09-18T19:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-weight",
-    "poster": "https://indy-systems.imgix.net/s4kcc10st8p1ofhuw4forqpf03ub?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt10794054/",
-    "rating": 6.8
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-09-18T19:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19360?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001598&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "COLONY",
-    "start": "2026-09-18T19:30:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/colony",
-    "poster": "https://indy-systems.imgix.net/7e3uwoljqt2ijkxbd8vt4k7q7l9e?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt34385135/",
-    "rating": 6.5
-  },
-  {
-    "title": "Late Fame",
-    "start": "2026-09-18T19:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
-    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32298494/",
-    "rating": 6.9
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-18T19:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "Resident Evil",
-    "start": "2026-09-18T19:35:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19362?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "Hope",
-    "start": "2026-09-18T20:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/hope",
-    "poster": "https://indy-systems.imgix.net/9345tpovnfr66e59ibvg37cys0v7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt27369017/",
-    "rating": 6.9
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T20:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T20:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "HOPE",
-    "start": "2026-09-18T21:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt27369017/",
-    "rating": 6.9
-  },
-  {
-    "title": "Resident Evil",
-    "start": "2026-09-18T21:10:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/resident-evil",
-    "poster": "https://indy-systems.imgix.net/yuaxqi8bkr7t5ephr8xlewsldo9b?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "ODYSSEY",
-    "start": "2026-09-18T21:10:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.4
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T21:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "The Odyssey",
-    "start": "2026-09-18T21:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-odyssey",
-    "poster": "https://indy-systems.imgix.net/9lajnbhvhv0obh8nqqhi6zuo3zn1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt33764258/",
-    "rating": 8.4
-  },
-  {
-    "title": "THE CABLE GUY (1996)",
-    "start": "2026-09-18T21:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjZiODE3ZTUtYTA0Yi00YjVmLTlhYTEtMzc3MDU1YmZjMWYxXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0115798/",
-    "rating": 6.2
-  },
-  {
-    "title": "Tony",
-    "start": "2026-09-18T21:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/tony",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2bfc7113-2765-4926-8ff9-8d1aba932c44.jpg",
-    "imdb": "https://www.imdb.com/title/tt33095251/",
-    "rating": 7.5
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-18T21:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "WEIGHT",
-    "start": "2026-09-18T21:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AC40ABC7AA23707E7DF3072D7B59CF8FB3625AA142C8BA4E2FEECCDD53743A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt10794054/",
-    "rating": 6.8
-  },
-  {
-    "title": "Late Fame",
-    "start": "2026-09-18T21:35:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
-    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32298494/",
-    "rating": 6.9
-  },
-  {
-    "title": "COYOTE VS ACME",
-    "start": "2026-09-18T21:40:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/3E58D7E824C4F96636E1981D406DCEE87A18BDDED186DC682255A0BE21622183_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.5
-  },
-  {
-    "title": "The Weight",
-    "start": "2026-09-18T21:40:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-weight",
-    "poster": "https://indy-systems.imgix.net/s4kcc10st8p1ofhuw4forqpf03ub?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt10794054/",
-    "rating": 6.8
-  },
-  {
-    "title": "The Blue Trail",
-    "start": "2026-09-18T21:40:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-blue-trail",
-    "poster": "https://indy-systems.imgix.net/iv6rcxk7r6r9ck8g6i8dio3jkmtf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35340614/",
-    "rating": 7.0
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T21:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-18T21:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-09-18T21:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
-    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
-  },
-  {
-    "title": "HOPE",
-    "start": "2026-09-18T21:50:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt27369017/",
-    "rating": 6.9
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-18T22:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "HAPPY DEATH DAY",
-    "start": "2026-09-18T22:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/0CAF4D5290752EA9ABAE0CF47227B31286287A4E7EC21BF2CFFF09074E791CED_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt5308322/",
-    "rating": 6.6
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-18T22:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "WEIGHT",
-    "start": "2026-09-19T09:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AC40ABC7AA23707E7DF3072D7B59CF8FB3625AA142C8BA4E2FEECCDD53743A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt10794054/",
-    "rating": 6.8
-  },
-  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-19T09:05:00-07:00",
     "theater": "Studio One",
@@ -1350,6 +558,15 @@
     "rating": 8.4
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-09-19T17:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.9
+  },
+  {
     "title": "Late Fame",
     "start": "2026-09-19T17:25:00-07:00",
     "theater": "Living Room Theaters",
@@ -1375,15 +592,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": 6.4
-  },
-  {
-    "title": "HOPE",
-    "start": "2026-09-19T18:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/049AF35F88BEE2D5A71F14790458B7F6352F1A16DE8499F560BFD0419B2C7396_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt27369017/",
-    "rating": 6.9
   },
   {
     "title": "HOPE",
@@ -1594,7 +802,16 @@
   },
   {
     "title": "RESIDENT EVIL",
-    "start": "2026-09-19T19:35:00-07:00",
+    "start": "2026-09-19T19:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.9
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-09-19T19:40:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
@@ -2286,6 +1503,15 @@
     "rating": 6.3
   },
   {
+    "title": "A Life Illuminated",
+    "start": "2026-09-20T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/a-life-illuminated/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/23161332/fvwKe8ttwNoJasZHoGIU4Nt0foC-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt30097811/",
+    "rating": 9.0
+  },
+  {
     "title": "RESIDENT EVIL",
     "start": "2026-09-20T16:10:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -2511,15 +1737,6 @@
     "rating": 6.9
   },
   {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-20T18:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
     "title": "KLUTE (1971)",
     "start": "2026-09-20T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -2569,6 +1786,15 @@
     "start": "2026-09-20T19:00:00-07:00",
     "theater": "Moreland Theater",
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.4
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-20T19:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": 6.4
@@ -2664,15 +1890,6 @@
     "rating": 7.9
   },
   {
-    "title": "UPRISING",
-    "start": "2026-09-20T21:10:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/052027BD7A89C9CDD3B32A957BEDA05DAAB1E54D3C6CA834695DFE96EA0FEE75_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt36983905/",
-    "rating": 6.3
-  },
-  {
     "title": "ODYSSEY",
     "start": "2026-09-20T21:20:00-07:00",
     "theater": "Studio One",
@@ -2698,6 +1915,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": 6.4
+  },
+  {
+    "title": "UPRISING",
+    "start": "2026-09-20T22:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/052027BD7A89C9CDD3B32A957BEDA05DAAB1E54D3C6CA834695DFE96EA0FEE75_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36983905/",
+    "rating": 6.3
   },
   {
     "title": "RESIDENT EVIL",
@@ -3276,6 +2502,15 @@
     "rating": 6.9
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-09-21T19:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.9
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-09-21T19:30:00-07:00",
     "theater": "Studio One",
@@ -3290,15 +2525,6 @@
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19370?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-21T19:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt35538033/",
     "rating": 7.9
   },
@@ -3358,7 +2584,7 @@
   },
   {
     "title": "RESIDENT EVIL",
-    "start": "2026-09-21T22:15:00-07:00",
+    "start": "2026-09-21T22:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
@@ -3951,20 +3177,20 @@
     "rating": 6.9
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-09-22T19:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.9
+  },
+  {
     "title": "Resident Evil",
     "start": "2026-09-22T19:35:00-07:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19374?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-22T19:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt35538033/",
     "rating": 7.9
   },
@@ -4033,7 +3259,7 @@
   },
   {
     "title": "RESIDENT EVIL",
-    "start": "2026-09-22T22:15:00-07:00",
+    "start": "2026-09-22T22:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
@@ -4572,6 +3798,15 @@
     "rating": null
   },
   {
+    "title": "Mary Oliver: Saved by the Beauty of the World \u2013 Encore Screening",
+    "start": "2026-09-23T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/mary-oliver-saved-by-the-beauty-of-the-world-2/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/08/13144313/aAZ7Ih2tU65y55CfE0nIFSaow4n-1-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt39643966/",
+    "rating": 7.4
+  },
+  {
     "title": "RESIDENT EVIL",
     "start": "2026-09-23T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -4627,7 +3862,7 @@
   },
   {
     "title": "RESIDENT EVIL",
-    "start": "2026-09-23T19:35:00-07:00",
+    "start": "2026-09-23T19:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
@@ -4708,7 +3943,7 @@
   },
   {
     "title": "RESIDENT EVIL",
-    "start": "2026-09-23T22:15:00-07:00",
+    "start": "2026-09-23T22:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
@@ -4833,15 +4068,6 @@
     "rating": 8.4
   },
   {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-24T15:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
-  },
-  {
     "title": "ODYSSEY",
     "start": "2026-09-24T15:00:00-07:00",
     "theater": "Studio One",
@@ -4896,15 +4122,6 @@
     "rating": 6.4
   },
   {
-    "title": "HEART OF THE BEAST",
-    "start": "2026-09-24T15:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/094F90FF6E3AD2007B262F1BDADCC725B359E886E548D89F303AB99247008143_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": null
-  },
-  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "start": "2026-09-24T15:45:00-07:00",
     "theater": "Cinema 21",
@@ -4957,6 +4174,15 @@
     "poster": "https://indy-systems.imgix.net/uofbuk05kkqfsj40nnkiehdeft20?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36983905/",
     "rating": 6.3
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-09-24T16:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.9
   },
   {
     "title": "RESIDENT EVIL",
@@ -5031,6 +4257,15 @@
     "rating": 7.9
   },
   {
+    "title": "The Boxtrolls",
+    "start": "2026-09-24T17:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/B954EE0ACE00A8318B76E907DDBD23749CBFCB80F0B6F26F1DD36DCA15D0E7D2_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0787474/",
+    "rating": 6.8
+  },
+  {
     "title": "Resident Evil",
     "start": "2026-09-24T17:00:00-07:00",
     "theater": "St. Johns Cinema",
@@ -5040,8 +4275,17 @@
     "rating": 7.9
   },
   {
-    "title": "RESIDENT EVIL",
+    "title": "ODYSSEY",
     "start": "2026-09-24T17:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/EFD60A14D409008F3CDD68D9F8732B27C42D3EEF6B5CEAE4C668F7ED6E7A4D23_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt33764258/",
+    "rating": 8.4
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-09-24T17:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
@@ -5056,15 +4300,6 @@
     "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32298494/",
     "rating": 6.9
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-24T17:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.4
   },
   {
     "title": "WEIGHT",
@@ -5083,15 +4318,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": 6.4
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-24T18:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.9
   },
   {
     "title": "PRIMETIME",
@@ -5220,6 +4446,15 @@
     "rating": 6.4
   },
   {
+    "title": "CORALINE",
+    "start": "2026-09-24T19:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E1FB33E9B7C6192B79546E80123DF4B37542945209D49E795493B3265F90D77A_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0327597/",
+    "rating": 7.8
+  },
+  {
     "title": "Reel Eats: Crazy Rich Asians",
     "start": "2026-09-24T19:00:00-07:00",
     "theater": "OMSI Empirical Theater",
@@ -5302,7 +4537,7 @@
   },
   {
     "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-24T20:35:00-07:00",
+    "start": "2026-09-24T20:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
@@ -5311,7 +4546,7 @@
   },
   {
     "title": "RESIDENT EVIL",
-    "start": "2026-09-24T20:45:00-07:00",
+    "start": "2026-09-24T20:50:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
@@ -5320,7 +4555,7 @@
   },
   {
     "title": "WEIGHT",
-    "start": "2026-09-24T21:00:00-07:00",
+    "start": "2026-09-24T21:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/22AC40ABC7AA23707E7DF3072D7B59CF8FB3625AA142C8BA4E2FEECCDD53743A_200_300_85.jpg",
@@ -5535,6 +4770,15 @@
     "rating": 7.9
   },
   {
+    "title": "PARANORMAN",
+    "start": "2026-09-25T17:10:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D4C51E3F0B5AA2B92DA55EB851CA69E55B94D49AAFDE70E95E05BA85C34DAFBA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1623288/",
+    "rating": 7.0
+  },
+  {
     "title": "RESIDENT EVIL",
     "start": "2026-09-25T17:10:00-07:00",
     "theater": "Studio One",
@@ -5560,6 +4804,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/22AC40ABC7AA23707E7DF3072D7B59CF8FB3625AA142C8BA4E2FEECCDD53743A_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt10794054/",
     "rating": 6.8
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-25T18:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.4
   },
   {
     "title": "HEART OF THE BEAST",
@@ -5670,6 +4923,15 @@
     "rating": 7.3
   },
   {
+    "title": "HEATHERS 35TH ANNIVERSARY",
+    "start": "2026-09-25T19:15:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D962640DA388562DA92458778D00CA3690A015CDA93FF9ABC353EDF2DE3EE364_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0097493/",
+    "rating": 7.1
+  },
+  {
     "title": "Primetime",
     "start": "2026-09-25T19:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -5698,7 +4960,7 @@
   },
   {
     "title": "WEIGHT",
-    "start": "2026-09-25T20:40:00-07:00",
+    "start": "2026-09-25T20:45:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/22AC40ABC7AA23707E7DF3072D7B59CF8FB3625AA142C8BA4E2FEECCDD53743A_200_300_85.jpg",
@@ -5749,6 +5011,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/A2F5AE8930429F413E4B184C81B001008467F5FDDB78A6EF4E152D8F008F18FE_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt27369017/",
     "rating": 6.9
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-09-25T21:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.4
   },
   {
     "title": "The Room (2003)",
@@ -5868,6 +5139,15 @@
     "rating": 8.1
   },
   {
+    "title": "PARANORMAN",
+    "start": "2026-09-26T12:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D4C51E3F0B5AA2B92DA55EB851CA69E55B94D49AAFDE70E95E05BA85C34DAFBA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt1623288/",
+    "rating": 7.0
+  },
+  {
     "title": "RESIDENT EVIL",
     "start": "2026-09-26T12:00:00-07:00",
     "theater": "Studio One",
@@ -5976,6 +5256,15 @@
     "rating": null
   },
   {
+    "title": "CORALINE",
+    "start": "2026-09-26T14:10:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E1FB33E9B7C6192B79546E80123DF4B37542945209D49E795493B3265F90D77A_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0327597/",
+    "rating": 7.8
+  },
+  {
     "title": "Resident Evil",
     "start": "2026-09-26T14:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -6073,6 +5362,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_e3669b45-adcf-4b62-ae98-22db21e5bca1.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "HEATHERS 35TH ANNIVERSARY",
+    "start": "2026-09-26T16:30:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D962640DA388562DA92458778D00CA3690A015CDA93FF9ABC353EDF2DE3EE364_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0097493/",
+    "rating": 7.1
   },
   {
     "title": "Resident Evil",
@@ -6408,6 +5706,15 @@
     "rating": null
   },
   {
+    "title": "CORALINE",
+    "start": "2026-09-27T12:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E1FB33E9B7C6192B79546E80123DF4B37542945209D49E795493B3265F90D77A_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0327597/",
+    "rating": 7.8
+  },
+  {
     "title": "RESIDENT EVIL",
     "start": "2026-09-27T12:00:00-07:00",
     "theater": "Studio One",
@@ -6516,6 +5823,15 @@
     "rating": 7.4
   },
   {
+    "title": "The Boxtrolls",
+    "start": "2026-09-27T14:10:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/B954EE0ACE00A8318B76E907DDBD23749CBFCB80F0B6F26F1DD36DCA15D0E7D2_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0787474/",
+    "rating": 6.8
+  },
+  {
     "title": "Resident Evil",
     "start": "2026-09-27T14:15:00-07:00",
     "theater": "St. Johns Cinema",
@@ -6577,6 +5893,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
     "rating": 7.7
+  },
+  {
+    "title": "CLUE",
+    "start": "2026-09-27T16:15:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/97C924FD7C99FB612AC3E1385A1379088F733FF632AD9008166151857EF8332F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0088930/",
+    "rating": 7.3
   },
   {
     "title": "PRIMETIME",
@@ -6658,6 +5983,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/09/melange-september.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "HEATHERS 35TH ANNIVERSARY",
+    "start": "2026-09-27T18:30:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D962640DA388562DA92458778D00CA3690A015CDA93FF9ABC353EDF2DE3EE364_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0097493/",
+    "rating": 7.1
   },
   {
     "title": "HEART OF THE BEAST",
@@ -6975,6 +6309,15 @@
     "rating": 7.3
   },
   {
+    "title": "CLUE",
+    "start": "2026-09-28T18:45:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/97C924FD7C99FB612AC3E1385A1379088F733FF632AD9008166151857EF8332F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0088930/",
+    "rating": 7.3
+  },
+  {
     "title": "Primetime",
     "start": "2026-09-28T19:00:00-07:00",
     "theater": "Cinema 21",
@@ -7110,6 +6453,15 @@
     "rating": 7.7
   },
   {
+    "title": "CORALINE",
+    "start": "2026-09-29T16:20:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E1FB33E9B7C6192B79546E80123DF4B37542945209D49E795493B3265F90D77A_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0327597/",
+    "rating": 7.8
+  },
+  {
     "title": "RESIDENT EVIL",
     "start": "2026-09-29T16:30:00-07:00",
     "theater": "Academy Theater",
@@ -7162,6 +6514,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/518A58519FD89ED24F6B9F963191DB9E0E08DE0D3C083CF442ACAA43A7F7594D_200_300_85.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "CLUE",
+    "start": "2026-09-29T18:30:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/97C924FD7C99FB612AC3E1385A1379088F733FF632AD9008166151857EF8332F_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0088930/",
+    "rating": 7.3
   },
   {
     "title": "HEART OF THE BEAST",
@@ -7261,6 +6622,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt35538033/",
     "rating": 7.9
+  },
+  {
+    "title": "HEATHERS 35TH ANNIVERSARY",
+    "start": "2026-09-29T20:30:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D962640DA388562DA92458778D00CA3690A015CDA93FF9ABC353EDF2DE3EE364_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0097493/",
+    "rating": 7.1
   },
   {
     "title": "HEART OF THE BEAST",
@@ -7389,6 +6759,15 @@
     "rating": 7.9
   },
   {
+    "title": "The Boxtrolls",
+    "start": "2026-09-30T17:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/B954EE0ACE00A8318B76E907DDBD23749CBFCB80F0B6F26F1DD36DCA15D0E7D2_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0787474/",
+    "rating": 6.8
+  },
+  {
     "title": "AVENGERS ENDGAME ENCORE",
     "start": "2026-09-30T18:00:00-07:00",
     "theater": "Studio One",
@@ -7495,6 +6874,15 @@
     "poster": "https://indy-systems.imgix.net/ev32vadpdya9oh8rnq31o6f463cf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "HEATHERS 35TH ANNIVERSARY",
+    "start": "2026-09-30T19:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D962640DA388562DA92458778D00CA3690A015CDA93FF9ABC353EDF2DE3EE364_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0097493/",
+    "rating": 7.1
   },
   {
     "title": "VERITY EARLY ACCESS",
@@ -7731,15 +7119,6 @@
     "rating": null
   },
   {
-    "title": "Black Zombie",
-    "start": "2026-10-01T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/black-zombie/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/18120709/BlackZombie_KL_poster_2025x3000-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt39368474/",
-    "rating": 6.3
-  },
-  {
     "title": "RESIDENT EVIL",
     "start": "2026-10-01T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -7884,12 +7263,48 @@
     "rating": null
   },
   {
+    "title": "The History of Concrete",
+    "start": "2026-10-02T21:45:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-history-of-concrete",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
+    "imdb": "https://www.imdb.com/title/tt39150234/",
+    "rating": 7.7
+  },
+  {
+    "title": "The Granny",
+    "start": "2026-10-02T22:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-granny",
+    "poster": "https://indy-systems.imgix.net/d8tdphrpm5wduu3m99zqt6v475e9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0113210/",
+    "rating": 5.1
+  },
+  {
+    "title": "POLTERGEIST",
+    "start": "2026-10-02T22:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/2EE3E2E52B87639D491FF0763A24EB283D54EA3C2E75E3C47FE47961DBCC6F36_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0084516/",
+    "rating": 7.3
+  },
+  {
     "title": "The Bride of Frankenstein (1935)",
     "start": "2026-10-03T11:00:00-07:00",
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/the-bride-of-frankenstein-1935",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_a567f4fb-06bd-4b54-bf01-1882fe11c7f2.jpg",
     "imdb": "https://www.imdb.com/title/tt0026138/",
+    "rating": 7.8
+  },
+  {
+    "title": "GHOSTBUSTERS",
+    "start": "2026-10-03T12:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D38C60EC801F39E258E61432009CFB015F48D73FF898DF3F1AE67FDFBDF8E0DE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0087332/",
     "rating": 7.8
   },
   {
@@ -8017,6 +7432,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2022/05/rockyhorror.jpeg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "GHOSTBUSTERS",
+    "start": "2026-10-04T12:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D38C60EC801F39E258E61432009CFB015F48D73FF898DF3F1AE67FDFBDF8E0DE_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0087332/",
+    "rating": 7.8
   },
   {
     "title": "DIGGER",
@@ -8280,6 +7704,15 @@
     "rating": null
   },
   {
+    "title": "The History of Concrete",
+    "start": "2026-10-06T19:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-history-of-concrete",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
+    "imdb": "https://www.imdb.com/title/tt39150234/",
+    "rating": 7.7
+  },
+  {
     "title": "Raw",
     "start": "2026-10-06T21:10:00-07:00",
     "theater": "Cinemagic",
@@ -8487,6 +7920,15 @@
     "rating": 7.4
   },
   {
+    "title": "Naza",
+    "start": "2026-10-08T19:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
+  },
+  {
     "title": "Rosemary's Baby",
     "start": "2026-10-08T21:10:00-07:00",
     "theater": "Cinemagic",
@@ -8530,6 +7972,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
     "rating": null
+  },
+  {
+    "title": "Naza",
+    "start": "2026-10-09T16:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
   },
   {
     "title": "QUEEN BUDAPEST",
@@ -8577,6 +8028,15 @@
     "rating": 6.6
   },
   {
+    "title": "Naza",
+    "start": "2026-10-09T19:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
+  },
+  {
     "title": "Slumber Party Massacre II",
     "start": "2026-10-09T21:00:00-07:00",
     "theater": "Cinemagic",
@@ -8595,6 +8055,15 @@
     "rating": null
   },
   {
+    "title": "FINAL GIRLS",
+    "start": "2026-10-09T22:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A64F8EC0CED77A4A54E5B89A0ADCE93BB4FC2FB2728256C127D62A5CA1DB63D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2118624/",
+    "rating": 6.5
+  },
+  {
     "title": "The Haunting (1963)",
     "start": "2026-10-10T11:00:00-07:00",
     "theater": "Cinema 21",
@@ -8604,6 +8073,15 @@
     "rating": 7.4
   },
   {
+    "title": "SCOOBY-DOO 2: MONSTERS UNLEASHED",
+    "start": "2026-10-10T12:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/9890862CFE10F32F59912BE82C2C1970D2124361FC7EC61836C76350B0A47291_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0331632/",
+    "rating": 5.4
+  },
+  {
     "title": "DIGGER",
     "start": "2026-10-10T12:30:00-07:00",
     "theater": "Academy Theater",
@@ -8611,6 +8089,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
     "rating": null
+  },
+  {
+    "title": "Naza",
+    "start": "2026-10-10T14:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
   },
   {
     "title": "The Shining (1980)",
@@ -8638,6 +8125,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
     "rating": null
+  },
+  {
+    "title": "Naza",
+    "start": "2026-10-10T16:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
   },
   {
     "title": "SISTER ACT",
@@ -8694,6 +8190,15 @@
     "rating": null
   },
   {
+    "title": "Naza",
+    "start": "2026-10-10T19:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
+  },
+  {
     "title": "Let the Right One In",
     "start": "2026-10-10T21:00:00-07:00",
     "theater": "Cinemagic",
@@ -8730,6 +8235,15 @@
     "rating": 7.0
   },
   {
+    "title": "SCOOBY-DOO 2: MONSTERS UNLEASHED",
+    "start": "2026-10-11T12:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/9890862CFE10F32F59912BE82C2C1970D2124361FC7EC61836C76350B0A47291_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0331632/",
+    "rating": 5.4
+  },
+  {
     "title": "DIGGER",
     "start": "2026-10-11T12:30:00-07:00",
     "theater": "Academy Theater",
@@ -8746,6 +8260,15 @@
     "poster": "https://indy-systems.imgix.net/w941rrvtsafuopkxcaj5fkxtpudk?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Naza",
+    "start": "2026-10-11T14:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
   },
   {
     "title": "Addams Family (1991) x ScreenPLAY!",
@@ -8793,6 +8316,15 @@
     "rating": null
   },
   {
+    "title": "Naza",
+    "start": "2026-10-11T16:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
+  },
+  {
     "title": "The Invisible Man",
     "start": "2026-10-11T17:00:00-07:00",
     "theater": "Cinemagic",
@@ -8829,6 +8361,15 @@
     "rating": 7.8
   },
   {
+    "title": "Practical Magic",
+    "start": "2026-10-11T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/practical-magic-3/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/08171149/AwmToSgf2IL3aHv0QRVsR5KvChv-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0120791/",
+    "rating": 6.4
+  },
+  {
     "title": "DIGGER",
     "start": "2026-10-11T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -8836,6 +8377,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
     "rating": null
+  },
+  {
+    "title": "Naza",
+    "start": "2026-10-11T19:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
   },
   {
     "title": "An American Werewolf in London",
@@ -8863,6 +8413,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
     "rating": null
+  },
+  {
+    "title": "Naza",
+    "start": "2026-10-12T16:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
   },
   {
     "title": "The Invisible Man",
@@ -8910,6 +8469,15 @@
     "rating": null
   },
   {
+    "title": "Naza",
+    "start": "2026-10-12T19:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
+  },
+  {
     "title": "Let the Right One In",
     "start": "2026-10-12T21:10:00-07:00",
     "theater": "Cinemagic",
@@ -8937,6 +8505,15 @@
     "rating": null
   },
   {
+    "title": "Naza",
+    "start": "2026-10-13T16:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
+  },
+  {
     "title": "Killer Klowns from Outer Space",
     "start": "2026-10-13T17:00:00-07:00",
     "theater": "Cinemagic",
@@ -8946,7 +8523,7 @@
     "rating": 6.2
   },
   {
-    "title": "Reel Science: Running Wild",
+    "title": "Reel Science: Running Wild 3D",
     "start": "2026-10-13T18:30:00-07:00",
     "theater": "OMSI Empirical Theater",
     "url": "https://omsi.edu/events/reel-science-running-wild/",
@@ -8982,6 +8559,15 @@
     "rating": null
   },
   {
+    "title": "Naza",
+    "start": "2026-10-13T19:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
+  },
+  {
     "title": "The Babadook",
     "start": "2026-10-13T21:30:00-07:00",
     "theater": "Cinemagic",
@@ -9007,6 +8593,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
     "rating": null
+  },
+  {
+    "title": "Naza",
+    "start": "2026-10-14T16:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
   },
   {
     "title": "Killer Klowns from Outer Space",
@@ -9072,6 +8667,15 @@
     "rating": null
   },
   {
+    "title": "Naza",
+    "start": "2026-10-14T19:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
+  },
+  {
     "title": "The Texas Chainsaw Massacre",
     "start": "2026-10-14T21:00:00-07:00",
     "theater": "Cinemagic",
@@ -9097,6 +8701,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
     "rating": null
+  },
+  {
+    "title": "Naza",
+    "start": "2026-10-15T16:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
   },
   {
     "title": "The Invisible Man",
@@ -9151,6 +8764,15 @@
     "poster": "https://omsi.edu/wp-content/uploads/2022/10/Empirical-Theater-OMSI-Top.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Naza",
+    "start": "2026-10-15T19:15:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/naza",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_a2d7df14-b472-492f-987e-dc8dda19ddd6.jpg",
+    "imdb": "https://www.imdb.com/title/tt44766123/",
+    "rating": 6.8
   },
   {
     "title": "An American Werewolf in London",
@@ -9225,6 +8847,15 @@
     "rating": null
   },
   {
+    "title": "VIDEODROME",
+    "start": "2026-10-16T22:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/BE73042B920110B0313A2391F4EF4526DC365D245D6209B3005920CBA44480BC_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0086541/",
+    "rating": 7.2
+  },
+  {
     "title": "Rosemary's Baby (1968)",
     "start": "2026-10-17T11:00:00-07:00",
     "theater": "Cinema 21",
@@ -9232,6 +8863,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_089d2a3f-3c2e-4ed4-a252-94c295d97964.jpg",
     "imdb": "https://www.imdb.com/title/tt0063522/",
     "rating": 8.0
+  },
+  {
+    "title": "MONSTER HOUSE",
+    "start": "2026-10-17T12:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/0141B6072001469A4A60FA5D7ABC9AE6EA065D90B79761FC5152E1ED4706DEA3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0385880/",
+    "rating": 6.7
   },
   {
     "title": "Eraserhead (1977) x Fresh Cut Flowers",
@@ -9333,6 +8973,15 @@
     "rating": null
   },
   {
+    "title": "MONSTER HOUSE",
+    "start": "2026-10-18T12:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/0141B6072001469A4A60FA5D7ABC9AE6EA065D90B79761FC5152E1ED4706DEA3_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0385880/",
+    "rating": 6.7
+  },
+  {
     "title": "Ken Russell's The Devils",
     "start": "2026-10-18T13:00:00-07:00",
     "theater": "Cinema 21",
@@ -9429,6 +9078,78 @@
     "url": "https://tickets.thecinemagictheater.com/movie/ghost-in-the-cell",
     "poster": "https://indy-systems.imgix.net/4ge86ngwfq6yablh8e6upcrfc8il?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt9000310/",
+    "rating": 6.7
+  },
+  {
+    "title": "Ken Russell's The Devils",
+    "start": "2026-10-19T16:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/ken-russells-the-devils",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_2f6a1d99-8241-47b5-a37d-b4f027594c0c.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Dracula",
+    "start": "2026-10-19T17:10:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/dracula",
+    "poster": "https://indy-systems.imgix.net/qkcq639i701se577si3ay22cfcfd?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt31434030/",
+    "rating": 6.2
+  },
+  {
+    "title": "Ken Russell's The Devils",
+    "start": "2026-10-19T19:00:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/ken-russells-the-devils",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_2f6a1d99-8241-47b5-a37d-b4f027594c0c.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Halloween",
+    "start": "2026-10-19T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/halloween",
+    "poster": "https://indy-systems.imgix.net/6ty521jfo9gdm1wfcd90ad1sxn61?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0077651/",
+    "rating": 7.7
+  },
+  {
+    "title": "In My Skin",
+    "start": "2026-10-19T19:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/in-my-skin/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/06/In_My_Skin_Poster.png",
+    "imdb": "https://www.imdb.com/title/tt0337961/",
+    "rating": 6.2
+  },
+  {
+    "title": "Matchstick Productions \"The Way Out\" 2026 Ski Film",
+    "start": "2026-10-19T19:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/matchstick-productions-the-way-out-2026-ski-film",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_14038e4f-a637-4d25-a3d1-6563a112deb6.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Matchstick Productions \"The Way Out\" (VIP ACCESS)",
+    "start": "2026-10-19T19:30:00-07:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/matchstick-productions-the-way-out-vip-access",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_b61e2c59-668e-4bd8-bfed-650c2cfada05.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Trick 'r Treat",
+    "start": "2026-10-19T21:10:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/trick-r-treat",
+    "poster": "https://indy-systems.imgix.net/8smvyainrr5ztq961upd1n89k8wx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0862856/",
     "rating": 6.7
   }
 ]

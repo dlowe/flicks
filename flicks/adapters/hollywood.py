@@ -24,7 +24,10 @@ from ..models import Event
 BASE = "https://hollywoodtheatre.org"
 THEATER = "Hollywood Theatre"
 TZ = ZoneInfo("America/Los_Angeles")
-IMPERSONATE = "chrome"
+# Pinned targets, tried in order: the bare "chrome" alias tracks curl_cffi's newest
+# fingerprint (chrome146 in 0.15), which Cloudflare 403s. Falling through on 403
+# rides out the next alias drift or rule change.
+IMPERSONATE = ("safari184", "chrome136", "firefox")
 
 _TITLE = re.compile(
     r"^(?P<film>.*?)\s*[–—-]\s*(?P<date>\d{4}-\d{2}-\d{2})\s+(?P<time>\d{1,2}:\d{2})(?P<ap>[ap]m)",
@@ -74,18 +77,21 @@ def _events_for_month(month: str) -> list[dict]:
     out: list[dict] = []
     page = 1
     while True:
-        resp = requests.get(
-            f"{BASE}/wp-json/wp/v2/event",
-            params={"search": month, "per_page": 100, "page": page},
-            impersonate=IMPERSONATE,
-            timeout=30,
-        )
+        resp = _get(f"{BASE}/wp-json/wp/v2/event", {"search": month, "per_page": 100, "page": page})
         resp.raise_for_status()
         out.extend(resp.json())
         if page >= int(resp.headers.get("X-WP-TotalPages", 1)):
             break
         page += 1
     return out
+
+
+def _get(url: str, params: dict):
+    for target in IMPERSONATE:
+        resp = requests.get(url, params=params, impersonate=target, timeout=30)
+        if resp.status_code != 403:
+            break
+    return resp
 
 
 def _parse_event(raw: dict):
@@ -110,12 +116,7 @@ def _resolve_show(slug: str) -> tuple[str | None, str | None]:
     umbrellas like "Jim Jarmusch's America" 404), so the permalink is verified
     with a cheap HEAD before we trust it as a link target.
     """
-    resp = requests.get(
-        f"{BASE}/wp-json/wp/v2/show",
-        params={"slug": slug},
-        impersonate=IMPERSONATE,
-        timeout=30,
-    )
+    resp = _get(f"{BASE}/wp-json/wp/v2/show", {"slug": slug})
     show = resp.json()[0] if resp.status_code == 200 and resp.json() else None
     if show is None:
         return None, None
@@ -137,7 +138,7 @@ def _verified_url(link: str | None) -> str | None:
 
 def _head_ok(url: str) -> bool:
     try:
-        resp = requests.head(url, impersonate=IMPERSONATE, timeout=30, allow_redirects=True)
+        resp = requests.head(url, impersonate=IMPERSONATE[0], timeout=30, allow_redirects=True)
         return resp.status_code == 200
     except Exception:
         return False

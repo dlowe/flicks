@@ -1,32 +1,5 @@
 [
   {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-09-29T22:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-09-29T22:10:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "PRIMETIME",
-    "start": "2026-09-29T22:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
     "title": "Ha-Chan, Shake Your Booty!",
     "start": "2026-09-30T11:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -2896,6 +2869,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/094F90FF6E3AD2007B262F1BDADCC725B359E886E548D89F303AB99247008143_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt7526136/",
     "rating": 7.3
+  },
+  {
+    "title": "Mean Girls",
+    "start": "2026-10-03T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/mean-girls-2/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/04/10103350/fXm3YKXAEjx7d2tIWDg9TfRZtsU.jpg",
+    "imdb": "https://www.imdb.com/title/tt0377092/",
+    "rating": 7.1
   },
   {
     "title": "RESIDENT EVIL",
@@ -10521,15 +10503,6 @@
     "rating": 7.2
   },
   {
-    "title": "The Lost Boys Crafternoon x Ritual Dyes",
-    "start": "2026-10-18T16:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/the-lost-boys-2/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/08/05110414/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg",
-    "imdb": "https://www.imdb.com/title/tt0093437/",
-    "rating": 7.2
-  },
-  {
     "title": "PHANTASM (1979)",
     "start": "2026-10-18T16:30:00-07:00",
     "theater": "Academy Theater",
@@ -11916,6 +11889,15 @@
     "rating": 6.9
   },
   {
+    "title": "WICKER",
+    "start": "2026-10-23T16:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6BCEF6FCFDA24F4FD6243A0B627ACF2BCBFDB7211822E4087D724F5EBEC79172_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.3
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-23T16:20:00-07:00",
     "theater": "Moreland Theater",
@@ -12004,6 +11986,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
+  },
+  {
+    "title": "WICKER",
+    "start": "2026-10-23T19:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6BCEF6FCFDA24F4FD6243A0B627ACF2BCBFDB7211822E4087D724F5EBEC79172_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.3
   },
   {
     "title": "Hope",
@@ -12103,6 +12094,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
+  },
+  {
+    "title": "WICKER",
+    "start": "2026-10-23T21:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6BCEF6FCFDA24F4FD6243A0B627ACF2BCBFDB7211822E4087D724F5EBEC79172_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.3
   },
   {
     "title": "THE HUNGER",
@@ -13470,6 +13470,195 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-30T12:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "POLTERGEIST (1982)",
+    "start": "2026-10-30T13:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY4MGZkYjgtYTQ2YS00YTlhLWEyMjAtMjZhYzczNTRlM2ZmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0084516/",
+    "rating": 7.3
+  },
+  {
+    "title": "WILDWOOD in 35mm",
+    "start": "2026-10-30T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/wildwood-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-30T15:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "CANDYMAN (1992)",
+    "start": "2026-10-30T16:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6D9D9DDEA3EA58D2FFBDC73239574A8E4FB0D3C2DA17B456260BE83405D8ED2_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0103919/",
+    "rating": 6.8
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-30T16:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/wildwood",
+    "poster": "https://indy-systems.imgix.net/wr3degpwddawsagabz5rbnnr224z?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "The Rocky Horror Picture Show with the Clinton Street Cabaret",
+    "start": "2026-10-30T18:00:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-the-clinton-street-cabaret-101/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2022/05/rockyhorror.jpeg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-30T18:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "HELLRAISER (1987)",
+    "start": "2026-10-30T19:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F1227A9FB93B3BD502596358C072C06FE3B66AED9D2EA787CEE09858C54488A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0093177/",
+    "rating": 6.9
+  },
+  {
+    "title": "Re-Animator (35mm)",
+    "start": "2026-10-30T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/re-animator",
+    "poster": "https://indy-systems.imgix.net/xm1b5zt8q8981m2hi5divja85iys?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0089885/",
+    "rating": 7.1
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-10-30T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Vampyr (1932) w/ Live Score by Kraftwitch",
+    "start": "2026-10-30T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/vampyr-1932-w-live-score-by-kraftwitch/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/22101840/vampyre.png",
+    "imdb": "https://www.imdb.com/title/tt0023649/",
+    "rating": 7.4
+  },
+  {
+    "title": "REC",
+    "start": "2026-10-30T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/rec/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/REC.jpg?fit=540%2C291&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt1038988/",
+    "rating": 7.4
+  },
+  {
+    "title": "BRAM STOKER'S DRACULA",
+    "start": "2026-10-30T19:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/bram-stokers-dracula",
+    "poster": "https://indy-systems.imgix.net/2zr1q0o15jy7fvg4xj0vg6kvhdpn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "RE-ANIMATOR at Ross Hollywood Chapel Funeral Home",
+    "start": "2026-10-30T20:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/re-animator-at-ross-hollywood-chapel-funeral-home/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/RE-ANIMATOR.jpg?fit=540%2C304&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "The Evil Dead (35mm)",
+    "start": "2026-10-30T21:15:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead",
+    "poster": "https://indy-systems.imgix.net/kb96b9xqe6gm7132uk5khveofmwy?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0083907/",
+    "rating": 7.3
+  },
+  {
+    "title": "The Funhouse",
+    "start": "2026-10-30T21:15:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19444?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001629&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt0082427/",
+    "rating": 5.9
+  },
+  {
+    "title": "POLTERGEIST (1982)",
+    "start": "2026-10-30T21:30:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY4MGZkYjgtYTQ2YS00YTlhLWEyMjAtMjZhYzczNTRlM2ZmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0084516/",
+    "rating": 7.3
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-30T21:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "GINGER SNAPS",
+    "start": "2026-10-30T22:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/AED2F82ABCD020DAEB0516BFC27F37C089CBB0FD450ED6AB017046563828A024_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0210070/",
+    "rating": 6.8
+  },
+  {
+    "title": "The Rocky Horror Picture Show with the Clinton Street Cabaret",
+    "start": "2026-10-30T22:30:00-07:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-the-clinton-street-cabaret-102/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2022/05/rockyhorror.jpeg",
+    "imdb": null,
     "rating": null
   }
 ]

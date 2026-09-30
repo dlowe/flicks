@@ -311,13 +311,18 @@
     font-size: .8rem; text-decoration: underline; padding: 0 .25rem;
   }
   #footerbar a { color: var(--faint); }
-  /* Resets summary can grow ("139 films, 2 theaters hidden") — let the count text
-     ellipsize so the bar stays one line and never hides listings behind it; the
-     action buttons (show all / copy link) always stay visible. */
-  #resets { flex: 1 1 auto; min-width: 0; display: flex; align-items: center; gap: .4rem; }
-  #resets:empty { display: none; }
-  .reset-sum { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .foot-meta { flex: none; display: inline-flex; align-items: center; gap: .7rem; white-space: nowrap; }
+  #footerbar [hidden] { display: none !important; }
+  /* Undo names what it reverses ("↶ Undo hide Eraserhead"); the "what" ellipsizes
+     so the bar stays one line and never hides listings behind it. */
+  #footerbar .undo { flex: 0 1 auto; min-width: 0; display: inline-flex; align-items: center; gap: .3rem; white-space: nowrap; }
+  .undo-what { min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+  .foot-meta { flex: none; margin-left: auto; display: inline-flex; align-items: center; gap: .7rem; white-space: nowrap; }
+  .fbox { margin: 0 0 1rem; }
+  .fbox .dialog-actions { justify-content: flex-start; flex-wrap: wrap; }
+  .fbox .search { width: 100%; margin-top: .6rem; }
+  #fmsg:empty { display: none; }
+  .help-foot { display: flex; justify-content: space-between; align-items: center; }
+  .help-foot a { color: var(--faint); font-size: .8rem; }
   .gh { display: inline-flex; }
   .gh:hover { color: var(--accent); }
   .gh svg { display: block; }
@@ -333,6 +338,8 @@
     .hint { margin-left: 0; flex-basis: 100%; }
     .search { flex-basis: 100%; font-size: 16px; }  /* 16px: stop iOS auto-zoom on focus */
     #footerbar button, #footerbar .gh { min-height: 44px; display: inline-flex; align-items: center; }  /* touch targets */
+    #footerbar { gap: .6rem; }
+    #footerbar .gh { display: none; }  /* room for undo; the help dialog links the source */
     .poster { width: 55px; height: 79px; }
     .showing, .film { gap: .7rem; }
     .hide, .hidet, .hided { color: var(--faint); }  /* always visible: no hover on touch */
@@ -345,11 +352,19 @@
     .seg button, .btn, .search, .dayfilter > summary { min-height: 44px; }
     .go { font-size: 1.1rem; padding: .35rem; }
     .ics-label { display: none; }   /* calendar button -> icon only, to slim the header */
-    /* By-film lines: drop the theater name so the row never wraps and the ↗
-       ticket link always stays in reach (the ↗ goes to that theater's page). */
+    /* Film-card lines: date · times ellipsizes so the ↗ ticket link stays in reach
+       on the first row; on a multi-theater card the theater drops to its own row
+       beneath (a single-theater card names it once, under the title). */
     .film .line { flex-wrap: nowrap; }
     .film .line-main { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-    .line-theater { display: none; }
+    .film .line.multi {
+      display: grid; grid-template-columns: auto minmax(0, max-content) auto 1fr; align-items: baseline;
+    }
+    .line.multi > .new-tag { grid-column: 1; }
+    .line.multi > .line-main { grid-column: 2; }
+    .line.multi > .go { grid-column: 3; grid-row: 1; }
+    .line.multi > .line-theater { grid-column: 1 / -1; grid-row: 2; }
+    .line-theater .sep { display: none; }
   }
 
   /* ===== Easter egg: Eraserhead (Lynch, 1977) gets the full Lynchian meltdown.
@@ -437,7 +452,7 @@
     <div class="dayband" id="dayband"></div>
   </details>
 
-  <p class="hint">Tap × to hide a film, theater, or day · ⌘Z to undo</p>
+  <p class="hint">Tap × to hide a film, theater, or day · ↶ Undo in the bar below (or ⌘Z)</p>
 
   <main id="cal"></main>
   <div id="empty" hidden></div>
@@ -472,19 +487,41 @@
       <b>+</b> to keep it — so "not right now" never means "never again."</li>
     <li>Switch <b>by date / film / theater</b>, and <b>Add to calendar</b> exports
       whatever's left.</li>
-    <li>Built a set you like on your phone? <b>copy link</b> (in the bar at the
-      bottom) carries your whole filter set to another device — just paste it there.</li>
+    <li>Built a set you like on your phone? <b>filters</b> (in the bar at the bottom)
+      copies a link carrying your whole filter set — paste it into <b>filters</b> on
+      the other device (or just open it there).</li>
   </ul>
   <p>It all saves in this browser — walk away, come back, reload, keep filtering.
     Your curated calendar builds up over time; there's nothing to set up or sign into.</p>
+  <p>Once opened, it works offline — the last listings stay on your device, no
+    connection needed.</p>
   <p class="dnote">All showtimes are Pacific time.</p>
-  <form method="dialog"><button class="btn">Got it</button></form>
+  <form method="dialog" class="help-foot"><button class="btn">Got it</button>
+    <a href="https://github.com/dlowe/flicks" target="_blank" rel="noopener">source on GitHub</a></form>
+</dialog>
+
+<dialog id="filters" aria-labelledby="filters-h">
+  <h2 id="filters-h">Your filters</h2>
+  <p id="filtersum"></p>
+  <div class="fbox">
+    <div class="dialog-actions">
+      <button class="btn" id="sharebtn" data-share>Copy link</button>
+      <button class="btn" data-paste>Paste link</button>
+      <button class="btn" id="showallbtn" data-show="all">Show all</button>
+    </div>
+    <input id="pastebox" class="search" type="text" inputmode="url" autocomplete="off"
+      placeholder="…or paste a filter link here" aria-label="Paste a filter link">
+    <p id="fmsg" class="dnote" role="status"></p>
+  </div>
+  <p class="dnote">To carry your filters to another device, copy the link here and
+    paste it there — no need to open it in a browser.</p>
+  <form method="dialog"><button class="btn">Close</button></form>
 </dialog>
 
 <dialog id="import" aria-labelledby="import-h">
   <h2 id="import-h">Import filters?</h2>
   <p id="importsummary"></p>
-  <p class="dnote">This replaces the filters currently on this device. ⌘Z undoes it.</p>
+  <p class="dnote">This replaces the filters currently on this device. Undo (or ⌘Z) reverses it.</p>
   <div class="dialog-actions">
     <button class="btn" data-import="cancel">Cancel</button>
     <button class="btn primary" data-import="apply">Replace filters</button>
@@ -492,8 +529,9 @@
 </dialog>
 
 <footer id="footerbar">
-  <span id="resets"></span>
+  <button id="undo" class="undo" hidden></button>
   <span class="foot-meta">
+    <button id="filtersbtn" data-open="filters">filters</button>
     <button class="sublink" data-open="help">how it works</button>
     <a class="gh" href="https://github.com/dlowe/flicks" target="_blank" rel="noopener"
        title="Source on GitHub" aria-label="Source on GitHub"><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.65 7.65 0 012-.27c.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg></a></span>
@@ -622,6 +660,33 @@
     });
     if (first) first.scrollIntoView({ block: "nearest", behavior: REDUCE_MOTION ? "auto" : "smooth" });
   }
+  // The footer's undo button (touch has no ⌘Z) names the step it would reverse.
+  var TITLES = {};
+  ROWS.forEach(function (r) { if (!(r.key in TITLES)) TITLES[r.key] = r.title; });
+  function dayName(n) {
+    var d = DAYS.filter(function (x) { return x[0] === +n; })[0];
+    return d ? d[1] + "s" : "a weekday";
+  }
+  function describe(a) {
+    var t = TITLES[a.v] || a.v;  // a film that's aged out of the listings keeps its key
+    return a.t === "film" ? "hide " + t
+      : a.t === "unhide" ? "restore " + t
+      : a.t === "theater" ? "hide " + a.v
+      : a.t === "day" ? "hide " + dayName(a.v)
+      : a.t === "unday" ? "show " + dayName(a.v)
+      : a.t === "date" ? "hide " + fmtShort(a.v)
+      : a.t === "import" ? "import"
+      : a.t === "reset" ? "show all" : "";
+  }
+  function renderUndo() {
+    var b = document.getElementById("undo"), a = undoStack[undoStack.length - 1];
+    b.hidden = !a;
+    if (!a) return;
+    var what = describe(a);
+    b.innerHTML = '<span aria-hidden="true">↶</span> Undo<span class="undo-what">' + esc(what) + "</span>";
+    b.setAttribute("aria-label", "Undo " + what);
+    b.title = "Undo " + what + " (⌘Z)";
+  }
 
   function esc(s) {
     return (s == null ? "" : String(s)).replace(/[&<>"]/g, function (c) {
@@ -655,7 +720,9 @@
   }
   function poster(r) {
     if (!r.poster) return '<div class="poster empty"></div>';  // invisible spacer keeps titles aligned
-    var img = '<img class="poster" src="' + esc(r.poster) + '" alt="" loading="lazy">';
+    // Posters are remote, so offline they fail — blank the slot, not a broken-image glyph.
+    var img = '<img class="poster" src="' + esc(r.poster) + '" alt="" loading="lazy"'
+      + ' onerror="this.style.visibility=\'hidden\'">';
     return r.imdb
       ? '<a href="' + esc(r.imdb) + '" target="_blank" rel="noopener"'
         + ' aria-label="' + esc(r.title) + ' on IMDb" title="View on IMDb">' + img + "</a>"
@@ -926,21 +993,26 @@
       }
 
       var title = linkTitle ? link(first.url, first.title, "") : esc(first.title);
+      // by-film: name a single-theater card's theater once, under the title; only a
+      // multi-theater card carries it per line.
+      var one = trail && g.rows.every(function (r) { return r.theater === first.theater; });
+      var sub = one ? '<div class="line"><span class="theater">' + trail(first) + "</span></div>" : "";
+      var lineTrail = one ? null : trail;
       var lines = g.rows.map(function (r) {
         var lineNew = !leak && !allNew && rowIsNew(r);
-        var cls = lineNew ? " is-new" : "";
+        var cls = (lineNew ? " is-new" : "") + (lineTrail ? " multi" : "");
         var attr = lineNew ? ' data-ids="' + esc(rowIds(r).join("\t")) + '"' : "";
         var tag = lineNew ? '<span class="new-tag">New</span> ' : "";
         // line-main (date · times) is the shrinkable part; on narrow screens it
-        // ellipsizes and the theater drops, so the ↗ ticket link is never pushed off.
+        // ellipsizes and the theater drops to a row below, so the ↗ is never pushed off.
         return '<div class="line' + cls + '"' + attr + '>' + tag
           + '<span class="line-main">' + lead(r) + " &nbsp;·&nbsp; " + times(r) + "</span>"
-          + (trail ? '<span class="line-theater"> &nbsp;·&nbsp; <span class="theater">' + trail(r) + "</span></span>" : "")
+          + (lineTrail ? '<span class="line-theater"><span class="sep">&nbsp;&nbsp;·&nbsp; </span><span class="theater">' + lineTrail(r) + "</span></span>" : "")
           + goLink(r) + "</div>";
       }).join("");
 
       return '<div class="film' + ehClass(first) + cardCls + '" data-rk="' + esc(first.key) + '"' + rt + cardAttr + ">" + poster(first)
-        + '<div class="meta"><div class="title">' + cardTag + title + ratingBadge(first) + "</div>" + lines + "</div>"
+        + '<div class="meta"><div class="title">' + cardTag + title + ratingBadge(first) + "</div>" + sub + lines + "</div>"
         + actionBtn(first) + "</div>";
     }).join("");
   }
@@ -1072,18 +1144,19 @@
     ics.setAttribute("aria-label", lbl);
     ics.disabled = nshow === 0;
 
-    // One consolidated reset; the per-kind breakdown is the visible label (so it
-    // works on touch, where there's no hover).
-    var bd = [];
+    // The bar keeps a short "filters (n)"; the per-kind breakdown, show all, and
+    // copy/paste link live in the filters dialog (so the bar fits a phone with undo).
+    var bd = [], nf = hidden.size + off.size + offDays.size + offDates.size;
     if (hidden.size) bd.push(plural(hidden.size, "film"));
     if (off.size) bd.push(plural(off.size, "theater"));
     if (offDays.size) bd.push(plural(offDays.size, "weekday"));
     if (offDates.size) bd.push(plural(offDates.size, "date"));
-    document.getElementById("resets").innerHTML = bd.length
-      ? '<span class="reset-sum">' + esc(bd.join(", ")) + ' hidden</span>'
-        + ' · <button data-show="all">show all</button>'
-        + ' · <button data-share title="Copy a link that recreates these filters on another device">copy link</button>'
-      : "";
+    document.getElementById("filtersbtn").textContent = nf ? "filters (" + nf + ")" : "filters";
+    document.getElementById("filtersum").textContent =
+      bd.length ? "Hiding " + bd.join(", ") + "." : "Nothing hidden yet.";
+    document.getElementById("sharebtn").disabled = !nf;
+    document.getElementById("showallbtn").disabled = !nf;
+    renderUndo();
 
     observeNew();  // watch the freshly-rendered "new" units for the seen gate
   }
@@ -1093,8 +1166,8 @@
     var opener = e.target.closest("[data-open]");
     if (opener) {
       e.preventDefault();
-      var dlg = document.getElementById(opener.dataset.open);
-      if (dlg.showModal) dlg.showModal(); else dlg.setAttribute("open", "");
+      if (opener.dataset.open === "filters") fsay("");
+      openDlg(opener.dataset.open);
       return;
     }
     if (e.target.tagName === "DIALOG") { e.target.close(); return; }  // backdrop click
@@ -1112,20 +1185,16 @@
     var importEl = e.target.closest("[data-import]");
     if (e.target.closest("#ics")) {
       downloadICS();
+    } else if (e.target.closest("#undo")) {
+      undo();
     } else if (egg) {
       resetAll();
     } else if (shareEl) {
-      shareUrl().then(function (url) {
-        if (navigator.clipboard && navigator.clipboard.writeText) {
-          return navigator.clipboard.writeText(url).then(function () {
-            toast("Filter link copied — paste it on your other device.");
-          });
-        }
-        toast("Couldn't copy automatically.");
-      }).catch(function () { toast("Couldn't build the share link."); });
+      copyShare();
+    } else if (e.target.closest("[data-paste]")) {
+      pasteShare();
     } else if (importEl) {
-      var idlg = document.getElementById("import");
-      if (idlg.close) idlg.close(); else idlg.removeAttribute("open");
+      closeDlg("import");
       if (importEl.dataset.import === "apply" && pendingImport) applyImport(pendingImport);
       pendingImport = null;
     } else if (dayEl) {
@@ -1155,8 +1224,10 @@
         refocus(".unhide", uat);
       }
     } else if (seg) {
-      view = seg.dataset.view; store(VIEWKEY, view); render(); window.scrollTo(0, 0);
+      // Switching views is a fresh look: drop the New/leaks you've now seen.
+      view = seg.dataset.view; store(VIEWKEY, view); newSession(); window.scrollTo(0, 0);
     } else if (show) {
+      closeDlg("filters");
       resetAll();  // undoable
     }
   });
@@ -1187,6 +1258,16 @@
   // such a link replaces this device's filters (one ⌘Z-undoable step).
   var pendingImport = null;
   function toast(m) { if (window.flicksToast) window.flicksToast(m); say(m); }
+  function openDlg(id) {
+    var d = document.getElementById(id);
+    if (d.showModal) d.showModal(); else d.setAttribute("open", "");
+  }
+  function closeDlg(id) {
+    var d = document.getElementById(id);
+    if (d.close) d.close(); else d.removeAttribute("open");
+  }
+  // Status line inside the filters dialog (a toast would sit under the modal).
+  function fsay(m) { document.getElementById("fmsg").textContent = m; if (m) say(m); }
   function b64urlEnc(bytes) {
     var s = "";
     for (var i = 0; i < bytes.length; i++) s += String.fromCharCode(bytes[i]);
@@ -1246,19 +1327,76 @@
     if (f.offDates.length) p.push(f.offDates.length + " date" + (f.offDates.length === 1 ? "" : "s"));
     return p.length ? " (plus " + p.join(", ") + ")" : "";
   }
-  async function maybeImport() {
-    var f = await decodeShare(location.hash);
-    history.replaceState(null, "", location.pathname + location.search);  // don't re-prompt on reload
-    if (!f) return;
+  function offerImport(f) {
     pendingImport = f;
     var n = f.hidden.length;
     document.getElementById("importsummary").innerHTML =
       "Replace your filters with <b>" + n + "</b> hidden film" + (n === 1 ? "" : "s")
       + importExtra(f) + "?";
-    var dlg = document.getElementById("import");
-    if (dlg.showModal) dlg.showModal(); else dlg.setAttribute("open", "");
+    openDlg("import");
   }
-  window.flicksShare = { url: shareUrl, decode: decodeShare, apply: applyImport };
+  async function maybeImport() {
+    var f = await decodeShare(location.hash);
+    history.replaceState(null, "", location.pathname + location.search);  // don't re-prompt on reload
+    if (f) offerImport(f);
+  }
+  // Paste: the home-screen app can't be the target of a tapped link (iOS opens
+  // links in Safari, with separate storage), so take the link as text instead —
+  // the fragment is decoded locally, so this works offline.
+  async function importFromText(text) {
+    var m = /#fr?=[A-Za-z0-9_-]+/.exec(text || "");
+    var f = m && await decodeShare(m[0]);
+    if (!f) return false;
+    closeDlg("filters");
+    offerImport(f);
+    return true;
+  }
+  var pasteBox = document.getElementById("pastebox");
+  function pasteShare() {
+    if (!(navigator.clipboard && navigator.clipboard.readText)) { pasteBox.focus(); return; }
+    navigator.clipboard.readText().then(importFromText).then(function (ok) {
+      if (!ok) { fsay("No filter link on the clipboard — paste it into the box."); pasteBox.focus(); }
+    }, function () { fsay("Couldn't read the clipboard — paste the link into the box."); pasteBox.focus(); });
+  }
+  pasteBox.addEventListener("input", function () {
+    var v = pasteBox.value;
+    importFromText(v).then(function (ok) {
+      if (ok) pasteBox.value = "";
+      else if (v.trim()) fsay("That doesn't look like a filter link.");
+    });
+  });
+  // Copy: ClipboardItem takes a *promise*, so Safari still counts the write as part
+  // of the tap even though building the link is async. Failing all else, put the
+  // link in the box, selected, to copy by hand.
+  function copyShare() {
+    var p = shareUrl(), ok = function () { fsay("Link copied — paste it into filters on your other device."); };
+    var cb = navigator.clipboard;
+    var w = cb && typeof ClipboardItem === "function" && cb.write
+      ? cb.write([new ClipboardItem({ "text/plain": p.then(function (u) { return new Blob([u], { type: "text/plain" }); }) })])
+      : cb && cb.writeText ? p.then(function (u) { return cb.writeText(u); })
+      : Promise.reject();
+    w.then(ok, function () {
+      p.then(function (u) {
+        pasteBox.value = u; pasteBox.focus(); pasteBox.select();
+        fsay("Couldn't copy automatically — the link is selected in the box.");
+      }, function () { fsay("Couldn't build the share link."); });
+    });
+  }
+  window.flicksShare = { url: shareUrl, decode: decodeShare, apply: applyImport, paste: importFromText };
+
+  // A fresh "session" without a navigation: re-baseline New/leaks from the seen-set,
+  // so what you've now looked at (≥1s on screen) drops off — including leaked
+  // hidden films — while anything not yet seen keeps its marker. Runs on ↻, on a
+  // view switch, and on returning after a while away: a home-screen app is rarely
+  // reloaded, so without this a leak would linger until iOS killed the app.
+  var AWAY_MS = 30 * 60 * 1000, hiddenAt = 0;
+  function newSession() { newIds.clear(); initSeen(); render(); }
+  window.flicksNewSession = newSession;
+  document.addEventListener("visibilitychange", function () {
+    if (document.visibilityState === "hidden") { hiddenAt = Date.now(); return; }
+    if (hiddenAt && Date.now() - hiddenAt >= AWAY_MS) newSession();
+    hiddenAt = 0;
+  });
 
   initSeen();
   render();
@@ -1373,11 +1511,11 @@
   }
   window.flicksToast = flash;  // let the main script surface its own toasts (e.g. "link copied")
 
-  // ↻ checks for a newer build and reloads into it (which re-baselines New via the
-  // page's initSeen). It deliberately does NOT clear New on its own — you tap it to
-  // get fresh listings, not to wipe the markers you opened the app to read.
+  // ↻ starts a fresh session (drops New/leaks you've already looked at — works
+  // offline, no navigation), then reloads into a newer build if there is one.
   var btn = document.getElementById("reload");
   if (btn) btn.addEventListener("click", function () {
+    if (window.flicksNewSession) window.flicksNewSession();
     if (navigator.onLine === false) { flash("Offline — showing saved listings"); return; }
     btn.disabled = true;
     refresh(true).then(function (stale) {   // reload() navigates away if stale
@@ -1388,6 +1526,13 @@
 
   refresh(false);                // catch a stale-from-cache cold launch promptly
   setInterval(poll, 60000);
+
+  // Offline cold launches: sw.js serves the last page it saw when there's no
+  // network (see its header). The HTTP cache alone isn't enough — an iOS
+  // home-screen app that's been evicted relaunches from the network.
+  if (navigator.serviceWorker && location.protocol !== "file:") {
+    navigator.serviceWorker.register("sw.js").catch(function () { /* unsupported/blocked: no offline launch */ });
+  }
 })();
 </script>
 </body>

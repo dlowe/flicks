@@ -6,7 +6,8 @@ The output is a single self-contained webpage.
 
 ## First-time setup
 
-Needs **Python 3.11+** (uses the stdlib `tomllib`).
+Needs **Python 3.11+** (uses the stdlib `tomllib`). The client tests
+(`./test.sh`) need **node** (no packages).
 
 ```bash
 python3 -m venv .venv
@@ -42,8 +43,9 @@ in a fraction of a second.
   clock quietly rather than marking everything new.
 - A new showing of a film you've **hidden** still surfaces — faded, with a **+** to
   bring the film back for good — so hiding "not right now" never permanently buries
-  a film that comes back around. Ignore it and it slips away again next visit (and
-  re-appears if it gets another new showing). Only the per-film hide is pierced this
+  a film that comes back around. Once you've seen it, it slips away on your next
+  visit — tapping ↻, switching views, or coming back after half an hour counts —
+  and re-appears if it gets another new showing. Only the per-film hide is pierced this
   way; hiding a theater, weekday, or date is left alone.
 - **IMDb ratings** (★) show next to films where known, and the **poster** links to
   IMDb. Each showing's **↗** opens that theater's showtimes/tickets page; theater
@@ -53,10 +55,11 @@ in a fraction of a second.
   from, with links — including ones currently filtered down to nothing.
 - A **how it works** dialog (footer link) explains the aggregate-then-filter idea;
   it pops up once on a first visit.
-- Built a filter set you love on one device? **copy link** (in the bottom bar, once
-  you've hidden anything) packs your whole hide list — 100+ films is fine — into the
-  URL. Paste it on another device (Universal Clipboard, AirDrop) and opening it
-  recreates the same filters there (replacing that device's, ⌘Z-undoable).
+- Built a filter set you love on one device? **filters** (in the bottom bar) →
+  **Copy link** packs your whole hide list — 100+ films is fine — into a URL. On the
+  other device, **filters → Paste link** (or just open the link) recreates the same
+  filters there, replacing that device's (undoable). Pasting works in the
+  home-screen app, which a tapped link can't reach (iOS opens it in Safari).
 - Light or dark theme follows your OS.
 - **Add to calendar** exports whatever's currently showing (after your hides and
   theater filters) as an `.ics` file — built in your browser, no server. Import it
@@ -69,11 +72,16 @@ in a fraction of a second.
   theater's name (in "by theater"), by a date's heading (in "by date"), or a whole
   weekday via the chips below the controls — a hidden weekday stays as a faded chip
   with a **+** to bring it back. All are saved in your browser; the
-  floating bar at the bottom tallies each kind and resets them. **⌘Z / Ctrl-Z**
-  undoes your last hide (briefly flashing what came back); **⇧⌘Z / Ctrl-Y** redoes.
-- Left open in a tab, the page auto-reloads when it's been regenerated, preserving
-  your scroll. It's offline-safe: with no network it just keeps showing the cached
-  page (it only reloads on a confirmed new build, never into a dead connection).
+  bar at the bottom counts them (tap **filters** for the breakdown and **Show all**).
+  **↶ Undo** in the bottom bar — or **⌘Z / Ctrl-Z** — undoes your last step and
+  says which ("Undo hide Eraserhead"), briefly flashing what came back;
+  **⇧⌘Z / Ctrl-Y** redoes.
+- **By film** names each film's theater (once, when it's only playing one).
+- **Works offline.** Once opened, a service worker keeps the last page on your
+  device, so it opens (even as a home-screen app, cold) with no connection; only
+  posters may be missing. Online, it picks up a newer build on open or ↻, and a tab
+  left open auto-reloads when the page is regenerated, preserving your scroll — but
+  it never reloads into a dead connection. `tests/offline.test.js` guards this.
 - A banner warns if a theater that usually has listings returned none this run
   (a likely sign its website changed) — see the health check below.
 

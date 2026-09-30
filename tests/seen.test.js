@@ -1,138 +1,13 @@
 // Tests for the page's "new to you" / leak logic — the densest, least
-// eyeball-able client code. Runs the *real* in-page script (extracted from the
-// checked-in template, with fixture rows injected) under a minimal DOM stub, so
-// no build, network, or Python is needed. Pure node, no deps.
+// eyeball-able client code. See harness.js for how the page is run.
 //
 //   node tests/seen.test.js   (or ./test.sh)
 
-const fs = require("fs");
-const path = require("path");
-const vm = require("vm");
+const {
+  run, row, dayPlus, fixtures, showingId, allIds, test, eq, runTests,
+} = require("./harness");
 
-const TEMPLATE = path.join(__dirname, "..", "flicks", "templates", "index.html");
-
-// --- Pull the main IIFE out of the template and feed it fixture rows in place
-// of the Jinja `{{ rows_json|safe }}` blob. (That token is the only Jinja in the
-// first <script>; the rest live in HTML / the second script.)
-const template = fs.readFileSync(TEMPLATE, "utf8");
-const SCRIPT = template.match(/<script>([\s\S]*?)<\/script>/)[1];
-function instantiate(rows) {
-  return SCRIPT.replace("{{ rows_json|safe }}", JSON.stringify(rows));
-}
-
-// --- Fixtures: dates are relative to the run, so rows stay "upcoming". A film
-// is identified by `key`; a row is one film+theater+day with a list of `starts`.
-function pad(n) { return n < 10 ? "0" + n : "" + n; }
-function dayPlus(n) {
-  const d = new Date(); d.setDate(d.getDate() + n);
-  return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate());
-}
-function row(key, title, theater, date, starts) {
-  return {
-    date, title, key, theater, home: "https://x", url: "https://x",
-    poster: null, imdb: null, rating: null,
-    times: starts.map(() => "7:00pm"),
-    starts: starts.map((t) => date + "T" + t + "-07:00"),
-    sort: date + "T" + starts[0] + "-07:00",
-  };
-}
-function fixtures() {
-  return [
-    row("film-a", "Film A", "Theater 1", dayPlus(2), ["19:00"]),
-    row("film-a", "Film A", "Theater 1", dayPlus(5), ["19:00"]),
-    row("film-b", "Film B", "Theater 2", dayPlus(3), ["19:00"]),
-    row("film-c", "Film C", "Theater 3", dayPlus(4), ["20:00", "22:00"]),
-  ];
-}
-function showingId(r, i) { return r.key + "|" + r.theater + "|" + r.starts[i]; }
-function allIds(rows) {
-  return rows.flatMap((r) => r.starts.map((_, i) => showingId(r, i)));
-}
-
-// --- Minimal DOM stub: enough for the script to load + render once without
-// throwing. cal.innerHTML captures the rendered HTML for assertions; everything
-// else is inert (the IntersectionObserver never fires here).
-function makeStore(seed) {
-  const m = new Map(Object.entries(seed || {}));
-  return {
-    getItem: (k) => (m.has(k) ? m.get(k) : null),
-    setItem: (k, v) => m.set(k, String(v)),
-    removeItem: (k) => m.delete(k),
-  };
-}
-// opts.live = true makes the IntersectionObserver fire and timers run inline, so
-// rows are "viewed" (marked seen) during render — for testing the seen→refresh
-// flow. Default (inert) is right for the static render assertions.
-function run(rows, storage, opts) {
-  opts = opts || {};
-  const reg = {};
-  const cal = {
-    _h: "", set innerHTML(v) { this._h = v; }, get innerHTML() { return this._h; },
-    // In live mode, hand back the rendered new/leak units (those carry data-ids)
-    // so the observer can mark them seen.
-    querySelectorAll: opts.live
-      ? () => [...cal._h.matchAll(/data-ids="([^"]*)"/g)].map((m) => ({ dataset: { ids: m[1] } }))
-      : () => [],
-  };
-  const el = () => {
-    const e = {
-      textContent: "", innerHTML: "", disabled: false, hidden: false, dataset: {},
-      classList: { add() {}, remove() {} }, getAttribute: () => "",
-      addEventListener() {}, scrollIntoView() {}, value: "", focus() {}, _opened: false,
-    };
-    e.showModal = () => { e._opened = true; };       // track dialog opens
-    e.setAttribute = (k) => { if (k === "open") e._opened = true; };
-    return e;
-  };
-  const getEl = (id) => (id === "cal" ? cal : (reg[id] || (reg[id] = el())));
-  const IO = opts.live
-    ? class { constructor(cb) { this.cb = cb; } observe(t) { this.cb([{ target: t, isIntersecting: true }]); } unobserve() {} disconnect() {} }
-    : class { observe() {} unobserve() {} disconnect() {} };
-  const doc = {
-    getElementById: getEl, querySelectorAll: () => [], addEventListener() {},
-    body: { dataset: {} }, visibilityState: "visible", activeElement: null,
-  };
-  const win = { IntersectionObserver: IO, scrollTo() {}, addEventListener() {},
-    matchMedia: () => ({ matches: false }) };
-  const sb = {
-    document: doc, window: win, localStorage: makeStore(storage),
-    sessionStorage: makeStore(), navigator: { onLine: true },
-    location: { href: "x", origin: "https://x", pathname: "/", search: "", hash: "", reload() {} },
-    history: { replaceState() {} },
-    setTimeout: opts.live ? (fn) => { fn(); return 0; } : () => 0,
-    clearTimeout() {}, setInterval: () => 0, console,
-    IntersectionObserver: IO, Set, Map, JSON, Date, Math,
-    parseInt, parseFloat, String, Array, Object,
-    // Web APIs the share/import code uses (Node globals):
-    CompressionStream, DecompressionStream, TextEncoder, TextDecoder, Response,
-    Uint8Array, Promise, btoa, atob,
-  };
-  win.location = sb.location;
-  vm.createContext(sb);
-  vm.runInContext(instantiate(rows), sb);
-  const ls = sb.localStorage;
-  return {
-    cal, win,
-    html: cal._h,
-    seen: JSON.parse(ls.getItem("flicks.seen") || "[]"),
-    newPills: (cal._h.match(/new-tag/g) || []).length,
-    leaks: (cal._h.match(/is-leak/g) || []).length,
-    icsCount: ((reg.ics || {}).innerHTML || "").replace(/<[^>]+>/g, "").match(/\d+/),
-    has: (re) => re.test(cal._h),
-    opened: (id) => !!(reg[id] && reg[id]._opened),
-    lsGet: (k) => ls.getItem(k),
-  };
-}
 function countLeaks(o) { return (o.cal._h.match(/is-leak/g) || []).length; }
-
-// --- Tiny assertion harness. Tests register here, then run sequentially (some
-// are async) in the runner at the bottom.
-let failed = 0;
-const tests = [];
-function test(name, fn) { tests.push({ name, fn }); }
-function eq(actual, expected, what) {
-  if (actual !== expected) throw new Error((what || "value") + ": expected " + expected + ", got " + actual);
-}
 
 const R = fixtures();
 const ALL = allIds(R);                       // every showing id in the fixture
@@ -284,11 +159,49 @@ test("importing a filter set replaces the device's filters", async () => {
   eq(o.lsGet("flicks.days.off"), JSON.stringify([1]), "weekdays replaced");
 });
 
-(async () => {
-  for (const { name, fn } of tests) {
-    try { await fn(); console.log("  ok  " + name); }
-    catch (e) { failed++; console.log("FAIL  " + name + "\n      " + e.message); }
-  }
-  console.log(failed ? "\n" + failed + " failing" : "\nall passing");
-  process.exit(failed ? 1 : 0);
-})();
+// --- Fresh session: New/leaks are frozen for a visit, and a home-screen app is
+// rarely reloaded — so ↻, a view switch, and returning after a while away each
+// re-baseline, dropping what you've looked at (but not what you haven't).
+function leakSetup(opts) {
+  const seen = ALL.filter((id) => id !== showingId(R[0], 0));  // film-a has a new showing…
+  return run(R, { "flicks.seen": JSON.stringify(seen), "flicks.hidden": JSON.stringify(["film-a"]) }, opts);
+}
+
+test("↻ drops a leak you've already viewed, without a reload (works offline)", () => {
+  const o = leakSetup({ live: true, onLine: false });  // live: rows get "viewed" on render
+  eq(countLeaks(o), 1, "leak shown on the visit you viewed it");
+  o.el("reload").fire("click");
+  eq(countLeaks(o), 0, "leak dropped after ↻");
+  eq(o.location.reloads, 0, "no navigation");
+});
+
+test("switching views drops a viewed leak", () => {
+  const o = leakSetup({ live: true });
+  o.click({ ".seg button": { dataset: { view: "film" } } });
+  eq(countLeaks(o), 0, "leak dropped on view switch");
+});
+
+test("returning after ≥30 min away drops a viewed leak; a brief app switch doesn't", () => {
+  const o = leakSetup({ live: true });
+  const realNow = Date.now;
+  try {
+    let t = realNow();
+    Date.now = () => t;
+    o.doc.visibilityState = "hidden"; o.doc.fire("visibilitychange");
+    t += 5 * 60 * 1000;
+    o.doc.visibilityState = "visible"; o.doc.fire("visibilitychange");
+    eq(countLeaks(o), 1, "still shown after 5 min away");
+    o.doc.visibilityState = "hidden"; o.doc.fire("visibilitychange");
+    t += 31 * 60 * 1000;
+    o.doc.visibilityState = "visible"; o.doc.fire("visibilitychange");
+    eq(countLeaks(o), 0, "dropped after 31 min away");
+  } finally { Date.now = realNow; }
+});
+
+test("a fresh session keeps a leak you haven't viewed yet", () => {
+  const o = leakSetup();  // inert: nothing gets viewed
+  o.win.flicksNewSession();
+  eq(countLeaks(o), 1, "unviewed leak survives");
+});
+
+runTests();

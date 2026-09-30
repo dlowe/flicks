@@ -12,6 +12,15 @@ case "${1:-}" in
   *) echo "usage: publish.sh [--reuse]   (--reuse: publish the local render, no fetch)" >&2; exit 2 ;;
 esac
 
+# Don't ship a page whose client tests fail — in particular the offline guarantees
+# (tests/offline.test.js). Needs node; if launchd's PATH lacks it, warn rather than
+# stall the daily listings refresh.
+if command -v node >/dev/null 2>&1; then
+  ./test.sh >/dev/null || { ./test.sh | grep -v '^  ok' >&2; echo "✗ Tests failing — not publishing." >&2; exit 1; }
+else
+  echo "⚠ node not found — skipping client tests." >&2
+fi
+
 if [ -n "$REUSE" ]; then
   # Dev affordance: ship the render already on disk (e.g. from ./render.sh),
   # skipping the ~50s fetch and the cron-oriented wake/freshness guards below —
@@ -53,7 +62,8 @@ else
   git worktree add --force --orphan -b gh-pages "$work"
 fi
 
-assets="index.html events.json manifest.webmanifest icon.svg apple-touch-icon.png icon-192.png icon-512.png"
+# Keep in sync with the CI workflow; tests/offline.test.js checks sw.js + its precache list are here.
+assets="index.html events.json sw.js manifest.webmanifest icon.svg apple-touch-icon.png icon-192.png icon-512.png"
 cp $assets "$work/"
 git -C "$work" add $assets
 git -C "$work" commit -m "Publish $(date -u +%Y-%m-%dT%H:%MZ)" \

@@ -5,6 +5,28 @@ theaters, with wide releases and non-film events filtered out. Runs locally and
 uses **no LLM/tokens at runtime** — it's plain HTTP + parsing. (LLMs were used at
 build time to discover each theater's data source and write its adapter.)
 
+## Design goal: works offline (hard requirement)
+
+The owner uses the page as an iOS **home-screen app on a phone with no data
+plan**, so it must open and fully work with no network — this has regressed
+before, so treat it as a constraint on every change, not a nice-to-have:
+
+- **Self-contained page.** Listings are inlined as JSON; all CSS/JS inline; no
+  external scripts, stylesheets, or fonts. Posters (remote) may be missing
+  offline — they blank out, nothing else depends on them.
+- **`sw.js` (service worker)** answers opening the page from cache first, and
+  refreshes the cached copy when the page's own build check fetches it online.
+  It precaches the manifest/icons (`ASSETS`); `publish.sh` and the CI workflow
+  must ship it.
+- **Never navigate into a dead connection.** Reloads happen only after a
+  successful fetch shows a newer build.
+- **Every feature is local**: hiding/undo, New/leaks, `.ics` export, and filter
+  sharing (copy *and* paste link — iOS opens tapped links in Safari, not the
+  home-screen app, so paste is how a link reaches the app).
+- **`tests/offline.test.js`** pins all of this (static checks + the page with a
+  dead network + `sw.js` under a fake Cache API). `publish.sh` refuses to publish
+  when tests fail, and `.github/workflows/test.yml` runs them on push.
+
 ## Pipeline
 
 `adapters → list[Event] → 30-day horizon → events.json (full cache) → filter → render → index.html`
@@ -28,8 +50,10 @@ build time to discover each theater's data source and write its adapter.)
   with no re-fetch. "New" is tracked at the showing level (`key|theater|start`)
   in `localStorage` (`flicks.seen`): a showing flags as New until it's been on
   screen ~1s while foregrounded, then it's marked seen; the set is pruned to the
-  current horizon. In the film-card views (by-film/by-theater) the pill sits on the
-  title only when the *whole* film is new, else it floats down to the new lines. First visit (or returning to find >50% of the in-filter slate
+  current horizon. New/leak flags are frozen per "session"; ↻, a view switch, or
+  returning after ≥30 min away starts a fresh one (drops what's been seen) — the
+  home-screen app is rarely reloaded, so a reload can't be the only reset. In the
+  film-card views (by-film/by-theater) the pill sits on the title only when the *whole* film is new, else it floats down to the new lines. First visit (or returning to find >50% of the in-filter slate
   unseen) silently baselines instead of flooding. A new showing of a film you've
   **hidden** "leaks" through — shown faded with a **+** to restore the film (⌘Z-
   undoable) — so an aggressive per-film hide can't bury a genuinely-new screening;
@@ -41,12 +65,17 @@ build time to discover each theater's data source and write its adapter.)
   `THEATER_HOMES` maps theater names to
   homepages, used for the name links and the "theaters covered" modal (opened from
   the page title) — which lists all covered theaters, even ones filtered to nothing.
+  By-film cards name a single theater once under the title; multi-theater cards
+  carry it per line (its own row on phones). The footer bar has an **↶ Undo
+  <what>** button (touch has no ⌘Z; the label ellipsizes) and **filters (n)**,
+  which opens a dialog with the per-kind breakdown, show all, and copy/paste link.
   A "how it works" dialog (footer link) explains the aggregate-then-filter idea and
-  auto-pops once on a first visit (`flicks.welcomed` flag). A **copy link** button
-  (resets bar) encodes the four filter sets, deflated (`CompressionStream`) +
+  auto-pops once on a first visit (`flicks.welcomed` flag). **Copy link** (filters
+  dialog) encodes the four filter sets, deflated (`CompressionStream`) +
   base64url, into the URL `#f=` fragment (~2.3k chars for 100+ hides — for Universal
   Clipboard/AirDrop, not typing); opening such a link replaces this device's filters
   in one ⌘Z-undoable step (`import` undo action) instead of showing the welcome.
+  **Paste link** (clipboard, or typed into the dialog's box) does the same.
   Palette follows the OS (CSS vars + `prefers-color-scheme`); filtering everything
   out reveals a small "The End" easter egg.
 - `flicks/titles.py` — `normalize()` strips presenter credits ("X Presents:",
@@ -107,11 +136,14 @@ Decision order per film: **allow > deny > non-film keyword > multiplex > cross-t
 - `./render.sh` rebuilds index.html from the cached `events.json` + `multiplex.json`
   with no network (~0.1s) — for iterating on filtering/rendering. (= `python -m
   flicks.main --render-only`.) `health.json`/`multiplex.json` are gitignored caches.
-- `./test.sh` (`node tests/seen.test.js`) covers the page's "new to you" / leak
-  logic — it runs the real in-page script from the template against fixture rows
-  under a tiny DOM stub. Pure node, no deps, no build/network. The only tests so far.
+- `./test.sh` runs `tests/*.test.js`: `seen` ("new to you"/leaks/sessions), `ui`
+  (undo button, filters/paste, by-film theater), `offline` (see the design goal
+  above). `tests/harness.js` runs the real in-page scripts from the template
+  against fixture rows under a tiny DOM stub, with the network down by default.
+  Pure node, no deps, no build/network.
 - `./publish.sh` builds + pushes to `gh-pages` (worktree off `origin/gh-pages`).
-  It waits for GitHub, then **aborts if the checkout is behind `origin/main`**
+  It runs `./test.sh` first (aborts on failure; warns and skips if `node` isn't on
+  PATH), waits for GitHub, then **aborts if the checkout is behind `origin/main`**
   (`FLICKS_ALLOW_STALE=1` overrides) so an unattended run can't ship stale code.
   `./publish.sh --reuse` skips the fetch/build and those guards to ship the render
   already on disk (`./render.sh` + `--reuse` = ~1s dev-publish loop).

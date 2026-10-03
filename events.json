@@ -1,914 +1,5 @@
 [
   {
-    "title": "Verity",
-    "start": "2026-10-02T11:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/verity",
-    "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
-  },
-  {
-    "title": "Heart Of The Beast",
-    "start": "2026-10-02T11:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/heart-of-the-beast",
-    "poster": "https://indy-systems.imgix.net/cyffzke0faa0xa8u9guwo1f5jjvi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-10-02T11:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
-    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "Digger",
-    "start": "2026-10-02T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/digger",
-    "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "Late Fame",
-    "start": "2026-10-02T12:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
-    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32298494/",
-    "rating": 6.9
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-02T12:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "The Incomer",
-    "start": "2026-10-02T12:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-incomer",
-    "poster": "https://indy-systems.imgix.net/3iav94kngerzhrhbviqyj4aw1mtj?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36980182/",
-    "rating": 7.5
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-02T12:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "THE INVISIBLE MAN (1933)",
-    "start": "2026-10-02T13:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/463719CA20297289A5D30A0BB9343E64522EAC3B5B612ABA6EA2AC7481691098_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0024184/",
-    "rating": 7.1
-  },
-  {
-    "title": "Heart Of The Beast",
-    "start": "2026-10-02T13:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/heart-of-the-beast",
-    "poster": "https://indy-systems.imgix.net/cyffzke0faa0xa8u9guwo1f5jjvi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "Verity",
-    "start": "2026-10-02T14:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/verity",
-    "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
-  },
-  {
-    "title": "Late Fame",
-    "start": "2026-10-02T14:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
-    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32298494/",
-    "rating": 6.9
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-10-02T14:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
-    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "Digger",
-    "start": "2026-10-02T14:35:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/digger",
-    "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "The Weight",
-    "start": "2026-10-02T14:40:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-weight",
-    "poster": "https://indy-systems.imgix.net/s4kcc10st8p1ofhuw4forqpf03ub?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt10794054/",
-    "rating": 6.9
-  },
-  {
-    "title": "HEART OF THE BEAST",
-    "start": "2026-10-02T15:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/094F90FF6E3AD2007B262F1BDADCC725B359E886E548D89F303AB99247008143_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-02T15:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "VERITY",
-    "start": "2026-10-02T15:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-10-02T15:20:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-10-02T15:25:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-02T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-02T15:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-02T15:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "MESSIAH OF EVIL (1974)",
-    "start": "2026-10-02T16:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFmZWI3ZDctZTZlZS00MDBkLWJhMmQtMGE2ZTFlNGVkYWJmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0071396/",
-    "rating": 6.3
-  },
-  {
-    "title": "Coyote vs. Acme",
-    "start": "2026-10-02T16:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/coyote-vs-acme",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_860a037a-aa52-49fd-85ee-9b4ef52e4e31.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.4
-  },
-  {
-    "title": "PRIMETIME",
-    "start": "2026-10-02T16:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "Verity",
-    "start": "2026-10-02T16:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/verity",
-    "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-02T16:10:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-02T16:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "Primetime",
-    "start": "2026-10-02T16:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/primetime",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "PRIMETIME",
-    "start": "2026-10-02T16:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-10-02T16:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
-    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "The History of Concrete",
-    "start": "2026-10-02T16:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-history-of-concrete",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
-    "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
-  },
-  {
-    "title": "The Incomer",
-    "start": "2026-10-02T16:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-incomer",
-    "poster": "https://indy-systems.imgix.net/3iav94kngerzhrhbviqyj4aw1mtj?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36980182/",
-    "rating": 7.5
-  },
-  {
-    "title": "Primetime",
-    "start": "2026-10-02T16:30:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19541?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001606&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "VERITY",
-    "start": "2026-10-02T16:35:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
-  },
-  {
-    "title": "Resident Evil",
-    "start": "2026-10-02T16:45:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19539?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "Ha-Chan, Shake Your Booty!",
-    "start": "2026-10-02T17:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/ha-chan-shake-your-booty",
-    "poster": "https://indy-systems.imgix.net/zl30rq2bqt7ibn7cz24n2u72ks8m?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt39149197/",
-    "rating": 7.3
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-02T17:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "THE INCOMER",
-    "start": "2026-10-02T17:10:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/the-incomer",
-    "poster": "https://indy-systems.imgix.net/hdlhlv3fpr5xmmm64s7ljnggtoup?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36980182/",
-    "rating": 7.5
-  },
-  {
-    "title": "Heart Of The Beast",
-    "start": "2026-10-02T17:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/heart-of-the-beast",
-    "poster": "https://indy-systems.imgix.net/cyffzke0faa0xa8u9guwo1f5jjvi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "Digger",
-    "start": "2026-10-02T17:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/digger",
-    "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "AVENGERS ENDGAME ENCORE",
-    "start": "2026-10-02T17:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/518A58519FD89ED24F6B9F963191DB9E0E08DE0D3C083CF442ACAA43A7F7594D_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "HEART OF THE BEAST",
-    "start": "2026-10-02T18:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/094F90FF6E3AD2007B262F1BDADCC725B359E886E548D89F303AB99247008143_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-10-02T18:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "VERITY",
-    "start": "2026-10-02T18:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
-  },
-  {
-    "title": "Miniplex Rental \u2013 Specialty",
-    "start": "2026-10-02T18:30:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://moviemadness.org/show/miniplex-rental-specialty/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/therulesofattraction.jpg?fit=540%2C304&ssl=1",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-02T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "Verity",
-    "start": "2026-10-02T18:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/verity",
-    "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-10-02T18:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-02T18:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "Coyote vs. Acme",
-    "start": "2026-10-02T18:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/coyote-vs-acme",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_860a037a-aa52-49fd-85ee-9b4ef52e4e31.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.4
-  },
-  {
-    "title": "The Incomer",
-    "start": "2026-10-02T18:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-incomer",
-    "poster": "https://indy-systems.imgix.net/3iav94kngerzhrhbviqyj4aw1mtj?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36980182/",
-    "rating": 7.5
-  },
-  {
-    "title": "VERITY",
-    "start": "2026-10-02T18:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
-  },
-  {
-    "title": "H. P. Lovecraft Film Festival & CthulhuCon Full Fest Pass",
-    "start": "2026-10-02T18:59:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/h-p-lovecraft-film-festival-cthulhucon-full-fest-pass/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2025/09/hplff2025-main-image-hit.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-02T19:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "Primetime",
-    "start": "2026-10-02T19:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/primetime",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "The Fly",
-    "start": "2026-10-02T19:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/the-fly",
-    "poster": "https://indy-systems.imgix.net/v1dst8gdnflp7c826b4ql5ju55ml?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0091064/",
-    "rating": 7.6
-  },
-  {
-    "title": "OPENING NIGHT: ODDITIES US PREMIERE & MORE",
-    "start": "2026-10-02T19:00:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/opening-night-oddities-us-premiere-more/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/HPLFF2026-HWT-ticket-images-FRIDAY.jpg?fit=540%2C304&ssl=1",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "PRIMETIME",
-    "start": "2026-10-02T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "Digger",
-    "start": "2026-10-02T19:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/digger",
-    "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "VERITY",
-    "start": "2026-10-02T19:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
-  },
-  {
-    "title": "Resident Evil",
-    "start": "2026-10-02T19:00:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19538?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-02T19:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-02T19:10:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "CHILD'S PLAY (1988)",
-    "start": "2026-10-02T19:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTc2M2FjMDMtYzBmNS00ODMxLWJjOTYtZmNkMDYxMTU5ZTBhXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0094862/",
-    "rating": 6.7
-  },
-  {
-    "title": "The History of Concrete",
-    "start": "2026-10-02T19:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-history-of-concrete",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
-    "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-10-02T19:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
-    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "BOUND",
-    "start": "2026-10-02T19:30:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/bound",
-    "poster": "https://indy-systems.imgix.net/uzp8wu2aoa46uc3cunjr0lnn5z3a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0115736/",
-    "rating": 7.3
-  },
-  {
-    "title": "The Weight",
-    "start": "2026-10-02T19:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-weight",
-    "poster": "https://indy-systems.imgix.net/s4kcc10st8p1ofhuw4forqpf03ub?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt10794054/",
-    "rating": 6.9
-  },
-  {
-    "title": "Primetime",
-    "start": "2026-10-02T19:35:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19540?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001606&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-02T19:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "Heart Of The Beast",
-    "start": "2026-10-02T19:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/heart-of-the-beast",
-    "poster": "https://indy-systems.imgix.net/cyffzke0faa0xa8u9guwo1f5jjvi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "SHOCK SHOW IN SPACE",
-    "start": "2026-10-02T20:00:00-07:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/shock-show-in-space/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/09/XO-Shock-Show-Space.png",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "PRIMETIME",
-    "start": "2026-10-02T20:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-10-02T21:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "Verity",
-    "start": "2026-10-02T21:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/verity",
-    "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
-  },
-  {
-    "title": "The Incomer",
-    "start": "2026-10-02T21:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-incomer",
-    "poster": "https://indy-systems.imgix.net/3iav94kngerzhrhbviqyj4aw1mtj?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36980182/",
-    "rating": 7.5
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-02T21:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "Videodrome",
-    "start": "2026-10-02T21:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19440?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001622&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt0086541/",
-    "rating": 7.2
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-10-02T21:20:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_e020684b-cf65-43df-99c9-eea57a66e57c.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 6.6
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-02T21:20:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "VERITY",
-    "start": "2026-10-02T21:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-02T21:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "Primetime",
-    "start": "2026-10-02T21:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/primetime",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-02T21:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-02T21:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "PRIMETIME",
-    "start": "2026-10-02T21:40:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-02T21:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "THE INVISIBLE MAN (1933)",
-    "start": "2026-10-02T21:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/463719CA20297289A5D30A0BB9343E64522EAC3B5B612ABA6EA2AC7481691098_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0024184/",
-    "rating": 7.1
-  },
-  {
-    "title": "The History of Concrete",
-    "start": "2026-10-02T21:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-history-of-concrete",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
-    "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
-  },
-  {
-    "title": "Digger",
-    "start": "2026-10-02T21:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/digger",
-    "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
-  },
-  {
-    "title": "Ha-Chan, Shake Your Booty!",
-    "start": "2026-10-02T21:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/ha-chan-shake-your-booty",
-    "poster": "https://indy-systems.imgix.net/zl30rq2bqt7ibn7cz24n2u72ks8m?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt39149197/",
-    "rating": 7.3
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-10-02T21:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
-    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-10-02T21:50:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "The Granny",
-    "start": "2026-10-02T22:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/the-granny",
-    "poster": "https://indy-systems.imgix.net/d8tdphrpm5wduu3m99zqt6v475e9?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0113210/",
-    "rating": 5.1
-  },
-  {
-    "title": "Heart Of The Beast",
-    "start": "2026-10-02T22:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/heart-of-the-beast",
-    "poster": "https://indy-systems.imgix.net/cyffzke0faa0xa8u9guwo1f5jjvi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "POLTERGEIST",
-    "start": "2026-10-02T22:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/2EE3E2E52B87639D491FF0763A24EB283D54EA3C2E75E3C47FE47961DBCC6F36_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0084516/",
-    "rating": 7.3
-  },
-  {
-    "title": "PRIMETIME",
-    "start": "2026-10-02T22:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-02T22:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "PRIMETIME",
-    "start": "2026-10-03T09:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
     "title": "RESIDENT EVIL",
     "start": "2026-10-03T09:05:00-07:00",
     "theater": "Studio One",
@@ -924,7 +15,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -978,7 +69,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Verity",
@@ -987,7 +78,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Heart Of The Beast",
@@ -1032,7 +123,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "GHOSTBUSTERS",
@@ -1059,7 +150,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "VERITY",
@@ -1068,7 +159,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "DIGGER",
@@ -1077,7 +168,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -1167,7 +258,7 @@
     "url": "https://www.cinema21.com/movie/the-history-of-concrete",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "Primetime",
@@ -1203,7 +294,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "The Thing (1982)",
@@ -1239,7 +330,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Coyote vs. Acme",
@@ -1284,7 +375,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "PRIMETIME",
@@ -1311,7 +402,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -1329,7 +420,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "DIGGER",
@@ -1338,7 +429,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "DIGGER",
@@ -1347,7 +438,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "THE INVISIBLE MAN (1933)",
@@ -1374,7 +465,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "VERITY",
@@ -1383,7 +474,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "RESIDENT EVIL",
@@ -1437,7 +528,7 @@
     "url": "https://www.cinema21.com/movie/the-history-of-concrete",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "BOUND",
@@ -1455,7 +546,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-last-picture-shows",
     "poster": "https://indy-systems.imgix.net/vdjunnj6pjsm2fenty0fujeloy7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt43596241/",
-    "rating": 7.7
+    "rating": 7.6
   },
   {
     "title": "The Incomer",
@@ -1482,7 +573,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Resident Evil",
@@ -1518,7 +609,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "AVENGERS ENDGAME ENCORE",
@@ -1545,7 +636,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -1563,7 +654,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Verity",
@@ -1572,7 +663,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "DIGGER",
@@ -1581,7 +672,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "The Incomer",
@@ -1599,7 +690,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "RESIDENT EVIL",
@@ -1671,7 +762,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "VERITY",
@@ -1680,7 +771,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "DIGGER",
@@ -1689,7 +780,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "RESIDENT EVIL",
@@ -1716,7 +807,7 @@
     "url": "https://www.cinema21.com/movie/the-history-of-concrete",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "Practical Magic 2",
@@ -1815,7 +906,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "VERITY",
@@ -1824,7 +915,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Raw",
@@ -1851,7 +942,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "DIGGER",
@@ -1860,7 +951,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "RESIDENT EVIL",
@@ -1923,7 +1014,7 @@
     "url": "https://www.cinema21.com/movie/the-history-of-concrete",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "Digger",
@@ -1932,7 +1023,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "RESIDENT EVIL",
@@ -1950,7 +1041,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/ha-chan-shake-your-booty",
     "poster": "https://indy-systems.imgix.net/zl30rq2bqt7ibn7cz24n2u72ks8m?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39149197/",
-    "rating": 7.3
+    "rating": 7.4
   },
   {
     "title": "Practical Magic 2",
@@ -1995,7 +1086,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "PRIMETIME",
@@ -2040,7 +1131,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -2085,7 +1176,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Verity",
@@ -2094,7 +1185,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Heart Of The Beast",
@@ -2121,7 +1212,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "GHOSTBUSTERS",
@@ -2148,7 +1239,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Late Fame",
@@ -2166,7 +1257,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "DIGGER",
@@ -2175,7 +1266,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -2274,7 +1365,7 @@
     "url": "https://www.cinema21.com/movie/the-last-dive",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_767bb12b-01dd-49f0-9848-515ee6ce9c2d.jpg",
     "imdb": "https://www.imdb.com/title/tt36591365/",
-    "rating": 8.3
+    "rating": 8.4
   },
   {
     "title": "HEART OF THE BEAST",
@@ -2328,7 +1419,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Don\u2019t Look Now (1973) x Film School",
@@ -2346,7 +1437,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Resident Evil",
@@ -2400,7 +1491,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "PRIMETIME",
@@ -2445,7 +1536,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -2463,7 +1554,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "DIGGER",
@@ -2472,7 +1563,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Coyote vs. Acme",
@@ -2499,7 +1590,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "PRIMETIME",
@@ -2535,7 +1626,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Primetime",
@@ -2571,7 +1662,7 @@
     "url": "https://www.cinema21.com/movie/the-history-of-concrete",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "The Incomer",
@@ -2598,7 +1689,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Young Frankenstein",
@@ -2634,7 +1725,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/ha-chan-shake-your-booty",
     "poster": "https://indy-systems.imgix.net/zl30rq2bqt7ibn7cz24n2u72ks8m?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39149197/",
-    "rating": 7.3
+    "rating": 7.4
   },
   {
     "title": "Resident Evil",
@@ -2670,7 +1761,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "AVENGERS ENDGAME ENCORE",
@@ -2706,7 +1797,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Verity",
@@ -2715,7 +1806,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "VERITY",
@@ -2724,7 +1815,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -2742,7 +1833,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Primetime",
@@ -2787,7 +1878,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "VERITY",
@@ -2796,7 +1887,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "PRIMETIME",
@@ -2823,7 +1914,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "DIGGER",
@@ -2832,7 +1923,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "The History of Concrete",
@@ -2841,7 +1932,7 @@
     "url": "https://www.cinema21.com/movie/the-history-of-concrete",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "Practical Magic 2",
@@ -2931,7 +2022,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "AVENGERS ENDGAME ENCORE",
@@ -2949,7 +2040,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "PRIMETIME",
@@ -2985,7 +2076,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Heart Of The Beast",
@@ -3012,7 +2103,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Late Fame",
@@ -3030,7 +2121,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "The Incomer",
@@ -3075,7 +2166,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Late Fame",
@@ -3102,7 +2193,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "The Weight",
@@ -3138,7 +2229,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -3156,7 +2247,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "VERITY",
@@ -3165,7 +2256,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "HEART OF THE BEAST",
@@ -3201,7 +2292,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "RESIDENT EVIL",
@@ -3219,7 +2310,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Primetime",
@@ -3264,7 +2355,7 @@
     "url": "https://www.cinema21.com/movie/the-history-of-concrete",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "The Incomer",
@@ -3291,7 +2382,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "RESIDENT EVIL",
@@ -3309,7 +2400,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/ha-chan-shake-your-booty",
     "poster": "https://indy-systems.imgix.net/zl30rq2bqt7ibn7cz24n2u72ks8m?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39149197/",
-    "rating": 7.3
+    "rating": 7.4
   },
   {
     "title": "Resident Evil",
@@ -3363,7 +2454,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "AVENGERS ENDGAME ENCORE",
@@ -3426,7 +2517,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "DIGGER",
@@ -3435,7 +2526,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Coyote vs. Acme",
@@ -3462,7 +2553,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Primetime",
@@ -3525,7 +2616,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "VERITY",
@@ -3534,7 +2625,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "PRIMETIME",
@@ -3561,7 +2652,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "The History of Concrete",
@@ -3570,7 +2661,7 @@
     "url": "https://www.cinema21.com/movie/the-history-of-concrete",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "Practical Magic 2",
@@ -3660,7 +2751,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Memory Presents \u2013 RAT FILM",
@@ -3687,7 +2778,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -3714,7 +2805,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "The Witch",
@@ -3750,7 +2841,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Practical Magic 2",
@@ -3768,7 +2859,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Late Fame",
@@ -3786,7 +2877,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "The Incomer",
@@ -3831,7 +2922,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Late Fame",
@@ -3858,7 +2949,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "The Weight",
@@ -3876,7 +2967,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -3903,7 +2994,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "VERITY",
@@ -3912,7 +3003,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "HEART OF THE BEAST",
@@ -3948,7 +3039,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "RESIDENT EVIL",
@@ -3966,7 +3057,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Primetime",
@@ -4011,7 +3102,7 @@
     "url": "https://www.cinema21.com/movie/the-history-of-concrete",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "The Incomer",
@@ -4038,7 +3129,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Young Frankenstein",
@@ -4065,7 +3156,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/ha-chan-shake-your-booty",
     "poster": "https://indy-systems.imgix.net/zl30rq2bqt7ibn7cz24n2u72ks8m?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39149197/",
-    "rating": 7.3
+    "rating": 7.4
   },
   {
     "title": "Resident Evil",
@@ -4110,7 +3201,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -4137,7 +3228,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Movie Magic: Witches in Cinema",
@@ -4164,7 +3255,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Verity",
@@ -4173,7 +3264,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "HEART OF THE BEAST",
@@ -4191,7 +3282,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -4272,7 +3363,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "VERITY",
@@ -4281,7 +3372,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "PRIMETIME",
@@ -4308,7 +3399,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "The History of Concrete",
@@ -4317,7 +3408,7 @@
     "url": "https://www.cinema21.com/movie/the-history-of-concrete",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "Practical Magic 2",
@@ -4452,7 +3543,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "VERITY",
@@ -4461,7 +3552,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "PRIMETIME",
@@ -4488,7 +3579,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Heart Of The Beast",
@@ -4515,7 +3606,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Late Fame",
@@ -4533,7 +3624,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "The Incomer",
@@ -4578,7 +3669,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Late Fame",
@@ -4605,7 +3696,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "The Weight",
@@ -4623,7 +3714,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -4650,7 +3741,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://m.media-amazon.com/images/M/MV5BN2E0YTg1M2YtOGQyYi00NDFkLTk3NzUtYmEyNTZhYThhZDQ0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "VERITY",
@@ -4659,7 +3750,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -4686,7 +3777,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "RESIDENT EVIL",
@@ -4713,7 +3804,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Primetime",
@@ -4758,7 +3849,7 @@
     "url": "https://www.cinema21.com/movie/the-history-of-concrete",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "The Incomer",
@@ -4785,7 +3876,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Young Frankenstein",
@@ -4812,7 +3903,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/ha-chan-shake-your-booty",
     "poster": "https://indy-systems.imgix.net/zl30rq2bqt7ibn7cz24n2u72ks8m?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39149197/",
-    "rating": 7.3
+    "rating": 7.4
   },
   {
     "title": "Resident Evil",
@@ -4857,7 +3948,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "PRACTICAL MAGIC 2",
@@ -4884,7 +3975,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Bong Joon Ho Before PARASITE",
@@ -4911,7 +4002,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://m.media-amazon.com/images/M/MV5BN2E0YTg1M2YtOGQyYi00NDFkLTk3NzUtYmEyNTZhYThhZDQ0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Verity",
@@ -4920,7 +4011,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "VERITY",
@@ -4929,7 +4020,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Coyote vs. Acme",
@@ -4947,7 +4038,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Primetime",
@@ -5010,7 +4101,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/the-last-picture-shows",
     "poster": "https://indy-systems.imgix.net/vdjunnj6pjsm2fenty0fujeloy7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt43596241/",
-    "rating": 7.7
+    "rating": 7.6
   },
   {
     "title": "Digger",
@@ -5019,7 +4110,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "VERITY",
@@ -5028,7 +4119,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "PRIMETIME",
@@ -5055,7 +4146,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "The History of Concrete",
@@ -5064,7 +4155,7 @@
     "url": "https://www.cinema21.com/movie/the-history-of-concrete",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "Practical Magic 2",
@@ -5190,7 +4281,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "VERITY",
@@ -5199,7 +4290,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "PRIMETIME",
@@ -5226,7 +4317,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Heart Of The Beast",
@@ -5244,7 +4335,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Late Fame",
@@ -5262,7 +4353,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "The Incomer",
@@ -5307,7 +4398,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Late Fame",
@@ -5334,7 +4425,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "The Weight",
@@ -5352,7 +4443,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "PRIMETIME",
@@ -5388,7 +4479,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "VERITY",
@@ -5397,7 +4488,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "DIGGER",
@@ -5406,7 +4497,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "CHILD'S PLAY (1988)",
@@ -5442,7 +4533,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "RESIDENT EVIL",
@@ -5496,7 +4587,7 @@
     "url": "https://www.cinema21.com/movie/the-history-of-concrete",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "The Incomer",
@@ -5523,7 +4614,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "Bride of Frankenstein",
@@ -5550,7 +4641,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/digger",
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "RESIDENT EVIL",
@@ -5604,7 +4695,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "DIGGER",
@@ -5613,7 +4704,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "DIGGER",
@@ -5622,7 +4713,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Primetime",
@@ -5649,7 +4740,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "RESIDENT EVIL",
@@ -5667,7 +4758,7 @@
     "url": "https://www.cinema21.com/movie/the-history-of-concrete",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.8
+    "rating": 7.7
   },
   {
     "title": "The Witch",
@@ -5730,7 +4821,7 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "OTHER MOMMY",
@@ -5766,7 +4857,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "Verity",
@@ -5775,7 +4866,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "SOCIAL RECKONING",
@@ -5865,7 +4956,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "RESIDENT EVIL",
@@ -5883,7 +4974,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "MESSIAH OF EVIL (1974)",
@@ -5901,7 +4992,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "OTHER MOMMY",
@@ -5937,7 +5028,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "EYES WITHOUT A FACE (1960)",
@@ -5964,7 +5055,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "DIGGER",
@@ -5973,7 +5064,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "SCOOBY-DOO (2002)",
@@ -5991,7 +5082,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "SOCIAL RECKONING",
@@ -6036,7 +5127,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "DIGGER",
@@ -6045,7 +5136,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Colours of Time",
@@ -6126,7 +5217,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "Other Mommy",
@@ -6189,7 +5280,16 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
+  },
+  {
+    "title": "PAN\u2019S LABYRINTH",
+    "start": "2026-10-09T21:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/pans-labyrinth/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/pan-lab1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0457430/",
+    "rating": 8.2
   },
   {
     "title": "Other Mommy",
@@ -6234,7 +5334,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "SOCIAL RECKONING",
@@ -6270,7 +5370,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "DIGGER",
@@ -6279,7 +5379,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "SCOOBY-DOO (2002)",
@@ -6315,7 +5415,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "BRIDE OF FRANKENSTEIN in 35mm",
@@ -6360,7 +5460,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "The Witches",
@@ -6372,13 +5472,22 @@
     "rating": 6.8
   },
   {
+    "title": "NEVER AFTER DARK",
+    "start": "2026-10-10T15:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/never-after-dark/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/neverafterdark.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt38589433/",
+    "rating": 6.6
+  },
+  {
     "title": "DIGGER",
     "start": "2026-10-10T15:45:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "EYES WITHOUT A FACE (1960)",
@@ -6414,7 +5523,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "Other Mommy",
@@ -6468,7 +5577,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "AN EVENING OF HIGH FANTASY!",
@@ -6495,7 +5604,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Colours of Time",
@@ -6585,7 +5694,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "Other Mommy",
@@ -6639,7 +5748,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Other Mommy",
@@ -6684,7 +5793,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "SOCIAL RECKONING",
@@ -6720,7 +5829,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "DIGGER",
@@ -6729,7 +5838,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "THE SENTINEL (1977)",
@@ -6765,7 +5874,16 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
+  },
+  {
+    "title": "NEVER AFTER DARK",
+    "start": "2026-10-11T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/never-after-dark/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/neverafterdark.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt38589433/",
+    "rating": 6.6
   },
   {
     "title": "My Own Private Miniplex",
@@ -6819,7 +5937,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "American Psycho x Movie Book Club",
@@ -6855,7 +5973,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "SCOOBY-DOO (2002)",
@@ -6873,7 +5991,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "The Invisible Man",
@@ -6900,7 +6018,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "PAN\u2019S LABYRINTH",
@@ -6975,13 +6093,22 @@
     "rating": null
   },
   {
+    "title": "Practical Magic",
+    "start": "2026-10-11T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/practical-magic-3/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/08171149/AwmToSgf2IL3aHv0QRVsR5KvChv-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0120791/",
+    "rating": 6.4
+  },
+  {
     "title": "DIGGER",
     "start": "2026-10-11T19:15:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Naza",
@@ -6990,7 +6117,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "Other Mommy",
@@ -7053,7 +6180,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "EYES WITHOUT A FACE (1960)",
@@ -7071,7 +6198,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "SOCIAL RECKONING",
@@ -7089,7 +6216,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "THE SENTINEL (1977)",
@@ -7107,7 +6234,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "The Invisible Man",
@@ -7134,7 +6261,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "SOCIAL RECKONING",
@@ -7188,7 +6315,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Naza",
@@ -7197,7 +6324,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "SCOOBY-DOO (2002)",
@@ -7260,7 +6387,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "SOCIAL RECKONING",
@@ -7278,7 +6405,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "SCOOBY-DOO (2002)",
@@ -7296,7 +6423,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "SOCIAL RECKONING",
@@ -7314,7 +6441,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "EYES WITHOUT A FACE (1960)",
@@ -7332,7 +6459,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "Killer Klowns from Outer Space",
@@ -7350,7 +6477,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "PAN\u2019S LABYRINTH",
@@ -7413,7 +6540,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Naza",
@@ -7422,7 +6549,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "THE SENTINEL (1977)",
@@ -7458,7 +6585,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": null
+    "rating": 6.1
   },
   {
     "title": "The Babadook",
@@ -7468,6 +6595,15 @@
     "poster": "https://indy-systems.imgix.net/gx4sryvproj3m14h3scxu403xki8?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt2321549/",
     "rating": 6.8
+  },
+  {
+    "title": "PAN\u2019S LABYRINTH",
+    "start": "2026-10-13T21:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/pans-labyrinth/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/pan-lab1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0457430/",
+    "rating": 8.2
   },
   {
     "title": "SOCIAL RECKONING",
@@ -7485,7 +6621,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "EYES WITHOUT A FACE (1960)",
@@ -7512,7 +6648,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "THE SENTINEL (1977)",
@@ -7530,7 +6666,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "Killer Klowns from Outer Space",
@@ -7629,7 +6765,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "Naza",
@@ -7638,7 +6774,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "SCOOBY-DOO (2002)",
@@ -7677,6 +6813,15 @@
     "rating": 6.2
   },
   {
+    "title": "PAN\u2019S LABYRINTH",
+    "start": "2026-10-14T21:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/pans-labyrinth/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/pan-lab1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0457430/",
+    "rating": 8.2
+  },
+  {
     "title": "SOCIAL RECKONING",
     "start": "2026-10-14T21:30:00-07:00",
     "theater": "Studio One",
@@ -7701,7 +6846,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "THE SENTINEL (1977)",
@@ -7719,7 +6864,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "YOU CAN SEE EVERYTHING",
@@ -7728,7 +6873,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "DIGGER",
@@ -7737,7 +6882,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "SCOOBY-DOO (2002)",
@@ -7755,7 +6900,7 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
   },
   {
     "title": "The Invisible Man",
@@ -7773,7 +6918,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "PAN\u2019S LABYRINTH",
@@ -7791,7 +6936,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "You Can See Everything",
@@ -7800,7 +6945,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "Sense And Sensibility",
@@ -7881,7 +7026,16 @@
     "url": "https://www.cinema21.com/movie/naza",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 7.4
+    "rating": 7.7
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-15T19:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 7.8
   },
   {
     "title": "An American Werewolf in London",
@@ -7908,7 +7062,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": null
+    "rating": 7.3
   },
   {
     "title": "THE DEVILS in 35mm",
@@ -7953,7 +7107,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "You Can See Everything",
@@ -7962,7 +7116,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "STREET FIGHTER",
@@ -8043,7 +7197,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "THE DEVILS in 35mm",
@@ -8115,7 +7269,7 @@
     "url": "https://hollywoodtheatre.org/show/misty-green/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt34385184/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "Sense And Sensibility",
@@ -8142,7 +7296,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "RACE WITH THE DEVIL",
@@ -8187,7 +7341,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "HAXAN (1922)",
@@ -8322,7 +7476,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "YOU CAN SEE EVERYTHING",
@@ -8331,7 +7485,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "MONSTER HOUSE",
@@ -8367,7 +7521,7 @@
     "url": "https://hollywoodtheatre.org/show/misty-green/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt34385184/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "RACE FOR YOUR LIFE, CHARLIE BROWN",
@@ -8421,7 +7575,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "Psychotronic Halloween Special",
@@ -8457,7 +7611,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "STREET FIGHTER",
@@ -8547,7 +7701,7 @@
     "url": "https://hollywoodtheatre.org/show/misty-green/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt34385184/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "AMERICAN POP",
@@ -8574,7 +7728,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "STREET FIGHTER",
@@ -8673,7 +7827,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "DR. STRANGELOVE",
@@ -8709,7 +7863,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "SENSE AND SENSIBILITY",
@@ -8835,7 +7989,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "MONSTER HOUSE",
@@ -8880,7 +8034,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "THE DEVILS in 35mm",
@@ -8988,7 +8142,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "STREET FIGHTER",
@@ -9069,7 +8223,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "MISTY GREEN",
@@ -9078,7 +8232,7 @@
     "url": "https://hollywoodtheatre.org/show/misty-green/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt34385184/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "HEAVY METAL",
@@ -9105,7 +8259,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "STREET FIGHTER",
@@ -9267,7 +8421,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "YOU CAN SEE EVERYTHING",
@@ -9276,7 +8430,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "STREET FIGHTER",
@@ -9357,7 +8511,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "STREET FIGHTER",
@@ -9384,7 +8538,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "Ken Russell's The Devils (1971)",
@@ -9420,7 +8574,7 @@
     "url": "https://hollywoodtheatre.org/show/misty-green/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt34385184/",
-    "rating": 7.1
+    "rating": 7.0
   },
   {
     "title": "MMU@PSU | What is Fassbinder?",
@@ -9555,7 +8709,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "YOU CAN SEE EVERYTHING",
@@ -9564,7 +8718,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "STREET FIGHTER",
@@ -9627,7 +8781,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "STREET FIGHTER",
@@ -9654,7 +8808,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "Ken Russell's The Devils (1971)",
@@ -9807,7 +8961,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "YOU CAN SEE EVERYTHING (OPEN CAPTION)",
@@ -9816,7 +8970,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://m.media-amazon.com/images/M/MV5BZDUwOWFlMWMtZjFkOC00YmE2LWI2MmUtNGFiMGE2MGUzZmNlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "STREET FIGHTER",
@@ -9888,7 +9042,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://m.media-amazon.com/images/M/MV5BZDUwOWFlMWMtZjFkOC00YmE2LWI2MmUtNGFiMGE2MGUzZmNlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "STREET FIGHTER",
@@ -9924,7 +9078,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "Ken Russell's The Devils (1971)",
@@ -9987,7 +9141,7 @@
     "url": "https://tomorrowtheater.org/movies/in-waves-w-qa/",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/31084326/ry9Kj3maM9WllIe9T6C7EnS5kxI.jpg",
     "imdb": "https://www.imdb.com/title/tt27672817/",
-    "rating": 7.3
+    "rating": 7.4
   },
   {
     "title": "CORPSE BRIDE (2005)",
@@ -10068,7 +9222,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "YOU CAN SEE EVERYTHING",
@@ -10077,7 +9231,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "WILDWOOD",
@@ -10149,7 +9303,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "THE DEVILS in 35mm",
@@ -10176,7 +9330,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1e337078-5001-4920-a11c-3c1ccbc18a13.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": null
+    "rating": 7.8
   },
   {
     "title": "HAXAN (1922)",
@@ -11877,7 +11031,7 @@
     "url": "https://hollywoodtheatre.org/show/a-poet-un-poeta/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/A-Poet00001.jpg?fit=540%2C328&ssl=1",
     "imdb": "https://www.imdb.com/title/tt36544524/",
-    "rating": 7.9
+    "rating": 7.8
   },
   {
     "title": "WILDWOOD",
@@ -12519,15 +11673,6 @@
     "rating": 7.3
   },
   {
-    "title": "Union County",
-    "start": "2026-11-01T19:00:00-08:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/union-county/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/09/18104715/UnionCounty.jpg",
-    "imdb": "https://www.imdb.com/title/tt36981462/",
-    "rating": 6.9
-  },
-  {
     "title": "WILDWOOD",
     "start": "2026-11-01T19:15:00-08:00",
     "theater": "Academy Theater",
@@ -12553,5 +11698,77 @@
     "poster": "https://indy-systems.imgix.net/nylapg5kzjlkczs3cln205qj6uqx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31170389/",
     "rating": 6.3
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-11-02T12:30:00-08:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-11-02T16:15:00-08:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-11-02T16:30:00-08:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/wildwood",
+    "poster": "https://indy-systems.imgix.net/wr3degpwddawsagabz5rbnnr224z?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "Evil Dead 2: Dead by Dawn",
+    "start": "2026-11-02T17:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead-2",
+    "poster": "https://indy-systems.imgix.net/2v1vav1ymaubqnnlyezjtfob41ra?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Army of Darkness",
+    "start": "2026-11-02T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/army-of-darkness",
+    "poster": "https://indy-systems.imgix.net/4yktziag423c9l0vo7bvcaje7wbi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0106308/",
+    "rating": 7.4
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-11-02T19:15:00-08:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "BRAM STOKER'S DRACULA",
+    "start": "2026-11-02T19:30:00-08:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/bram-stokers-dracula",
+    "poster": "https://indy-systems.imgix.net/2zr1q0o15jy7fvg4xj0vg6kvhdpn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Evil Dead Rise",
+    "start": "2026-11-02T21:10:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead-rise",
+    "poster": "https://indy-systems.imgix.net/0v83nw28i8l7u78vqjg77acw0q27?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13345606/",
+    "rating": 6.5
   }
 ]

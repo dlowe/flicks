@@ -1,771 +1,6 @@
 [
   {
     "title": "Verity",
-    "start": "2026-10-05T11:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/verity",
-    "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": 6.1
-  },
-  {
-    "title": "Heart Of The Beast",
-    "start": "2026-10-05T11:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/heart-of-the-beast",
-    "poster": "https://indy-systems.imgix.net/cyffzke0faa0xa8u9guwo1f5jjvi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-10-05T11:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
-    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "Digger",
-    "start": "2026-10-05T12:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/digger",
-    "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": 7.3
-  },
-  {
-    "title": "Late Fame",
-    "start": "2026-10-05T12:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
-    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32298494/",
-    "rating": 6.9
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-05T12:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": 7.3
-  },
-  {
-    "title": "The Incomer",
-    "start": "2026-10-05T12:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-incomer",
-    "poster": "https://indy-systems.imgix.net/3iav94kngerzhrhbviqyj4aw1mtj?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36980182/",
-    "rating": 7.5
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-05T12:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "THE INVISIBLE MAN (1933)",
-    "start": "2026-10-05T13:00:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/463719CA20297289A5D30A0BB9343E64522EAC3B5B612ABA6EA2AC7481691098_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0024184/",
-    "rating": 7.1
-  },
-  {
-    "title": "Heart Of The Beast",
-    "start": "2026-10-05T13:50:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/heart-of-the-beast",
-    "poster": "https://indy-systems.imgix.net/cyffzke0faa0xa8u9guwo1f5jjvi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "Verity",
-    "start": "2026-10-05T14:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/verity",
-    "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": 6.1
-  },
-  {
-    "title": "Late Fame",
-    "start": "2026-10-05T14:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/late-fame",
-    "poster": "https://indy-systems.imgix.net/lezw67cadpyv42mnl6u0m04ctz1i?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32298494/",
-    "rating": 6.9
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-10-05T14:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
-    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "Digger",
-    "start": "2026-10-05T14:35:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/digger",
-    "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": 7.3
-  },
-  {
-    "title": "The Weight",
-    "start": "2026-10-05T14:40:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-weight",
-    "poster": "https://indy-systems.imgix.net/s4kcc10st8p1ofhuw4forqpf03ub?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt10794054/",
-    "rating": 6.9
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-05T15:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-10-05T15:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-05T15:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": 7.3
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-10-05T15:20:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-05T15:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": 7.3
-  },
-  {
-    "title": "VERITY",
-    "start": "2026-10-05T15:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": 6.1
-  },
-  {
-    "title": "HEART OF THE BEAST",
-    "start": "2026-10-05T15:40:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/094F90FF6E3AD2007B262F1BDADCC725B359E886E548D89F303AB99247008143_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "start": "2026-10-05T16:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/teenage-sex-and-death-at-camp-miasma",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_e020684b-cf65-43df-99c9-eea57a66e57c.jpg",
-    "imdb": "https://www.imdb.com/title/tt35298123/",
-    "rating": 6.6
-  },
-  {
-    "title": "PRIMETIME",
-    "start": "2026-10-05T16:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "Verity",
-    "start": "2026-10-05T16:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/verity",
-    "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": 6.1
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-05T16:10:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-05T16:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": 7.3
-  },
-  {
-    "title": "Primetime",
-    "start": "2026-10-05T16:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/primetime",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "PRIMETIME",
-    "start": "2026-10-05T16:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-10-05T16:20:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
-    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "MESSIAH OF EVIL (1974)",
-    "start": "2026-10-05T16:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFmZWI3ZDctZTZlZS00MDBkLWJhMmQtMGE2ZTFlNGVkYWJmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0071396/",
-    "rating": 6.3
-  },
-  {
-    "title": "The History of Concrete",
-    "start": "2026-10-05T16:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-history-of-concrete",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
-    "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.7
-  },
-  {
-    "title": "The Incomer",
-    "start": "2026-10-05T16:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-incomer",
-    "poster": "https://indy-systems.imgix.net/3iav94kngerzhrhbviqyj4aw1mtj?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36980182/",
-    "rating": 7.5
-  },
-  {
-    "title": "Primetime",
-    "start": "2026-10-05T16:30:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19522?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001606&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "VERITY",
-    "start": "2026-10-05T16:35:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": 6.1
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-05T16:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "Ha-Chan, Shake Your Booty!",
-    "start": "2026-10-05T17:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/ha-chan-shake-your-booty",
-    "poster": "https://indy-systems.imgix.net/zl30rq2bqt7ibn7cz24n2u72ks8m?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt39149197/",
-    "rating": 7.4
-  },
-  {
-    "title": "Resident Evil",
-    "start": "2026-10-05T17:00:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19523?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "HEART OF THE BEAST",
-    "start": "2026-10-05T17:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/094F90FF6E3AD2007B262F1BDADCC725B359E886E548D89F303AB99247008143_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "Bride of Frankenstein",
-    "start": "2026-10-05T17:10:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/bride-of-frankenstein",
-    "poster": "https://indy-systems.imgix.net/r1jgp4ja6oj042ov49tz4rmkt03r?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0026138/",
-    "rating": 7.8
-  },
-  {
-    "title": "THE INCOMER",
-    "start": "2026-10-05T17:10:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/the-incomer",
-    "poster": "https://indy-systems.imgix.net/hdlhlv3fpr5xmmm64s7ljnggtoup?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36980182/",
-    "rating": 7.5
-  },
-  {
-    "title": "Heart Of The Beast",
-    "start": "2026-10-05T17:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/heart-of-the-beast",
-    "poster": "https://indy-systems.imgix.net/cyffzke0faa0xa8u9guwo1f5jjvi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "Digger",
-    "start": "2026-10-05T17:10:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/digger",
-    "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": 7.3
-  },
-  {
-    "title": "AVENGERS ENDGAME ENCORE",
-    "start": "2026-10-05T17:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/518A58519FD89ED24F6B9F963191DB9E0E08DE0D3C083CF442ACAA43A7F7594D_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Memory Presents \u2013 RAT FILM",
-    "start": "2026-10-05T18:00:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://moviemadness.org/show/memory-presents-rat-film/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTUxNDEzNTMyMF5BMl5BanBnXkFtZTgwMjEzMTk4MzI@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt5840448/",
-    "rating": 6.9
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-10-05T18:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-10-05T18:15:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/5A16B176D18284163BDC22F6F2A466C369A956F44EB4DB77C3A1C4C63050BD7D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "HEART OF THE BEAST",
-    "start": "2026-10-05T18:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/094F90FF6E3AD2007B262F1BDADCC725B359E886E548D89F303AB99247008143_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "DER FAN",
-    "start": "2026-10-05T18:30:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/der-fan/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/der-fan1.jpg?fit=540%2C264&ssl=1",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-05T18:30:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": 7.3
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-05T18:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": 7.3
-  },
-  {
-    "title": "Coyote vs. Acme",
-    "start": "2026-10-05T18:45:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/coyote-vs-acme",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_860a037a-aa52-49fd-85ee-9b4ef52e4e31.jpg",
-    "imdb": "https://www.imdb.com/title/tt1756855/",
-    "rating": 7.4
-  },
-  {
-    "title": "The Incomer",
-    "start": "2026-10-05T18:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-incomer",
-    "poster": "https://indy-systems.imgix.net/3iav94kngerzhrhbviqyj4aw1mtj?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36980182/",
-    "rating": 7.5
-  },
-  {
-    "title": "VERITY",
-    "start": "2026-10-05T18:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": 6.1
-  },
-  {
-    "title": "Primetime",
-    "start": "2026-10-05T19:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/primetime",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "Rosemary's Baby",
-    "start": "2026-10-05T19:00:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/rosemarys-baby",
-    "poster": "https://indy-systems.imgix.net/iaq3ew9lrofoxjxo89xmkzsopg5w?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0063522/",
-    "rating": 8.0
-  },
-  {
-    "title": "Friday the 13th (1980)",
-    "start": "2026-10-05T19:00:00-07:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/friday-the-13th-1980/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/07/friday-the-13th-movie-poster.jpg",
-    "imdb": "https://www.imdb.com/title/tt0080761/",
-    "rating": 6.3
-  },
-  {
-    "title": "MMU@PSU | M. Night Shyamalan: The Filmmaker of the 21st Century",
-    "start": "2026-10-05T19:00:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://moviemadness.org/show/mmupsu-m-night-shyamalan-the-filmmaker-of-the-21st-century/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/MMU%40PSU_M._Night_Shyamalan__The_Filmmaker_of_the_21st_Century_IMAGE_Oct_2026.png?fit=540%2C303&ssl=1",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "21ST CENTURY VIDEOS!",
-    "start": "2026-10-05T19:00:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/21st-century-videos/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/2000_2006_Year_In_Video_thumb_Sept_2026.jpg?fit=540%2C304&ssl=1",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "PRIMETIME",
-    "start": "2026-10-05T19:00:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "Digger",
-    "start": "2026-10-05T19:00:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/digger",
-    "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": 7.3
-  },
-  {
-    "title": "VERITY",
-    "start": "2026-10-05T19:00:00-07:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": 6.1
-  },
-  {
-    "title": "PRIMETIME",
-    "start": "2026-10-05T19:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-05T19:10:00-07:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-05T19:15:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": 7.3
-  },
-  {
-    "title": "The History of Concrete",
-    "start": "2026-10-05T19:15:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-history-of-concrete",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
-    "imdb": "https://www.imdb.com/title/tt39150234/",
-    "rating": 7.7
-  },
-  {
-    "title": "Practical Magic 2",
-    "start": "2026-10-05T19:15:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
-    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "Primetime",
-    "start": "2026-10-05T19:15:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19524?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001606&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "CHILD'S PLAY (1988)",
-    "start": "2026-10-05T19:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTc2M2FjMDMtYzBmNS00ODMxLWJjOTYtZmNkMDYxMTU5ZTBhXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0094862/",
-    "rating": 6.7
-  },
-  {
-    "title": "A NIGHT TO DISMEMBER",
-    "start": "2026-10-05T19:30:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/a-night-to-dismember/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/IMG_3912.jpg?fit=540%2C294&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt0126527/",
-    "rating": 3.5
-  },
-  {
-    "title": "BOUND",
-    "start": "2026-10-05T19:30:00-07:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/bound",
-    "poster": "https://indy-systems.imgix.net/uzp8wu2aoa46uc3cunjr0lnn5z3a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0115736/",
-    "rating": 7.3
-  },
-  {
-    "title": "The Weight",
-    "start": "2026-10-05T19:30:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-weight",
-    "poster": "https://indy-systems.imgix.net/s4kcc10st8p1ofhuw4forqpf03ub?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt10794054/",
-    "rating": 6.9
-  },
-  {
-    "title": "Resident Evil",
-    "start": "2026-10-05T19:35:00-07:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19525?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-05T19:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-05T19:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "Verity",
-    "start": "2026-10-05T19:45:00-07:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/verity",
-    "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": 6.1
-  },
-  {
-    "title": "Memory Presents \u2013 RAT FILM",
-    "start": "2026-10-05T20:00:00-07:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://moviemadness.org/show/memory-presents-rat-film/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTUxNDEzNTMyMF5BMl5BanBnXkFtZTgwMjEzMTk4MzI@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt5840448/",
-    "rating": 6.9
-  },
-  {
-    "title": "HEART OF THE BEAST",
-    "start": "2026-10-05T20:50:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/094F90FF6E3AD2007B262F1BDADCC725B359E886E548D89F303AB99247008143_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "DIGGER",
-    "start": "2026-10-05T21:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt31450459/",
-    "rating": 7.3
-  },
-  {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-10-05T21:25:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-05T21:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
-    "title": "VERITY",
-    "start": "2026-10-05T21:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": 6.1
-  },
-  {
-    "title": "The Witch",
-    "start": "2026-10-05T21:50:00-07:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/the-witch",
-    "poster": "https://indy-systems.imgix.net/jsykmt9xhvaq47nq5yqops9fkx7v?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt4263482/",
-    "rating": 7.0
-  },
-  {
-    "title": "PRIMETIME",
-    "start": "2026-10-05T22:00:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34206385/",
-    "rating": 7.2
-  },
-  {
-    "title": "HEART OF THE BEAST",
-    "start": "2026-10-05T22:15:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/094F90FF6E3AD2007B262F1BDADCC725B359E886E548D89F303AB99247008143_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt7526136/",
-    "rating": 7.3
-  },
-  {
-    "title": "Verity",
     "start": "2026-10-06T11:45:00-07:00",
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/verity",
@@ -972,6 +207,15 @@
     "rating": 6.1
   },
   {
+    "title": "AVENGERS ENDGAME ENCORE",
+    "start": "2026-10-06T16:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/518A58519FD89ED24F6B9F963191DB9E0E08DE0D3C083CF442ACAA43A7F7594D_200_300_85.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "RESIDENT EVIL",
     "start": "2026-10-06T16:10:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -1105,15 +349,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt35538033/",
     "rating": 7.6
-  },
-  {
-    "title": "AVENGERS ENDGAME ENCORE",
-    "start": "2026-10-06T17:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/518A58519FD89ED24F6B9F963191DB9E0E08DE0D3C083CF442ACAA43A7F7594D_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
   },
   {
     "title": "Heart Of The Beast",
@@ -1422,6 +657,15 @@
     "rating": 7.3
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-06T20:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-10-06T20:55:00-07:00",
     "theater": "Studio One",
@@ -1429,15 +673,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": 6.3
-  },
-  {
-    "title": "AVENGERS ENDGAME ENCORE",
-    "start": "2026-10-06T21:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/518A58519FD89ED24F6B9F963191DB9E0E08DE0D3C083CF442ACAA43A7F7594D_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
   },
   {
     "title": "Raw",
@@ -1495,7 +730,7 @@
   },
   {
     "title": "RESIDENT EVIL",
-    "start": "2026-10-06T22:15:00-07:00",
+    "start": "2026-10-06T22:10:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
@@ -1809,6 +1044,15 @@
     "rating": 6.1
   },
   {
+    "title": "AVENGERS ENDGAME ENCORE",
+    "start": "2026-10-07T16:35:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/518A58519FD89ED24F6B9F963191DB9E0E08DE0D3C083CF442ACAA43A7F7594D_200_300_85.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Young Frankenstein",
     "start": "2026-10-07T16:40:00-07:00",
     "theater": "Cinemagic",
@@ -1852,15 +1096,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/094F90FF6E3AD2007B262F1BDADCC725B359E886E548D89F303AB99247008143_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt7526136/",
     "rating": 7.3
-  },
-  {
-    "title": "AVENGERS ENDGAME ENCORE",
-    "start": "2026-10-07T17:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/518A58519FD89ED24F6B9F963191DB9E0E08DE0D3C083CF442ACAA43A7F7594D_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
   },
   {
     "title": "Heart Of The Beast",
@@ -2169,6 +1404,15 @@
     "rating": 7.3
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-07T20:35:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "PRACTICAL MAGIC 2",
     "start": "2026-10-07T20:55:00-07:00",
     "theater": "Studio One",
@@ -2176,15 +1420,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32588798/",
     "rating": 6.3
-  },
-  {
-    "title": "AVENGERS ENDGAME ENCORE",
-    "start": "2026-10-07T21:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/518A58519FD89ED24F6B9F963191DB9E0E08DE0D3C083CF442ACAA43A7F7594D_200_300_85.jpg",
-    "imdb": null,
-    "rating": null
   },
   {
     "title": "The Fly",
@@ -2277,6 +1512,15 @@
     "rating": 6.9
   },
   {
+    "title": "The Last Picture Shows",
+    "start": "2026-10-08T12:25:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/the-last-picture-shows",
+    "poster": "https://indy-systems.imgix.net/vdjunnj6pjsm2fenty0fujeloy7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt43596241/",
+    "rating": 7.7
+  },
+  {
     "title": "DIGGER",
     "start": "2026-10-08T12:30:00-07:00",
     "theater": "Academy Theater",
@@ -2329,6 +1573,15 @@
     "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt32261958/",
     "rating": 6.1
+  },
+  {
+    "title": "Practical Magic 2",
+    "start": "2026-10-08T14:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/practical-magic-2",
+    "poster": "https://indy-systems.imgix.net/5sxp1ndci4oyg69fqeix4jjiuq7t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
   },
   {
     "title": "Late Fame",
@@ -2466,6 +1719,15 @@
     "rating": 7.6
   },
   {
+    "title": "Digger",
+    "start": "2026-10-08T16:10:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/digger",
+    "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
     "title": "RESIDENT EVIL",
     "start": "2026-10-08T16:15:00-07:00",
     "theater": "Academy Theater",
@@ -2529,6 +1791,15 @@
     "rating": 6.1
   },
   {
+    "title": "Verity",
+    "start": "2026-10-08T16:50:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/verity",
+    "poster": "https://indy-systems.imgix.net/xixd9rmbo6ge49ro0mj6v2qxxpe3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
     "title": "Other Mommy",
     "start": "2026-10-08T17:00:00-07:00",
     "theater": "St. Johns Cinema",
@@ -2554,6 +1825,15 @@
     "poster": "https://indy-systems.imgix.net/cyffzke0faa0xa8u9guwo1f5jjvi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt7526136/",
     "rating": 7.3
+  },
+  {
+    "title": "Resident Evil",
+    "start": "2026-10-08T17:15:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19544?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "RESIDENT EVIL",
@@ -2781,6 +2061,15 @@
     "rating": 6.1
   },
   {
+    "title": "Other Mommy",
+    "start": "2026-10-08T19:20:00-07:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/other-mommy",
+    "poster": "https://indy-systems.imgix.net/ym0427zax36yni5a2kj9ke2thaan?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "SOCIAL RECKONING",
     "start": "2026-10-08T19:20:00-07:00",
     "theater": "Studio One",
@@ -2822,6 +2111,15 @@
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "Resident Evil",
+    "start": "2026-10-08T19:55:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19545?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt35538033/",
     "rating": 7.6
   },
@@ -2943,6 +2241,15 @@
     "rating": 7.3
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-09T12:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "EYES WITHOUT A FACE (1960)",
     "start": "2026-10-09T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -2959,6 +2266,24 @@
     "poster": "https://indy-systems.imgix.net/6tw9u7xv2qugntw89qfomagv3l7r?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0105417/",
     "rating": 6.6
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-09T15:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-09T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
   },
   {
     "title": "VERITY",
@@ -2979,6 +2304,15 @@
     "rating": 7.3
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-09T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
     "title": "SCOOBY-DOO (2002)",
     "start": "2026-10-09T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -2997,6 +2331,24 @@
     "rating": 7.2
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-09T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-09T16:15:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "The History of Concrete",
     "start": "2026-10-09T16:15:00-07:00",
     "theater": "Cinema 21",
@@ -3004,6 +2356,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
     "rating": 7.7
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-09T16:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-09T16:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
   },
   {
     "title": "Naza",
@@ -3024,6 +2394,15 @@
     "rating": null
   },
   {
+    "title": "VERITY",
+    "start": "2026-10-09T16:35:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
     "title": "Other Mommy",
     "start": "2026-10-09T16:35:00-07:00",
     "theater": "St. Johns Cinema",
@@ -3042,12 +2421,66 @@
     "rating": null
   },
   {
+    "title": "Resident Evil",
+    "start": "2026-10-09T16:45:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19546?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-09T17:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-09T17:35:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-09T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-09T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
     "title": "Colours of Time",
     "start": "2026-10-09T18:15:00-07:00",
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/colours-of-time",
     "poster": "https://indy-systems.imgix.net/s9phpoy6j1t484dms5x6aqazsllf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31411349/",
+    "rating": 7.2
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-09T18:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
     "rating": 7.2
   },
   {
@@ -3058,6 +2491,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/pan-lab1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0457430/",
     "rating": 8.2
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-09T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
   },
   {
     "title": "VERITY",
@@ -3141,6 +2583,15 @@
     "rating": 6.6
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-09T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "In Spite of Ourselves",
     "start": "2026-10-09T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -3148,6 +2599,15 @@
     "poster": "https://indy-systems.imgix.net/aba39bbd69imr31dxcrc94erzckk?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39112022/",
     "rating": 4.7
+  },
+  {
+    "title": "VERITY",
+    "start": "2026-10-09T19:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
   },
   {
     "title": "Other Mommy",
@@ -3159,6 +2619,24 @@
     "rating": null
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-09T19:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-09T19:15:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "Naza",
     "start": "2026-10-09T19:15:00-07:00",
     "theater": "Cinema 21",
@@ -3166,6 +2644,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
     "rating": 7.8
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-09T19:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
   },
   {
     "title": "Other Mommy",
@@ -3195,6 +2682,33 @@
     "rating": 5.5
   },
   {
+    "title": "Resident Evil",
+    "start": "2026-10-09T19:45:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19547?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-09T19:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-09T20:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
+  },
+  {
     "title": "Slumber Party Massacre II",
     "start": "2026-10-09T21:00:00-07:00",
     "theater": "Cinemagic",
@@ -3202,6 +2716,33 @@
     "poster": "https://indy-systems.imgix.net/d9sw86cq4iv19c3c3ndfxjysf7hv?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0093996/",
     "rating": 4.7
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-09T21:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-09T21:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-09T21:10:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
   },
   {
     "title": "EYES WITHOUT A FACE (1960)",
@@ -3220,6 +2761,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001627&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt0083767/",
     "rating": 6.8
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-09T21:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
   },
   {
     "title": "Naza",
@@ -3258,6 +2808,15 @@
     "rating": 8.2
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-09T21:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "Other Mommy",
     "start": "2026-10-09T21:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -3276,6 +2835,24 @@
     "rating": null
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-09T21:40:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-09T21:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "The History of Concrete",
     "start": "2026-10-09T21:45:00-07:00",
     "theater": "Cinema 21",
@@ -3283,6 +2860,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
     "rating": 7.7
+  },
+  {
+    "title": "VERITY",
+    "start": "2026-10-09T21:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
   },
   {
     "title": "FINAL GIRLS",
@@ -3303,6 +2889,15 @@
     "rating": null
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-09T22:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "VERITY",
     "start": "2026-10-10T09:00:00-07:00",
     "theater": "Studio One",
@@ -3312,12 +2907,48 @@
     "rating": 6.1
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-10T09:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-10T09:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "SOCIAL RECKONING",
-    "start": "2026-10-10T10:20:00-07:00",
+    "start": "2026-10-10T10:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt37510326/",
+    "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-10T10:25:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-10T10:50:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
     "rating": null
   },
   {
@@ -3328,6 +2959,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_d5652fc4-2c0d-4f77-893d-277a67eeff8e.jpg",
     "imdb": "https://www.imdb.com/title/tt0057129/",
     "rating": 7.4
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-10T11:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
   },
   {
     "title": "Naza",
@@ -3358,12 +2998,66 @@
   },
   {
     "title": "DIGGER",
+    "start": "2026-10-10T12:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-10T12:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "DIGGER",
     "start": "2026-10-10T12:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
     "rating": 7.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-10T12:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-10T12:35:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-10T12:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-10T12:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "SCOOBY-DOO (2002)",
@@ -3375,8 +3069,17 @@
     "rating": 5.4
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-10T13:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "SOCIAL RECKONING",
-    "start": "2026-10-10T13:15:00-07:00",
+    "start": "2026-10-10T13:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
@@ -3391,6 +3094,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
     "rating": 7.2
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-10T13:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
   },
   {
     "title": "The History of Concrete",
@@ -3409,6 +3121,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001635&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt36586020/",
     "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-10T13:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
   },
   {
     "title": "Naza",
@@ -3447,6 +3168,15 @@
     "rating": 8.4
   },
   {
+    "title": "Resident Evil",
+    "start": "2026-10-10T14:00:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19548?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "PAN\u2019S LABYRINTH",
     "start": "2026-10-10T14:30:00-07:00",
     "theater": "Hollywood Theatre",
@@ -3454,6 +3184,33 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/pan-lab1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0457430/",
     "rating": 8.2
+  },
+  {
+    "title": "THE INCOMER",
+    "start": "2026-10-10T14:30:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-incomer",
+    "poster": "https://indy-systems.imgix.net/hdlhlv3fpr5xmmm64s7ljnggtoup?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36980182/",
+    "rating": 7.5
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-10T14:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-10T14:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "VERITY",
@@ -3474,6 +3231,15 @@
     "rating": 6.8
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-10T15:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
     "title": "NEVER AFTER DARK",
     "start": "2026-10-10T15:30:00-07:00",
     "theater": "Hollywood Theatre",
@@ -3484,12 +3250,30 @@
   },
   {
     "title": "DIGGER",
+    "start": "2026-10-10T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "DIGGER",
     "start": "2026-10-10T15:45:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
     "rating": 7.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-10T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
   },
   {
     "title": "EYES WITHOUT A FACE (1960)",
@@ -3510,6 +3294,15 @@
     "rating": 7.2
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-10T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "OTHER MOMMY",
     "start": "2026-10-10T16:00:00-07:00",
     "theater": "Studio One",
@@ -3519,6 +3312,15 @@
     "rating": null
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-10T16:15:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "The History of Concrete",
     "start": "2026-10-10T16:15:00-07:00",
     "theater": "Cinema 21",
@@ -3526,6 +3328,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
     "rating": 7.7
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-10T16:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
+    "title": "Resident Evil",
+    "start": "2026-10-10T16:15:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19550?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "SOCIAL RECKONING",
@@ -3544,6 +3364,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
     "rating": 7.8
+  },
+  {
+    "title": "VERITY",
+    "start": "2026-10-10T16:35:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
   },
   {
     "title": "Other Mommy",
@@ -3573,6 +3402,24 @@
     "rating": 7.5
   },
   {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-10T17:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-10T17:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "NEVER AFTER DARK",
     "start": "2026-10-10T18:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -3591,6 +3438,15 @@
     "rating": null
   },
   {
+    "title": "DIGGER",
+    "start": "2026-10-10T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
     "title": "VERITY",
     "start": "2026-10-10T18:05:00-07:00",
     "theater": "Studio One",
@@ -3598,6 +3454,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt32261958/",
     "rating": 6.1
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-10T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
   },
   {
     "title": "Colours of Time",
@@ -3609,6 +3474,15 @@
     "rating": 7.2
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-10T18:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
     "title": "AN EVENING OF HIGH FANTASY!",
     "start": "2026-10-10T18:30:00-07:00",
     "theater": "Hollywood Theatre",
@@ -3616,6 +3490,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/Highlander.jpg?fit=540%2C304&ssl=1",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-10T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
   },
   {
     "title": "OTHER MOMMY",
@@ -3699,6 +3582,15 @@
     "rating": null
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-10T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "In Spite of Ourselves",
     "start": "2026-10-10T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -3708,13 +3600,22 @@
     "rating": 4.7
   },
   {
-    "title": "Other Mommy",
+    "title": "VERITY",
+    "start": "2026-10-10T19:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
+    "title": "Resident Evil",
     "start": "2026-10-10T19:00:00-07:00",
     "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19501?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001635&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt36586020/",
-    "rating": null
+    "url": "https://ticketing.useast.veezi.com/purchase/19549?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "SOCIAL RECKONING",
@@ -3726,6 +3627,15 @@
     "rating": null
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-10T19:15:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "Naza",
     "start": "2026-10-10T19:15:00-07:00",
     "theater": "Cinema 21",
@@ -3735,6 +3645,15 @@
     "rating": 7.8
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-10T19:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "Other Mommy",
     "start": "2026-10-10T19:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -3742,6 +3661,33 @@
     "poster": "https://indy-systems.imgix.net/ym0427zax36yni5a2kj9ke2thaan?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36586020/",
     "rating": null
+  },
+  {
+    "title": "Other Mommy",
+    "start": "2026-10-10T19:35:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19501?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001635&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-10T19:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "VERITY",
+    "start": "2026-10-10T20:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA: THE VHS TOUR",
@@ -3762,6 +3708,24 @@
     "rating": 7.8
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-10T21:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-10T21:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
     "title": "OTHER MOMMY",
     "start": "2026-10-10T21:05:00-07:00",
     "theater": "Studio One",
@@ -3769,6 +3733,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt36586020/",
     "rating": null
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-10T21:10:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
   },
   {
     "title": "Naza",
@@ -3807,11 +3780,38 @@
     "rating": 7.2
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-10T21:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "Other Mommy",
     "start": "2026-10-10T21:30:00-07:00",
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/other-mommy",
     "poster": "https://indy-systems.imgix.net/ym0427zax36yni5a2kj9ke2thaan?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-10T21:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-10T21:40:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt36586020/",
     "rating": null
   },
@@ -3843,6 +3843,24 @@
     "rating": null
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-10T22:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-10T22:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "The Rocky Horror Picture Show with Sinophelia",
     "start": "2026-10-10T23:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -3861,13 +3879,67 @@
     "rating": 6.1
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-11T09:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-11T09:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "SOCIAL RECKONING",
-    "start": "2026-10-11T10:20:00-07:00",
+    "start": "2026-10-11T10:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt37510326/",
     "rating": null
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-11T10:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-11T10:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
+  },
+  {
+    "title": "JASON EVENT 3HRS",
+    "start": "2026-10-11T11:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": null,
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-11T11:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
   },
   {
     "title": "Muppet Treasure Island",
@@ -3898,12 +3970,57 @@
   },
   {
     "title": "DIGGER",
+    "start": "2026-10-11T12:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-11T12:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "DIGGER",
     "start": "2026-10-11T12:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
     "rating": 7.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-11T12:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-11T12:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-11T12:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "THE SENTINEL (1977)",
@@ -3915,8 +4032,17 @@
     "rating": 6.3
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-11T13:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "SOCIAL RECKONING",
-    "start": "2026-10-11T13:15:00-07:00",
+    "start": "2026-10-11T13:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
@@ -3933,6 +4059,15 @@
     "rating": 7.2
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-11T13:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "The History of Concrete",
     "start": "2026-10-11T13:45:00-07:00",
     "theater": "Cinema 21",
@@ -3940,6 +4075,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
     "rating": 7.7
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-11T13:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
   },
   {
     "title": "QUEEN BUDAPEST",
@@ -4005,6 +4149,33 @@
     "rating": null
   },
   {
+    "title": "DIGGER",
+    "start": "2026-10-11T14:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "Resident Evil",
+    "start": "2026-10-11T14:45:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19551?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-11T14:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "Killer Klowns from Outer Space",
     "start": "2026-10-11T15:00:00-07:00",
     "theater": "Cinemagic",
@@ -4041,6 +4212,33 @@
     "rating": 7.6
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-11T15:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-11T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-11T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
     "title": "Primetime",
     "start": "2026-10-11T16:00:00-07:00",
     "theater": "Cinema 21",
@@ -4048,6 +4246,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
     "rating": 7.2
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-11T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-11T16:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
   },
   {
     "title": "SOCIAL RECKONING",
@@ -4086,6 +4302,15 @@
     "rating": 7.7
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-11T16:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "SCOOBY-DOO (2002)",
     "start": "2026-10-11T16:30:00-07:00",
     "theater": "Academy Theater",
@@ -4102,6 +4327,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
     "rating": 7.8
+  },
+  {
+    "title": "VERITY",
+    "start": "2026-10-11T16:35:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-11T16:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "The Invisible Man",
@@ -4122,6 +4365,33 @@
     "rating": null
   },
   {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-11T17:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
+  },
+  {
+    "title": "Resident Evil",
+    "start": "2026-10-11T17:15:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19552?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-11T17:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "NEVER AFTER DARK",
     "start": "2026-10-11T18:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -4129,6 +4399,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/neverafterdark.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt38589433/",
     "rating": 6.6
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-11T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
   },
   {
     "title": "VERITY",
@@ -4140,12 +4419,30 @@
     "rating": 6.1
   },
   {
+    "title": "DIGGER",
+    "start": "2026-10-11T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
     "title": "Colours of Time",
     "start": "2026-10-11T18:15:00-07:00",
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/colours-of-time",
     "poster": "https://indy-systems.imgix.net/s9phpoy6j1t484dms5x6aqazsllf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31411349/",
+    "rating": 7.2
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-11T18:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
     "rating": 7.2
   },
   {
@@ -4156,6 +4453,24 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/pan-lab1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0457430/",
     "rating": 8.2
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-11T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-11T18:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
   },
   {
     "title": "Primetime",
@@ -4212,6 +4527,15 @@
     "rating": 7.8
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-11T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "In Spite of Ourselves",
     "start": "2026-10-11T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -4219,6 +4543,15 @@
     "poster": "https://indy-systems.imgix.net/aba39bbd69imr31dxcrc94erzckk?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt39112022/",
     "rating": 4.7
+  },
+  {
+    "title": "VERITY",
+    "start": "2026-10-11T19:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
   },
   {
     "title": "SOCIAL RECKONING",
@@ -4246,6 +4579,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
     "rating": 7.8
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-11T19:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
   },
   {
     "title": "Other Mommy",
@@ -4275,6 +4617,51 @@
     "rating": null
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-11T19:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-11T19:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "Resident Evil",
+    "start": "2026-10-11T19:55:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19556?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "VERITY",
+    "start": "2026-10-11T20:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-11T21:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
     "title": "OTHER MOMMY",
     "start": "2026-10-11T21:05:00-07:00",
     "theater": "Studio One",
@@ -4293,6 +4680,24 @@
     "rating": 7.5
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-11T21:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-11T21:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
+  },
+  {
     "title": "SOCIAL RECKONING",
     "start": "2026-10-11T21:50:00-07:00",
     "theater": "Studio One",
@@ -4300,6 +4705,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt37510326/",
     "rating": null
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-11T22:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "DIGGER",
@@ -4311,6 +4725,15 @@
     "rating": 7.3
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-12T12:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "EYES WITHOUT A FACE (1960)",
     "start": "2026-10-12T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -4320,8 +4743,35 @@
     "rating": 7.6
   },
   {
+    "title": "DIGGER",
+    "start": "2026-10-12T15:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-12T15:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-12T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
     "title": "VERITY",
-    "start": "2026-10-12T15:25:00-07:00",
+    "start": "2026-10-12T15:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
@@ -4329,13 +4779,13 @@
     "rating": 6.1
   },
   {
-    "title": "SOCIAL RECKONING",
+    "title": "PRIMETIME",
     "start": "2026-10-12T15:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37510326/",
-    "rating": null
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
   },
   {
     "title": "Primetime",
@@ -4345,6 +4795,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
     "rating": 7.2
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-12T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "SOCIAL RECKONING",
+    "start": "2026-10-12T16:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt37510326/",
+    "rating": null
   },
   {
     "title": "DIGGER",
@@ -4365,6 +4833,15 @@
     "rating": 7.7
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-12T16:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "THE SENTINEL (1977)",
     "start": "2026-10-12T16:30:00-07:00",
     "theater": "Academy Theater",
@@ -4381,6 +4858,33 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
     "rating": 7.8
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-12T16:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
+    "title": "THE INCOMER",
+    "start": "2026-10-12T16:40:00-07:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-incomer",
+    "poster": "https://indy-systems.imgix.net/hdlhlv3fpr5xmmm64s7ljnggtoup?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt36980182/",
+    "rating": 7.5
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-12T16:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "Other Mommy",
@@ -4401,6 +4905,33 @@
     "rating": 7.1
   },
   {
+    "title": "Resident Evil",
+    "start": "2026-10-12T17:15:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19553?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-12T17:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-12T17:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
+  },
+  {
     "title": "Yellow Veil Pictures Presents \u2013 BOORMAN AND THE DEVIL",
     "start": "2026-10-12T18:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -4410,8 +4941,44 @@
     "rating": 7.7
   },
   {
+    "title": "DIGGER",
+    "start": "2026-10-12T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-12T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-12T18:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-12T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
     "title": "VERITY",
-    "start": "2026-10-12T18:25:00-07:00",
+    "start": "2026-10-12T18:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
@@ -4482,6 +5049,33 @@
     "rating": 6.6
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-12T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "VERITY",
+    "start": "2026-10-12T19:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-12T19:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "DIGGER",
     "start": "2026-10-12T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -4498,6 +5092,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
     "rating": 7.8
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-12T19:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
   },
   {
     "title": "SCOOBY-DOO (2002)",
@@ -4527,6 +5130,33 @@
     "rating": null
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-12T19:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-12T19:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "Resident Evil",
+    "start": "2026-10-12T19:55:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19557?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "Yellow Veil Pictures Presents \u2013 BOORMAN AND THE DEVIL",
     "start": "2026-10-12T20:30:00-07:00",
     "theater": "Hollywood Theatre",
@@ -4545,6 +5175,24 @@
     "rating": 8.2
   },
   {
+    "title": "DIGGER",
+    "start": "2026-10-12T20:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-12T21:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
     "title": "Let the Right One In",
     "start": "2026-10-12T21:10:00-07:00",
     "theater": "Cinemagic",
@@ -4554,8 +5202,35 @@
     "rating": 7.8
   },
   {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-12T21:10:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
+  },
+  {
+    "title": "SOCIAL RECKONING",
+    "start": "2026-10-12T21:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt37510326/",
+    "rating": null
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-12T21:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "VERITY",
-    "start": "2026-10-12T21:25:00-07:00",
+    "start": "2026-10-12T21:50:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
@@ -4563,13 +5238,13 @@
     "rating": 6.1
   },
   {
-    "title": "SOCIAL RECKONING",
-    "start": "2026-10-12T21:45:00-07:00",
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-12T22:15:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37510326/",
-    "rating": null
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "DIGGER",
@@ -4581,6 +5256,15 @@
     "rating": 7.3
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-13T12:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "SCOOBY-DOO (2002)",
     "start": "2026-10-13T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -4590,8 +5274,35 @@
     "rating": 5.4
   },
   {
+    "title": "DIGGER",
+    "start": "2026-10-13T15:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-13T15:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-13T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
     "title": "VERITY",
-    "start": "2026-10-13T15:25:00-07:00",
+    "start": "2026-10-13T15:30:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
@@ -4599,13 +5310,13 @@
     "rating": 6.1
   },
   {
-    "title": "SOCIAL RECKONING",
+    "title": "PRIMETIME",
     "start": "2026-10-13T15:45:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37510326/",
-    "rating": null
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
   },
   {
     "title": "Primetime",
@@ -4615,6 +5326,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
     "rating": 7.2
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-13T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "SOCIAL RECKONING",
+    "start": "2026-10-13T16:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt37510326/",
+    "rating": null
   },
   {
     "title": "DIGGER",
@@ -4635,6 +5364,15 @@
     "rating": 7.7
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-13T16:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "EYES WITHOUT A FACE (1960)",
     "start": "2026-10-13T16:30:00-07:00",
     "theater": "Academy Theater",
@@ -4651,6 +5389,33 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
     "rating": 7.8
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-13T16:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
+    "title": "VERITY",
+    "start": "2026-10-13T16:35:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-13T16:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "Killer Klowns from Outer Space",
@@ -4671,13 +5436,58 @@
     "rating": null
   },
   {
-    "title": "VERITY",
-    "start": "2026-10-13T18:25:00-07:00",
+    "title": "Resident Evil",
+    "start": "2026-10-13T17:15:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19554?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-13T17:20:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": 6.1
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-13T17:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-13T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-13T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-13T18:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
   },
   {
     "title": "PAN\u2019S LABYRINTH",
@@ -4689,6 +5499,15 @@
     "rating": 8.2
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-13T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
     "title": "Reel Science: Running Wild 3D",
     "start": "2026-10-13T18:30:00-07:00",
     "theater": "OMSI Empirical Theater",
@@ -4696,6 +5515,15 @@
     "poster": "https://omsi.edu/wp-content/uploads/2026/05/RunningWild-1024x640.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "VERITY",
+    "start": "2026-10-13T18:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
   },
   {
     "title": "Primetime",
@@ -4752,6 +5580,33 @@
     "rating": 6.6
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-13T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "VERITY",
+    "start": "2026-10-13T19:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-13T19:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "DIGGER",
     "start": "2026-10-13T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -4768,6 +5623,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
     "rating": 7.8
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-13T19:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
   },
   {
     "title": "THE SENTINEL (1977)",
@@ -4797,13 +5661,58 @@
     "rating": null
   },
   {
-    "title": "VERITY",
-    "start": "2026-10-13T21:25:00-07:00",
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-13T19:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-13T19:45:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32261958/",
-    "rating": 6.1
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "Resident Evil",
+    "start": "2026-10-13T19:55:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19558?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-13T20:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-13T21:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-13T21:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
   },
   {
     "title": "The Babadook",
@@ -4824,13 +5733,49 @@
     "rating": 8.2
   },
   {
-    "title": "SOCIAL RECKONING",
+    "title": "SCOOBY-DOO 2: MONSTERS UNLEASHED",
+    "start": "2026-10-13T21:30:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/9890862CFE10F32F59912BE82C2C1970D2124361FC7EC61836C76350B0A47291_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0331632/",
+    "rating": 5.4
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-13T21:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
+    "title": "VERITY",
     "start": "2026-10-13T21:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
+    "title": "SOCIAL RECKONING",
+    "start": "2026-10-13T22:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt37510326/",
     "rating": null
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-13T22:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "DIGGER",
@@ -4842,6 +5787,15 @@
     "rating": 7.3
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-14T12:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "EYES WITHOUT A FACE (1960)",
     "start": "2026-10-14T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -4851,13 +5805,49 @@
     "rating": 7.6
   },
   {
-    "title": "SOCIAL RECKONING",
-    "start": "2026-10-14T15:45:00-07:00",
+    "title": "DIGGER",
+    "start": "2026-10-14T15:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37510326/",
-    "rating": null
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-14T15:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "DIGGER (OPEN CAPTION)",
+    "start": "2026-10-14T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2E0YTg1M2YtOGQyYi00NDFkLTk3NzUtYmEyNTZhYThhZDQ0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "VERITY",
+    "start": "2026-10-14T15:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
+    "title": "PRIMETIME (OPEN CAPTION)",
+    "start": "2026-10-14T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyZGI2NWQtOTU3NS00NTEyLTliNDItNTQyNmFkMGZmZGQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
   },
   {
     "title": "Primetime",
@@ -4867,6 +5857,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2dbe98dc-8c86-4c3a-af86-5c348c21459f.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
     "rating": 7.2
+  },
+  {
+    "title": "RESIDENT EVIL (OPEN CAPTION)",
+    "start": "2026-10-14T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODIwYTk4MWYtMGUxYS00OWUzLTg5MDYtNzg5MmYyNzcyNThkXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "SOCIAL RECKONING",
+    "start": "2026-10-14T16:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt37510326/",
+    "rating": null
   },
   {
     "title": "DIGGER",
@@ -4887,6 +5895,15 @@
     "rating": 7.7
   },
   {
+    "title": "OTHER MOMMY (OPEN CAPTION)",
+    "start": "2026-10-14T16:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGUyODYyYTctMmY0Mi00ZWIwLThjYWItZDJmODY4NGU1YjY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "THE SENTINEL (1977)",
     "start": "2026-10-14T16:30:00-07:00",
     "theater": "Academy Theater",
@@ -4903,6 +5920,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
     "rating": 7.8
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-14T16:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-14T16:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "Killer Klowns from Outer Space",
@@ -4923,6 +5958,33 @@
     "rating": null
   },
   {
+    "title": "Resident Evil",
+    "start": "2026-10-14T17:15:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19555?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-14T17:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-14T17:35:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
+  },
+  {
     "title": "Capturing Bigfoot\u00a0// Presented by the Oregon Historical Society",
     "start": "2026-10-14T18:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -4932,6 +5994,33 @@
     "rating": 6.6
   },
   {
+    "title": "VERITY",
+    "start": "2026-10-14T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
+    "title": "DIGGER (OPEN CAPTION)",
+    "start": "2026-10-14T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2E0YTg1M2YtOGQyYi00NDFkLTk3NzUtYmEyNTZhYThhZDQ0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-14T18:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
     "title": "PAN\u2019S LABYRINTH",
     "start": "2026-10-14T18:30:00-07:00",
     "theater": "Hollywood Theatre",
@@ -4939,6 +6028,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/pan-lab1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0457430/",
     "rating": 8.2
+  },
+  {
+    "title": "PRIMETIME (OPEN CAPTION)",
+    "start": "2026-10-14T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyZGI2NWQtOTU3NS00NTEyLTliNDItNTQyNmFkMGZmZGQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
   },
   {
     "title": "SENSE AND SENSIBILITY",
@@ -5004,6 +6102,33 @@
     "rating": null
   },
   {
+    "title": "RESIDENT EVIL (OPEN CAPTION)",
+    "start": "2026-10-14T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODIwYTk4MWYtMGUxYS00OWUzLTg5MDYtNzg5MmYyNzcyNThkXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "VERITY",
+    "start": "2026-10-14T19:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-14T19:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "DIGGER",
     "start": "2026-10-14T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -5020,6 +6145,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
     "rating": 7.8
+  },
+  {
+    "title": "OTHER MOMMY (OPEN CAPTION)",
+    "start": "2026-10-14T19:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGUyODYyYTctMmY0Mi00ZWIwLThjYWItZDJmODY4NGU1YjY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
   },
   {
     "title": "SCOOBY-DOO (2002)",
@@ -5058,6 +6192,42 @@
     "rating": null
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-14T19:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-14T19:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "Resident Evil",
+    "start": "2026-10-14T19:55:00-07:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19559?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001595&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "DIGGER",
+    "start": "2026-10-14T20:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8AD263D7A0E00D66A7035995C2964EAE6274DE412C6658E9DB390E1BBE83DDD7_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31450459/",
+    "rating": 7.3
+  },
+  {
     "title": "The Texas Chainsaw Massacre",
     "start": "2026-10-14T21:00:00-07:00",
     "theater": "Cinemagic",
@@ -5065,6 +6235,24 @@
     "poster": "https://indy-systems.imgix.net/vtf9nom292yetyuok14w9oqnjfdo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0324216/",
     "rating": 6.2
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-14T21:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/6C90DDD26AA6CEA2BF0091B2AB0819E4E355BC7C818CE2361D0CBDF5BD1E7AA6_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "PRACTICAL MAGIC 2",
+    "start": "2026-10-14T21:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32588798/",
+    "rating": 6.3
   },
   {
     "title": "PAN\u2019S LABYRINTH",
@@ -5085,6 +6273,15 @@
     "rating": null
   },
   {
+    "title": "VERITY",
+    "start": "2026-10-14T21:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
     "title": "SENSE AND SENSIBILITY",
     "start": "2026-10-14T21:45:00-07:00",
     "theater": "Studio One",
@@ -5094,6 +6291,15 @@
     "rating": 7.2
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-14T22:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
     "title": "DIGGER",
     "start": "2026-10-15T12:30:00-07:00",
     "theater": "Academy Theater",
@@ -5101,6 +6307,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
     "rating": 7.3
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-15T12:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "THE SENTINEL (1977)",
@@ -5130,6 +6345,24 @@
     "rating": 7.7
   },
   {
+    "title": "VERITY",
+    "start": "2026-10-15T15:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
+    "title": "WHALEFALL",
+    "start": "2026-10-15T15:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8468A63DD15649FAA7218A4C0C962F4207E2DCFE3DE84204654BC99E1EBBE99D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt28535715/",
+    "rating": null
+  },
+  {
     "title": "DIGGER",
     "start": "2026-10-15T15:45:00-07:00",
     "theater": "Academy Theater",
@@ -5137,6 +6370,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/FDD5666186F85A7CD61C3D15F2F078B61D49D9335CD01CC31BC681A20039379D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31450459/",
     "rating": 7.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-15T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
+  },
+  {
+    "title": "STREET FIGHTER",
+    "start": "2026-10-15T15:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/065496F2BFB48CEF8FE7A6B9FAD9212777EF85E192AEF3302DE7CDC729444647_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27419420/",
+    "rating": null
   },
   {
     "title": "SCOOBY-DOO (2002)",
@@ -5157,6 +6408,42 @@
     "rating": 7.7
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-15T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "SOCIAL RECKONING",
+    "start": "2026-10-15T16:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt37510326/",
+    "rating": null
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-15T16:15:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-15T16:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "Naza",
     "start": "2026-10-15T16:30:00-07:00",
     "theater": "Cinema 21",
@@ -5164,6 +6451,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
     "imdb": "https://www.imdb.com/title/tt44766123/",
     "rating": 7.8
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-15T16:40:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-15T17:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 7.7
   },
   {
     "title": "The Invisible Man",
@@ -5175,6 +6480,24 @@
     "rating": 7.1
   },
   {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-15T17:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "VERITY",
+    "start": "2026-10-15T18:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
     "title": "YOU CAN SEE EVERYTHING",
     "start": "2026-10-15T18:15:00-07:00",
     "theater": "Laurelhurst Theater",
@@ -5184,6 +6507,15 @@
     "rating": 7.7
   },
   {
+    "title": "WHALEFALL",
+    "start": "2026-10-15T18:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8468A63DD15649FAA7218A4C0C962F4207E2DCFE3DE84204654BC99E1EBBE99D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt28535715/",
+    "rating": null
+  },
+  {
     "title": "PAN\u2019S LABYRINTH",
     "start": "2026-10-15T18:30:00-07:00",
     "theater": "Hollywood Theatre",
@@ -5191,6 +6523,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/pan-lab1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0457430/",
     "rating": 8.2
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-15T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.2
   },
   {
     "title": "DIGGER",
@@ -5218,6 +6559,15 @@
     "poster": "https://indy-systems.imgix.net/ukeodl5cg5fgd0rsreepm3kc7259?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt13609648/",
     "rating": 7.2
+  },
+  {
+    "title": "SOCIAL RECKONING",
+    "start": "2026-10-15T18:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt37510326/",
+    "rating": null
   },
   {
     "title": "EYES WITHOUT A FACE (1960)",
@@ -5265,6 +6615,15 @@
     "rating": 7.7
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-15T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "An Unquiet Mind",
     "start": "2026-10-15T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -5274,6 +6633,15 @@
     "rating": 8.1
   },
   {
+    "title": "VERITY",
+    "start": "2026-10-15T19:00:00-07:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/4DB031D0539E73A7B3F006FC831EE7D5839704DAF22BB5A39BB729A24204B5D4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
     "title": "Engineering: Too Hot for Cable",
     "start": "2026-10-15T19:00:00-07:00",
     "theater": "OMSI Empirical Theater",
@@ -5281,6 +6649,24 @@
     "poster": "https://omsi.edu/wp-content/uploads/2022/10/Empirical-Theater-OMSI-Top.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "STREET FIGHTER",
+    "start": "2026-10-15T19:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/065496F2BFB48CEF8FE7A6B9FAD9212777EF85E192AEF3302DE7CDC729444647_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27419420/",
+    "rating": null
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-15T19:15:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "Naza",
@@ -5301,6 +6687,33 @@
     "rating": 7.7
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-15T19:20:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-15T19:45:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-15T20:50:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 7.7
+  },
+  {
     "title": "An American Werewolf in London",
     "start": "2026-10-15T21:00:00-07:00",
     "theater": "Cinemagic",
@@ -5308,6 +6721,15 @@
     "poster": "https://indy-systems.imgix.net/j6s88ur5kpiq637tlniop290u8t1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0082010/",
     "rating": 7.5
+  },
+  {
+    "title": "WHALEFALL",
+    "start": "2026-10-15T21:05:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/8468A63DD15649FAA7218A4C0C962F4207E2DCFE3DE84204654BC99E1EBBE99D_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt28535715/",
+    "rating": null
   },
   {
     "title": "SCOOBY-DOO (2002)",
@@ -5319,6 +6741,15 @@
     "rating": 5.4
   },
   {
+    "title": "VERITY",
+    "start": "2026-10-15T21:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D8C69552C95E120AC21CC746C8FC8A53571DE1A478A2CA6CB79DE50390CA0305_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt32261958/",
+    "rating": 6.1
+  },
+  {
     "title": "DIGGER",
     "start": "2026-10-15T21:30:00-07:00",
     "theater": "Academy Theater",
@@ -5328,6 +6759,33 @@
     "rating": 7.3
   },
   {
+    "title": "SOCIAL RECKONING",
+    "start": "2026-10-15T21:30:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/09BB14F4B9DFA7264F92760CA2C77B1D5F0DF5C63BB3C4D17D14D6EB382F7E89_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt37510326/",
+    "rating": null
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-15T21:45:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6F484B4D8243D826430E08F88DF259E2E7C0EB563BCFB41DF42D67A377968A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-15T21:55:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": null
+  },
+  {
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-15T22:00:00-07:00",
     "theater": "Hollywood Theatre",
@@ -5335,6 +6793,24 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
+  },
+  {
+    "title": "STREET FIGHTER",
+    "start": "2026-10-15T22:00:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/065496F2BFB48CEF8FE7A6B9FAD9212777EF85E192AEF3302DE7CDC729444647_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt27419420/",
+    "rating": null
+  },
+  {
+    "title": "RESIDENT EVIL",
+    "start": "2026-10-15T22:15:00-07:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35538033/",
+    "rating": 7.6
   },
   {
     "title": "HAXAN (1922)",
@@ -6156,15 +7632,6 @@
     "rating": null
   },
   {
-    "title": "PHANTASM (1979)",
-    "start": "2026-10-17T21:45:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/41753EAE7792CB8F00AF8EEB699F7A6934692F165F286742F3202B4F3AEC172A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0079714/",
-    "rating": 6.6
-  },
-  {
     "title": "Ken Russell's The Devils (1971)",
     "start": "2026-10-17T21:45:00-07:00",
     "theater": "Cinema 21",
@@ -6199,6 +7666,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt36586020/",
     "rating": null
+  },
+  {
+    "title": "PHANTASM (1979)",
+    "start": "2026-10-17T22:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/41753EAE7792CB8F00AF8EEB699F7A6934692F165F286742F3202B4F3AEC172A_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0079714/",
+    "rating": 6.6
   },
   {
     "title": "The Rocky Horror Picture Show with the Clinton Street Cabaret",
@@ -6432,15 +7908,6 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/550B10CFEDC813CCA88A0EB316890E05BC1876FBF32E20431063F46F7A024052_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0076591/",
-    "rating": 7.2
-  },
-  {
-    "title": "The Lost Boys Crafternoon x Ritual Dyes",
-    "start": "2026-10-18T16:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/the-lost-boys-2/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/08/05110414/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg",
-    "imdb": "https://www.imdb.com/title/tt0093437/",
     "rating": 7.2
   },
   {
@@ -7713,15 +9180,6 @@
     "rating": 5.1
   },
   {
-    "title": "PHANTASM (1979)",
-    "start": "2026-10-22T21:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/41753EAE7792CB8F00AF8EEB699F7A6934692F165F286742F3202B4F3AEC172A_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0079714/",
-    "rating": 6.6
-  },
-  {
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-22T21:30:00-07:00",
     "theater": "Hollywood Theatre",
@@ -7747,6 +9205,15 @@
     "poster": "https://indy-systems.imgix.net/6ty521jfo9gdm1wfcd90ad1sxn61?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0077651/",
     "rating": 7.7
+  },
+  {
+    "title": "PHANTASM (1979)",
+    "start": "2026-10-22T22:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/41753EAE7792CB8F00AF8EEB699F7A6934692F165F286742F3202B4F3AEC172A_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0079714/",
+    "rating": 6.6
   },
   {
     "title": "Wildwood",
@@ -7846,15 +9313,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F1227A9FB93B3BD502596358C072C06FE3B66AED9D2EA787CEE09858C54488A4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0093177/",
     "rating": 6.9
-  },
-  {
-    "title": "WICKER",
-    "start": "2026-10-23T16:05:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6BCEF6FCFDA24F4FD6243A0B627ACF2BCBFDB7211822E4087D724F5EBEC79172_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29611136/",
-    "rating": 7.4
   },
   {
     "title": "WILDWOOD",
@@ -8046,15 +9504,6 @@
     "rating": null
   },
   {
-    "title": "HELLRAISER (1987)",
-    "start": "2026-10-23T21:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F1227A9FB93B3BD502596358C072C06FE3B66AED9D2EA787CEE09858C54488A4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0093177/",
-    "rating": 6.9
-  },
-  {
     "title": "Wildwood",
     "start": "2026-10-23T21:40:00-07:00",
     "theater": "Living Room Theaters",
@@ -8080,6 +9529,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/6BCEF6FCFDA24F4FD6243A0B627ACF2BCBFDB7211822E4087D724F5EBEC79172_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29611136/",
     "rating": 7.4
+  },
+  {
+    "title": "HELLRAISER (1987)",
+    "start": "2026-10-23T22:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F1227A9FB93B3BD502596358C072C06FE3B66AED9D2EA787CEE09858C54488A4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0093177/",
+    "rating": 6.9
   },
   {
     "title": "THE HUNGER",
@@ -8433,15 +9891,6 @@
     "rating": null
   },
   {
-    "title": "CANDYMAN (1992)",
-    "start": "2026-10-24T21:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6D9D9DDEA3EA58D2FFBDC73239574A8E4FB0D3C2DA17B456260BE83405D8ED2_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0103919/",
-    "rating": 6.8
-  },
-  {
     "title": "Wildwood",
     "start": "2026-10-24T21:40:00-07:00",
     "theater": "Living Room Theaters",
@@ -8458,6 +9907,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
+  },
+  {
+    "title": "CANDYMAN (1992)",
+    "start": "2026-10-24T22:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6D9D9DDEA3EA58D2FFBDC73239574A8E4FB0D3C2DA17B456260BE83405D8ED2_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0103919/",
+    "rating": 6.8
   },
   {
     "title": "THE ROCKY HORROR PICTURE SHOW with the Denton Delinquents",
@@ -8629,6 +10087,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1d103acb-1691-45ea-8443-44184271dd14.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Roy\u2019s World: Barry Gifford\u2019s Chicago",
+    "start": "2026-10-25T16:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/roys-world-barry-giffords-chicago/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/ROYS-WORLD-still-2.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt7934860/",
+    "rating": 7.9
   },
   {
     "title": "The Elk \u2013 A\u00a0 Film Screening and Walking Tour",
@@ -9549,15 +11016,6 @@
     "rating": 6.7
   },
   {
-    "title": "CANDYMAN (1992)",
-    "start": "2026-10-29T21:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D6D9D9DDEA3EA58D2FFBDC73239574A8E4FB0D3C2DA17B456260BE83405D8ED2_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0103919/",
-    "rating": 6.8
-  },
-  {
     "title": "WILDWOOD",
     "start": "2026-10-29T21:45:00-07:00",
     "theater": "Academy Theater",
@@ -9565,6 +11023,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
+  },
+  {
+    "title": "CANDYMAN (1992)",
+    "start": "2026-10-29T22:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D6D9D9DDEA3EA58D2FFBDC73239574A8E4FB0D3C2DA17B456260BE83405D8ED2_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt0103919/",
+    "rating": 6.8
   },
   {
     "title": "WILDWOOD",
@@ -9720,15 +11187,6 @@
     "rating": 5.9
   },
   {
-    "title": "POLTERGEIST (1982)",
-    "start": "2026-10-30T21:30:00-07:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzY4MGZkYjgtYTQ2YS00YTlhLWEyMjAtMjZhYzczNTRlM2ZmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0084516/",
-    "rating": 7.3
-  },
-  {
     "title": "WILDWOOD",
     "start": "2026-10-30T21:45:00-07:00",
     "theater": "Academy Theater",
@@ -9736,6 +11194,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
+  },
+  {
+    "title": "POLTERGEIST (1982)",
+    "start": "2026-10-30T22:00:00-07:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY4MGZkYjgtYTQ2YS00YTlhLWEyMjAtMjZhYzczNTRlM2ZmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0084516/",
+    "rating": 7.3
   },
   {
     "title": "GINGER SNAPS",
@@ -9882,17 +11349,8 @@
     "rating": 7.3
   },
   {
-    "title": "House (Hausu)",
-    "start": "2026-10-31T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/house/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/24111731/myMnHnG6kxYaQYknnW76VCHBpYT-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt0076162/",
-    "rating": 7.2
-  },
-  {
     "title": "WILDWOOD",
-    "start": "2026-10-31T21:45:00-07:00",
+    "start": "2026-10-31T22:00:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
@@ -10258,5 +11716,104 @@
     "poster": "https://indy-systems.imgix.net/ji40e07rjc864x5smzj9ysffsygg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0083907/",
     "rating": 7.3
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-11-05T12:30:00-08:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-11-05T15:45:00-08:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "GODZILLA MINUS ZERO",
+    "start": "2026-11-05T16:00:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34384661/",
+    "rating": 8.7
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-11-05T19:00:00-08:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "The Evil Dead (35mm)",
+    "start": "2026-11-05T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead",
+    "poster": "https://indy-systems.imgix.net/kb96b9xqe6gm7132uk5khveofmwy?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0083907/",
+    "rating": 7.3
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-11-05T19:00:00-08:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/wildwood",
+    "poster": "https://indy-systems.imgix.net/wr3degpwddawsagabz5rbnnr224z?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "GODZILLA MINUS ZERO",
+    "start": "2026-11-05T19:15:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34384661/",
+    "rating": 8.7
+  },
+  {
+    "title": "Author Talk with Jane Schoenbrun + I SAW THE TV GLOW",
+    "start": "2026-11-05T19:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/author-talk-with-jane-schoenbrun-i-saw-the-tv-glow/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/jane.png?fit=540%2C284&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "The Evil Dead (35mm)",
+    "start": "2026-11-05T21:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead",
+    "poster": "https://indy-systems.imgix.net/kb96b9xqe6gm7132uk5khveofmwy?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0083907/",
+    "rating": 7.3
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-11-05T21:55:00-08:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": null
+  },
+  {
+    "title": "GODZILLA MINUS ZERO",
+    "start": "2026-11-05T22:30:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34384661/",
+    "rating": 8.7
   }
 ]

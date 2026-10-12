@@ -1,23 +1,5 @@
 [
   {
-    "title": "PRACTICAL MAGIC 2",
-    "start": "2026-10-11T21:30:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/99FCAD69F9D5B3B3F39C63FF8ED1281AE4429FF1559CD583778E8F31C48C5FEA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32588798/",
-    "rating": 6.3
-  },
-  {
-    "title": "RESIDENT EVIL",
-    "start": "2026-10-11T21:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/809A28758DC2EE35210F1D69842D5FF83EADF7C6B5A61174B5C37B41798CB1CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt35538033/",
-    "rating": 7.6
-  },
-  {
     "title": "Colors of Time",
     "start": "2026-10-12T11:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -516,7 +498,7 @@
     "title": "NEVER AFTER DARK",
     "start": "2026-10-12T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/never-after-dark/",
+    "url": "https://hollywoodtheatre.org/event/never-after-dark-2026-10-12-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/neverafterdark.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt38589433/",
     "rating": 6.7
@@ -678,7 +660,7 @@
     "title": "PAN\u2019S LABYRINTH",
     "start": "2026-10-12T20:45:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/pans-labyrinth/",
+    "url": "https://hollywoodtheatre.org/event/pans-labyrinth-2026-10-12-845pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/pan-lab1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0457430/",
     "rating": 8.2
@@ -1164,7 +1146,7 @@
     "title": "PAN\u2019S LABYRINTH",
     "start": "2026-10-13T18:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/pans-labyrinth/",
+    "url": "https://hollywoodtheatre.org/event/pans-labyrinth-2026-10-13-630pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/pan-lab1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0457430/",
     "rating": 8.2
@@ -1263,7 +1245,7 @@
     "title": "NEVER AFTER DARK",
     "start": "2026-10-13T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/never-after-dark/",
+    "url": "https://hollywoodtheatre.org/event/never-after-dark-2026-10-13-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/neverafterdark.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt38589433/",
     "rating": 6.7
@@ -1353,7 +1335,7 @@
     "title": "SEVEN BROTHERS MEET DRACULA in 35mm",
     "start": "2026-10-13T19:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/seven-brothers-meet-dracula-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/seven-brothers-meet-dracula-in-35mm-2026-10-13-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/09/seven-brothers-meet-dracula.jpg?fit=540%2C265&ssl=1",
     "imdb": null,
     "rating": null
@@ -1443,7 +1425,7 @@
     "title": "PAN\u2019S LABYRINTH",
     "start": "2026-10-13T21:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/pans-labyrinth/",
+    "url": "https://hollywoodtheatre.org/event/pans-labyrinth-2026-10-13-930pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/pan-lab1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0457430/",
     "rating": 8.2
@@ -1902,7 +1884,7 @@
     "title": "PAN\u2019S LABYRINTH",
     "start": "2026-10-14T18:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/pans-labyrinth/",
+    "url": "https://hollywoodtheatre.org/event/pans-labyrinth-2026-10-14-630pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/pan-lab1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0457430/",
     "rating": 8.2
@@ -1983,7 +1965,7 @@
     "title": "NEVER AFTER DARK",
     "start": "2026-10-14T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/never-after-dark/",
+    "url": "https://hollywoodtheatre.org/event/never-after-dark-2026-10-14-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/neverafterdark.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt38589433/",
     "rating": 6.7
@@ -2091,7 +2073,7 @@
     "title": "HE WHO RETURNS (El regresado)",
     "start": "2026-10-14T19:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/he-who-returns-el-regresado/",
+    "url": "https://hollywoodtheatre.org/event/he-who-returns-el-regresado-2026-10-14-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/EL-REGRESADO-MAIN-STILL.jpg?fit=540%2C284&ssl=1",
     "imdb": null,
     "rating": null
@@ -2181,7 +2163,7 @@
     "title": "PAN\u2019S LABYRINTH",
     "start": "2026-10-14T21:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/pans-labyrinth/",
+    "url": "https://hollywoodtheatre.org/event/pans-labyrinth-2026-10-14-930pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/pan-lab1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0457430/",
     "rating": 8.2
@@ -2604,7 +2586,7 @@
     "title": "PAN\u2019S LABYRINTH",
     "start": "2026-10-15T18:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/pans-labyrinth/",
+    "url": "https://hollywoodtheatre.org/event/pans-labyrinth-2026-10-15-630pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/pan-lab1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0457430/",
     "rating": 8.2
@@ -2694,7 +2676,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-15T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-15-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -2901,7 +2883,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-15T22:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-15-1000pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -2982,7 +2964,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-16T15:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-16-300pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -3162,7 +3144,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-16T18:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-16-630pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -3243,7 +3225,7 @@
     "title": "MISTY GREEN",
     "start": "2026-10-16T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/misty-green/",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-16-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt34385184/",
     "rating": 6.7
@@ -3396,7 +3378,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-16T21:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-16-930pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -3666,7 +3648,7 @@
     "title": "MISTY GREEN",
     "start": "2026-10-17T14:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/misty-green/",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-17-200pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt34385184/",
     "rating": 6.7
@@ -3711,7 +3693,7 @@
     "title": "FRANKENWEENIE",
     "start": "2026-10-17T14:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/frankenweenie/",
+    "url": "https://hollywoodtheatre.org/event/frankenweenie-2026-10-17-230pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/FRANKENWEENIE-PROMO.jpg?fit=540%2C291&ssl=1",
     "imdb": "https://www.imdb.com/title/tt1142977/",
     "rating": 6.9
@@ -3747,7 +3729,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-17T15:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-17-300pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -3936,7 +3918,7 @@
     "title": "MISTY GREEN",
     "start": "2026-10-17T18:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/misty-green/",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-17-600pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt34385184/",
     "rating": 6.7
@@ -3981,7 +3963,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-17T18:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-17-630pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -4188,7 +4170,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-17T21:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-17-930pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -4494,7 +4476,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-18T14:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-18-200pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -4548,7 +4530,7 @@
     "title": "FRANKENWEENIE",
     "start": "2026-10-18T14:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/frankenweenie/",
+    "url": "https://hollywoodtheatre.org/event/frankenweenie-2026-10-18-230pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/FRANKENWEENIE-PROMO.jpg?fit=540%2C291&ssl=1",
     "imdb": "https://www.imdb.com/title/tt1142977/",
     "rating": 6.9
@@ -4764,7 +4746,7 @@
     "title": "MISTY GREEN",
     "start": "2026-10-18T18:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/misty-green/",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-18-600pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt34385184/",
     "rating": 6.7
@@ -4809,7 +4791,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-18T18:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-18-630pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -4863,7 +4845,7 @@
     "title": "THE BROOD",
     "start": "2026-10-18T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-brood/",
+    "url": "https://hollywoodtheatre.org/event/the-brood-2026-10-18-700pm/",
     "poster": "https://hollywoodtheatre.org/wp-content/uploads/2025/11/The-Brood.jpg",
     "imdb": "https://www.imdb.com/title/tt0078908/",
     "rating": 6.8
@@ -4885,15 +4867,6 @@
     "poster": "https://indy-systems.imgix.net/ukeodl5cg5fgd0rsreepm3kc7259?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt13609648/",
     "rating": 7.2
-  },
-  {
-    "title": "The Craft",
-    "start": "2026-10-18T19:00:00-07:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/the-craft-2/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/08172423/8bW2RdRkloYtEPhbQZN4wcdmJP4-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt0115963/",
-    "rating": 6.5
   },
   {
     "title": "OTHER MOMMY",
@@ -4989,7 +4962,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-18T21:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-18-930pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -5205,7 +5178,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-19T18:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-19-630pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -5268,7 +5241,7 @@
     "title": "MISTY GREEN",
     "start": "2026-10-19T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/misty-green/",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-19-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt34385184/",
     "rating": 6.7
@@ -5376,7 +5349,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-19T21:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-19-930pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -5574,7 +5547,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-20T18:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-20-630pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -5637,7 +5610,7 @@
     "title": "ACE IN THE HOLE in 35mm",
     "start": "2026-10-20T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/ace-in-the-hole-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/ace-in-the-hole-in-35mm-2026-10-20-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/ACE-IN-THE-HOLE-in-35mm_10202026.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0043338/",
     "rating": 8.0
@@ -5700,7 +5673,7 @@
     "title": "HAUNTED FILMS FROM THE DEAD in 16mm",
     "start": "2026-10-20T19:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/haunted-films-from-the-dead-in-16mm/",
+    "url": "https://hollywoodtheatre.org/event/haunted-films-from-the-dead-in-16mm-2026-10-20-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/Haunted-Films1.jpg?fit=540%2C303&ssl=1",
     "imdb": null,
     "rating": null
@@ -5736,7 +5709,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-20T21:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-20-930pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -5754,7 +5727,7 @@
     "title": "MISTY GREEN",
     "start": "2026-10-20T21:40:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/misty-green/",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-20-940pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt34385184/",
     "rating": 6.7
@@ -5943,7 +5916,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-21T18:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-21-630pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -6006,7 +5979,7 @@
     "title": "DON\u2019T BE AFRAID OF THE DARK (1973)",
     "start": "2026-10-21T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/dont-be-afraid-of-the-dark-1973/",
+    "url": "https://hollywoodtheatre.org/event/dont-be-afraid-of-the-dark-1973-2026-10-21-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/afraid_of_dark.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0069992/",
     "rating": 6.5
@@ -6069,7 +6042,7 @@
     "title": "PEOPLE\u2019S CUP (Muchachos: La pel\u00edcula de la gente)",
     "start": "2026-10-21T19:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/peoples-cup-muchachos-la-pelicula-de-la-gente/",
+    "url": "https://hollywoodtheatre.org/event/peoples-cup-muchachos-la-pelicula-de-la-gente-2026-10-21-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/Muchachos_Prensa_01.jpg?fit=540%2C360&ssl=1",
     "imdb": null,
     "rating": null
@@ -6096,7 +6069,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-21T21:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-21-930pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -6114,7 +6087,7 @@
     "title": "MISTY GREEN",
     "start": "2026-10-21T21:40:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/misty-green/",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-21-940pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt34385184/",
     "rating": 6.7
@@ -6285,7 +6258,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-22T18:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-22-630pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -6357,7 +6330,7 @@
     "title": "WILDWOOD in 35mm",
     "start": "2026-10-22T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-in-35mm-2026-10-22-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -6420,7 +6393,7 @@
     "title": "BRAINIAC in 16mm",
     "start": "2026-10-22T19:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/brainiac-in-16mm/",
+    "url": "https://hollywoodtheatre.org/event/brainiac-in-16mm-2026-10-22-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/BRAINIAC1.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0054668/",
     "rating": 5.1
@@ -6447,7 +6420,7 @@
     "title": "THE DEVILS in 35mm",
     "start": "2026-10-22T21:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-devils-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-22-930pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0066993/",
     "rating": 7.7
@@ -6456,7 +6429,7 @@
     "title": "MISTY GREEN",
     "start": "2026-10-22T21:40:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/misty-green/",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-22-940pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt34385184/",
     "rating": 6.7
@@ -6564,7 +6537,7 @@
     "title": "WILDWOOD in 35mm",
     "start": "2026-10-23T15:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-in-35mm-2026-10-23-300pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -6744,7 +6717,7 @@
     "title": "WILDWOOD in 35mm",
     "start": "2026-10-23T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-in-35mm-2026-10-23-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -6798,7 +6771,7 @@
     "title": "KNIFE + HEART",
     "start": "2026-10-23T19:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/knife-heart/",
+    "url": "https://hollywoodtheatre.org/event/knife-heart-2026-10-23-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/knife-and-heart.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt6426028/",
     "rating": 6.2
@@ -7041,7 +7014,7 @@
     "title": "THE PHANTOM OF THE OPERA",
     "start": "2026-10-24T14:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/the-phantom-of-the-opera/",
+    "url": "https://hollywoodtheatre.org/event/the-phantom-of-the-opera-2026-10-24-200pm/",
     "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/10/phantom-2.jpg",
     "imdb": "https://www.imdb.com/title/tt0293508/",
     "rating": 7.2
@@ -7068,7 +7041,7 @@
     "title": "WILDWOOD (Digital)",
     "start": "2026-10-24T15:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-digital/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-24-300pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -7122,7 +7095,7 @@
     "title": "WILDWOOD (Digital)",
     "start": "2026-10-24T16:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-digital/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-24-400pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -7203,7 +7176,7 @@
     "title": "WILDWOOD (Digital)",
     "start": "2026-10-24T18:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-digital/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-24-630pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -7320,7 +7293,7 @@
     "title": "WILDWOOD (Digital)",
     "start": "2026-10-24T19:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-digital/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-24-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -7581,7 +7554,7 @@
     "title": "WILDWOOD in 35mm",
     "start": "2026-10-25T15:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-in-35mm-2026-10-25-300pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -7626,7 +7599,7 @@
     "title": "Roy\u2019s World: Barry Gifford\u2019s Chicago",
     "start": "2026-10-25T16:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/roys-world-barry-giffords-chicago/",
+    "url": "https://hollywoodtheatre.org/event/roys-world-barry-giffords-chicago-2026-10-25-400pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/ROYS-WORLD-still-2.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt7934860/",
     "rating": 7.9
@@ -7716,7 +7689,7 @@
     "title": "WILDWOOD in 35mm",
     "start": "2026-10-25T18:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-in-35mm-2026-10-25-630pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -7779,7 +7752,7 @@
     "title": "WILDWOOD (Digital)",
     "start": "2026-10-25T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-digital/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-25-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -7887,7 +7860,7 @@
     "title": "WILDWOOD in 35mm",
     "start": "2026-10-26T15:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-in-35mm-2026-10-26-300pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -7977,7 +7950,7 @@
     "title": "WILDWOOD (Digital)",
     "start": "2026-10-26T18:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-digital/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-26-600pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -8022,7 +7995,7 @@
     "title": "RRR",
     "start": "2026-10-26T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/rrr/",
+    "url": "https://hollywoodtheatre.org/event/rrr-2026-10-26-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/RRR-1.jpg?fit=540%2C281&ssl=1",
     "imdb": "https://www.imdb.com/title/tt8178634/",
     "rating": 7.8
@@ -8247,7 +8220,7 @@
     "title": "WILDWOOD (Digital)",
     "start": "2026-10-27T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-digital/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-27-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -8310,7 +8283,7 @@
     "title": "MARK OF THE DEVIL",
     "start": "2026-10-27T19:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/mark-of-the-devil/",
+    "url": "https://hollywoodtheatre.org/event/mark-of-the-devil-2026-10-27-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/mark-of-devil1.jpg?fit=540%2C323&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0065491/",
     "rating": 6.1
@@ -8454,7 +8427,7 @@
     "title": "WILDWOOD (Digital)",
     "start": "2026-10-28T18:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-digital/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-28-600pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -8508,7 +8481,7 @@
     "title": "DAWN OF THE DEAD (2004) in 35mm",
     "start": "2026-10-28T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/dawn-of-the-dead-2004-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/dawn-of-the-dead-2004-in-35mm-2026-10-28-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/IMG_2526.jpg?fit=540%2C304&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0363547/",
     "rating": 7.2
@@ -8733,7 +8706,7 @@
     "title": "WILDWOOD (Digital)",
     "start": "2026-10-29T19:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-digital/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-29-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -8769,7 +8742,7 @@
     "title": "ALL THE COLORS OF THE DARK",
     "start": "2026-10-29T19:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/all-the-colors-of-the-dark/",
+    "url": "https://hollywoodtheatre.org/event/all-the-colors-of-the-dark-2026-10-29-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/all-colors-of-dark1.jpg?fit=540%2C230&ssl=1",
     "imdb": "https://www.imdb.com/title/tt39302087/",
     "rating": null
@@ -8832,7 +8805,7 @@
     "title": "WILDWOOD in 35mm",
     "start": "2026-10-30T15:15:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wildwood-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/wildwood-in-35mm-2026-10-30-300pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": null
@@ -8922,7 +8895,7 @@
     "title": "REC",
     "start": "2026-10-30T19:30:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/rec/",
+    "url": "https://hollywoodtheatre.org/event/rec-2026-10-30-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/REC.jpg?fit=540%2C291&ssl=1",
     "imdb": "https://www.imdb.com/title/tt1038988/",
     "rating": 7.4
@@ -8940,7 +8913,7 @@
     "title": "RE-ANIMATOR at Ross Hollywood Chapel Funeral Home",
     "start": "2026-10-30T20:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/re-animator-at-ross-hollywood-chapel-funeral-home/",
+    "url": "https://hollywoodtheatre.org/event/re-animator-at-ross-hollywood-chapel-funeral-home-2026-10-30-800pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/RE-ANIMATOR.jpg?fit=540%2C304&ssl=1",
     "imdb": null,
     "rating": null
@@ -9084,7 +9057,7 @@
     "title": "HALLOWEEN WITH CHUCKY & DON MANCINI",
     "start": "2026-10-31T18:00:00-07:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/halloween-with-chucky-don-mancini/",
+    "url": "https://hollywoodtheatre.org/event/halloween-with-chucky-don-mancini-2026-10-31-600pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/Childs-Play-T_Design_social_rectangle.png?fit=540%2C307&ssl=1",
     "imdb": null,
     "rating": null
@@ -9210,7 +9183,7 @@
     "title": "CRONOS",
     "start": "2026-11-01T15:00:00-08:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/cronos/",
+    "url": "https://hollywoodtheatre.org/event/cronos-2026-11-01-300pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/27534id_323_0002_27534id_395_w1600.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0104029/",
     "rating": 6.7
@@ -9255,7 +9228,7 @@
     "title": "INTERSPECIES COMMUNICATION with Jim Nollman and Rankin Renwick",
     "start": "2026-11-01T19:00:00-08:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/interspecies-communication-with-jim-nollman-and-rankin-renwick/",
+    "url": "https://hollywoodtheatre.org/event/interspecies-communication-with-jim-nollman-and-rankin-renwick-2026-11-01-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/interspecies-communication.jpg?fit=540%2C303&ssl=1",
     "imdb": null,
     "rating": null
@@ -9363,7 +9336,7 @@
     "title": "GORGO",
     "start": "2026-11-02T19:30:00-08:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/gorgo/",
+    "url": "https://hollywoodtheatre.org/event/gorgo-2026-11-02-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/Gorgo11.jpg?fit=750%2C450&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0054938/",
     "rating": 5.6
@@ -9489,7 +9462,7 @@
     "title": "MYSTICS OF BALI",
     "start": "2026-11-04T19:00:00-08:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/mystics-of-bali/",
+    "url": "https://hollywoodtheatre.org/event/mystics-of-bali-2026-11-04-700pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/mysticsofbali.jpg?fit=540%2C303&ssl=1",
     "imdb": null,
     "rating": null
@@ -9516,7 +9489,7 @@
     "title": "A WOLF AMONG SWANS (Um lobo entre os cisnes)",
     "start": "2026-11-04T19:30:00-08:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/a-wolf-among-swans-um-lobo-entre-os-cisnes/",
+    "url": "https://hollywoodtheatre.org/event/a-wolf-among-swans-um-lobo-entre-os-cisnes-2026-11-04-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/A-Wolf-Among-Swans_Still-02.jpg?fit=540%2C226&ssl=1",
     "imdb": null,
     "rating": null
@@ -9597,7 +9570,7 @@
     "title": "Author Talk with Jane Schoenbrun + I SAW THE TV GLOW",
     "start": "2026-11-05T19:30:00-08:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/author-talk-with-jane-schoenbrun-i-saw-the-tv-glow/",
+    "url": "https://hollywoodtheatre.org/event/author-talk-with-jane-schoenbrun-i-saw-the-tv-glow-2026-11-05-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/jane.png?fit=540%2C284&ssl=1",
     "imdb": null,
     "rating": null
@@ -9795,7 +9768,7 @@
     "title": "LA BOLA NEGRA in 35mm",
     "start": "2026-11-07T14:00:00-08:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/la-bola-negra-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-in-35mm-2026-11-07-200pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt35511966/",
     "rating": 8.1
@@ -9840,7 +9813,7 @@
     "title": "LA BOLA NEGRA in 35mm",
     "start": "2026-11-07T18:00:00-08:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/la-bola-negra-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-in-35mm-2026-11-07-600pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt35511966/",
     "rating": 8.1
@@ -9894,7 +9867,7 @@
     "title": "LA BOLA NEGRA in 35mm",
     "start": "2026-11-07T21:30:00-08:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/la-bola-negra-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-in-35mm-2026-11-07-930pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt35511966/",
     "rating": 8.1
@@ -10017,6 +9990,15 @@
     "rating": 8.1
   },
   {
+    "title": "A Proclamation for Peace: Film preview and celebration",
+    "start": "2026-11-08T19:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/a-proclamation-for-peace/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/10/A-Proclamation-for-Peace-scaled.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "La Bola Negra",
     "start": "2026-11-08T18:15:00-08:00",
     "theater": "Living Room Theaters",
@@ -10065,7 +10047,7 @@
     "title": "TENEBRE with Claudio Simonetti\u2019s GOBLIN",
     "start": "2026-11-08T20:00:00-08:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/tenebre-with-claudio-simonettis-goblin/",
+    "url": "https://hollywoodtheatre.org/event/tenebre-with-claudio-simonettis-goblin-2026-11-08-800pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/Tenebre_FB.jpg?fit=540%2C282&ssl=1",
     "imdb": null,
     "rating": null
@@ -10110,7 +10092,7 @@
     "title": "LA BOLA NEGRA in 35mm",
     "start": "2026-11-09T18:00:00-08:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/la-bola-negra-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-in-35mm-2026-11-09-600pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt35511966/",
     "rating": 8.1
@@ -10146,7 +10128,7 @@
     "title": "MISSISSIPPI TRIANGLE",
     "start": "2026-11-09T19:30:00-08:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/mississippi-triangle/",
+    "url": "https://hollywoodtheatre.org/event/mississippi-triangle-2026-11-09-730pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/mississippi-triangle.jpg?fit=540%2C305&ssl=1",
     "imdb": "https://www.imdb.com/title/tt0460508/",
     "rating": 7.0
@@ -10164,7 +10146,7 @@
     "title": "LA BOLA NEGRA in 35mm",
     "start": "2026-11-09T21:30:00-08:00",
     "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/la-bola-negra-in-35mm/",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-in-35mm-2026-11-09-930pm/",
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt35511966/",
     "rating": 8.1
@@ -10217,6 +10199,87 @@
   {
     "title": "GODZILLA MINUS ZERO",
     "start": "2026-11-10T21:45:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34384661/",
+    "rating": 8.4
+  },
+  {
+    "title": "GODZILLA MINUS ZERO",
+    "start": "2026-11-11T15:05:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34384661/",
+    "rating": 8.4
+  },
+  {
+    "title": "LA BOLA NEGRA (Digital)",
+    "start": "2026-11-11T18:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/la-bola-negra-digital/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra11.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
+    "rating": 8.1
+  },
+  {
+    "title": "GODZILLA MINUS ZERO",
+    "start": "2026-11-11T18:30:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34384661/",
+    "rating": 8.4
+  },
+  {
+    "title": "Bullet in the Head",
+    "start": "2026-11-11T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/bullet-in-the-head",
+    "poster": "https://indy-systems.imgix.net/p20wukwrmyru4fzxfbl3y4kpcm7e?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0099426/",
+    "rating": 7.5
+  },
+  {
+    "title": "SCIENCE ON TAP-ARCHAEOLOGY OF ICE AGE OREGON",
+    "start": "2026-11-11T19:00:00-08:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/science-on-tap-archaeology-of-ice-age-oregon",
+    "poster": "https://indy-systems.imgix.net/y4kk4rqa3m5tkytrh3x84geeqk9t?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "A Queer Guide to Saving American Democracy: Book Release + Queen of New York w/ Marti Cummings",
+    "start": "2026-11-11T19:00:00-08:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/queen-of-new-york-w-marti-cummings-a-queer-guide-to-saving-democracy-book-release/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/20134016/hu2fUz9XyYzzkccLmtclDGDBwjf-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt15346940/",
+    "rating": 7.4
+  },
+  {
+    "title": "YOU BROKE MY HEART (Me rompiste el coraz\u00f3n)",
+    "start": "2026-11-11T19:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/you-broke-my-heart-me-rompiste-el-corazon/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/IMG_3992.jpg?fit=540%2C192&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "LA BOLA NEGRA (Digital)",
+    "start": "2026-11-11T21:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/la-bola-negra-digital/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra11.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
+    "rating": 8.1
+  },
+  {
+    "title": "GODZILLA MINUS ZERO",
+    "start": "2026-11-11T21:45:00-08:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",

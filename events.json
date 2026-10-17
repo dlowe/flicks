@@ -1,41 +1,5 @@
 [
   {
-    "title": "Rosemary's Baby (1968)",
-    "start": "2026-10-17T11:00:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/rosemarys-baby-1968",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_089d2a3f-3c2e-4ed4-a252-94c295d97964.jpg",
-    "imdb": "https://www.imdb.com/title/tt0063522/",
-    "rating": 8.0
-  },
-  {
-    "title": "SENSE AND SENSIBILITY",
-    "start": "2026-10-17T11:20:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/235E7472E29D1D474ED39564C5F61B4DA11E52DD714DCDC73A244D602ECE2A12_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt13609648/",
-    "rating": 7.3
-  },
-  {
-    "title": "Naza",
-    "start": "2026-10-17T11:30:00-07:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/naza",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_28473046-b69c-4f91-b0e2-3f7f979fdc82.jpg",
-    "imdb": "https://www.imdb.com/title/tt44766123/",
-    "rating": 8.1
-  },
-  {
-    "title": "OTHER MOMMY",
-    "start": "2026-10-17T11:35:00-07:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt36586020/",
-    "rating": 5.4
-  },
-  {
     "title": "In Spite of Ourselves",
     "start": "2026-10-17T11:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -59,6 +23,15 @@
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-17T12:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
     "rating": 9.3
   },
@@ -126,6 +99,15 @@
     "rating": 7.1
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-17T12:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
     "title": "WHALEFALL",
     "start": "2026-10-17T12:40:00-07:00",
     "theater": "Studio One",
@@ -144,6 +126,15 @@
     "rating": 7.5
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-17T12:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": 5.4
+  },
+  {
     "title": "CORPSE BRIDE (2005)",
     "start": "2026-10-17T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -151,6 +142,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/1E23972A53E21C3E2B670B3285E45751DC6731433328238856AF52399E5D02A5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0121164/",
     "rating": 7.4
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-17T13:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "Digger",
@@ -207,6 +207,15 @@
     "rating": 5.1
   },
   {
+    "title": "MISTY GREEN",
+    "start": "2026-10-17T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-17-200pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt34385184/",
+    "rating": 5.9
+  },
+  {
     "title": "RACE FOR YOUR LIFE, CHARLIE BROWN",
     "start": "2026-10-17T14:00:00-07:00",
     "theater": "Moreland Theater",
@@ -252,6 +261,15 @@
     "rating": 5.4
   },
   {
+    "title": "Tenzing",
+    "start": "2026-10-17T14:20:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/tenzing",
+    "poster": "https://indy-systems.imgix.net/vxwlp25u9ubf3c4x2pqhskm2kkuw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt6262770/",
+    "rating": 7.5
+  },
+  {
     "title": "SOCIAL RECKONING",
     "start": "2026-10-17T14:20:00-07:00",
     "theater": "Studio One",
@@ -268,6 +286,15 @@
     "poster": "https://indy-systems.imgix.net/fv6gn0a4mna7z2px1mu3h9v19j04?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "FRANKENWEENIE",
+    "start": "2026-10-17T14:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/frankenweenie-2026-10-17-230pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/FRANKENWEENIE-PROMO.jpg?fit=540%2C291&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt1142977/",
+    "rating": 6.9
   },
   {
     "title": "SENSE AND SENSIBILITY",
@@ -306,6 +333,15 @@
     "rating": null
   },
   {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-17T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-17-300pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
+  },
+  {
     "title": "DR. STRANGELOVE",
     "start": "2026-10-17T15:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -313,6 +349,15 @@
     "poster": "https://indy-systems.imgix.net/gxsuivejxwkk42sxtpaw0gextgfn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8207486/",
     "rating": 8.2
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-17T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "VERITY",
@@ -340,6 +385,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
     "rating": 9.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-17T15:40:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "PRIMETIME",
@@ -376,6 +430,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2f6a1d99-8241-47b5-a37d-b4f027594c0c.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-17T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "Knife: The Attempted Murder of Salman Rushdie",
@@ -432,6 +495,15 @@
     "rating": 6.2
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-17T16:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": 5.4
+  },
+  {
     "title": "Your Mother Your Mother Your Mother",
     "start": "2026-10-17T16:30:00-07:00",
     "theater": "St. Johns Cinema",
@@ -448,6 +520,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt36586020/",
     "rating": 5.4
+  },
+  {
+    "title": "Trick 'r Treat",
+    "start": "2026-10-17T17:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/trick-r-treat",
+    "poster": "https://indy-systems.imgix.net/8smvyainrr5ztq961upd1n89k8wx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0862856/",
+    "rating": 6.7
   },
   {
     "title": "Hanging by a Wire",
@@ -531,6 +612,15 @@
     "rating": 6.1
   },
   {
+    "title": "MISTY GREEN",
+    "start": "2026-10-17T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-17-600pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt34385184/",
+    "rating": 5.9
+  },
+  {
     "title": "AMERICAN POP",
     "start": "2026-10-17T18:00:00-07:00",
     "theater": "Moreland Theater",
@@ -549,6 +639,15 @@
     "rating": 7.3
   },
   {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-17T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
     "title": "Colors of Time",
     "start": "2026-10-17T18:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -565,6 +664,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
     "rating": 9.3
+  },
+  {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-17T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-17-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
   },
   {
     "title": "Digger",
@@ -594,6 +702,15 @@
     "rating": 7.6
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-17T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
     "title": "In Spite of Ourselves",
     "start": "2026-10-17T18:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -621,6 +738,15 @@
     "rating": null
   },
   {
+    "title": "Hereditary",
+    "start": "2026-10-17T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/hereditary",
+    "poster": "https://indy-systems.imgix.net/qt1dy2gc7jr3tc1nix3kbj3d4345?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt7784604/",
+    "rating": 7.3
+  },
+  {
     "title": "The Lighthouse",
     "start": "2026-10-17T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -628,6 +754,33 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/06/thelighthouse.jpg",
     "imdb": "https://www.imdb.com/title/tt7984734/",
     "rating": 7.3
+  },
+  {
+    "title": "IN THE MOUTH OF MOVIE MADNESS",
+    "start": "2026-10-17T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/in-the-mouth-of-movie-madness/",
+    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/10/Mouth-of-Madness-316_9.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "BEGOTTEN",
+    "start": "2026-10-17T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/begotten-2026-10-17-700pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/Screenshot-2026-09-22-125829.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0101420/",
+    "rating": 5.5
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-17T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "Sense And Sensibility",
@@ -702,6 +855,15 @@
     "rating": 8.2
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-17T19:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": 5.4
+  },
+  {
     "title": "Other Mommy",
     "start": "2026-10-17T19:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -747,6 +909,15 @@
     "rating": 6.1
   },
   {
+    "title": "BEGOTTEN",
+    "start": "2026-10-17T21:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/begotten-2026-10-17-900pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/Screenshot-2026-09-22-125829.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0101420/",
+    "rating": 5.5
+  },
+  {
     "title": "The Incomer",
     "start": "2026-10-17T21:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -754,6 +925,15 @@
     "poster": "https://indy-systems.imgix.net/3iav94kngerzhrhbviqyj4aw1mtj?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36980182/",
     "rating": 7.3
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-17T21:10:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "In Spite of Ourselves",
@@ -801,6 +981,15 @@
     "rating": 7.5
   },
   {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-17T21:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-17-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
+  },
+  {
     "title": "Practical Magic 2",
     "start": "2026-10-17T21:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -817,6 +1006,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
     "rating": 7.6
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-17T21:40:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": 5.4
   },
   {
     "title": "PRIMETIME",
@@ -837,6 +1035,15 @@
     "rating": null
   },
   {
+    "title": "Halloween",
+    "start": "2026-10-17T21:45:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/halloween",
+    "poster": "https://indy-systems.imgix.net/6ty521jfo9gdm1wfcd90ad1sxn61?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0077651/",
+    "rating": 7.7
+  },
+  {
     "title": "Sense And Sensibility",
     "start": "2026-10-17T21:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -844,6 +1051,15 @@
     "poster": "https://indy-systems.imgix.net/ukeodl5cg5fgd0rsreepm3kc7259?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt13609648/",
     "rating": 7.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-17T21:50:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "OTHER MOMMY",
@@ -1017,6 +1233,15 @@
     "rating": null
   },
   {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-18T12:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
     "title": "Sense And Sensibility",
     "start": "2026-10-18T12:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -1062,10 +1287,28 @@
     "rating": 6.1
   },
   {
+    "title": "Tenzing",
+    "start": "2026-10-18T12:20:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/tenzing",
+    "poster": "https://indy-systems.imgix.net/vxwlp25u9ubf3c4x2pqhskm2kkuw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt6262770/",
+    "rating": 7.5
+  },
+  {
     "title": "PRIMETIME",
     "start": "2026-10-18T12:30:00-07:00",
     "theater": "Academy Theater",
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-18T12:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt34206385/",
     "rating": 7.1
@@ -1089,6 +1332,15 @@
     "rating": 8.1
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-18T12:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": 5.4
+  },
+  {
     "title": "CORPSE BRIDE (2005)",
     "start": "2026-10-18T13:00:00-07:00",
     "theater": "Academy Theater",
@@ -1105,6 +1357,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2f6a1d99-8241-47b5-a37d-b4f027594c0c.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-18T13:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "Digger",
@@ -1168,6 +1429,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
     "rating": 9.3
+  },
+  {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-18T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-18-200pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-10-18T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "OUR MR. MATSURA",
@@ -1242,6 +1521,15 @@
     "rating": 6.7
   },
   {
+    "title": "FRANKENWEENIE",
+    "start": "2026-10-18T14:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/frankenweenie-2026-10-18-230pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/FRANKENWEENIE-PROMO.jpg?fit=540%2C291&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt1142977/",
+    "rating": 6.9
+  },
+  {
     "title": "Naza",
     "start": "2026-10-18T14:45:00-07:00",
     "theater": "Cinema 21",
@@ -1269,6 +1557,15 @@
     "rating": 7.3
   },
   {
+    "title": "Dracula",
+    "start": "2026-10-18T15:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/dracula",
+    "poster": "https://indy-systems.imgix.net/qkcq639i701se577si3ay22cfcfd?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt31434030/",
+    "rating": 6.2
+  },
+  {
     "title": "The Cuckoo Clock",
     "start": "2026-10-18T15:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -1276,6 +1573,24 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/08/CUCKOO_CLOCK_POSTER_2x3-scaled.jpg",
     "imdb": "https://www.imdb.com/title/tt38777662/",
     "rating": null
+  },
+  {
+    "title": "HELLO FRIDA! (\u00a1Hola Frida!)",
+    "start": "2026-10-18T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/hello-frida-hola-frida-2026-10-18-300pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/HolaFrida_Still1-1920x1080-1.jpg?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-18T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "VERITY",
@@ -1294,6 +1609,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/065496F2BFB48CEF8FE7A6B9FAD9212777EF85E192AEF3302DE7CDC729444647_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt27419420/",
     "rating": 6.2
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-18T15:40:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "Digger",
@@ -1321,6 +1645,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2f6a1d99-8241-47b5-a37d-b4f027594c0c.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-18T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "The Incomer",
@@ -1386,6 +1719,15 @@
     "rating": 6.6
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-18T16:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": 5.4
+  },
+  {
     "title": "Your Mother Your Mother Your Mother",
     "start": "2026-10-18T16:30:00-07:00",
     "theater": "St. Johns Cinema",
@@ -1411,6 +1753,15 @@
     "poster": "https://indy-systems.imgix.net/gxsuivejxwkk42sxtpaw0gextgfn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8207486/",
     "rating": 8.2
+  },
+  {
+    "title": "Trick 'r Treat",
+    "start": "2026-10-18T17:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/trick-r-treat",
+    "poster": "https://indy-systems.imgix.net/8smvyainrr5ztq961upd1n89k8wx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0862856/",
+    "rating": 6.7
   },
   {
     "title": "Hanging by a Wire",
@@ -1485,6 +1836,15 @@
     "rating": 9.3
   },
   {
+    "title": "MISTY GREEN",
+    "start": "2026-10-18T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-18-600pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt34385184/",
+    "rating": 5.9
+  },
+  {
     "title": "HEAVY METAL",
     "start": "2026-10-18T18:00:00-07:00",
     "theater": "Moreland Theater",
@@ -1501,6 +1861,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/235E7472E29D1D474ED39564C5F61B4DA11E52DD714DCDC73A244D602ECE2A12_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt13609648/",
     "rating": 7.3
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-18T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "Colors of Time",
@@ -1521,6 +1890,15 @@
     "rating": 6.2
   },
   {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-18T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-18-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
+  },
+  {
     "title": "Digger",
     "start": "2026-10-18T18:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -1528,6 +1906,15 @@
     "poster": "https://indy-systems.imgix.net/xvq2enwd8cvah9jqoxt7i8gf6vb6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt31450459/",
     "rating": 7.5
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-18T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "In Spite of Ourselves",
@@ -1566,6 +1953,15 @@
     "rating": null
   },
   {
+    "title": "Ghost in the Cell",
+    "start": "2026-10-18T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/ghost-in-the-cell",
+    "poster": "https://indy-systems.imgix.net/4ge86ngwfq6yablh8e6upcrfc8il?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt9000310/",
+    "rating": 6.6
+  },
+  {
     "title": "The Texas Chain Saw Massacre (1974)",
     "start": "2026-10-18T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -1573,6 +1969,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/06/The-Texas-Chainsaw-Massacre-by-cineaste-designs_low.jpg",
     "imdb": "https://www.imdb.com/title/tt0072271/",
     "rating": 7.4
+  },
+  {
+    "title": "THE BROOD",
+    "start": "2026-10-18T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-brood-2026-10-18-700pm/",
+    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2025/11/The-Brood.jpg",
+    "imdb": "https://www.imdb.com/title/tt0078908/",
+    "rating": 6.8
   },
   {
     "title": "IN THE MOUTH OF MADNESS",
@@ -1584,6 +1989,15 @@
     "rating": 7.1
   },
   {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-18T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
     "title": "Sense And Sensibility",
     "start": "2026-10-18T19:00:00-07:00",
     "theater": "Living Room Theaters",
@@ -1591,6 +2005,15 @@
     "poster": "https://indy-systems.imgix.net/ukeodl5cg5fgd0rsreepm3kc7259?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt13609648/",
     "rating": 7.3
+  },
+  {
+    "title": "The Craft",
+    "start": "2026-10-18T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/the-craft-2/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/08172423/8bW2RdRkloYtEPhbQZN4wcdmJP4-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0115963/",
+    "rating": 6.5
   },
   {
     "title": "PRIMETIME",
@@ -1636,6 +2059,15 @@
     "poster": null,
     "imdb": "https://www.imdb.com/title/tt0013257/",
     "rating": 7.6
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-18T19:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": 5.4
   },
   {
     "title": "Other Mommy",
@@ -1701,6 +2133,15 @@
     "rating": 9.3
   },
   {
+    "title": "Ghost in the Cell",
+    "start": "2026-10-18T21:20:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/ghost-in-the-cell",
+    "poster": "https://indy-systems.imgix.net/4ge86ngwfq6yablh8e6upcrfc8il?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt9000310/",
+    "rating": 6.6
+  },
+  {
     "title": "SENSE AND SENSIBILITY",
     "start": "2026-10-18T21:20:00-07:00",
     "theater": "Studio One",
@@ -1708,6 +2149,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/235E7472E29D1D474ED39564C5F61B4DA11E52DD714DCDC73A244D602ECE2A12_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt13609648/",
     "rating": 7.3
+  },
+  {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-18T21:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-18-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
   },
   {
     "title": "WHALEFALL",
@@ -1845,6 +2295,15 @@
     "rating": null
   },
   {
+    "title": "Tenzing",
+    "start": "2026-10-19T14:30:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/tenzing",
+    "poster": "https://indy-systems.imgix.net/vxwlp25u9ubf3c4x2pqhskm2kkuw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt6262770/",
+    "rating": 7.5
+  },
+  {
     "title": "Naza",
     "start": "2026-10-19T14:45:00-07:00",
     "theater": "Cinema 21",
@@ -1873,6 +2332,15 @@
   },
   {
     "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-19T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
     "start": "2026-10-19T15:15:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
@@ -1888,6 +2356,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/065496F2BFB48CEF8FE7A6B9FAD9212777EF85E192AEF3302DE7CDC729444647_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt27419420/",
     "rating": 6.2
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-19T15:40:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "Digger",
@@ -1915,6 +2392,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2f6a1d99-8241-47b5-a37d-b4f027594c0c.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-19T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "The Incomer",
@@ -1980,6 +2466,15 @@
     "rating": 6.6
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-19T16:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": 5.4
+  },
+  {
     "title": "Your Mother Your Mother Your Mother",
     "start": "2026-10-19T16:30:00-07:00",
     "theater": "St. Johns Cinema",
@@ -2034,6 +2529,15 @@
     "rating": 5.4
   },
   {
+    "title": "Dracula",
+    "start": "2026-10-19T17:10:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/dracula",
+    "poster": "https://indy-systems.imgix.net/qkcq639i701se577si3ay22cfcfd?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt31434030/",
+    "rating": 6.2
+  },
+  {
     "title": "IN THE MOUTH OF MADNESS",
     "start": "2026-10-19T17:15:00-07:00",
     "theater": "Kiggins Theatre",
@@ -2061,11 +2565,29 @@
     "rating": 6.1
   },
   {
+    "title": "Vinegar Syndrome Presents \u2013 WINTERBEAST",
+    "start": "2026-10-19T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/vinegar-syndrome-presents-winterbeast/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxODUzNzY4OF5BMl5BanBnXkFtZTcwMjg0MDU1MQ@@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0103270/",
+    "rating": 4.5
+  },
+  {
     "title": "YOU CAN SEE EVERYTHING",
     "start": "2026-10-19T18:05:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-19T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
     "rating": 9.3
   },
@@ -2077,6 +2599,15 @@
     "poster": "https://indy-systems.imgix.net/fv6gn0a4mna7z2px1mu3h9v19j04?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-19T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-19-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
   },
   {
     "title": "Digger",
@@ -2104,6 +2635,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
     "rating": 9.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-19T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "In Spite of Ourselves",
@@ -2142,6 +2682,15 @@
     "rating": null
   },
   {
+    "title": "Halloween",
+    "start": "2026-10-19T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/halloween",
+    "poster": "https://indy-systems.imgix.net/6ty521jfo9gdm1wfcd90ad1sxn61?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0077651/",
+    "rating": 7.7
+  },
+  {
     "title": "In My Skin",
     "start": "2026-10-19T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -2149,6 +2698,33 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/06/In_My_Skin_Poster.png",
     "imdb": "https://www.imdb.com/title/tt0337961/",
     "rating": 6.2
+  },
+  {
+    "title": "MISTY GREEN",
+    "start": "2026-10-19T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-19-700pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt34385184/",
+    "rating": 5.9
+  },
+  {
+    "title": "MMU@PSU | What is Fassbinder?",
+    "start": "2026-10-19T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/mmupsu-what-is-fassbinder/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/Fassbinder.png?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-19T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "Sense And Sensibility",
@@ -2241,6 +2817,15 @@
     "rating": null
   },
   {
+    "title": "RACE WITH THE DEVIL",
+    "start": "2026-10-19T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/race-with-the-devil-2026-10-19-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/race-with-devil1.jpg?fit=540%2C346&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0073600/",
+    "rating": 6.6
+  },
+  {
     "title": "DR. STRANGELOVE",
     "start": "2026-10-19T19:30:00-07:00",
     "theater": "Kiggins Theatre",
@@ -2248,6 +2833,15 @@
     "poster": "https://indy-systems.imgix.net/gxsuivejxwkk42sxtpaw0gextgfn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt8207486/",
     "rating": 8.2
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-19T19:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": 5.4
   },
   {
     "title": "Other Mommy",
@@ -2268,6 +2862,15 @@
     "rating": 5.4
   },
   {
+    "title": "Vinegar Syndrome Presents \u2013 WINTERBEAST",
+    "start": "2026-10-19T20:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/vinegar-syndrome-presents-winterbeast/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxODUzNzY4OF5BMl5BanBnXkFtZTcwMjg0MDU1MQ@@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0103270/",
+    "rating": 4.5
+  },
+  {
     "title": "SENSE AND SENSIBILITY",
     "start": "2026-10-19T20:30:00-07:00",
     "theater": "Studio One",
@@ -2277,6 +2880,15 @@
     "rating": 7.3
   },
   {
+    "title": "Trick 'r Treat",
+    "start": "2026-10-19T21:10:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/trick-r-treat",
+    "poster": "https://indy-systems.imgix.net/8smvyainrr5ztq961upd1n89k8wx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0862856/",
+    "rating": 6.7
+  },
+  {
     "title": "YOU CAN SEE EVERYTHING",
     "start": "2026-10-19T21:15:00-07:00",
     "theater": "Studio One",
@@ -2284,6 +2896,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
     "rating": 9.3
+  },
+  {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-19T21:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-19-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
   },
   {
     "title": "WHALEFALL",
@@ -2421,6 +3042,15 @@
     "rating": 5.1
   },
   {
+    "title": "Tenzing",
+    "start": "2026-10-20T14:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/tenzing",
+    "poster": "https://indy-systems.imgix.net/vxwlp25u9ubf3c4x2pqhskm2kkuw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt6262770/",
+    "rating": 7.5
+  },
+  {
     "title": "Other Mommy",
     "start": "2026-10-20T14:10:00-07:00",
     "theater": "Living Room Theaters",
@@ -2453,6 +3083,15 @@
     "theater": "Cinema 21",
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-20T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
     "rating": 9.3
   },
@@ -2493,6 +3132,15 @@
     "rating": 6.2
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-20T15:40:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
     "title": "Digger",
     "start": "2026-10-20T15:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -2518,6 +3166,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2f6a1d99-8241-47b5-a37d-b4f027594c0c.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-20T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "The Incomer",
@@ -2574,6 +3231,15 @@
     "rating": 7.4
   },
   {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-20T16:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": 5.4
+  },
+  {
     "title": "Your Mother Your Mother Your Mother",
     "start": "2026-10-20T16:30:00-07:00",
     "theater": "St. Johns Cinema",
@@ -2581,6 +3247,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001647&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt35856037/",
     "rating": 7.5
+  },
+  {
+    "title": "Ghost in the Cell",
+    "start": "2026-10-20T16:40:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/ghost-in-the-cell",
+    "poster": "https://indy-systems.imgix.net/4ge86ngwfq6yablh8e6upcrfc8il?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt9000310/",
+    "rating": 6.6
   },
   {
     "title": "Hanging by a Wire",
@@ -2664,6 +3339,15 @@
     "rating": 9.3
   },
   {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-20T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
     "title": "Colors of Time",
     "start": "2026-10-20T18:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -2682,6 +3366,15 @@
     "rating": 6.8
   },
   {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-20T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-20-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
+  },
+  {
     "title": "Digger",
     "start": "2026-10-20T18:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -2698,6 +3391,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
     "rating": 9.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-20T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "In Spite of Ourselves",
@@ -2736,6 +3438,15 @@
     "rating": null
   },
   {
+    "title": "Trick 'r Treat",
+    "start": "2026-10-20T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/trick-r-treat",
+    "poster": "https://indy-systems.imgix.net/8smvyainrr5ztq961upd1n89k8wx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0862856/",
+    "rating": 6.7
+  },
+  {
     "title": "The Living Dead Girl",
     "start": "2026-10-20T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -2745,6 +3456,15 @@
     "rating": 5.8
   },
   {
+    "title": "ACE IN THE HOLE in 35mm",
+    "start": "2026-10-20T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/ace-in-the-hole-in-35mm-2026-10-20-700pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/ACE-IN-THE-HOLE-in-35mm_10202026.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0043338/",
+    "rating": 8.0
+  },
+  {
     "title": "SCIENCE ON TAP-YOUR SECURITY IS IMPORTANT",
     "start": "2026-10-20T19:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -2752,6 +3472,15 @@
     "poster": "https://indy-systems.imgix.net/iweyyqgfnj57ize89upa6pgf16kt?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-20T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "Sense And Sensibility",
@@ -2826,6 +3555,24 @@
     "rating": 6.6
   },
   {
+    "title": "HAUNTED FILMS FROM THE DEAD in 16mm",
+    "start": "2026-10-20T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/haunted-films-from-the-dead-in-16mm-2026-10-20-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/Haunted-Films1.jpg?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "OTHER MOMMY",
+    "start": "2026-10-20T19:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/3BB368E9AFDC5C57E20EB8F177E4B71FCE6A279DB38C4FD9712E44C4EDF9C06E_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": 5.4
+  },
+  {
     "title": "Other Mommy",
     "start": "2026-10-20T19:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -2880,6 +3627,15 @@
     "rating": 6.1
   },
   {
+    "title": "Hereditary",
+    "start": "2026-10-20T21:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/hereditary",
+    "poster": "https://indy-systems.imgix.net/qt1dy2gc7jr3tc1nix3kbj3d4345?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt7784604/",
+    "rating": 7.3
+  },
+  {
     "title": "HEAVY METAL",
     "start": "2026-10-20T21:00:00-07:00",
     "theater": "Moreland Theater",
@@ -2898,6 +3654,15 @@
     "rating": 9.3
   },
   {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-20T21:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-20-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
+  },
+  {
     "title": "OTHER MOMMY",
     "start": "2026-10-20T21:35:00-07:00",
     "theater": "Studio One",
@@ -2905,6 +3670,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/26956AB6B89D23053B5842423D25EA63601275E0316E66D29DBCFA107FA637CB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt36586020/",
     "rating": 5.4
+  },
+  {
+    "title": "MISTY GREEN",
+    "start": "2026-10-20T21:40:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-20-940pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt34385184/",
+    "rating": 5.9
   },
   {
     "title": "STREET FIGHTER",
@@ -3024,6 +3798,15 @@
     "rating": 5.1
   },
   {
+    "title": "Tenzing",
+    "start": "2026-10-21T14:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/tenzing",
+    "poster": "https://indy-systems.imgix.net/vxwlp25u9ubf3c4x2pqhskm2kkuw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt6262770/",
+    "rating": 7.5
+  },
+  {
     "title": "Other Mommy",
     "start": "2026-10-21T14:10:00-07:00",
     "theater": "Living Room Theaters",
@@ -3060,6 +3843,15 @@
     "rating": 9.3
   },
   {
+    "title": "YOU CAN SEE EVERYTHING (OPEN CAPTION)",
+    "start": "2026-10-21T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDUwOWFlMWMtZjFkOC00YmE2LWI2MmUtNGFiMGE2MGUzZmNlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
     "title": "STREET FIGHTER",
     "start": "2026-10-21T15:15:00-07:00",
     "theater": "Studio One",
@@ -3076,6 +3868,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
     "rating": 7.6
+  },
+  {
+    "title": "PRIMETIME (OPEN CAPTION)",
+    "start": "2026-10-21T15:40:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyZGI2NWQtOTU3NS00NTEyLTliNDItNTQyNmFkMGZmZGQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "Digger",
@@ -3103,6 +3904,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2f6a1d99-8241-47b5-a37d-b4f027594c0c.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING (OPEN CAPTION)",
+    "start": "2026-10-21T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDUwOWFlMWMtZjFkOC00YmE2LWI2MmUtNGFiMGE2MGUzZmNlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "The Incomer",
@@ -3168,6 +3978,15 @@
     "rating": 7.6
   },
   {
+    "title": "OTHER MOMMY (OPEN CAPTION)",
+    "start": "2026-10-21T16:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGUyODYyYTctMmY0Mi00ZWIwLThjYWItZDJmODY4NGU1YjY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": 5.4
+  },
+  {
     "title": "Your Mother Your Mother Your Mother",
     "start": "2026-10-21T16:30:00-07:00",
     "theater": "St. Johns Cinema",
@@ -3175,6 +3994,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001647&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt35856037/",
     "rating": 7.5
+  },
+  {
+    "title": "Ghost in the Cell",
+    "start": "2026-10-21T16:40:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/ghost-in-the-cell",
+    "poster": "https://indy-systems.imgix.net/4ge86ngwfq6yablh8e6upcrfc8il?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt9000310/",
+    "rating": 6.6
   },
   {
     "title": "Hanging by a Wire",
@@ -3267,6 +4095,15 @@
     "rating": 9.3
   },
   {
+    "title": "YOU CAN SEE EVERYTHING (OPEN CAPTION)",
+    "start": "2026-10-21T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDUwOWFlMWMtZjFkOC00YmE2LWI2MmUtNGFiMGE2MGUzZmNlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
     "title": "STREET FIGHTER",
     "start": "2026-10-21T18:20:00-07:00",
     "theater": "Studio One",
@@ -3274,6 +4111,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/065496F2BFB48CEF8FE7A6B9FAD9212777EF85E192AEF3302DE7CDC729444647_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt27419420/",
     "rating": 6.2
+  },
+  {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-21T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-21-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
   },
   {
     "title": "Knife: The Attempted Murder of Salman Rushdie",
@@ -3312,6 +4158,15 @@
     "rating": 9.3
   },
   {
+    "title": "PRIMETIME (OPEN CAPTION)",
+    "start": "2026-10-21T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyZGI2NWQtOTU3NS00NTEyLTliNDItNTQyNmFkMGZmZGQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
     "title": "In Spite of Ourselves",
     "start": "2026-10-21T18:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -3339,6 +4194,15 @@
     "rating": null
   },
   {
+    "title": "Halloween",
+    "start": "2026-10-21T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/halloween",
+    "poster": "https://indy-systems.imgix.net/6ty521jfo9gdm1wfcd90ad1sxn61?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0077651/",
+    "rating": 7.7
+  },
+  {
     "title": "THE HAUNTED WORLD OF GEORGE MOORSE (Church of Film)",
     "start": "2026-10-21T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -3346,6 +4210,24 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/10/vampira-poster.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "DON\u2019T BE AFRAID OF THE DARK (1973)",
+    "start": "2026-10-21T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/dont-be-afraid-of-the-dark-1973-2026-10-21-700pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/afraid_of_dark.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0069992/",
+    "rating": 6.5
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING (OPEN CAPTION)",
+    "start": "2026-10-21T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDUwOWFlMWMtZjFkOC00YmE2LWI2MmUtNGFiMGE2MGUzZmNlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "Sense And Sensibility",
@@ -3384,6 +4266,15 @@
     "rating": 5.4
   },
   {
+    "title": "In Waves w/ Q&A w/ Director Phuong Mai Nguyen & Author AJ Dungo",
+    "start": "2026-10-21T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/in-waves-w-qa/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/31084326/ry9Kj3maM9WllIe9T6C7EnS5kxI.jpg",
+    "imdb": "https://www.imdb.com/title/tt27672817/",
+    "rating": 7.4
+  },
+  {
     "title": "PRIMETIME",
     "start": "2026-10-21T19:15:00-07:00",
     "theater": "Academy Theater",
@@ -3418,6 +4309,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/1E23972A53E21C3E2B670B3285E45751DC6731433328238856AF52399E5D02A5_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0121164/",
     "rating": 7.4
+  },
+  {
+    "title": "PEOPLE\u2019S CUP (Muchachos: La pel\u00edcula de la gente)",
+    "start": "2026-10-21T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/peoples-cup-muchachos-la-pelicula-de-la-gente-2026-10-21-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/Muchachos_Prensa_01.jpg?fit=540%2C360&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "OTHER MOMMY (OPEN CAPTION)",
+    "start": "2026-10-21T19:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGUyODYyYTctMmY0Mi00ZWIwLThjYWItZDJmODY4NGU1YjY1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt36586020/",
+    "rating": 5.4
   },
   {
     "title": "Other Mommy",
@@ -3474,6 +4383,15 @@
     "rating": 9.3
   },
   {
+    "title": "Hereditary",
+    "start": "2026-10-21T21:10:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/hereditary",
+    "poster": "https://indy-systems.imgix.net/qt1dy2gc7jr3tc1nix3kbj3d4345?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt7784604/",
+    "rating": 7.3
+  },
+  {
     "title": "RESIDENT EVIL",
     "start": "2026-10-21T21:15:00-07:00",
     "theater": "Studio One",
@@ -3490,6 +4408,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/8468A63DD15649FAA7218A4C0C962F4207E2DCFE3DE84204654BC99E1EBBE99D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt28535715/",
     "rating": 6.8
+  },
+  {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-21T21:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-21-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
+  },
+  {
+    "title": "MISTY GREEN",
+    "start": "2026-10-21T21:40:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-21-940pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt34385184/",
+    "rating": 5.9
   },
   {
     "title": "OTHER MOMMY",
@@ -3618,6 +4554,15 @@
     "rating": null
   },
   {
+    "title": "Tenzing",
+    "start": "2026-10-22T14:30:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/tenzing",
+    "poster": "https://indy-systems.imgix.net/vxwlp25u9ubf3c4x2pqhskm2kkuw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt6262770/",
+    "rating": 7.5
+  },
+  {
     "title": "Sense And Sensibility",
     "start": "2026-10-22T14:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -3636,6 +4581,24 @@
     "rating": 9.3
   },
   {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-22T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-22T15:20:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
     "title": "The History of Concrete",
     "start": "2026-10-22T15:30:00-07:00",
     "theater": "Cinema 21",
@@ -3643,6 +4606,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_eaad3bb1-c5f0-45f8-87be-18beb2a752db.jpg",
     "imdb": "https://www.imdb.com/title/tt39150234/",
     "rating": 7.6
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-22T15:40:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "WILDWOOD",
@@ -3679,6 +4651,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_2f6a1d99-8241-47b5-a37d-b4f027594c0c.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "WICKER",
+    "start": "2026-10-22T16:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
   },
   {
     "title": "The Incomer",
@@ -3762,6 +4743,15 @@
     "rating": 7.7
   },
   {
+    "title": "Dracula",
+    "start": "2026-10-22T17:10:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/dracula",
+    "poster": "https://indy-systems.imgix.net/qkcq639i701se577si3ay22cfcfd?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt31434030/",
+    "rating": 6.2
+  },
+  {
     "title": "Other Mommy",
     "start": "2026-10-22T17:25:00-07:00",
     "theater": "Living Room Theaters",
@@ -3787,6 +4777,33 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
     "rating": 9.3
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-22T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-22T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-22-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-22T18:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "Wildwood",
@@ -3825,6 +4842,15 @@
     "rating": 9.3
   },
   {
+    "title": "WILDWOOD",
+    "start": "2026-10-22T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
     "title": "In Spite of Ourselves",
     "start": "2026-10-22T18:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -3852,6 +4878,15 @@
     "rating": null
   },
   {
+    "title": "Hereditary",
+    "start": "2026-10-22T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/hereditary",
+    "poster": "https://indy-systems.imgix.net/qt1dy2gc7jr3tc1nix3kbj3d4345?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt7784604/",
+    "rating": 7.3
+  },
+  {
     "title": "Death Spa",
     "start": "2026-10-22T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -3861,6 +4896,15 @@
     "rating": 5.2
   },
   {
+    "title": "WILDWOOD in 35mm",
+    "start": "2026-10-22T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-in-35mm-2026-10-22-700pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-22T19:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -3868,6 +4912,15 @@
     "poster": "https://indy-systems.imgix.net/wr3degpwddawsagabz5rbnnr224z?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "WICKER",
+    "start": "2026-10-22T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
   },
   {
     "title": "Fjord",
@@ -3942,6 +4995,15 @@
     "rating": 7.4
   },
   {
+    "title": "BRAINIAC in 16mm",
+    "start": "2026-10-22T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/brainiac-in-16mm-2026-10-22-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/BRAINIAC1.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0054668/",
+    "rating": 5.1
+  },
+  {
     "title": "Other Mommy",
     "start": "2026-10-22T19:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -3978,6 +5040,24 @@
     "rating": 7.5
   },
   {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-22T21:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-22-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
+  },
+  {
+    "title": "MISTY GREEN",
+    "start": "2026-10-22T21:40:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/misty-green-2026-10-22-940pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/misty-green1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt34385184/",
+    "rating": 5.9
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-22T21:45:00-07:00",
     "theater": "Academy Theater",
@@ -3985,6 +5065,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "Halloween",
+    "start": "2026-10-22T21:45:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/halloween",
+    "poster": "https://indy-systems.imgix.net/6ty521jfo9gdm1wfcd90ad1sxn61?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0077651/",
+    "rating": 7.7
   },
   {
     "title": "PHANTASM (1979)",
@@ -4059,6 +5148,15 @@
     "rating": 8.9
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-10-23T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-23T14:40:00-07:00",
     "theater": "Studio One",
@@ -4066,6 +5164,33 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "WILDWOOD in 35mm",
+    "start": "2026-10-23T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-in-35mm-2026-10-23-300pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-23T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-23T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "Wildwood",
@@ -4086,6 +5211,15 @@
     "rating": 7.5
   },
   {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-23T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-23T15:45:00-07:00",
     "theater": "Academy Theater",
@@ -4093,6 +5227,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "WICKER",
+    "start": "2026-10-23T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
   },
   {
     "title": "Wildwood",
@@ -4140,6 +5283,15 @@
     "rating": 7.3
   },
   {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-23T18:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-23T18:00:00-07:00",
     "theater": "Studio One",
@@ -4149,6 +5301,15 @@
     "rating": 8.9
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-23T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
     "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER",
     "start": "2026-10-23T18:30:00-07:00",
     "theater": "Academy Theater",
@@ -4156,6 +5317,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C63689BD17873A67F23B37FC0C42823544912560FF5EBC5BB8646F1895E58331_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt35856037/",
     "rating": 7.5
+  },
+  {
+    "title": "THE DEVILS (Digital)",
+    "start": "2026-10-23T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-digital-2026-10-23-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/the-devils-digital1.jpg?fit=600%2C337&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
   },
   {
     "title": "Wildwood",
@@ -4185,6 +5355,15 @@
     "rating": 8.9
   },
   {
+    "title": "WICKER",
+    "start": "2026-10-23T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
+  },
+  {
     "title": "Fjord",
     "start": "2026-10-23T18:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -4212,6 +5391,15 @@
     "rating": null
   },
   {
+    "title": "Re-Animator (35mm)",
+    "start": "2026-10-23T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/re-animator",
+    "poster": "https://indy-systems.imgix.net/xm1b5zt8q8981m2hi5divja85iys?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0089885/",
+    "rating": 7.1
+  },
+  {
     "title": "Frankenhooker",
     "start": "2026-10-23T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -4219,6 +5407,33 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2022/08/frankenhooker.webp",
     "imdb": "https://www.imdb.com/title/tt0099611/",
     "rating": 6.2
+  },
+  {
+    "title": "Hellavision Television \u2013 DANCE EVERYWHERE",
+    "start": "2026-10-23T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/hellavision-television-dance-everywhere/",
+    "poster": null,
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "WILDWOOD in 35mm",
+    "start": "2026-10-23T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-in-35mm-2026-10-23-700pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-23T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
   },
   {
     "title": "Wicker",
@@ -4237,6 +5452,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/6BCEF6FCFDA24F4FD6243A0B627ACF2BCBFDB7211822E4087D724F5EBEC79172_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29611136/",
     "rating": 7.4
+  },
+  {
+    "title": "Hope",
+    "start": "2026-10-23T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/hope/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/09/24095551/1n37BJchWHLiSYQkuFxe5KjB951-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt27369017/",
+    "rating": 6.7
   },
   {
     "title": "A Talent for Murder",
@@ -4266,6 +5490,15 @@
     "rating": 8.9
   },
   {
+    "title": "KNIFE + HEART",
+    "start": "2026-10-23T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/knife-heart-2026-10-23-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/knife-and-heart.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt6426028/",
+    "rating": 6.2
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-23T19:30:00-07:00",
     "theater": "Kiggins Theatre",
@@ -4284,6 +5517,24 @@
     "rating": 8.9
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-23T20:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
+    "title": "WICKER",
+    "start": "2026-10-23T21:10:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
+  },
+  {
     "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER",
     "start": "2026-10-23T21:15:00-07:00",
     "theater": "Academy Theater",
@@ -4291,6 +5542,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C63689BD17873A67F23B37FC0C42823544912560FF5EBC5BB8646F1895E58331_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt35856037/",
     "rating": 7.5
+  },
+  {
+    "title": "A Nightmare on Elm Street",
+    "start": "2026-10-23T21:15:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/a-nightmare-on-elm-street",
+    "poster": "https://indy-systems.imgix.net/jrq7z3pj97epry2z86iid606e4kw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0087800/",
+    "rating": 7.4
   },
   {
     "title": "Prince of Darkness",
@@ -4318,6 +5578,24 @@
     "poster": "https://indy-systems.imgix.net/00jj3ri750tzx8y2s40cr96nwa8r?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29611136/",
     "rating": 7.4
+  },
+  {
+    "title": "THE DEVILS (Digital)",
+    "start": "2026-10-23T21:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-digital-2026-10-23-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/the-devils-digital1.jpg?fit=600%2C337&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-23T21:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "Fjord",
@@ -4363,6 +5641,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/6BCEF6FCFDA24F4FD6243A0B627ACF2BCBFDB7211822E4087D724F5EBEC79172_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29611136/",
     "rating": 7.4
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-23T21:50:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
   },
   {
     "title": "HELLRAISER (1987)",
@@ -4419,6 +5706,24 @@
     "rating": 7.4
   },
   {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-24T11:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-24T12:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-24T12:00:00-07:00",
     "theater": "Studio One",
@@ -4437,6 +5742,15 @@
     "rating": 7.5
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-24T12:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
     "title": "Wildwood",
     "start": "2026-10-24T12:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -4453,6 +5767,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "WICKER",
+    "start": "2026-10-24T12:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
   },
   {
     "title": "Wildwood",
@@ -4518,6 +5841,24 @@
     "rating": null
   },
   {
+    "title": "THE PHANTOM OF THE OPERA",
+    "start": "2026-10-24T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-phantom-of-the-opera-2026-10-24-200pm/",
+    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/10/phantom-2.jpg",
+    "imdb": "https://www.imdb.com/title/tt0293508/",
+    "rating": 7.2
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-10-24T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Rosemary\u2019s Baby (1968)",
     "start": "2026-10-24T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -4525,6 +5866,42 @@
     "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/08/Rosemarys-Baby-scaled.jpg",
     "imdb": "https://www.imdb.com/title/tt0063522/",
     "rating": 8.0
+  },
+  {
+    "title": "Z\u00ebiram x Brain Dead",
+    "start": "2026-10-24T14:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/zeiram-x-brain-dead/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/08/18105451/pIXJIxy0OXgTgVIIks98UjRp59z.jpg",
+    "imdb": "https://www.imdb.com/title/tt0103327/",
+    "rating": 6.4
+  },
+  {
+    "title": "WILDWOOD (Digital)",
+    "start": "2026-10-24T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-24-300pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-24T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-24T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "WILDWOOD",
@@ -4554,6 +5931,15 @@
     "rating": 7.5
   },
   {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-24T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-24T15:45:00-07:00",
     "theater": "Academy Theater",
@@ -4572,6 +5958,15 @@
     "rating": null
   },
   {
+    "title": "WICKER",
+    "start": "2026-10-24T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
+  },
+  {
     "title": "POLTERGEIST (1982)",
     "start": "2026-10-24T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -4579,6 +5974,15 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzY4MGZkYjgtYTQ2YS00YTlhLWEyMjAtMjZhYzczNTRlM2ZmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0084516/",
     "rating": 7.3
+  },
+  {
+    "title": "WILDWOOD (Digital)",
+    "start": "2026-10-24T16:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-24-400pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
   },
   {
     "title": "Wildwood",
@@ -4626,6 +6030,15 @@
     "rating": null
   },
   {
+    "title": "THE DEVILS in 35mm",
+    "start": "2026-10-24T17:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-in-35mm-2026-10-24-530pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/thedevils1.jpg?fit=540%2C329&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
+  },
+  {
     "title": "QDOC: Rapinoe",
     "start": "2026-10-24T18:00:00-07:00",
     "theater": "Cinema 21",
@@ -4633,6 +6046,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_7fe9dd79-f9ff-4d9f-b50d-5e0ca263a114.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-24T18:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "WILDWOOD",
@@ -4644,6 +6066,15 @@
     "rating": 8.9
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-24T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
     "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER",
     "start": "2026-10-24T18:30:00-07:00",
     "theater": "Academy Theater",
@@ -4651,6 +6082,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C63689BD17873A67F23B37FC0C42823544912560FF5EBC5BB8646F1895E58331_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt35856037/",
     "rating": 7.5
+  },
+  {
+    "title": "WILDWOOD (Digital)",
+    "start": "2026-10-24T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-24-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
   },
   {
     "title": "WILDWOOD",
@@ -4689,6 +6129,15 @@
     "rating": 8.9
   },
   {
+    "title": "WICKER",
+    "start": "2026-10-24T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
+  },
+  {
     "title": "Fjord",
     "start": "2026-10-24T18:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -4705,6 +6154,33 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDI4ODI3NTQtZGYzOC00YWM1LThjN2EtZGRlYTVmODYzYzlmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0085694/",
     "rating": 5.8
+  },
+  {
+    "title": "A Nightmare on Elm Street",
+    "start": "2026-10-24T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/a-nightmare-on-elm-street",
+    "poster": "https://indy-systems.imgix.net/jrq7z3pj97epry2z86iid606e4kw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0087800/",
+    "rating": 7.4
+  },
+  {
+    "title": "Hellavision Television \u2013 DANCE EVERYWHERE",
+    "start": "2026-10-24T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/hellavision-television-dance-everywhere/",
+    "poster": null,
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-24T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
   },
   {
     "title": "Wicker",
@@ -4752,6 +6228,15 @@
     "rating": 8.9
   },
   {
+    "title": "WILDWOOD (Digital)",
+    "start": "2026-10-24T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-24-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
     "title": "QDOC: Mineshaft - The Cruising Murders",
     "start": "2026-10-24T20:30:00-07:00",
     "theater": "Cinema 21",
@@ -4761,6 +6246,24 @@
     "rating": null
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-24T20:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
+    "title": "WICKER",
+    "start": "2026-10-24T21:10:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
+  },
+  {
     "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER",
     "start": "2026-10-24T21:15:00-07:00",
     "theater": "Academy Theater",
@@ -4768,6 +6271,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C63689BD17873A67F23B37FC0C42823544912560FF5EBC5BB8646F1895E58331_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt35856037/",
     "rating": 7.5
+  },
+  {
+    "title": "A Nightmare on Elm Street 3: Dream Warriors",
+    "start": "2026-10-24T21:15:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/a-nightmare-on-elm-street-3-dream-warriors",
+    "poster": "https://indy-systems.imgix.net/qekiyihe38ci8nd1j2uq3gmr9d5x?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0093629/",
+    "rating": 6.7
   },
   {
     "title": "WILDWOOD",
@@ -4795,6 +6307,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D6D9D9DDEA3EA58D2FFBDC73239574A8E4FB0D3C2DA17B456260BE83405D8ED2_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0103919/",
     "rating": 6.8
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-24T21:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "Fjord",
@@ -4840,6 +6361,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/6BCEF6FCFDA24F4FD6243A0B627ACF2BCBFDB7211822E4087D724F5EBEC79172_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt29611136/",
     "rating": 7.4
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-24T21:50:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
   },
   {
     "title": "THE ROCKY HORROR PICTURE SHOW with the Denton Delinquents",
@@ -4905,6 +6435,24 @@
     "rating": 8.9
   },
   {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-25T11:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-25T12:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-25T12:00:00-07:00",
     "theater": "Studio One",
@@ -4923,6 +6471,15 @@
     "rating": 7.5
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-25T12:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
     "title": "Wildwood",
     "start": "2026-10-25T12:15:00-07:00",
     "theater": "Living Room Theaters",
@@ -4939,6 +6496,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "WICKER",
+    "start": "2026-10-25T12:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
   },
   {
     "title": "Wildwood",
@@ -4986,6 +6552,15 @@
     "rating": null
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-10-25T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Eyes without a Face (1960) 4k restoration",
     "start": "2026-10-25T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -5002,6 +6577,33 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "WILDWOOD in 35mm",
+    "start": "2026-10-25T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-in-35mm-2026-10-25-300pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-25T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-25T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "WILDWOOD",
@@ -5031,6 +6633,24 @@
     "rating": 8.9
   },
   {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-25T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "WICKER",
+    "start": "2026-10-25T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
+  },
+  {
     "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER",
     "start": "2026-10-25T16:00:00-07:00",
     "theater": "Academy Theater",
@@ -5047,6 +6667,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_1d103acb-1691-45ea-8443-44184271dd14.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Roy\u2019s World: Barry Gifford\u2019s Chicago",
+    "start": "2026-10-25T16:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/roys-world-barry-giffords-chicago-2026-10-25-400pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/ROYS-WORLD-still-2.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt7934860/",
+    "rating": 7.9
   },
   {
     "title": "The Elk \u2013 A\u00a0 Film Screening and Walking Tour",
@@ -5103,6 +6732,15 @@
     "rating": 6.9
   },
   {
+    "title": "Re-Animator (35mm)",
+    "start": "2026-10-25T16:45:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/re-animator",
+    "poster": "https://indy-systems.imgix.net/xm1b5zt8q8981m2hi5divja85iys?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0089885/",
+    "rating": 7.1
+  },
+  {
     "title": "Melange: A Queer and P.O.C. Variety Show",
     "start": "2026-10-25T18:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -5110,6 +6748,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/10/IMG_4507.jpeg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-25T18:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
   },
   {
     "title": "WILDWOOD",
@@ -5121,6 +6768,15 @@
     "rating": 8.9
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-25T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
     "title": "QDOC: Antidiva - The Carole Pope Confessions",
     "start": "2026-10-25T18:30:00-07:00",
     "theater": "Cinema 21",
@@ -5128,6 +6784,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_d051f279-0f1b-4a69-a260-a6b127625b78.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "WILDWOOD in 35mm",
+    "start": "2026-10-25T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-in-35mm-2026-10-25-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
   },
   {
     "title": "SLEEPY HOLLOW",
@@ -5157,6 +6822,15 @@
     "rating": 8.9
   },
   {
+    "title": "WICKER",
+    "start": "2026-10-25T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
+  },
+  {
     "title": "Fjord",
     "start": "2026-10-25T18:45:00-07:00",
     "theater": "Living Room Theaters",
@@ -5173,6 +6847,33 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C63689BD17873A67F23B37FC0C42823544912560FF5EBC5BB8646F1895E58331_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt35856037/",
     "rating": 7.5
+  },
+  {
+    "title": "A Nightmare on Elm Street 3: Dream Warriors",
+    "start": "2026-10-25T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/a-nightmare-on-elm-street-3-dream-warriors",
+    "poster": "https://indy-systems.imgix.net/qekiyihe38ci8nd1j2uq3gmr9d5x?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0093629/",
+    "rating": 6.7
+  },
+  {
+    "title": "WILDWOOD (Digital)",
+    "start": "2026-10-25T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-25-700pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-25T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
   },
   {
     "title": "Wicker",
@@ -5238,6 +6939,15 @@
     "rating": 7.3
   },
   {
+    "title": "THE DEVILS (Digital)",
+    "start": "2026-10-25T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-digital-2026-10-25-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/the-devils-digital1.jpg?fit=600%2C337&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-25T21:20:00-07:00",
     "theater": "Studio One",
@@ -5292,6 +7002,24 @@
     "rating": 7.3
   },
   {
+    "title": "WILDWOOD in 35mm",
+    "start": "2026-10-26T15:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-in-35mm-2026-10-26-300pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-26T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-26T15:00:00-07:00",
     "theater": "Studio One",
@@ -5301,6 +7029,15 @@
     "rating": 8.9
   },
   {
+    "title": "PRIMETIME",
+    "start": "2026-10-26T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
     "title": "Wildwood",
     "start": "2026-10-26T15:20:00-07:00",
     "theater": "Living Room Theaters",
@@ -5308,6 +7045,24 @@
     "poster": "https://indy-systems.imgix.net/nn9pf8dq1oivvs27l4mwcf21ei9a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-26T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "WICKER",
+    "start": "2026-10-26T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
   },
   {
     "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER",
@@ -5373,6 +7128,42 @@
     "rating": 7.3
   },
   {
+    "title": "Severin Presents \u2013 BUTCHER, BAKER, NIGHTMARE MAKER",
+    "start": "2026-10-26T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/severin-presents-butcher-baker-nightmare-maker/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdmYTg3ZDctNzg1MC00MjQzLTg0ODMtNThhYjA2OTZkNGMyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0082813/",
+    "rating": 6.3
+  },
+  {
+    "title": "WILDWOOD (Digital)",
+    "start": "2026-10-26T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-26-600pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-26T18:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-26T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-26T18:20:00-07:00",
     "theater": "Studio One",
@@ -5380,6 +7171,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "THE DEVILS (Digital)",
+    "start": "2026-10-26T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-digital-2026-10-26-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/the-devils-digital1.jpg?fit=600%2C337&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
   },
   {
     "title": "Wildwood",
@@ -5400,6 +7200,15 @@
     "rating": 7.4
   },
   {
+    "title": "WICKER",
+    "start": "2026-10-26T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
+  },
+  {
     "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER",
     "start": "2026-10-26T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -5407,6 +7216,33 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C63689BD17873A67F23B37FC0C42823544912560FF5EBC5BB8646F1895E58331_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt35856037/",
     "rating": 7.5
+  },
+  {
+    "title": "The Movie Quiz",
+    "start": "2026-10-26T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-movie-quiz",
+    "poster": "https://indy-systems.imgix.net/bi5t92kdu8fb5t5gozpk3i6l8kqn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "RRR",
+    "start": "2026-10-26T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/rrr-2026-10-26-700pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/RRR-1.jpg?fit=540%2C281&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt8178634/",
+    "rating": 7.8
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-26T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
   },
   {
     "title": "WILDWOOD",
@@ -5452,6 +7288,15 @@
     "poster": "https://indy-systems.imgix.net/wr3degpwddawsagabz5rbnnr224z?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "Severin Presents \u2013 BUTCHER, BAKER, NIGHTMARE MAKER",
+    "start": "2026-10-26T20:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/severin-presents-butcher-baker-nightmare-maker/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdmYTg3ZDctNzg1MC00MjQzLTg0ODMtNThhYjA2OTZkNGMyXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0082813/",
+    "rating": 6.3
   },
   {
     "title": "WICKER",
@@ -5519,11 +7364,29 @@
   {
     "title": "WILDWOOD",
     "start": "2026-10-27T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-27T15:00:00-07:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-27T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "Wildwood",
@@ -5533,6 +7396,24 @@
     "poster": "https://indy-systems.imgix.net/nn9pf8dq1oivvs27l4mwcf21ei9a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-27T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "WICKER",
+    "start": "2026-10-27T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
   },
   {
     "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER",
@@ -5589,6 +7470,33 @@
     "rating": 7.3
   },
   {
+    "title": "The Wolf Man",
+    "start": "2026-10-27T17:15:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-wolf-man",
+    "poster": "https://indy-systems.imgix.net/cywu3c43j89lrd2434qdy8hnxot2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0034398/",
+    "rating": 7.2
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-10-27T18:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "PRIMETIME",
+    "start": "2026-10-27T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F3C827128CA026086B7D08E7A87237414551CBB466BEBB9E8C58236A50335F14_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-27T18:20:00-07:00",
     "theater": "Studio One",
@@ -5596,6 +7504,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "THE DEVILS (Digital)",
+    "start": "2026-10-27T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-digital-2026-10-27-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/the-devils-digital1.jpg?fit=600%2C337&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
   },
   {
     "title": "Wildwood",
@@ -5607,6 +7524,15 @@
     "rating": 8.9
   },
   {
+    "title": "WICKER",
+    "start": "2026-10-27T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt29611136/",
+    "rating": 7.4
+  },
+  {
     "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER",
     "start": "2026-10-27T19:00:00-07:00",
     "theater": "Academy Theater",
@@ -5614,6 +7540,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/C63689BD17873A67F23B37FC0C42823544912560FF5EBC5BB8646F1895E58331_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt35856037/",
     "rating": 7.5
+  },
+  {
+    "title": "The Exorcist",
+    "start": "2026-10-27T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-exorcist",
+    "poster": "https://indy-systems.imgix.net/0p4orajf6o2ew1602h3r699dt3go?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0070047/",
+    "rating": 8.1
   },
   {
     "title": "Mandy",
@@ -5625,11 +7560,29 @@
     "rating": 6.5
   },
   {
+    "title": "WILDWOOD (Digital)",
+    "start": "2026-10-27T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-27-700pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-27T19:00:00-07:00",
     "theater": "Kiggins Theatre",
     "url": "https://www.kigginstheatre.com/movie/wildwood",
     "poster": "https://indy-systems.imgix.net/wr3degpwddawsagabz5rbnnr224z?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
+    "title": "WILDWOOD",
+    "start": "2026-10-27T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
   },
@@ -5677,6 +7630,33 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/D6D9D9DDEA3EA58D2FFBDC73239574A8E4FB0D3C2DA17B456260BE83405D8ED2_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0103919/",
     "rating": 6.8
+  },
+  {
+    "title": "MARK OF THE DEVIL",
+    "start": "2026-10-27T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/mark-of-the-devil-2026-10-27-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/mark-of-devil1.jpg?fit=540%2C323&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0065491/",
+    "rating": 6.1
+  },
+  {
+    "title": "THE DEVILS (Digital)",
+    "start": "2026-10-27T21:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-digital-2026-10-27-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/the-devils-digital1.jpg?fit=600%2C337&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
+  },
+  {
+    "title": "When Evil Lurks",
+    "start": "2026-10-27T21:40:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/when-evil-lurks",
+    "poster": "https://indy-systems.imgix.net/opurpj5rmdni8v5i46hxv4obuybf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt16300962/",
+    "rating": 6.9
   },
   {
     "title": "WILDWOOD",
@@ -5733,6 +7713,15 @@
     "rating": 7.3
   },
   {
+    "title": "WILDWOOD OC",
+    "start": "2026-10-28T15:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": null,
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-28T15:00:00-07:00",
     "theater": "Studio One",
@@ -5740,6 +7729,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "PRIMETIME (OPEN CAPTION)",
+    "start": "2026-10-28T15:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyZGI2NWQtOTU3NS00NTEyLTliNDItNTQyNmFkMGZmZGQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
   },
   {
     "title": "Wildwood",
@@ -5758,6 +7756,24 @@
     "poster": "https://indy-systems.imgix.net/wr3degpwddawsagabz5rbnnr224z?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING (OPEN CAPTION)",
+    "start": "2026-10-28T15:30:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDUwOWFlMWMtZjFkOC00YmE2LWI2MmUtNGFiMGE2MGUzZmNlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "WICKER OC",
+    "start": "2026-10-28T15:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": null,
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER",
@@ -5823,6 +7839,42 @@
     "rating": 6.3
   },
   {
+    "title": "The Wolf Man",
+    "start": "2026-10-28T17:15:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-wolf-man",
+    "poster": "https://indy-systems.imgix.net/cywu3c43j89lrd2434qdy8hnxot2?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0034398/",
+    "rating": 7.2
+  },
+  {
+    "title": "WILDWOOD (Digital)",
+    "start": "2026-10-28T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-28-600pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
+    "title": "YOU CAN SEE EVERYTHING (OPEN CAPTION)",
+    "start": "2026-10-28T18:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDUwOWFlMWMtZjFkOC00YmE2LWI2MmUtNGFiMGE2MGUzZmNlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.3
+  },
+  {
+    "title": "PRIMETIME (OPEN CAPTION)",
+    "start": "2026-10-28T18:15:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyZGI2NWQtOTU3NS00NTEyLTliNDItNTQyNmFkMGZmZGQzXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt34206385/",
+    "rating": 7.1
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-10-28T18:20:00-07:00",
     "theater": "Studio One",
@@ -5850,6 +7902,15 @@
     "rating": 8.9
   },
   {
+    "title": "WICKER OC",
+    "start": "2026-10-28T18:45:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": null,
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "WICKER",
     "start": "2026-10-28T18:45:00-07:00",
     "theater": "Studio One",
@@ -5868,6 +7929,15 @@
     "rating": 7.5
   },
   {
+    "title": "When Evil Lurks",
+    "start": "2026-10-28T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/when-evil-lurks",
+    "poster": "https://indy-systems.imgix.net/opurpj5rmdni8v5i46hxv4obuybf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt16300962/",
+    "rating": 6.9
+  },
+  {
     "title": "THE BIRTH OF HORROR: A Scary Collection of Early Film Horror (Church of Film)",
     "start": "2026-10-28T19:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -5877,6 +7947,15 @@
     "rating": null
   },
   {
+    "title": "DAWN OF THE DEAD (2004) in 35mm",
+    "start": "2026-10-28T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/dawn-of-the-dead-2004-in-35mm-2026-10-28-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/IMG_2526.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0363547/",
+    "rating": 7.2
+  },
+  {
     "title": "ED WOOD",
     "start": "2026-10-28T19:00:00-07:00",
     "theater": "Kiggins Theatre",
@@ -5884,6 +7963,15 @@
     "poster": "https://indy-systems.imgix.net/6q9hgaeb0rdfedbw3uwqwudhkngh?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0109707/",
     "rating": 7.8
+  },
+  {
+    "title": "WILDWOOD OC",
+    "start": "2026-10-28T19:00:00-07:00",
+    "theater": "Laurelhurst Theater",
+    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
+    "poster": null,
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "WILDWOOD",
@@ -5922,6 +8010,15 @@
     "rating": 6.9
   },
   {
+    "title": "A POET (Un poeta)",
+    "start": "2026-10-28T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/a-poet-un-poeta-2026-10-28-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/A-Poet00001.jpg?fit=540%2C328&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36544524/",
+    "rating": 7.8
+  },
+  {
     "title": "The VelociPastor 2",
     "start": "2026-10-28T21:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -5929,6 +8026,24 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/09/velocipastor-2.jpg",
     "imdb": "https://www.imdb.com/title/tt25404142/",
     "rating": 9.0
+  },
+  {
+    "title": "The Exorcist",
+    "start": "2026-10-28T21:15:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-exorcist",
+    "poster": "https://indy-systems.imgix.net/0p4orajf6o2ew1602h3r699dt3go?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0070047/",
+    "rating": 8.1
+  },
+  {
+    "title": "THE DEVILS (Digital)",
+    "start": "2026-10-28T21:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-digital-2026-10-28-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/the-devils-digital1.jpg?fit=600%2C337&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
   },
   {
     "title": "WICKER",
@@ -6066,6 +8181,15 @@
     "rating": null
   },
   {
+    "title": "THE DEVILS (Digital)",
+    "start": "2026-10-29T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-devils-digital-2026-10-29-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/the-devils-digital1.jpg?fit=600%2C337&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0066993/",
+    "rating": 7.7
+  },
+  {
     "title": "Wildwood",
     "start": "2026-10-29T18:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -6091,6 +8215,24 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzY4MGZkYjgtYTQ2YS00YTlhLWEyMjAtMjZhYzczNTRlM2ZmXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0084516/",
     "rating": 7.3
+  },
+  {
+    "title": "A Nightmare on Elm Street",
+    "start": "2026-10-29T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/a-nightmare-on-elm-street",
+    "poster": "https://indy-systems.imgix.net/jrq7z3pj97epry2z86iid606e4kw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0087800/",
+    "rating": 7.4
+  },
+  {
+    "title": "WILDWOOD (Digital)",
+    "start": "2026-10-29T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-digital-2026-10-29-700pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood12.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
   },
   {
     "title": "WILDWOOD",
@@ -6127,6 +8269,24 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001637&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "ALL THE COLORS OF THE DARK",
+    "start": "2026-10-29T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/all-the-colors-of-the-dark-2026-10-29-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/all-colors-of-dark1.jpg?fit=540%2C230&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt39302087/",
+    "rating": null
+  },
+  {
+    "title": "A Nightmare on Elm Street 3: Dream Warriors",
+    "start": "2026-10-29T21:10:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/a-nightmare-on-elm-street-3-dream-warriors",
+    "poster": "https://indy-systems.imgix.net/qekiyihe38ci8nd1j2uq3gmr9d5x?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0093629/",
+    "rating": 6.7
   },
   {
     "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER",
@@ -6183,6 +8343,15 @@
     "rating": 7.3
   },
   {
+    "title": "WILDWOOD in 35mm",
+    "start": "2026-10-30T15:15:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/wildwood-in-35mm-2026-10-30-300pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/wildwood1.jpg?fit=540%2C360&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.9
+  },
+  {
     "title": "Wildwood",
     "start": "2026-10-30T15:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -6237,6 +8406,15 @@
     "rating": null
   },
   {
+    "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
+    "start": "2026-10-30T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-only-living-pickpocket-in-new-york-2026-10-30-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/pickpocket1.jpg?fit=1280%2C710&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36482679/",
+    "rating": 7.2
+  },
+  {
     "title": "The Only Living Pickpocket In New York",
     "start": "2026-10-30T18:30:00-07:00",
     "theater": "Living Room Theaters",
@@ -6282,11 +8460,56 @@
     "rating": 6.9
   },
   {
+    "title": "Re-Animator (35mm)",
+    "start": "2026-10-30T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/re-animator",
+    "poster": "https://indy-systems.imgix.net/xm1b5zt8q8981m2hi5divja85iys?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0089885/",
+    "rating": 7.1
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-10-30T19:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Vampyr (1932) w/ Live Score by Kraftwitch",
+    "start": "2026-10-30T19:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/vampyr-1932-w-live-score-by-kraftwitch/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/22101840/vampyre.png",
+    "imdb": "https://www.imdb.com/title/tt0023649/",
+    "rating": 7.3
+  },
+  {
+    "title": "REC",
+    "start": "2026-10-30T19:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/rec-2026-10-30-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/REC.jpg?fit=540%2C291&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt1038988/",
+    "rating": 7.4
+  },
+  {
     "title": "BRAM STOKER'S DRACULA",
     "start": "2026-10-30T19:30:00-07:00",
     "theater": "Kiggins Theatre",
     "url": "https://www.kigginstheatre.com/movie/bram-stokers-dracula",
     "poster": "https://indy-systems.imgix.net/2zr1q0o15jy7fvg4xj0vg6kvhdpn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "RE-ANIMATOR at Ross Hollywood Chapel Funeral Home",
+    "start": "2026-10-30T20:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/re-animator-at-ross-hollywood-chapel-funeral-home-2026-10-30-800pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/RE-ANIMATOR.jpg?fit=540%2C304&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -6298,6 +8521,24 @@
     "poster": "https://indy-systems.imgix.net/cc68fqmdn3ao8pqh94wr0zxinbg1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36482679/",
     "rating": 7.2
+  },
+  {
+    "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
+    "start": "2026-10-30T20:45:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-only-living-pickpocket-in-new-york-2026-10-30-845pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/pickpocket1.jpg?fit=1280%2C710&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36482679/",
+    "rating": 7.2
+  },
+  {
+    "title": "The Evil Dead (35mm)",
+    "start": "2026-10-30T21:15:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead",
+    "poster": "https://indy-systems.imgix.net/kb96b9xqe6gm7132uk5khveofmwy?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0083907/",
+    "rating": 7.3
   },
   {
     "title": "The Funhouse",
@@ -6417,6 +8658,15 @@
     "rating": 7.7
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-10-31T14:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Night of the Living Dead (1968)",
     "start": "2026-10-31T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -6424,6 +8674,15 @@
     "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/08/Night-of-the-Living-Dead-scaled.jpg",
     "imdb": "https://www.imdb.com/title/tt0063350/",
     "rating": 7.8
+  },
+  {
+    "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
+    "start": "2026-10-31T15:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-only-living-pickpocket-in-new-york-2026-10-31-330pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/pickpocket1.jpg?fit=1280%2C710&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36482679/",
+    "rating": 7.2
   },
   {
     "title": "Wildwood",
@@ -6462,6 +8721,15 @@
     "rating": 7.7
   },
   {
+    "title": "Teenage Sex and Death at Camp Miasma x MUBI",
+    "start": "2026-10-31T16:00:00-07:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/teenage-sex-and-death-at-camp-miasma/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/09/02152520/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg",
+    "imdb": "https://www.imdb.com/title/tt35298123/",
+    "rating": 6.5
+  },
+  {
     "title": "The Rocky Horror Picture Show with the Clinton Street Cabaret",
     "start": "2026-10-31T18:00:00-07:00",
     "theater": "Clinton Street Theater",
@@ -6469,6 +8737,24 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2022/05/rockyhorror.jpeg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "HALLOWEEN WITH CHUCKY & DON MANCINI",
+    "start": "2026-10-31T18:00:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/halloween-with-chucky-don-mancini-2026-10-31-600pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/Childs-Play-T_Design_social_rectangle.png?fit=540%2C307&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
+    "start": "2026-10-31T18:30:00-07:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-only-living-pickpocket-in-new-york-2026-10-31-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/pickpocket1.jpg?fit=1280%2C710&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36482679/",
+    "rating": 7.2
   },
   {
     "title": "The Only Living Pickpocket In New York",
@@ -6523,6 +8809,15 @@
     "poster": null,
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "The Evil Dead (35mm)",
+    "start": "2026-10-31T19:00:00-07:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead",
+    "poster": "https://indy-systems.imgix.net/kb96b9xqe6gm7132uk5khveofmwy?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0083907/",
+    "rating": 7.3
   },
   {
     "title": "The Only Living Pickpocket In New York",
@@ -6651,6 +8946,33 @@
     "rating": null
   },
   {
+    "title": "Miniplex Rental \u2013 Specialty",
+    "start": "2026-11-01T14:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/miniplex-rental-specialty/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/therulesofattraction.jpg?fit=540%2C304&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "CRONOS",
+    "start": "2026-11-01T15:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/cronos-2026-11-01-300pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/27534id_323_0002_27534id_395_w1600.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0104029/",
+    "rating": 6.7
+  },
+  {
+    "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
+    "start": "2026-11-01T15:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-only-living-pickpocket-in-new-york-2026-11-01-330pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/pickpocket1.jpg?fit=1280%2C710&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36482679/",
+    "rating": 7.2
+  },
+  {
     "title": "Wildwood",
     "start": "2026-11-01T15:30:00-08:00",
     "theater": "Living Room Theaters",
@@ -6687,6 +9009,15 @@
     "rating": 8.9
   },
   {
+    "title": "Army of Darkness",
+    "start": "2026-11-01T16:50:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/army-of-darkness",
+    "poster": "https://indy-systems.imgix.net/4yktziag423c9l0vo7bvcaje7wbi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0106308/",
+    "rating": 7.4
+  },
+  {
     "title": "The Love Witch",
     "start": "2026-11-01T17:00:00-08:00",
     "theater": "Living Room Theaters",
@@ -6694,6 +9025,15 @@
     "poster": "https://indy-systems.imgix.net/i56jf4xgalwsdbvft0bkiy11leqf?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt3908142/",
     "rating": 6.3
+  },
+  {
+    "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
+    "start": "2026-11-01T18:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-only-living-pickpocket-in-new-york-2026-11-01-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/pickpocket1.jpg?fit=1280%2C710&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36482679/",
+    "rating": 7.2
   },
   {
     "title": "The Only Living Pickpocket In New York",
@@ -6723,6 +9063,33 @@
     "rating": 7.7
   },
   {
+    "title": "Evil Dead (2013)",
+    "start": "2026-11-01T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead-2013",
+    "poster": "https://indy-systems.imgix.net/ji40e07rjc864x5smzj9ysffsygg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0083907/",
+    "rating": 7.3
+  },
+  {
+    "title": "INTERSPECIES COMMUNICATION with Jim Nollman and Rankin Renwick",
+    "start": "2026-11-01T19:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/interspecies-communication-with-jim-nollman-and-rankin-renwick-2026-11-01-700pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/interspecies-communication.jpg?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Union County",
+    "start": "2026-11-01T19:00:00-08:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/union-county/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/09/18104715/UnionCounty.jpg",
+    "imdb": "https://www.imdb.com/title/tt36981462/",
+    "rating": 6.4
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-11-01T19:15:00-08:00",
     "theater": "Academy Theater",
@@ -6739,6 +9106,24 @@
     "poster": "https://indy-systems.imgix.net/2zr1q0o15jy7fvg4xj0vg6kvhdpn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
+    "start": "2026-11-01T20:45:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-only-living-pickpocket-in-new-york-2026-11-01-845pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/pickpocket1.jpg?fit=1280%2C710&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36482679/",
+    "rating": 7.2
+  },
+  {
+    "title": "Evil Dead Burn",
+    "start": "2026-11-01T21:10:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead-burn",
+    "poster": "https://indy-systems.imgix.net/nylapg5kzjlkczs3cln205qj6uqx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt31170389/",
+    "rating": 6.2
   },
   {
     "title": "WILDWOOD",
@@ -6777,6 +9162,24 @@
     "rating": 8.9
   },
   {
+    "title": "Evil Dead 2: Dead by Dawn",
+    "start": "2026-11-02T17:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead-2",
+    "poster": "https://indy-systems.imgix.net/2v1vav1ymaubqnnlyezjtfob41ra?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
+    "start": "2026-11-02T18:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-only-living-pickpocket-in-new-york-2026-11-02-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/pickpocket1.jpg?fit=1280%2C710&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36482679/",
+    "rating": 7.2
+  },
+  {
     "title": "Once Upon a Time in Harlem",
     "start": "2026-11-02T18:45:00-08:00",
     "theater": "Cinema 21",
@@ -6784,6 +9187,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_d8be2da5-632c-411f-9255-c48bb889d67a.jpg",
     "imdb": "https://www.imdb.com/title/tt39163347/",
     "rating": 7.7
+  },
+  {
+    "title": "Army of Darkness",
+    "start": "2026-11-02T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/army-of-darkness",
+    "poster": "https://indy-systems.imgix.net/4yktziag423c9l0vo7bvcaje7wbi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0106308/",
+    "rating": 7.4
   },
   {
     "title": "The Hands of Orlac",
@@ -6795,6 +9207,15 @@
     "rating": 7.0
   },
   {
+    "title": "Radiance Presents \u2013 AGITATOR",
+    "start": "2026-11-02T19:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/radiance-presents-agitator/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MjA4ODc1Nl5BMl5BanBnXkFtZTcwNjYxNzY5MQ@@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0305240/",
+    "rating": 6.8
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-11-02T19:15:00-08:00",
     "theater": "Academy Theater",
@@ -6804,6 +9225,15 @@
     "rating": 8.9
   },
   {
+    "title": "GORGO",
+    "start": "2026-11-02T19:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/gorgo-2026-11-02-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/Gorgo11.jpg?fit=750%2C450&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0054938/",
+    "rating": 5.6
+  },
+  {
     "title": "BRAM STOKER'S DRACULA",
     "start": "2026-11-02T19:30:00-08:00",
     "theater": "Kiggins Theatre",
@@ -6811,6 +9241,24 @@
     "poster": "https://indy-systems.imgix.net/2zr1q0o15jy7fvg4xj0vg6kvhdpn?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
+    "start": "2026-11-02T20:45:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-only-living-pickpocket-in-new-york-2026-11-02-845pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/pickpocket1.jpg?fit=1280%2C710&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36482679/",
+    "rating": 7.2
+  },
+  {
+    "title": "Evil Dead Rise",
+    "start": "2026-11-02T21:10:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead-rise",
+    "poster": "https://indy-systems.imgix.net/0v83nw28i8l7u78vqjg77acw0q27?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13345606/",
+    "rating": 6.5
   },
   {
     "title": "WILDWOOD",
@@ -6840,6 +9288,33 @@
     "rating": 8.9
   },
   {
+    "title": "Evil Dead Burn",
+    "start": "2026-11-03T16:30:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead-burn",
+    "poster": "https://indy-systems.imgix.net/nylapg5kzjlkczs3cln205qj6uqx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt31170389/",
+    "rating": 6.2
+  },
+  {
+    "title": "After Hours",
+    "start": "2026-11-03T18:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/after-hours/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/MMU_One_Evening_After_Hours_with_OPC_IMAGE_Nov_2026.png?fit=1280%2C719&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0088680/",
+    "rating": 7.6
+  },
+  {
+    "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
+    "start": "2026-11-03T18:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-only-living-pickpocket-in-new-york-2026-11-03-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/pickpocket1.jpg?fit=1280%2C710&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36482679/",
+    "rating": 7.2
+  },
+  {
     "title": "Once Upon a Time in Harlem",
     "start": "2026-11-03T18:45:00-08:00",
     "theater": "Cinema 21",
@@ -6847,6 +9322,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_d8be2da5-632c-411f-9255-c48bb889d67a.jpg",
     "imdb": "https://www.imdb.com/title/tt39163347/",
     "rating": 7.7
+  },
+  {
+    "title": "Evil Dead Rise",
+    "start": "2026-11-03T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead-rise",
+    "poster": "https://indy-systems.imgix.net/0v83nw28i8l7u78vqjg77acw0q27?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt13345606/",
+    "rating": 6.5
   },
   {
     "title": "K2uesdays: Lifeform",
@@ -6876,6 +9360,24 @@
     "rating": 8.9
   },
   {
+    "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
+    "start": "2026-11-03T20:45:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-only-living-pickpocket-in-new-york-2026-11-03-845pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/pickpocket1.jpg?fit=1280%2C710&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36482679/",
+    "rating": 7.2
+  },
+  {
+    "title": "Evil Dead 2: Dead by Dawn",
+    "start": "2026-11-03T21:10:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead-2",
+    "poster": "https://indy-systems.imgix.net/2v1vav1ymaubqnnlyezjtfob41ra?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-11-04T12:30:00-08:00",
     "theater": "Academy Theater",
@@ -6903,6 +9405,33 @@
     "rating": 8.9
   },
   {
+    "title": "Army of Darkness",
+    "start": "2026-11-04T16:50:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/army-of-darkness",
+    "poster": "https://indy-systems.imgix.net/4yktziag423c9l0vo7bvcaje7wbi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0106308/",
+    "rating": 7.4
+  },
+  {
+    "title": "The Years of Lead",
+    "start": "2026-11-04T18:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/the-years-of-lead/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/MMU_The_Years_of_Lead_IMAGE_Nov_2026.png?fit=1280%2C719&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
+    "start": "2026-11-04T18:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-only-living-pickpocket-in-new-york-2026-11-04-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/pickpocket1.jpg?fit=1280%2C710&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36482679/",
+    "rating": 7.2
+  },
+  {
     "title": "Once Upon a Time in Harlem",
     "start": "2026-11-04T18:45:00-08:00",
     "theater": "Cinema 21",
@@ -6910,6 +9439,24 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_d8be2da5-632c-411f-9255-c48bb889d67a.jpg",
     "imdb": "https://www.imdb.com/title/tt39163347/",
     "rating": 7.7
+  },
+  {
+    "title": "Evil Dead 2: Dead by Dawn",
+    "start": "2026-11-04T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead-2",
+    "poster": "https://indy-systems.imgix.net/2v1vav1ymaubqnnlyezjtfob41ra?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "MYSTICS OF BALI",
+    "start": "2026-11-04T19:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/mystics-of-bali-2026-11-04-700pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/mysticsofbali.jpg?fit=540%2C303&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "WILDWOOD",
@@ -6928,6 +9475,24 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt2056785/",
     "rating": 8.9
+  },
+  {
+    "title": "A WOLF AMONG SWANS (Um lobo entre os cisnes)",
+    "start": "2026-11-04T19:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/a-wolf-among-swans-um-lobo-entre-os-cisnes-2026-11-04-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/A-Wolf-Among-Swans_Still-02.jpg?fit=540%2C226&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Evil Dead (2013)",
+    "start": "2026-11-04T21:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead-2013",
+    "poster": "https://indy-systems.imgix.net/ji40e07rjc864x5smzj9ysffsygg?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0083907/",
+    "rating": 7.3
   },
   {
     "title": "WILDWOOD",
@@ -6984,6 +9549,24 @@
     "rating": 8.1
   },
   {
+    "title": "Touchy-Feely: An Evening with Marcelo Tes\u00f3n",
+    "start": "2026-11-05T18:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/touchy-feely-an-evening-with-marcelo-teson/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/MMU_One_Evening_Touch-Feely___An_Evening_with_Marcelo_Teson_IMAGE_Nov_2026.png?fit=1280%2C719&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
+    "start": "2026-11-05T18:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-only-living-pickpocket-in-new-york-2026-11-05-630pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/pickpocket1.jpg?fit=1280%2C710&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36482679/",
+    "rating": 7.2
+  },
+  {
     "title": "GODZILLA MINUS ZERO",
     "start": "2026-11-05T18:45:00-08:00",
     "theater": "Academy Theater",
@@ -7009,6 +9592,15 @@
     "poster": "https://img.vwassets.com/cinema21.com/vertical_9a340709-b541-49cf-a928-2f09553a1449.jpg",
     "imdb": "https://www.imdb.com/title/tt15799564/",
     "rating": 8.1
+  },
+  {
+    "title": "The Evil Dead (35mm)",
+    "start": "2026-11-05T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead",
+    "poster": "https://indy-systems.imgix.net/kb96b9xqe6gm7132uk5khveofmwy?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0083907/",
+    "rating": 7.3
   },
   {
     "title": "Silents on 16mm",
@@ -7063,6 +9655,33 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt34384661/",
     "rating": 8.2
+  },
+  {
+    "title": "Author Talk with Jane Schoenbrun + I SAW THE TV GLOW",
+    "start": "2026-11-05T19:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/author-talk-with-jane-schoenbrun-i-saw-the-tv-glow-2026-11-05-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/jane.png?fit=540%2C284&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
+    "start": "2026-11-05T20:45:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-only-living-pickpocket-in-new-york-2026-11-05-845pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/pickpocket1.jpg?fit=1280%2C710&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt36482679/",
+    "rating": 7.2
+  },
+  {
+    "title": "The Evil Dead (35mm)",
+    "start": "2026-11-05T21:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/evil-dead",
+    "poster": "https://indy-systems.imgix.net/kb96b9xqe6gm7132uk5khveofmwy?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0083907/",
+    "rating": 7.3
   },
   {
     "title": "GODZILLA MINUS ZERO",
@@ -7146,6 +9765,15 @@
     "rating": 8.1
   },
   {
+    "title": "LA BOLA NEGRA (Digital)",
+    "start": "2026-11-06T18:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-digital-2026-11-06-600pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra11.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
+    "rating": 8.1
+  },
+  {
     "title": "La Bola Negra",
     "start": "2026-11-06T18:15:00-08:00",
     "theater": "Living Room Theaters",
@@ -7200,6 +9828,15 @@
     "rating": 8.0
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-11-06T19:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "THE ROCKETEER",
     "start": "2026-11-06T19:00:00-08:00",
     "theater": "Kiggins Theatre",
@@ -7227,6 +9864,15 @@
     "rating": 8.1
   },
   {
+    "title": "You\u2019ve Got Mail Movie Bingo w/ Violet Hex",
+    "start": "2026-11-06T19:00:00-08:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/youve-got-mail-movie-bingo-w-violet-hex/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/25113019/4.-YOUVE-GOT-MAIL-BINGO-POSTER.png",
+    "imdb": "https://www.imdb.com/title/tt0128853/",
+    "rating": 6.8
+  },
+  {
     "title": "Godzilla Minus Zero",
     "start": "2026-11-06T19:15:00-08:00",
     "theater": "St. Johns Cinema",
@@ -7236,11 +9882,29 @@
     "rating": 8.2
   },
   {
+    "title": "BEST IN SHOW",
+    "start": "2026-11-06T19:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/best-in-show-2026-11-06-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/bestinshow.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0218839/",
+    "rating": 7.5
+  },
+  {
     "title": "La Bola Negra",
     "start": "2026-11-06T21:20:00-08:00",
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/la-bola-negra",
     "poster": "https://indy-systems.imgix.net/w4vefwa1vf8ljon6g8j5i6qvgo4l?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
+    "rating": 8.1
+  },
+  {
+    "title": "LA BOLA NEGRA (Digital)",
+    "start": "2026-11-06T21:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-digital-2026-11-06-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra11.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt35511966/",
     "rating": 8.1
   },
@@ -7279,6 +9943,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt34384661/",
     "rating": 8.2
+  },
+  {
+    "title": "Howling III: The Marsupials",
+    "start": "2026-11-06T22:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/howling-iii-the-marsupials",
+    "poster": "https://indy-systems.imgix.net/bbzgsvzikf9cpm86soyzkamz97jd?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "GODZILLA MINUS ZERO",
@@ -7344,6 +10017,24 @@
     "rating": 8.2
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-11-07T14:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "LA BOLA NEGRA in 35mm",
+    "start": "2026-11-07T14:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-in-35mm-2026-11-07-200pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
+    "rating": 8.1
+  },
+  {
     "title": "WILD HORSE NINE",
     "start": "2026-11-07T14:00:00-08:00",
     "theater": "Moreland Theater",
@@ -7380,6 +10071,15 @@
     "rating": 8.2
   },
   {
+    "title": "Making Marie Antoinette x MUBI",
+    "start": "2026-11-07T16:00:00-08:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/making-marie-antoinette/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/09/08095606/4B2qSMSyev7aqPNT00TNPVCBKGF.jpg",
+    "imdb": "https://www.imdb.com/title/tt43656794/",
+    "rating": 7.4
+  },
+  {
     "title": "Wild Horse Nine",
     "start": "2026-11-07T16:15:00-08:00",
     "theater": "Cinema 21",
@@ -7414,6 +10114,15 @@
     "poster": "https://indy-systems.imgix.net/qysiioessiqwf5e9t7191g8x0nso?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt41959205/",
     "rating": 8.2
+  },
+  {
+    "title": "LA BOLA NEGRA in 35mm",
+    "start": "2026-11-07T18:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-in-35mm-2026-11-07-600pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
+    "rating": 8.1
   },
   {
     "title": "La Bola Negra",
@@ -7461,6 +10170,15 @@
     "rating": 9.0
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-11-07T19:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Wild Horse Nine",
     "start": "2026-11-07T19:00:00-08:00",
     "theater": "Living Room Theaters",
@@ -7502,6 +10220,15 @@
     "theater": "Living Room Theaters",
     "url": "https://pdx.livingroomtheaters.com/movie/la-bola-negra",
     "poster": "https://indy-systems.imgix.net/w4vefwa1vf8ljon6g8j5i6qvgo4l?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
+    "rating": 8.1
+  },
+  {
+    "title": "LA BOLA NEGRA in 35mm",
+    "start": "2026-11-07T21:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-in-35mm-2026-11-07-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra1.jpg?fit=540%2C303&ssl=1",
     "imdb": "https://www.imdb.com/title/tt35511966/",
     "rating": 8.1
   },
@@ -7623,6 +10350,15 @@
     "rating": 8.2
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-11-08T14:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "WILD HORSE NINE",
     "start": "2026-11-08T14:00:00-08:00",
     "theater": "Moreland Theater",
@@ -7650,6 +10386,15 @@
     "rating": 8.2
   },
   {
+    "title": "The Princess Bride Crafternoon x Ritual Dyes",
+    "start": "2026-11-08T15:30:00-08:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/the-princess-bride-crafternoon-x-ritual-dyes/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/09/24095834/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+    "imdb": "https://www.imdb.com/title/tt0093779/",
+    "rating": 8.0
+  },
+  {
     "title": "THE ROCKETEER",
     "start": "2026-11-08T15:50:00-08:00",
     "theater": "Kiggins Theatre",
@@ -7657,6 +10402,15 @@
     "poster": "https://indy-systems.imgix.net/pl8wxby8le7v4x8mj4eh9718srdl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0102803/",
     "rating": 6.6
+  },
+  {
+    "title": "Beau Travail",
+    "start": "2026-11-08T16:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/beau-travail",
+    "poster": "https://indy-systems.imgix.net/9ndeqi69lf3yh6k1qaa4b07kiwwa?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0209933/",
+    "rating": 7.3
   },
   {
     "title": "GODZILLA MINUS ZERO",
@@ -7692,6 +10446,15 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/C6F966F7028CFFB45A508B0F7A5AC20773C76311F89DE0C62610089BD3352840_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15799564/",
+    "rating": 8.1
+  },
+  {
+    "title": "LA BOLA NEGRA (Digital)",
+    "start": "2026-11-08T18:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-digital-2026-11-08-600pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra11.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
     "rating": 8.1
   },
   {
@@ -7767,6 +10530,15 @@
     "rating": 8.1
   },
   {
+    "title": "James Spooner Book Release + Afro-Punk",
+    "start": "2026-11-08T19:00:00-08:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/james-spooner-book-release-afro-punk/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/06/19084426/43jWAoPMJAjV5sD4qaZGfT0IWRV.jpg",
+    "imdb": "https://www.imdb.com/title/tt0379162/",
+    "rating": 7.2
+  },
+  {
     "title": "GODZILLA MINUS ZERO",
     "start": "2026-11-08T19:15:00-08:00",
     "theater": "Academy Theater",
@@ -7783,6 +10555,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001645&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt34384661/",
     "rating": 8.2
+  },
+  {
+    "title": "TENEBRE with Claudio Simonetti\u2019s GOBLIN",
+    "start": "2026-11-08T20:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/tenebre-with-claudio-simonettis-goblin-2026-11-08-800pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/Tenebre_FB.jpg?fit=540%2C282&ssl=1",
+    "imdb": null,
+    "rating": null
   },
   {
     "title": "GODZILLA MINUS ZERO",
@@ -7857,6 +10638,24 @@
     "rating": 8.1
   },
   {
+    "title": "Music Box Films Presents \u2013 BY DESIGN",
+    "start": "2026-11-09T18:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/music-box-films-presents-by-design/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2NDM5YjUtNTQxZC00ZDJiLTkwNmItYTY1NGU0YTI0Yjg1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt33365660/",
+    "rating": 4.9
+  },
+  {
+    "title": "LA BOLA NEGRA in 35mm",
+    "start": "2026-11-09T18:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-in-35mm-2026-11-09-600pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
+    "rating": 8.1
+  },
+  {
     "title": "GONE GUYS",
     "start": "2026-11-09T18:30:00-08:00",
     "theater": "Kiggins Theatre",
@@ -7918,6 +10717,33 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001645&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt34384661/",
     "rating": 8.2
+  },
+  {
+    "title": "MISSISSIPPI TRIANGLE",
+    "start": "2026-11-09T19:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/mississippi-triangle-2026-11-09-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/mississippi-triangle.jpg?fit=540%2C305&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0460508/",
+    "rating": 7.0
+  },
+  {
+    "title": "Music Box Films Presents \u2013 BY DESIGN",
+    "start": "2026-11-09T20:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/music-box-films-presents-by-design/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2NDM5YjUtNTQxZC00ZDJiLTkwNmItYTY1NGU0YTI0Yjg1XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt33365660/",
+    "rating": 4.9
+  },
+  {
+    "title": "LA BOLA NEGRA in 35mm",
+    "start": "2026-11-09T21:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-in-35mm-2026-11-09-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra1.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
+    "rating": 8.1
   },
   {
     "title": "GODZILLA MINUS ZERO",
@@ -7983,6 +10809,24 @@
     "rating": 8.1
   },
   {
+    "title": "LA BOLA NEGRA (Digital)",
+    "start": "2026-11-10T18:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-digital-2026-11-10-600pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra11.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
+    "rating": 8.1
+  },
+  {
+    "title": "The Discreet Charm of the Bourgeoisie",
+    "start": "2026-11-10T18:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/the-discreet-charm-of-the-bourgeoisie/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/MMU_One_Evening_The_Discreet_Charm_of_the_Bourgeoisies_IMAGE_Nov_2026.png?fit=960%2C540&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0068361/",
+    "rating": 7.7
+  },
+  {
     "title": "GODZILLA MINUS ZERO",
     "start": "2026-11-10T18:30:00-08:00",
     "theater": "Studio One",
@@ -8035,6 +10879,15 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001645&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt34384661/",
     "rating": 8.2
+  },
+  {
+    "title": "LA BOLA NEGRA (Digital)",
+    "start": "2026-11-10T21:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-digital-2026-11-10-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra11.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
+    "rating": 8.1
   },
   {
     "title": "GODZILLA MINUS ZERO",
@@ -8100,6 +10953,15 @@
     "rating": 8.1
   },
   {
+    "title": "LA BOLA NEGRA (Digital)",
+    "start": "2026-11-11T18:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-digital-2026-11-11-600pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra11.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
+    "rating": 8.1
+  },
+  {
     "title": "GODZILLA MINUS ZERO",
     "start": "2026-11-11T18:30:00-08:00",
     "theater": "Studio One",
@@ -8127,6 +10989,15 @@
     "rating": 8.1
   },
   {
+    "title": "Bullet in the Head",
+    "start": "2026-11-11T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/bullet-in-the-head",
+    "poster": "https://indy-systems.imgix.net/p20wukwrmyru4fzxfbl3y4kpcm7e?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0099426/",
+    "rating": 7.5
+  },
+  {
     "title": "SCIENCE ON TAP-ARCHAEOLOGY OF ICE AGE OREGON",
     "start": "2026-11-11T19:00:00-08:00",
     "theater": "Kiggins Theatre",
@@ -8145,6 +11016,15 @@
     "rating": 8.1
   },
   {
+    "title": "A Queer Guide to Saving American Democracy: Book Release + Queen of New York w/ Marti Cummings",
+    "start": "2026-11-11T19:00:00-08:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/queen-of-new-york-w-marti-cummings-a-queer-guide-to-saving-democracy-book-release/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/20134016/hu2fUz9XyYzzkccLmtclDGDBwjf-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt15346940/",
+    "rating": 7.4
+  },
+  {
     "title": "GODZILLA MINUS ZERO",
     "start": "2026-11-11T19:15:00-08:00",
     "theater": "Academy Theater",
@@ -8161,6 +11041,24 @@
     "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001645&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt34384661/",
     "rating": 8.2
+  },
+  {
+    "title": "YOU BROKE MY HEART (Me rompiste el coraz\u00f3n)",
+    "start": "2026-11-11T19:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/you-broke-my-heart-me-rompiste-el-corazon-2026-11-11-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/IMG_3992.jpg?fit=540%2C192&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "LA BOLA NEGRA (Digital)",
+    "start": "2026-11-11T21:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-digital-2026-11-11-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra11.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
+    "rating": 8.1
   },
   {
     "title": "GODZILLA MINUS ZERO",
@@ -8217,6 +11115,24 @@
     "rating": 8.1
   },
   {
+    "title": "LA BOLA NEGRA (Digital)",
+    "start": "2026-11-12T18:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-digital-2026-11-12-600pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra11.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
+    "rating": 8.1
+  },
+  {
+    "title": "The Story of Adele H",
+    "start": "2026-11-12T18:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/the-story-of-adele-h/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/MMU_One_Evening_The_Story_of_Adele_H_IMAGE_Nov_2026.png?fit=960%2C540&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0073114/",
+    "rating": 7.2
+  },
+  {
     "title": "GODZILLA MINUS ZERO",
     "start": "2026-11-12T18:45:00-08:00",
     "theater": "Academy Theater",
@@ -8235,6 +11151,15 @@
     "rating": 8.1
   },
   {
+    "title": "Beau Travail",
+    "start": "2026-11-12T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/beau-travail",
+    "poster": "https://indy-systems.imgix.net/9ndeqi69lf3yh6k1qaa4b07kiwwa?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0209933/",
+    "rating": 7.3
+  },
+  {
     "title": "M\u00e4dchen in Uniform",
     "start": "2026-11-12T19:00:00-08:00",
     "theater": "Clinton Street Theater",
@@ -8250,6 +11175,33 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/C6F966F7028CFFB45A508B0F7A5AC20773C76311F89DE0C62610089BD3352840_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15799564/",
+    "rating": 8.1
+  },
+  {
+    "title": "No Sex Last Night: Sophie Calle Night x Nationale",
+    "start": "2026-11-12T19:00:00-08:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/no-sex-last-night-sophie-calle-night-x-nationale/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/10/07105436/xtPl49qX7qMNLeQD1OZv9OznAne.jpg",
+    "imdb": "https://www.imdb.com/title/tt0117192/",
+    "rating": 7.1
+  },
+  {
+    "title": "CHARIOTS OF FIRE in 35mm",
+    "start": "2026-11-12T19:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/chariots-of-fire-in-35mm-2026-11-12-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/chariots1.jpg?fit=624%2C330&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0082158/",
+    "rating": 7.1
+  },
+  {
+    "title": "LA BOLA NEGRA (Digital)",
+    "start": "2026-11-12T21:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/la-bola-negra-digital-2026-11-12-930pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra11.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35511966/",
     "rating": 8.1
   },
   {
@@ -8307,6 +11259,15 @@
     "rating": 8.2
   },
   {
+    "title": "My Own Private Miniplex",
+    "start": "2026-11-13T19:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "GEOFF TATE LIVE",
     "start": "2026-11-13T19:00:00-08:00",
     "theater": "Kiggins Theatre",
@@ -8332,6 +11293,15 @@
     "poster": "https://indy-systems.imgix.net/7olfbrndfl04ccajbyg86799o4za?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt13652154/",
     "rating": 7.8
+  },
+  {
+    "title": "CHRISTINE",
+    "start": "2026-11-13T19:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/christine-2026-11-13-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/christine.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0085333/",
+    "rating": 6.8
   },
   {
     "title": "Cult of! Labyrinth: A Labyrinth Themed Drag & Burlesque Show",
@@ -8424,6 +11394,15 @@
     "rating": null
   },
   {
+    "title": "KIKI\u2019S DELIVERY SERVICE",
+    "start": "2026-11-14T15:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/kikis-delivery-service-2026-11-14-300pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/Nov-Family-Pictures-KIKIS-DELIVERY-SERVICE-.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0097814/",
+    "rating": 7.8
+  },
+  {
     "title": "GODZILLA MINUS ZERO",
     "start": "2026-11-14T15:45:00-08:00",
     "theater": "Academy Theater",
@@ -8456,6 +11435,24 @@
     "theater": "Clinton Street Theater",
     "url": "https://cstpdx.com/event/repo-the-genetic-opera-with-the-denton-deliquents-3/",
     "poster": "https://cstpdx.com/wp-content/uploads/2024/08/repo.jpeg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "SORORITY BABES IN THE SLIMEBALL BOWL-O-RAMA with Linnea Quigley and Andras Jones",
+    "start": "2026-11-14T19:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/sorority-babes-in-the-slimeball-bowl-o-rama-with-linnea-quigley-and-andras-jones-2026-11-14-700pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/slimeball.jpg?fit=540%2C305&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "My Own Private Miniplex",
+    "start": "2026-11-14T19:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -8550,6 +11547,33 @@
     "rating": null
   },
   {
+    "title": "Chocolat",
+    "start": "2026-11-15T14:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/chocolat-2",
+    "poster": "https://indy-systems.imgix.net/k5cx09z40qnvfubmigxb4nuors6f?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0241303/",
+    "rating": 7.2
+  },
+  {
+    "title": "THE GOONIES",
+    "start": "2026-11-15T14:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/the-goonies-2026-11-15-200pm/",
+    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/thegoonies-1.jpg",
+    "imdb": "https://www.imdb.com/title/tt0089218/",
+    "rating": 7.7
+  },
+  {
+    "title": "Miniplex Rental \u2013 Specialty",
+    "start": "2026-11-15T14:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/miniplex-rental-specialty/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/therulesofattraction.jpg?fit=540%2C304&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "WILD HORSE NINE",
     "start": "2026-11-15T14:00:00-08:00",
     "theater": "Moreland Theater",
@@ -8566,6 +11590,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/10/RoadLessPoster5.jpg",
     "imdb": "https://www.imdb.com/title/tt12116472/",
     "rating": 6.2
+  },
+  {
+    "title": "KIKI\u2019S DELIVERY SERVICE",
+    "start": "2026-11-15T15:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/kikis-delivery-service-2026-11-15-300pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/Nov-Family-Pictures-KIKIS-DELIVERY-SERVICE-.jpg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0097814/",
+    "rating": 7.8
   },
   {
     "title": "GODZILLA MINUS ZERO",
@@ -8613,6 +11646,15 @@
     "rating": 8.1
   },
   {
+    "title": "Tampopo",
+    "start": "2026-11-15T19:00:00-08:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/tampopo-3/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/07/21103342/ArYdSuX3zY9fMsE4LqmBl7xJq5R.jpg",
+    "imdb": "https://www.imdb.com/title/tt0092048/",
+    "rating": 7.9
+  },
+  {
     "title": "GODZILLA MINUS ZERO",
     "start": "2026-11-15T19:15:00-08:00",
     "theater": "Academy Theater",
@@ -8658,6 +11700,15 @@
     "rating": 8.1
   },
   {
+    "title": "Vinegar Syndrome Presents \u2013 THE STENDHAL SYNDROME",
+    "start": "2026-11-16T18:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/vinegar-syndrome-presents-the-stendhal-syndrome/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ5NjVlMDItNGE4Mi00YzJhLTljMDMtMjBjMDVlNmJhYjE2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0117658/",
+    "rating": 6.0
+  },
+  {
     "title": "WILD HORSE NINE",
     "start": "2026-11-16T19:00:00-08:00",
     "theater": "Moreland Theater",
@@ -8674,5 +11725,23 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/95BA08157B9AAE3A3E6AC29D7BE1C35DE67CF415FFF604EC71F28681194714B4_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt34384661/",
     "rating": 8.2
+  },
+  {
+    "title": "ADDAMS FAMILY VALUES",
+    "start": "2026-11-16T19:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/event/addams-family-values-2026-11-16-730pm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/IMG_2652.jpeg?fit=540%2C303&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0106220/",
+    "rating": 6.9
+  },
+  {
+    "title": "Vinegar Syndrome Presents \u2013 THE STENDHAL SYNDROME",
+    "start": "2026-11-16T20:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/vinegar-syndrome-presents-the-stendhal-syndrome/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ5NjVlMDItNGE4Mi00YzJhLTljMDMtMjBjMDVlNmJhYjE2XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0117658/",
+    "rating": 6.0
   }
 ]

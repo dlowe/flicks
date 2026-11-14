@@ -1,896 +1,5 @@
 [
   {
-    "title": "D.B. COOPER CON 2026",
-    "start": "2026-11-13T10:00:00-08:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/db-cooper-con-2026",
-    "poster": "https://indy-systems.imgix.net/01juxpakg4sqa21h4g8iy3dks1ck?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Wicker",
-    "start": "2026-11-13T11:45:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wicker",
-    "poster": "https://indy-systems.imgix.net/00jj3ri750tzx8y2s40cr96nwa8r?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29611136/",
-    "rating": 7.4
-  },
-  {
-    "title": "Wild Horse Nine",
-    "start": "2026-11-13T11:50:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wild-horse-nine",
-    "poster": "https://indy-systems.imgix.net/wsf7pzfjcfanco8l29kc2olpv2i5?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "Fatherland",
-    "start": "2026-11-13T12:15:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/fatherland",
-    "poster": "https://indy-systems.imgix.net/09qqqo7tdvlvl714roka7svahrkm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37304295/",
-    "rating": 7.4
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-13T12:30:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "Wildwood",
-    "start": "2026-11-13T12:30:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wildwood",
-    "poster": "https://indy-systems.imgix.net/nn9pf8dq1oivvs27l4mwcf21ei9a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-13T12:45:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/95BA08157B9AAE3A3E6AC29D7BE1C35DE67CF415FFF604EC71F28681194714B4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34384661/",
-    "rating": 7.9
-  },
-  {
-    "title": "La Bola Negra",
-    "start": "2026-11-13T12:45:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/la-bola-negra",
-    "poster": "https://indy-systems.imgix.net/w4vefwa1vf8ljon6g8j5i6qvgo4l?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35511966/",
-    "rating": 8.2
-  },
-  {
-    "title": "THE NARROW MARGIN (1952)",
-    "start": "2026-11-13T13:00:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTE5MTMtMTEyMi00NzBkLWJkYzctNTNjMjI4ZGM4MThhXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0044954/",
-    "rating": 7.6
-  },
-  {
-    "title": "The Only Living Pickpocket In New York",
-    "start": "2026-11-13T13:00:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-only-living-pickpocket-in-new-york",
-    "poster": "https://indy-systems.imgix.net/cc68fqmdn3ao8pqh94wr0zxinbg1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36482679/",
-    "rating": 7.3
-  },
-  {
-    "title": "Wicker",
-    "start": "2026-11-13T14:00:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wicker",
-    "poster": "https://indy-systems.imgix.net/00jj3ri750tzx8y2s40cr96nwa8r?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29611136/",
-    "rating": 7.4
-  },
-  {
-    "title": "Wild Horse Nine",
-    "start": "2026-11-13T14:15:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wild-horse-nine",
-    "poster": "https://indy-systems.imgix.net/wsf7pzfjcfanco8l29kc2olpv2i5?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "Mouse",
-    "start": "2026-11-13T14:20:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/mouse",
-    "poster": "https://indy-systems.imgix.net/7olfbrndfl04ccajbyg86799o4za?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt13652154/",
-    "rating": 7.9
-  },
-  {
-    "title": "EBENEZER",
-    "start": "2026-11-13T14:45:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D48B5745B27AC67C599815A8A1752A45BB4CFF1201C6FC574A3801880925CBCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt38773219/",
-    "rating": 7.0
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-13T15:00:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "Fatherland",
-    "start": "2026-11-13T15:00:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/fatherland",
-    "poster": "https://indy-systems.imgix.net/09qqqo7tdvlvl714roka7svahrkm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37304295/",
-    "rating": 7.4
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-13T15:00:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "WICKER",
-    "start": "2026-11-13T15:10:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6BCEF6FCFDA24F4FD6243A0B627ACF2BCBFDB7211822E4087D724F5EBEC79172_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29611136/",
-    "rating": 7.4
-  },
-  {
-    "title": "WILD HORSE NINE",
-    "start": "2026-11-13T15:20:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C6F966F7028CFFB45A508B0F7A5AC20773C76311F89DE0C62610089BD3352840_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-13T15:30:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "YOU CAN SEE EVERYTHING",
-    "start": "2026-11-13T15:30:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
-  },
-  {
-    "title": "Wildwood",
-    "start": "2026-11-13T15:30:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wildwood",
-    "poster": "https://indy-systems.imgix.net/nn9pf8dq1oivvs27l4mwcf21ei9a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "You Can See Everything",
-    "start": "2026-11-13T15:35:00-08:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19705?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001652&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
-  },
-  {
-    "title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-13T15:45:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/95BA08157B9AAE3A3E6AC29D7BE1C35DE67CF415FFF604EC71F28681194714B4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34384661/",
-    "rating": 7.9
-  },
-  {
-    "title": "You Can See Everything",
-    "start": "2026-11-13T15:45:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/you-can-see-everything",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
-    "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
-  },
-  {
-    "title": "WILD HORSE NINE",
-    "start": "2026-11-13T15:45:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6B2A0BB2F03E65B14708AF11CBE2C44F65A8C864DB2A708A645C26DAE012A838_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-13T15:45:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34384661/",
-    "rating": 7.9
-  },
-  {
-    "title": "FEMALE PRISONER #701: SCORPION (1972)",
-    "start": "2026-11-13T16:00:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzIwOGYxM2YtNGE0Zi00OTM5LWJmYWItMTJlMDI4YmNjYTc3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0226872/",
-    "rating": 7.2
-  },
-  {
-    "title": "Fatherland",
-    "start": "2026-11-13T16:00:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/fatherland",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_f4c02e84-6e4a-4b4c-b768-3367114f90b4.jpg",
-    "imdb": "https://www.imdb.com/title/tt37304295/",
-    "rating": 7.4
-  },
-  {
-    "title": "WICKER",
-    "start": "2026-11-13T16:00:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29611136/",
-    "rating": 7.4
-  },
-  {
-    "title": "Wicker",
-    "start": "2026-11-13T16:00:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wicker",
-    "poster": "https://indy-systems.imgix.net/00jj3ri750tzx8y2s40cr96nwa8r?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29611136/",
-    "rating": 7.4
-  },
-  {
-    "title": "Wildwood",
-    "start": "2026-11-13T16:00:00-08:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19706?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001637&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "Wild Horse Nine",
-    "start": "2026-11-13T16:10:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/wild-horse-nine",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_9a340709-b541-49cf-a928-2f09553a1449.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "La Bola Negra",
-    "start": "2026-11-13T16:15:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/la-bola-negra",
-    "poster": "https://indy-systems.imgix.net/w4vefwa1vf8ljon6g8j5i6qvgo4l?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35511966/",
-    "rating": 8.2
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-13T16:30:00-08:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "Wild Horse Nine",
-    "start": "2026-11-13T16:45:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wild-horse-nine",
-    "poster": "https://indy-systems.imgix.net/wsf7pzfjcfanco8l29kc2olpv2i5?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "Fatherland",
-    "start": "2026-11-13T16:50:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/fatherland",
-    "poster": "https://indy-systems.imgix.net/09qqqo7tdvlvl714roka7svahrkm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37304295/",
-    "rating": 7.4
-  },
-  {
-    "title": "The Only Living Pickpocket In New York",
-    "start": "2026-11-13T17:00:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-only-living-pickpocket-in-new-york",
-    "poster": "https://indy-systems.imgix.net/cc68fqmdn3ao8pqh94wr0zxinbg1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36482679/",
-    "rating": 7.3
-  },
-  {
-    "title": "YOU CAN SEE EVERYTHING",
-    "start": "2026-11-13T17:05:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
-  },
-  {
-    "title": "WILD HORSE NINE",
-    "start": "2026-11-13T17:20:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C6F966F7028CFFB45A508B0F7A5AC20773C76311F89DE0C62610089BD3352840_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "EBENEZER",
-    "start": "2026-11-13T17:40:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D48B5745B27AC67C599815A8A1752A45BB4CFF1201C6FC574A3801880925CBCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt38773219/",
-    "rating": 7.0
-  },
-  {
-    "title": "You Can See Everything",
-    "start": "2026-11-13T18:00:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/you-can-see-everything",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
-    "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
-  },
-  {
-    "title": "LA BOLA NEGRA (Digital)",
-    "start": "2026-11-13T18:00:00-08:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/la-bola-negra-digital/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/09/la-bola-negra11.jpg?fit=540%2C303&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt35511966/",
-    "rating": 8.2
-  },
-  {
-    "title": "YOU CAN SEE EVERYTHING",
-    "start": "2026-11-13T18:00:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
-  },
-  {
-    "title": "WICKER",
-    "start": "2026-11-13T18:00:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6BCEF6FCFDA24F4FD6243A0B627ACF2BCBFDB7211822E4087D724F5EBEC79172_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29611136/",
-    "rating": 7.4
-  },
-  {
-    "title": "La Bola Negra",
-    "start": "2026-11-13T18:15:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/la-bola-negra",
-    "poster": "https://indy-systems.imgix.net/w4vefwa1vf8ljon6g8j5i6qvgo4l?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35511966/",
-    "rating": 8.2
-  },
-  {
-    "title": "WILD HORSE NINE",
-    "start": "2026-11-13T18:20:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C6F966F7028CFFB45A508B0F7A5AC20773C76311F89DE0C62610089BD3352840_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-13T18:30:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "WILD HORSE NINE",
-    "start": "2026-11-13T18:30:00-08:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wild-horse-nine/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/wild-horse-nine1.jpg?fit=1280%2C683&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "WILD HORSE NINE",
-    "start": "2026-11-13T18:30:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6B2A0BB2F03E65B14708AF11CBE2C44F65A8C864DB2A708A645C26DAE012A838_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "Wildwood",
-    "start": "2026-11-13T18:30:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wildwood",
-    "poster": "https://indy-systems.imgix.net/nn9pf8dq1oivvs27l4mwcf21ei9a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-13T18:35:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-13T18:45:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/95BA08157B9AAE3A3E6AC29D7BE1C35DE67CF415FFF604EC71F28681194714B4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34384661/",
-    "rating": 7.9
-  },
-  {
-    "title": "Wild Horse Nine",
-    "start": "2026-11-13T18:45:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/wild-horse-nine",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_9a340709-b541-49cf-a928-2f09553a1449.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "WICKER",
-    "start": "2026-11-13T18:45:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29611136/",
-    "rating": 7.4
-  },
-  {
-    "title": "Fatherland",
-    "start": "2026-11-13T18:45:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/fatherland",
-    "poster": "https://indy-systems.imgix.net/09qqqo7tdvlvl714roka7svahrkm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37304295/",
-    "rating": 7.4
-  },
-  {
-    "title": "GOODFELLAS (1990)",
-    "start": "2026-11-13T19:00:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6540EC0913C586AF2449BC34D878C819F204E00035ABCDE994078DA2A112D607_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0099685/",
-    "rating": 8.7
-  },
-  {
-    "title": "10 Things I Hate About You",
-    "start": "2026-11-13T19:00:00-08:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/10-things-i-hate-about-you",
-    "poster": "https://indy-systems.imgix.net/dy7asqak38pfazvrle1uonm35ihh?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0147800/",
-    "rating": 7.4
-  },
-  {
-    "title": "My Own Private Miniplex",
-    "start": "2026-11-13T19:00:00-08:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://moviemadness.org/show/my-own-private-miniplex/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "GEOFF TATE LIVE",
-    "start": "2026-11-13T19:00:00-08:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/geoff-tate-live",
-    "poster": "https://indy-systems.imgix.net/id6ut02u8cd5eslnjvirac4rrr6a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-13T19:00:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "Mouse",
-    "start": "2026-11-13T19:00:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/mouse",
-    "poster": "https://indy-systems.imgix.net/7olfbrndfl04ccajbyg86799o4za?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt13652154/",
-    "rating": 7.9
-  },
-  {
-    "title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-13T19:00:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34384661/",
-    "rating": 7.9
-  },
-  {
-    "title": "Fatherland",
-    "start": "2026-11-13T19:15:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/fatherland",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_f4c02e84-6e4a-4b4c-b768-3367114f90b4.jpg",
-    "imdb": "https://www.imdb.com/title/tt37304295/",
-    "rating": 7.4
-  },
-  {
-    "title": "Wild Horse Nine",
-    "start": "2026-11-13T19:15:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wild-horse-nine",
-    "poster": "https://indy-systems.imgix.net/wsf7pzfjcfanco8l29kc2olpv2i5?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-13T19:15:00-08:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "Wildwood",
-    "start": "2026-11-13T19:15:00-08:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19707?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001637&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "CHRISTINE",
-    "start": "2026-11-13T19:30:00-08:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/christine/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/christine.jpg?fit=540%2C303&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt0085333/",
-    "rating": 6.8
-  },
-  {
-    "title": "Wicker",
-    "start": "2026-11-13T19:30:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wicker",
-    "poster": "https://indy-systems.imgix.net/00jj3ri750tzx8y2s40cr96nwa8r?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29611136/",
-    "rating": 7.4
-  },
-  {
-    "title": "You Can See Everything",
-    "start": "2026-11-13T19:35:00-08:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19708?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001652&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
-  },
-  {
-    "title": "Cult of! Labyrinth: A Labyrinth Themed Drag & Burlesque Show",
-    "start": "2026-11-13T20:00:00-08:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/cult-of-labyrinth-a-labyrinth-themed-drag-burlesque-show/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/09/labyrinth-drag.png",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "EBENEZER",
-    "start": "2026-11-13T20:20:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D48B5745B27AC67C599815A8A1752A45BB4CFF1201C6FC574A3801880925CBCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt38773219/",
-    "rating": 7.0
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-13T20:35:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "WICKER",
-    "start": "2026-11-13T20:50:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6BCEF6FCFDA24F4FD6243A0B627ACF2BCBFDB7211822E4087D724F5EBEC79172_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29611136/",
-    "rating": 7.4
-  },
-  {
-    "title": "YOU CAN SEE EVERYTHING",
-    "start": "2026-11-13T21:00:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
-  },
-  {
-    "title": "Fatherland",
-    "start": "2026-11-13T21:00:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/fatherland",
-    "poster": "https://indy-systems.imgix.net/09qqqo7tdvlvl714roka7svahrkm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37304295/",
-    "rating": 7.4
-  },
-  {
-    "title": "YOU CAN SEE EVERYTHING",
-    "start": "2026-11-13T21:00:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
-  },
-  {
-    "title": "Tammy & the Trex",
-    "start": "2026-11-13T21:15:00-08:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/tammy-the-trex",
-    "poster": "https://indy-systems.imgix.net/1ukx7mfuqe91q3h8vcv5qhpj6ugq?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "WILD HORSE NINE",
-    "start": "2026-11-13T21:15:00-08:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wild-horse-nine/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/wild-horse-nine1.jpg?fit=1280%2C683&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "WICKER",
-    "start": "2026-11-13T21:15:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/E7AA66C64287C42309373E8C9EBC89E914B97809F55337520BD808972C646043_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt29611136/",
-    "rating": 7.4
-  },
-  {
-    "title": "Fatherland",
-    "start": "2026-11-13T21:20:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/fatherland",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_f4c02e84-6e4a-4b4c-b768-3367114f90b4.jpg",
-    "imdb": "https://www.imdb.com/title/tt37304295/",
-    "rating": 7.4
-  },
-  {
-    "title": "WILD HORSE NINE",
-    "start": "2026-11-13T21:20:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C6F966F7028CFFB45A508B0F7A5AC20773C76311F89DE0C62610089BD3352840_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "Wild Horse Nine",
-    "start": "2026-11-13T21:25:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/wild-horse-nine",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_9a340709-b541-49cf-a928-2f09553a1449.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "La Bola Negra",
-    "start": "2026-11-13T21:25:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/la-bola-negra",
-    "poster": "https://indy-systems.imgix.net/w4vefwa1vf8ljon6g8j5i6qvgo4l?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt35511966/",
-    "rating": 8.2
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-13T21:30:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "The Room (2003)",
-    "start": "2026-11-13T21:30:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/the-room-2003",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_a07d0e0c-0579-4dd8-8e4c-750b84e1dcde.jpg",
-    "imdb": "https://www.imdb.com/title/tt0368226/",
-    "rating": 3.6
-  },
-  {
-    "title": "WILD HORSE NINE",
-    "start": "2026-11-13T21:30:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/6B2A0BB2F03E65B14708AF11CBE2C44F65A8C864DB2A708A645C26DAE012A838_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "Wildwood",
-    "start": "2026-11-13T21:30:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wildwood",
-    "poster": "https://indy-systems.imgix.net/nn9pf8dq1oivvs27l4mwcf21ei9a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "A Talent for Murder",
-    "start": "2026-11-13T21:35:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/a-talent-for-murder",
-    "poster": "https://indy-systems.imgix.net/viboe9r2kb6p3ooidtmi1o1ditx5?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt14129116/",
-    "rating": 6.8
-  },
-  {
-    "title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-13T21:45:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/95BA08157B9AAE3A3E6AC29D7BE1C35DE67CF415FFF604EC71F28681194714B4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34384661/",
-    "rating": 7.9
-  },
-  {
-    "title": "Wicker",
-    "start": "2026-11-13T21:45:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wicker",
-    "poster": "https://indy-systems.imgix.net/00jj3ri750tzx8y2s40cr96nwa8r?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29611136/",
-    "rating": 7.4
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-13T21:50:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "Wild Horse Nine",
-    "start": "2026-11-13T21:50:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wild-horse-nine",
-    "poster": "https://indy-systems.imgix.net/wsf7pzfjcfanco8l29kc2olpv2i5?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "FEMALE PRISONER #701: SCORPION (1972)",
-    "start": "2026-11-13T22:00:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzIwOGYxM2YtNGE0Zi00OTM5LWJmYWItMTJlMDI4YmNjYTc3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0226872/",
-    "rating": 7.2
-  },
-  {
-    "title": "TOUCH OF EVIL",
-    "start": "2026-11-13T22:00:00-08:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/B41B789820689989295D109F50F33CA801204B38F53EE277DE5DD1258D51F829_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0052311/",
-    "rating": 7.9
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-13T22:00:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-13T22:20:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34384661/",
-    "rating": 7.9
-  },
-  {
-    "title": "EBENEZER",
-    "start": "2026-11-14T09:00:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D48B5745B27AC67C599815A8A1752A45BB4CFF1201C6FC574A3801880925CBCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt38773219/",
-    "rating": 7.0
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-14T09:00:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
     "title": "YOU CAN SEE EVERYTHING",
     "start": "2026-11-14T09:20:00-08:00",
     "theater": "Studio One",
@@ -954,6 +63,15 @@
     "rating": 8.6
   },
   {
+    "title": "WILDWOOD",
+    "start": "2026-11-14T11:20:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.6
+  },
+  {
     "title": "YOU CAN SEE EVERYTHING",
     "start": "2026-11-14T11:30:00-08:00",
     "theater": "Laurelhurst Theater",
@@ -1006,15 +124,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/6B2A0BB2F03E65B14708AF11CBE2C44F65A8C864DB2A708A645C26DAE012A838_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt15799564/",
     "rating": 8.1
-  },
-  {
-    "title": "EBENEZER",
-    "start": "2026-11-14T12:00:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D48B5745B27AC67C599815A8A1752A45BB4CFF1201C6FC574A3801880925CBCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt38773219/",
-    "rating": 7.0
   },
   {
     "title": "You Can See Everything",
@@ -1687,7 +796,7 @@
     "start": "2026-11-14T19:00:00-08:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/my-own-private-miniplex/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -1998,6 +1107,15 @@
     "rating": null
   },
   {
+    "title": "GODZILLA MINUS ZERO",
+    "start": "2026-11-15T09:00:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt34384661/",
+    "rating": 7.9
+  },
+  {
     "title": "WILDWOOD",
     "start": "2026-11-15T09:00:00-08:00",
     "theater": "Studio One",
@@ -2052,13 +1170,13 @@
     "rating": 7.4
   },
   {
-    "title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-15T10:40:00-08:00",
+    "title": "WILDWOOD",
+    "start": "2026-11-15T10:45:00-08:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34384661/",
-    "rating": 7.9
+    "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.6
   },
   {
     "title": "WILDWOOD",
@@ -2075,15 +1193,6 @@
     "theater": "Laurelhurst Theater",
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
-  },
-  {
-    "title": "YOU CAN SEE EVERYTHING",
-    "start": "2026-11-15T11:40:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
     "rating": 9.0
   },
@@ -2106,6 +1215,15 @@
     "rating": 8.1
   },
   {
+    "title": "YOU CAN SEE EVERYTHING",
+    "start": "2026-11-15T11:55:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt45368240/",
+    "rating": 9.0
+  },
+  {
     "title": "WILD HORSE NINE",
     "start": "2026-11-15T12:00:00-08:00",
     "theater": "Laurelhurst Theater",
@@ -2125,7 +1243,7 @@
   },
   {
     "title": "EBENEZER",
-    "start": "2026-11-15T12:00:00-08:00",
+    "start": "2026-11-15T12:05:00-08:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D48B5745B27AC67C599815A8A1752A45BB4CFF1201C6FC574A3801880925CBCB_200_300_85.jpg",
@@ -2323,7 +1441,7 @@
   },
   {
     "title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-15T14:00:00-08:00",
+    "start": "2026-11-15T14:05:00-08:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
@@ -2907,22 +2025,22 @@
     "rating": 9.0
   },
   {
-    "title": "GODZILLA MINUS ZERO",
+    "title": "WILDWOOD",
     "start": "2026-11-15T20:35:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt2056785/",
+    "rating": 8.6
+  },
+  {
+    "title": "GODZILLA MINUS ZERO",
+    "start": "2026-11-15T20:55:00-08:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/60B69F52B1A421786022C7A44F3821DE6ECE043C01BA25CFA8D92B86710BD740_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt34384661/",
     "rating": 7.9
-  },
-  {
-    "title": "YOU CAN SEE EVERYTHING",
-    "start": "2026-11-15T20:55:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
   },
   {
     "title": "WILD HORSE NINE",
@@ -6027,7 +5145,7 @@
     "url": "https://www.kigginstheatre.com/movie/hen",
     "poster": "https://indy-systems.imgix.net/63i9mtwa4b4nn1i1fi1kg3wdslc6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29283995/",
-    "rating": 6.9
+    "rating": 7.0
   },
   {
     "title": "WILDWOOD",
@@ -6187,7 +5305,7 @@
     "start": "2026-11-20T19:00:00-08:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/my-own-private-miniplex/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -6243,7 +5361,7 @@
     "url": "https://www.kigginstheatre.com/movie/hen",
     "poster": "https://indy-systems.imgix.net/63i9mtwa4b4nn1i1fi1kg3wdslc6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29283995/",
-    "rating": 6.9
+    "rating": 7.0
   },
   {
     "title": "Wildwood",
@@ -6477,7 +5595,7 @@
     "url": "https://www.kigginstheatre.com/movie/hen",
     "poster": "https://indy-systems.imgix.net/63i9mtwa4b4nn1i1fi1kg3wdslc6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29283995/",
-    "rating": 6.9
+    "rating": 7.0
   },
   {
     "title": "WILDWOOD",
@@ -6637,7 +5755,7 @@
     "start": "2026-11-21T19:00:00-08:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/my-own-private-miniplex/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -6693,7 +5811,7 @@
     "url": "https://www.kigginstheatre.com/movie/hen",
     "poster": "https://indy-systems.imgix.net/63i9mtwa4b4nn1i1fi1kg3wdslc6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29283995/",
-    "rating": 6.9
+    "rating": 7.0
   },
   {
     "title": "Wildwood",
@@ -6916,7 +6034,7 @@
     "start": "2026-11-22T14:00:00-08:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/my-own-private-miniplex/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -6981,7 +6099,7 @@
     "url": "https://www.kigginstheatre.com/movie/hen",
     "poster": "https://indy-systems.imgix.net/63i9mtwa4b4nn1i1fi1kg3wdslc6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29283995/",
-    "rating": 6.9
+    "rating": 7.0
   },
   {
     "title": "GODZILLA MINUS ZERO",
@@ -7044,7 +6162,7 @@
     "url": "https://www.kigginstheatre.com/movie/a-simple-machine",
     "poster": "https://indy-systems.imgix.net/qzsbv4o7brlv0ns4yekkeg33zkld?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29603292/",
-    "rating": 8.5
+    "rating": 8.6
   },
   {
     "title": "WILDWOOD",
@@ -7431,7 +6549,7 @@
     "url": "https://www.kigginstheatre.com/movie/hen",
     "poster": "https://indy-systems.imgix.net/63i9mtwa4b4nn1i1fi1kg3wdslc6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29283995/",
-    "rating": 6.9
+    "rating": 7.0
   },
   {
     "title": "Wildwood",
@@ -7575,7 +6693,7 @@
     "url": "https://www.kigginstheatre.com/movie/hen",
     "poster": "https://indy-systems.imgix.net/63i9mtwa4b4nn1i1fi1kg3wdslc6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29283995/",
-    "rating": 6.9
+    "rating": 7.0
   },
   {
     "title": "WILD HORSE NINE",
@@ -8007,7 +7125,7 @@
     "url": "https://www.kigginstheatre.com/movie/hen",
     "poster": "https://indy-systems.imgix.net/63i9mtwa4b4nn1i1fi1kg3wdslc6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt29283995/",
-    "rating": 6.9
+    "rating": 7.0
   },
   {
     "title": "HEXED",
@@ -8572,7 +7690,7 @@
     "start": "2026-11-27T19:00:00-08:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/my-own-private-miniplex/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -9213,7 +8331,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/national-theatre-live-golden-boy",
     "poster": "https://indy-systems.imgix.net/frr62wignkfhc078jr98urt8xhji?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt44475956/",
-    "rating": 8.4
+    "rating": 8.1
   },
   {
     "title": "FOCKER IN LAW",
@@ -9256,7 +8374,7 @@
     "start": "2026-11-29T14:00:00-08:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/my-own-private-miniplex/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -9387,7 +8505,7 @@
     "rating": 7.8
   },
   {
-    "title": "LES BLANK CELEBRATION",
+    "title": "LES BLANK CELEBRATION w/Harrod Blank",
     "start": "2026-11-29T18:00:00-08:00",
     "theater": "Hollywood Theatre",
     "url": "https://hollywoodtheatre.org/show/les-blank-celebration/",
@@ -9933,7 +9051,7 @@
     "url": "https://pdx.livingroomtheaters.com/movie/national-theatre-live-golden-boy",
     "poster": "https://indy-systems.imgix.net/frr62wignkfhc078jr98urt8xhji?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt44475956/",
-    "rating": 8.4
+    "rating": 8.1
   },
   {
     "title": "PAPER TIGER",
@@ -10251,6 +9369,15 @@
     "rating": 7.7
   },
   {
+    "title": "RENT Movie Bingo",
+    "start": "2026-12-04T19:00:00-08:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/rent-movie-bingo/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/08/25113755/5.-RENT-BINGO-POSTER.png",
+    "imdb": "https://www.imdb.com/title/tt0294870/",
+    "rating": 6.9
+  },
+  {
     "title": "GREMLINS",
     "start": "2026-12-04T19:30:00-08:00",
     "theater": "Hollywood Theatre",
@@ -10266,7 +9393,7 @@
     "url": "https://www.kigginstheatre.com/movie/being-heumann",
     "poster": "https://indy-systems.imgix.net/fmqbckmamoddweyibx7ybxinevgl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15095848/",
-    "rating": 7.1
+    "rating": 6.9
   },
   {
     "title": "RAY GUNN",
@@ -10318,7 +9445,7 @@
     "start": "2026-12-05T12:00:00-08:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/my-own-private-miniplex/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -10338,7 +9465,7 @@
     "url": "https://www.kigginstheatre.com/movie/being-heumann",
     "poster": "https://indy-systems.imgix.net/fmqbckmamoddweyibx7ybxinevgl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15095848/",
-    "rating": 7.1
+    "rating": 6.9
   },
   {
     "title": "ELSINORE",
@@ -10372,7 +9499,7 @@
     "start": "2026-12-05T16:00:00-08:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/my-own-private-miniplex/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -10462,7 +9589,7 @@
     "start": "2026-12-05T20:00:00-08:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/my-own-private-miniplex/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -10494,6 +9621,15 @@
     "rating": 7.6
   },
   {
+    "title": "The Rocky Horror Picture Show with the Clinton Street Cabaret",
+    "start": "2026-12-05T22:30:00-08:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-the-clinton-street-cabaret-108/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2022/05/rockyhorror.jpeg",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Harold and Maude (1971)",
     "start": "2026-12-06T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -10509,7 +9645,7 @@
     "url": "https://www.kigginstheatre.com/movie/being-heumann",
     "poster": "https://indy-systems.imgix.net/fmqbckmamoddweyibx7ybxinevgl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15095848/",
-    "rating": 7.1
+    "rating": 6.9
   },
   {
     "title": "Twin Peaks: The Return Episodes 3, 4, 5 & 6",
@@ -10525,7 +9661,7 @@
     "start": "2026-12-06T14:00:00-08:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/my-own-private-miniplex/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -10608,7 +9744,7 @@
     "url": "https://www.kigginstheatre.com/movie/being-heumann",
     "poster": "https://indy-systems.imgix.net/fmqbckmamoddweyibx7ybxinevgl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15095848/",
-    "rating": 7.1
+    "rating": 6.9
   },
   {
     "title": "Behemoth!",
@@ -10662,7 +9798,7 @@
     "url": "https://www.kigginstheatre.com/movie/being-heumann",
     "poster": "https://indy-systems.imgix.net/fmqbckmamoddweyibx7ybxinevgl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15095848/",
-    "rating": 7.1
+    "rating": 6.9
   },
   {
     "title": "ELSINORE",
@@ -10797,7 +9933,7 @@
     "url": "https://www.kigginstheatre.com/movie/being-heumann",
     "poster": "https://indy-systems.imgix.net/fmqbckmamoddweyibx7ybxinevgl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15095848/",
-    "rating": 7.1
+    "rating": 6.9
   },
   {
     "title": "RAY GUNN",
@@ -10824,7 +9960,7 @@
     "url": "https://www.kigginstheatre.com/movie/being-heumann",
     "poster": "https://indy-systems.imgix.net/fmqbckmamoddweyibx7ybxinevgl?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt15095848/",
-    "rating": 7.1
+    "rating": 6.9
   },
   {
     "title": "RAY GUNN",
@@ -10917,6 +10053,15 @@
     "rating": 7.8
   },
   {
+    "title": "Barbara Forever x Lesbian Cinema Club",
+    "start": "2026-12-10T19:00:00-08:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/barbara-forever-x-lesbian-cinema-club/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/10/08134441/kYjCmL8sg17zoKtm5Pb6Cn4H0nB-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt39150008/",
+    "rating": 7.4
+  },
+  {
     "title": "PARIS WAS A WOMAN with Andrea Weiss + Book Signing",
     "start": "2026-12-10T19:30:00-08:00",
     "theater": "Hollywood Theatre",
@@ -10957,7 +10102,7 @@
     "start": "2026-12-11T19:00:00-08:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/my-own-private-miniplex/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -11083,7 +10228,7 @@
     "start": "2026-12-12T19:00:00-08:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/my-own-private-miniplex/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -11106,6 +10251,15 @@
     "rating": 7.3
   },
   {
+    "title": "The Rocky Horror Picture Show with Sinophelia",
+    "start": "2026-12-12T23:00:00-08:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-sinophelia-24/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2023/07/rhps-virgins.webp",
+    "imdb": null,
+    "rating": null
+  },
+  {
     "title": "Little Women (1994) x Woonwinkel",
     "start": "2026-12-13T14:00:00-07:00",
     "theater": "PAM CUT / Whitsell",
@@ -11119,7 +10273,7 @@
     "start": "2026-12-13T14:00:00-08:00",
     "theater": "Hollywood Theatre",
     "url": "https://moviemadness.org/show/my-own-private-miniplex/",
-    "poster": "https://hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
   },
@@ -11178,6 +10332,15 @@
     "rating": null
   },
   {
+    "title": "Pee-wee\u2019s Playhouse Christmas Special // 6 PM Screening",
+    "start": "2026-12-13T18:00:00-08:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/pee-wees-playhouse-christmas-special-6-pm-screening/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/09/23133915/aTgwm9t1z7PIOGa06lGY6ITlh3i1.jpg",
+    "imdb": "https://www.imdb.com/title/tt0251640/",
+    "rating": 7.8
+  },
+  {
     "title": "Queens For A Day (w/ Chris Carter Q&A)",
     "start": "2026-12-13T19:00:00-08:00",
     "theater": "Cinema 21",
@@ -11212,5 +10375,50 @@
     "poster": "https://indy-systems.imgix.net/pn73jobprb7jwcdhx7sgcunq87ej?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0054731/",
     "rating": 7.5
+  },
+  {
+    "title": "ELF",
+    "start": "2026-12-14T17:15:00-08:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/elf",
+    "poster": "https://indy-systems.imgix.net/alnhsw6w68vrvg2yzjwruo3ho2ki?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0319343/",
+    "rating": 7.1
+  },
+  {
+    "title": "Queens For A Day (w/ Chris Carter Q&A)",
+    "start": "2026-12-14T19:00:00-08:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/queens-for-a-day-w-chris-carter-qa",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_166dab55-8523-4756-b2fe-68ade7ebc2cc.jpg",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Hundreds of Beavers",
+    "start": "2026-12-14T19:00:00-08:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/hundreds-of-beavers-7/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2024/01/hundreds-of-beavers.jpeg",
+    "imdb": "https://www.imdb.com/title/tt12818328/",
+    "rating": 7.5
+  },
+  {
+    "title": "NIGHT OF THE COMET in 35mm",
+    "start": "2026-12-14T19:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/night-of-the-cometin-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/11/comet2.jpg?fit=540%2C304&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt0087799/",
+    "rating": 6.3
+  },
+  {
+    "title": "THE MUPPET CHRISTMAS CAROL",
+    "start": "2026-12-14T19:30:00-08:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/the-muppet-christmas-carol",
+    "poster": "https://indy-systems.imgix.net/19bgailr17dcuybfslhukks9yx60?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0104940/",
+    "rating": 7.8
   }
 ]

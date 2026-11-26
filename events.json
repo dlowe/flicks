@@ -1,750 +1,12 @@
 [
   {
-    "title": "Paper Tiger",
-    "start": "2026-11-25T11:45:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/paper-tiger",
-    "poster": "https://indy-systems.imgix.net/p10al13vei9xgnoyedyfbmkan5ha?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt34385689/",
-    "rating": 6.9
-  },
-  {
-    "title": "Elsinore",
-    "start": "2026-11-25T11:45:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/elsinore",
-    "poster": "https://indy-systems.imgix.net/ua58lul68xcjf72eh0mxoipuhnav?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37363222/",
-    "rating": 7.8
-  },
-  {
-    "title": "I Play Rocky",
-    "start": "2026-11-25T11:50:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/i-play-rocky",
-    "poster": "https://indy-systems.imgix.net/9n9fh0f75tr3nwto93rekucmohwm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt11995650/",
-    "rating": 8.2
-  },
-  {
-    "title": "Wild Horse Nine",
-    "start": "2026-11-25T12:00:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wild-horse-nine",
-    "poster": "https://indy-systems.imgix.net/wsf7pzfjcfanco8l29kc2olpv2i5?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-25T12:30:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "Wildwood",
-    "start": "2026-11-25T12:30:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wildwood",
-    "poster": "https://indy-systems.imgix.net/nn9pf8dq1oivvs27l4mwcf21ei9a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-25T12:45:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/95BA08157B9AAE3A3E6AC29D7BE1C35DE67CF415FFF604EC71F28681194714B4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34384661/",
-    "rating": 7.8
-  },
-  {
-    "title": "The Only Living Pickpocket In New York",
-    "start": "2026-11-25T12:45:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-only-living-pickpocket-in-new-york",
-    "poster": "https://indy-systems.imgix.net/cc68fqmdn3ao8pqh94wr0zxinbg1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36482679/",
-    "rating": 7.3
-  },
-  {
-    "title": "HEATHERS (1989)",
-    "start": "2026-11-25T13:00:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzY2ODdmZDItMzQ4MS00ZDczLWIyZmItNDljYmMwZjQ2NGU3XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt0097493/",
-    "rating": 7.1
-  },
-  {
-    "title": "Elsinore",
-    "start": "2026-11-25T14:10:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/elsinore",
-    "poster": "https://indy-systems.imgix.net/ua58lul68xcjf72eh0mxoipuhnav?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37363222/",
-    "rating": 7.8
-  },
-  {
-    "title": "Paper Tiger",
-    "start": "2026-11-25T14:15:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/paper-tiger",
-    "poster": "https://indy-systems.imgix.net/p10al13vei9xgnoyedyfbmkan5ha?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt34385689/",
-    "rating": 6.9
-  },
-  {
-    "title": "HEXED",
-    "start": "2026-11-25T14:15:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
-  },
-  {
-    "title": "WILD HORSE NINE",
-    "start": "2026-11-25T14:15:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C6F966F7028CFFB45A508B0F7A5AC20773C76311F89DE0C62610089BD3352840_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "Wild Horse Nine",
-    "start": "2026-11-25T14:25:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wild-horse-nine",
-    "poster": "https://indy-systems.imgix.net/wsf7pzfjcfanco8l29kc2olpv2i5?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "I Play Rocky",
-    "start": "2026-11-25T14:30:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/i-play-rocky",
-    "poster": "https://indy-systems.imgix.net/9n9fh0f75tr3nwto93rekucmohwm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt11995650/",
-    "rating": 8.2
-  },
-  {
-    "title": "EBENEZER",
-    "start": "2026-11-25T14:35:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D48B5745B27AC67C599815A8A1752A45BB4CFF1201C6FC574A3801880925CBCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt38773219/",
-    "rating": 7.2
-  },
-  {
-    "title": "YOU CAN SEE EVERYTHING (OPEN CAPTION)",
-    "start": "2026-11-25T14:45:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDUwOWFlMWMtZjFkOC00YmE2LWI2MmUtNGFiMGE2MGUzZmNlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
-  },
-  {
-    "title": "Fatherland",
-    "start": "2026-11-25T14:45:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/fatherland",
-    "poster": "https://indy-systems.imgix.net/09qqqo7tdvlvl714roka7svahrkm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37304295/",
-    "rating": 7.4
-  },
-  {
     "title": "YOU CAN SEE EVERYTHING",
-    "start": "2026-11-25T14:45:00-08:00",
+    "start": "2026-11-26T10:00:00-08:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-25T14:55:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "FOCKER IN LAW",
-    "start": "2026-11-25T15:05:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4270FC5FA9B10F13DA539A295567A5B5D1B913E032CC89CDA062EAA575680D97_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34966140/",
-    "rating": null
-  },
-  {
-    "title": "ELSINORE (OPEN CAPTION)",
-    "start": "2026-11-25T15:15:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDczMTRhNTItOTlmOC00MmE2LWEzODMtNGViMDE3NWE1NDY0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt37363222/",
-    "rating": 7.8
-  },
-  {
-    "title": "WILD HORSE NINE (OPEN CAPTION)",
-    "start": "2026-11-25T15:30:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTlkOGFlYWYtN2VlNC00NjNhLWIxYmMtNDVhZTQ4YmQ4ZTdiXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "Wildwood",
-    "start": "2026-11-25T15:30:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wildwood",
-    "poster": "https://indy-systems.imgix.net/nn9pf8dq1oivvs27l4mwcf21ei9a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "Wild Horse Nine",
-    "start": "2026-11-25T15:45:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/wild-horse-nine",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_9a340709-b541-49cf-a928-2f09553a1449.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "WILDWOOD OC",
-    "start": "2026-11-25T15:45:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Wildwood",
-    "start": "2026-11-25T15:45:00-08:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19804?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001637&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-25T16:00:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "Club Kid",
-    "start": "2026-11-25T16:00:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/club-kid",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
-    "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
-  },
-  {
-    "title": "The Hunger Games: Sunrise on the Reaping",
-    "start": "2026-11-25T16:05:00-08:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19805?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001650&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt32558705/",
-    "rating": 7.5
-  },
-  {
-    "title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-25T16:15:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/95BA08157B9AAE3A3E6AC29D7BE1C35DE67CF415FFF604EC71F28681194714B4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34384661/",
-    "rating": 7.8
-  },
-  {
-    "title": "Elsinore",
-    "start": "2026-11-25T16:15:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/elsinore",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_38b01bfa-d26b-4f67-9698-ce9a98dc9082.jpg",
-    "imdb": "https://www.imdb.com/title/tt37363222/",
-    "rating": 7.8
-  },
-  {
-    "title": "THE OUTFIT (1973)",
-    "start": "2026-11-25T16:30:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/2A8477E1C3D4929C42AE392ECD864689E127CE2E5CA9E5C5F98473BBBD3C9523_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0071960/",
-    "rating": 7.0
-  },
-  {
-    "title": "Elsinore",
-    "start": "2026-11-25T16:35:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/elsinore",
-    "poster": "https://indy-systems.imgix.net/ua58lul68xcjf72eh0mxoipuhnav?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37363222/",
-    "rating": 7.8
-  },
-  {
-    "title": "The Only Living Pickpocket In New York",
-    "start": "2026-11-25T16:40:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/the-only-living-pickpocket-in-new-york",
-    "poster": "https://indy-systems.imgix.net/cc68fqmdn3ao8pqh94wr0zxinbg1?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt36482679/",
-    "rating": 7.3
-  },
-  {
-    "title": "ELSINORE",
-    "start": "2026-11-25T16:40:00-08:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/BC1E509B7E46411E7788E68F981BEDBB19243BFA5407B52D3EE0787E75E58882_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37363222/",
-    "rating": 7.8
-  },
-  {
-    "title": "Paper Tiger",
-    "start": "2026-11-25T16:45:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/paper-tiger",
-    "poster": "https://indy-systems.imgix.net/p10al13vei9xgnoyedyfbmkan5ha?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt34385689/",
-    "rating": 6.9
-  },
-  {
-    "title": "EBENEZER",
-    "start": "2026-11-25T16:45:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D48B5745B27AC67C599815A8A1752A45BB4CFF1201C6FC574A3801880925CBCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt38773219/",
-    "rating": 7.2
-  },
-  {
-    "title": "10 Things I Hate About You",
-    "start": "2026-11-25T16:50:00-08:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/10-things-i-hate-about-you",
-    "poster": "https://indy-systems.imgix.net/dy7asqak38pfazvrle1uonm35ihh?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt0147800/",
-    "rating": 7.4
-  },
-  {
-    "title": "I Play Rocky",
-    "start": "2026-11-25T16:50:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/i-play-rocky",
-    "poster": "https://indy-systems.imgix.net/9n9fh0f75tr3nwto93rekucmohwm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt11995650/",
-    "rating": 8.2
-  },
-  {
-    "title": "HEXED",
-    "start": "2026-11-25T17:00:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
-  },
-  {
-    "title": "WILLY WONKA AND THE CHOCOLATE FACTORY",
-    "start": "2026-11-25T17:10:00-08:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/willy-wonka-and-the-chocolate-factory",
-    "poster": "https://indy-systems.imgix.net/6klzdte6vqu28nfnjjfi76mmujzi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Wild Horse Nine",
-    "start": "2026-11-25T17:15:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wild-horse-nine",
-    "poster": "https://indy-systems.imgix.net/wsf7pzfjcfanco8l29kc2olpv2i5?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "HUNGER GAMES SUNRISE  ON THE REAPING",
-    "start": "2026-11-25T17:20:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C0E48E66DFBA42C29E8F690F32B98D780C21D24E2BA4F1D5CB5D41E26F341949_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32558705/",
-    "rating": 7.5
-  },
-  {
-    "title": "WILD HORSE NINE",
-    "start": "2026-11-25T17:40:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C6F966F7028CFFB45A508B0F7A5AC20773C76311F89DE0C62610089BD3352840_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "YOU CAN SEE EVERYTHING (OPEN CAPTION)",
-    "start": "2026-11-25T18:00:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDUwOWFlMWMtZjFkOC00YmE2LWI2MmUtNGFiMGE2MGUzZmNlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
-  },
-  {
-    "title": "FOCKER IN LAW",
-    "start": "2026-11-25T18:00:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4270FC5FA9B10F13DA539A295567A5B5D1B913E032CC89CDA062EAA575680D97_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34966140/",
-    "rating": null
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-25T18:15:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "You Can See Everything",
-    "start": "2026-11-25T18:30:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/you-can-see-everything",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
-    "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
-  },
-  {
-    "title": "WILD HORSE NINE",
-    "start": "2026-11-25T18:30:00-08:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wild-horse-nine/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/wild-horse-nine1.jpg?fit=1280%2C683&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "ELSINORE (OPEN CAPTION)",
-    "start": "2026-11-25T18:30:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDczMTRhNTItOTlmOC00MmE2LWEzODMtNGViMDE3NWE1NDY0XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt37363222/",
-    "rating": 7.8
-  },
-  {
-    "title": "Wildwood",
-    "start": "2026-11-25T18:30:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wildwood",
-    "poster": "https://indy-systems.imgix.net/nn9pf8dq1oivvs27l4mwcf21ei9a?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "I PLAY ROCKY",
-    "start": "2026-11-25T18:35:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4425AE8612FD021BF68F6E354B78669ED18BB3EB8050F468490F8489BABC0CC0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt11995650/",
-    "rating": 8.2
-  },
-  {
-    "title": "WILD HORSE NINE (OPEN CAPTION)",
-    "start": "2026-11-25T18:45:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTlkOGFlYWYtN2VlNC00NjNhLWIxYmMtNDVhZTQ4YmQ4ZTdiXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "Fatherland",
-    "start": "2026-11-25T18:45:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/fatherland",
-    "poster": "https://indy-systems.imgix.net/09qqqo7tdvlvl714roka7svahrkm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37304295/",
-    "rating": 7.4
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-25T19:00:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/973EFC45DFE2F07EB4E70D4C835010018611C4E6A3200087D820FEC10C3FBEC4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "Club Kid",
-    "start": "2026-11-25T19:00:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/club-kid",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
-    "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
-  },
-  {
-    "title": "White Material",
-    "start": "2026-11-25T19:00:00-08:00",
-    "theater": "Cinemagic",
-    "url": "https://tickets.thecinemagictheater.com/movie/white-material",
-    "poster": "https://indy-systems.imgix.net/wq83nk52bvyn6snyrtryqwmxs3sz?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt1135952/",
-    "rating": 6.9
-  },
-  {
-    "title": "VIKTOR & VIKTORIA (1933) (Church of Film)",
-    "start": "2026-11-25T19:00:00-08:00",
-    "theater": "Clinton Street Theater",
-    "url": "https://cstpdx.com/event/viktor-viktoria-1933-church-of-film/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/10/viktoria3.jpg",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "PAPER TIGER",
-    "start": "2026-11-25T19:00:00-08:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/paper-tiger/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/paper-tiger1.jpg?fit=1000%2C667&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt34385689/",
-    "rating": 6.9
-  },
-  {
-    "title": "WILDWOOD OC",
-    "start": "2026-11-25T19:00:00-08:00",
-    "theater": "Laurelhurst Theater",
-    "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
-    "poster": null,
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "Elsinore",
-    "start": "2026-11-25T19:00:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/elsinore",
-    "poster": "https://indy-systems.imgix.net/ua58lul68xcjf72eh0mxoipuhnav?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt37363222/",
-    "rating": 7.8
-  },
-  {
-    "title": "ELSINORE",
-    "start": "2026-11-25T19:00:00-08:00",
-    "theater": "Moreland Theater",
-    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
-    "poster": "https://app.formovietickets.com/schedules/graphics/BC1E509B7E46411E7788E68F981BEDBB19243BFA5407B52D3EE0787E75E58882_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt37363222/",
-    "rating": 7.8
-  },
-  {
-    "title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-25T19:15:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/95BA08157B9AAE3A3E6AC29D7BE1C35DE67CF415FFF604EC71F28681194714B4_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34384661/",
-    "rating": 7.8
-  },
-  {
-    "title": "Elsinore",
-    "start": "2026-11-25T19:15:00-08:00",
-    "theater": "Cinema 21",
-    "url": "https://www.cinema21.com/movie/elsinore",
-    "poster": "https://img.vwassets.com/cinema21.com/vertical_38b01bfa-d26b-4f67-9698-ce9a98dc9082.jpg",
-    "imdb": "https://www.imdb.com/title/tt37363222/",
-    "rating": 7.8
-  },
-  {
-    "title": "Paper Tiger",
-    "start": "2026-11-25T19:15:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/paper-tiger",
-    "poster": "https://indy-systems.imgix.net/p10al13vei9xgnoyedyfbmkan5ha?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt34385689/",
-    "rating": 6.9
-  },
-  {
-    "title": "The Hunger Games: Sunrise on the Reaping",
-    "start": "2026-11-25T19:15:00-08:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19806?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001650&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt32558705/",
-    "rating": 7.5
-  },
-  {
-    "title": "CHICKEN RUN (2000)",
-    "start": "2026-11-25T19:30:00-08:00",
-    "theater": "Academy Theater",
-    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
-    "poster": "https://app.formovietickets.com/schedules/graphics/825CC2D62D1B78C1109D722A48D92113BC5A5AF5077E012133FD8AE7C5C41370_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt0120630/",
-    "rating": 7.1
-  },
-  {
-    "title": "DREAD BEAT AN BLOOD",
-    "start": "2026-11-25T19:30:00-08:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/dread-beat-an-blood/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/dread-beat1.jpg?fit=1000%2C621&ssl=1",
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "HEN",
-    "start": "2026-11-25T19:30:00-08:00",
-    "theater": "Kiggins Theatre",
-    "url": "https://www.kigginstheatre.com/movie/hen",
-    "poster": "https://indy-systems.imgix.net/63i9mtwa4b4nn1i1fi1kg3wdslc6?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt29283995/",
-    "rating": 6.9
-  },
-  {
-    "title": "I Play Rocky",
-    "start": "2026-11-25T19:30:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/i-play-rocky",
-    "poster": "https://indy-systems.imgix.net/9n9fh0f75tr3nwto93rekucmohwm?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt11995650/",
-    "rating": 8.2
-  },
-  {
-    "title": "HEXED",
-    "start": "2026-11-25T19:30:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
-  },
-  {
-    "title": "Wild Horse Nine",
-    "start": "2026-11-25T19:45:00-08:00",
-    "theater": "Living Room Theaters",
-    "url": "https://pdx.livingroomtheaters.com/movie/wild-horse-nine",
-    "poster": "https://indy-systems.imgix.net/wsf7pzfjcfanco8l29kc2olpv2i5?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "Wildwood",
-    "start": "2026-11-25T19:45:00-08:00",
-    "theater": "St. Johns Cinema",
-    "url": "https://ticketing.useast.veezi.com/purchase/19807?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001637&isHighRes=true",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "HUNGER GAMES SUNRISE  ON THE REAPING",
-    "start": "2026-11-25T19:45:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C0E48E66DFBA42C29E8F690F32B98D780C21D24E2BA4F1D5CB5D41E26F341949_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32558705/",
-    "rating": 7.5
-  },
-  {
-    "title": "EBENEZER",
-    "start": "2026-11-25T20:35:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/D48B5745B27AC67C599815A8A1752A45BB4CFF1201C6FC574A3801880925CBCB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt38773219/",
-    "rating": 7.2
-  },
-  {
-    "title": "FOCKER IN LAW",
-    "start": "2026-11-25T20:50:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4270FC5FA9B10F13DA539A295567A5B5D1B913E032CC89CDA062EAA575680D97_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt34966140/",
-    "rating": null
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-11-25T21:00:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
-  },
-  {
-    "title": "WILD HORSE NINE",
-    "start": "2026-11-25T21:15:00-08:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/wild-horse-nine/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/wild-horse-nine1.jpg?fit=1280%2C683&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt15799564/",
-    "rating": 8.1
-  },
-  {
-    "title": "HUNGER GAMES SUNRISE  ON THE REAPING",
-    "start": "2026-11-25T21:30:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/C0E48E66DFBA42C29E8F690F32B98D780C21D24E2BA4F1D5CB5D41E26F341949_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt32558705/",
-    "rating": 7.5
-  },
-  {
-    "title": "PAPER TIGER",
-    "start": "2026-11-25T21:35:00-08:00",
-    "theater": "Hollywood Theatre",
-    "url": "https://hollywoodtheatre.org/show/paper-tiger/",
-    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/paper-tiger1.jpg?fit=1000%2C667&ssl=1",
-    "imdb": "https://www.imdb.com/title/tt34385689/",
-    "rating": 6.9
-  },
-  {
-    "title": "I PLAY ROCKY",
-    "start": "2026-11-25T21:40:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/4425AE8612FD021BF68F6E354B78669ED18BB3EB8050F468490F8489BABC0CC0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt11995650/",
-    "rating": 8.2
-  },
-  {
-    "title": "HEXED",
-    "start": "2026-11-25T22:15:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 8.9
   },
   {
     "title": "I PLAY ROCKY",
@@ -780,7 +42,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "HEXED",
@@ -789,7 +51,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "WILDWOOD",
@@ -978,7 +240,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Wild Horse Nine",
@@ -1014,7 +276,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "Fatherland",
@@ -1131,7 +393,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "The Hunger Games: Sunrise on the Reaping",
@@ -1221,7 +483,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "WILD HORSE NINE",
@@ -1266,7 +528,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "FOCKER IN LAW",
@@ -1293,7 +555,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "ELSINORE",
@@ -1338,7 +600,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "Star Trek: First Contact",
@@ -1410,7 +672,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "I Play Rocky",
@@ -1450,12 +712,12 @@
   },
   {
     "title": "YOU CAN SEE EVERYTHING",
-    "start": "2026-11-26T20:05:00-08:00",
+    "start": "2026-11-26T20:00:00-08:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "I PLAY ROCKY",
@@ -1495,12 +757,12 @@
   },
   {
     "title": "HEXED",
-    "start": "2026-11-26T22:10:00-08:00",
+    "start": "2026-11-26T22:05:00-08:00",
     "theater": "Studio One",
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "WILDWOOD",
@@ -1518,7 +780,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "WILDWOOD",
@@ -1545,7 +807,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Paper Tiger",
@@ -1761,7 +1023,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Fatherland",
@@ -1815,7 +1077,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "FOCKER IN LAW",
@@ -1932,7 +1194,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "YOU CAN SEE EVERYTHING",
@@ -1941,7 +1203,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "The Hunger Games: Sunrise on the Reaping",
@@ -2022,7 +1284,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Wild Horse Nine",
@@ -2076,7 +1338,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "FOCKER IN LAW",
@@ -2094,7 +1356,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/64C779E6CE48EAEB0E5723944964799687ED06006DF4809C2F019A76C59A1F4E_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "Wildwood",
@@ -2184,7 +1446,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "Whisper of the Heart (Subtitled)",
@@ -2283,7 +1545,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "BLOOD RAGE",
@@ -2319,7 +1581,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Wildwood",
@@ -2382,7 +1644,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "The Only Living Pickpocket In New York",
@@ -2517,7 +1779,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "WILDWOOD",
@@ -2553,7 +1815,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "HUNGER GAMES SUNRISE  ON THE REAPING",
@@ -2580,7 +1842,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "WILDWOOD",
@@ -2670,7 +1932,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "HEXED",
@@ -2679,7 +1941,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Elsinore",
@@ -2859,7 +2121,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "HUNGER GAMES SUNRISE  ON THE REAPING",
@@ -2949,7 +2211,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "The Cat Returns (Dubbed)",
@@ -3012,7 +2274,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "You Can See Everything",
@@ -3021,7 +2283,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "ELSINORE",
@@ -3138,7 +2400,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "Mystic Pizza",
@@ -3219,7 +2481,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Wild Horse Nine",
@@ -3282,7 +2544,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "WILDWOOD",
@@ -3300,7 +2562,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/64C779E6CE48EAEB0E5723944964799687ED06006DF4809C2F019A76C59A1F4E_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "Wildwood",
@@ -3318,7 +2580,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "WILDWOOD",
@@ -3390,7 +2652,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "Princess Mononoke",
@@ -3507,7 +2769,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "Wild Horse Nine",
@@ -3525,7 +2787,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Wildwood",
@@ -3588,7 +2850,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "The Only Living Pickpocket In New York",
@@ -3723,7 +2985,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "WILDWOOD",
@@ -3759,7 +3021,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "HUNGER GAMES SUNRISE  ON THE REAPING",
@@ -3804,7 +3066,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "WILDWOOD",
@@ -3876,7 +3138,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "Wildwood",
@@ -3903,7 +3165,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "Elsinore",
@@ -3921,7 +3183,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Paper Tiger",
@@ -4020,7 +3282,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/64C779E6CE48EAEB0E5723944964799687ED06006DF4809C2F019A76C59A1F4E_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "ELSINORE",
@@ -4065,7 +3327,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "LAIKA Takes Portland to the Movies",
@@ -4200,7 +3462,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Fatherland",
@@ -4218,7 +3480,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "PAPER TIGER",
@@ -4245,7 +3507,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "FOCKER IN LAW",
@@ -4326,7 +3588,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "WILD HORSE NINE",
@@ -4506,7 +3768,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Melange: A Queer and P.O.C. Variety Show",
@@ -4533,7 +3795,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "YOU CAN SEE EVERYTHING",
@@ -4542,7 +3804,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "Wildwood",
@@ -4560,7 +3822,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "ELSINORE",
@@ -4614,7 +3876,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "The Cat Returns (Subtitled)",
@@ -4767,7 +4029,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "WILDWOOD LAIKA APPRECIATE",
@@ -4956,7 +4218,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "FOCKER IN LAW",
@@ -5010,7 +4272,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "WILDWOOD",
@@ -5091,7 +4353,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "The Hunger Games: Sunrise on the Reaping",
@@ -5136,7 +4398,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "Elsinore",
@@ -5190,7 +4452,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
@@ -5217,7 +4479,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "FOCKER IN LAW",
@@ -5253,7 +4515,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "WILD HORSE NINE",
@@ -5298,7 +4560,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/64C779E6CE48EAEB0E5723944964799687ED06006DF4809C2F019A76C59A1F4E_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "WILD HORSE NINE",
@@ -5343,7 +4605,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "The Movie Quiz",
@@ -5460,7 +4722,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Wildwood",
@@ -5496,7 +4758,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "FOCKER IN LAW",
@@ -5559,7 +4821,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Elsinore",
@@ -5595,7 +4857,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/64C779E6CE48EAEB0E5723944964799687ED06006DF4809C2F019A76C59A1F4E_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "Wildwood",
@@ -5685,7 +4947,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "FOCKER IN LAW",
@@ -5703,7 +4965,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "ELSINORE",
@@ -5748,7 +5010,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "WILDWOOD",
@@ -5811,7 +5073,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "The Hunger Games: Sunrise on the Reaping",
@@ -5865,7 +5127,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "Elsinore",
@@ -5919,7 +5181,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "THE PRINCESS BRIDE",
@@ -5937,7 +5199,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://app.formovietickets.com/schedules/graphics/7A97023B70B861C598949CD85CAA7D8C550B66215206E416B8428912FB1664CA_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "FOCKER IN LAW",
@@ -6063,7 +5325,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "Whisper of the Heart (Subtitled)",
@@ -6198,7 +5460,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Wildwood",
@@ -6225,7 +5487,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "FOCKER IN LAW",
@@ -6288,7 +5550,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Elsinore",
@@ -6423,7 +5685,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://m.media-amazon.com/images/M/MV5BZDUwOWFlMWMtZjFkOC00YmE2LWI2MmUtNGFiMGE2MGUzZmNlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "FOCKER IN LAW",
@@ -6540,7 +5802,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "The Hunger Games: Sunrise on the Reaping",
@@ -6576,7 +5838,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "Elsinore",
@@ -6639,7 +5901,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "HEXED",
@@ -6648,7 +5910,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "THE ONLY LIVING PICKPOCKET IN NEW YORK",
@@ -6675,7 +5937,7 @@
     "url": "https://app.formovietickets.com/?id=laurelhurst&rtn=3677",
     "poster": "https://m.media-amazon.com/images/M/MV5BZDUwOWFlMWMtZjFkOC00YmE2LWI2MmUtNGFiMGE2MGUzZmNlXkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "FOCKER IN LAW",
@@ -6702,7 +5964,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "Drag on Film",
@@ -6756,7 +6018,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/64C779E6CE48EAEB0E5723944964799687ED06006DF4809C2F019A76C59A1F4E_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "WILD HORSE NINE (OPEN CAPTION)",
@@ -6801,7 +6063,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "Pom Poko",
@@ -6909,7 +6171,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Wildwood",
@@ -6936,7 +6198,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "FOCKER IN LAW",
@@ -6999,7 +6261,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "Elsinore",
@@ -7035,7 +6297,7 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://app.formovietickets.com/schedules/graphics/64C779E6CE48EAEB0E5723944964799687ED06006DF4809C2F019A76C59A1F4E_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "Wildwood",
@@ -7134,7 +6396,7 @@
     "url": "https://www.cinema21.com/movie/you-can-see-everything",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_b62bcfb1-5412-4894-a52b-5d9c1edcbe8a.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "WILDWOOD",
@@ -7188,7 +6450,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "I Play Rocky",
@@ -7224,7 +6486,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "WICKER",
@@ -7251,7 +6513,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "Elsinore",
@@ -7305,7 +6567,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "The Cat Returns (Dubbed)",
@@ -7324,15 +6586,6 @@
     "poster": "https://indy-systems.imgix.net/ho8zgcsa191rc23lg5jbf0q5n45e?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0093779/",
     "rating": 8.0
-  },
-  {
-    "title": "EVENT BUFFER 45MINS",
-    "start": "2026-12-03T18:00:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": null,
-    "imdb": null,
-    "rating": null
   },
   {
     "title": "FOCKER IN LAW",
@@ -7405,24 +6658,6 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/4425AE8612FD021BF68F6E354B78669ED18BB3EB8050F468490F8489BABC0CC0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt11995650/",
     "rating": 8.2
-  },
-  {
-    "title": "JASON EVENT 2HRS 15MINS",
-    "start": "2026-12-03T18:45:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": null,
-    "imdb": null,
-    "rating": null
-  },
-  {
-    "title": "WILDWOOD",
-    "start": "2026-12-03T18:50:00-08:00",
-    "theater": "Studio One",
-    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
-    "poster": "https://app.formovietickets.com/schedules/graphics/22AEC3EF7F4480876CEA647FCCF6093E57D2133173DA6BCE3A1DF67574079DDB_200_300_85.jpg",
-    "imdb": "https://www.imdb.com/title/tt2056785/",
-    "rating": 8.6
   },
   {
     "title": "STRANGERS ON A TRAIN (1951)",
@@ -7512,7 +6747,7 @@
     "url": "https://www.cinema21.com/movie/club-kid",
     "poster": "https://img.vwassets.com/cinema21.com/vertical_52e28a3e-9d09-42a2-91cd-44c780187823.jpg",
     "imdb": "https://www.imdb.com/title/tt38058097/",
-    "rating": 8.1
+    "rating": 8.2
   },
   {
     "title": "Paper Tiger",
@@ -7575,7 +6810,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "YOU CAN SEE EVERYTHING",
@@ -7584,7 +6819,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/D87D5BD97EB323BA120E987D7C6841B2988C75CDFED7727146F5A5284B5B5792_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt45368240/",
-    "rating": 9.0
+    "rating": 8.9
   },
   {
     "title": "FOCKER IN LAW",
@@ -7674,7 +6909,7 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/F26F82AD52BE533770B6ADF4572B8AF991CA2420995DB39D0A723AC489574ED0_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt38077943/",
-    "rating": null
+    "rating": 6.8
   },
   {
     "title": "FULL METAL JACKET (1987)",
@@ -7746,6 +6981,15 @@
     "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
     "poster": "https://m.media-amazon.com/images/M/MV5BZThiOTA4N2UtNzJiYS00MDI0LWI3OWItYzYxYzU3M2YwM2M4XkEyXkFqcGc@._V1_QL75_UX190_.jpg",
     "imdb": "https://www.imdb.com/title/tt0805564/",
+    "rating": 7.3
+  },
+  {
+    "title": "Gremlins",
+    "start": "2026-12-04T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/gremlins",
+    "poster": "https://indy-systems.imgix.net/h3j0efgk5mgkhsndtdka2t7cai5g?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0087363/",
     "rating": 7.3
   },
   {
@@ -7866,6 +7110,15 @@
     "rating": null
   },
   {
+    "title": "The Muppet Christmas Carol",
+    "start": "2026-12-05T12:40:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-muppet-christmas-carol",
+    "poster": "https://indy-systems.imgix.net/c94umxxls1ndzzd2e7bqhvopkxd0?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0104940/",
+    "rating": 7.8
+  },
+  {
     "title": "LARS AND THE REAL GIRL (2007)",
     "start": "2026-12-05T13:00:00-08:00",
     "theater": "Academy Theater",
@@ -7911,6 +7164,15 @@
     "rating": 7.5
   },
   {
+    "title": "The Muppet Christmas Carol",
+    "start": "2026-12-05T14:40:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-muppet-christmas-carol",
+    "poster": "https://indy-systems.imgix.net/c94umxxls1ndzzd2e7bqhvopkxd0?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0104940/",
+    "rating": 7.8
+  },
+  {
     "title": "The Nerd Reich with Gil Dur\u00e1n",
     "start": "2026-12-05T15:00:00-08:00",
     "theater": "Clinton Street Theater",
@@ -7918,6 +7180,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2026/11/bafkreieugwccihd2o7c342anogefvk6lvttvmehh6sidusicjpptw2empi.webp",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "The Muppet Christmas Carol",
+    "start": "2026-12-05T15:00:00-08:00",
+    "theater": "Tomorrow Theater",
+    "url": "https://tomorrowtheater.org/movies/the-muppet-christmas-carol-2/",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/10/07094330/ssrV29QSVVJuemBHho0Qx7pFYak-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0104940/",
+    "rating": 7.8
   },
   {
     "title": "ARSENIC AND OLD LACE in 35mm",
@@ -7945,6 +7216,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2024/04/20191026_MovieMadness_screeningRoom_04_Web_sm-1.jpg?fit=540%2C405&ssl=1",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Home Alone",
+    "start": "2026-12-05T16:40:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/home-alone-2",
+    "poster": "https://indy-systems.imgix.net/f278mq1ao07mm3nt5wc9qn49vjsi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0099785/",
+    "rating": 7.8
   },
   {
     "title": "ELSINORE",
@@ -7999,6 +7279,15 @@
     "poster": "https://app.formovietickets.com/schedules/graphics/F8F4AB9D3C4CE8EE09E2603B018D057404973BF4A88960C33E7E5C474E43780D_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt0117731/",
     "rating": 7.6
+  },
+  {
+    "title": "Tokyo Godfathers",
+    "start": "2026-12-05T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/tokyo-godfathers",
+    "poster": "https://indy-systems.imgix.net/iuawz7sj6kib4jyemv2i7i0o1ivi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0388473/",
+    "rating": 7.8
   },
   {
     "title": "Santacon with Chuck Palahniuk & Friends",
@@ -8064,6 +7353,15 @@
     "rating": 7.5
   },
   {
+    "title": "Gremlins",
+    "start": "2026-12-05T21:10:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/gremlins",
+    "poster": "https://indy-systems.imgix.net/h3j0efgk5mgkhsndtdka2t7cai5g?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0087363/",
+    "rating": 7.3
+  },
+  {
     "title": "Behemoth!",
     "start": "2026-12-05T21:10:00-08:00",
     "theater": "Living Room Theaters",
@@ -8116,6 +7414,15 @@
     "poster": "https://cstpdx.com/wp-content/uploads/2022/05/rockyhorror.jpeg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "The Muppet Christmas Carol",
+    "start": "2026-12-06T12:45:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-muppet-christmas-carol",
+    "poster": "https://indy-systems.imgix.net/c94umxxls1ndzzd2e7bqhvopkxd0?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0104940/",
+    "rating": 7.8
   },
   {
     "title": "STAR TREK: FIRST CONTACT",
@@ -8181,6 +7488,15 @@
     "rating": 7.5
   },
   {
+    "title": "The Muppet Christmas Carol",
+    "start": "2026-12-06T14:45:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/the-muppet-christmas-carol",
+    "poster": "https://indy-systems.imgix.net/c94umxxls1ndzzd2e7bqhvopkxd0?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0104940/",
+    "rating": 7.8
+  },
+  {
     "title": "2026 Fungi Film Fest",
     "start": "2026-12-06T15:30:00-08:00",
     "theater": "Cinema 21",
@@ -8235,6 +7551,15 @@
     "rating": 7.8
   },
   {
+    "title": "Tokyo Godfathers",
+    "start": "2026-12-06T16:45:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/tokyo-godfathers",
+    "poster": "https://indy-systems.imgix.net/iuawz7sj6kib4jyemv2i7i0o1ivi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0388473/",
+    "rating": 7.8
+  },
+  {
     "title": "RAY GUNN",
     "start": "2026-12-06T18:00:00-08:00",
     "theater": "Hollywood Theatre",
@@ -8260,6 +7585,15 @@
     "poster": "https://indy-systems.imgix.net/kul88syitbqt0zjmrf7wcxsg9d6s?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt36415529/",
     "rating": 7.2
+  },
+  {
+    "title": "Black Christmas",
+    "start": "2026-12-06T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/black-christmas",
+    "poster": "https://indy-systems.imgix.net/cl1ootakg0paq1refbyjvpq7alxp?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0071222/",
+    "rating": 7.1
   },
   {
     "title": "5 YEARS OF ANIMAYHEM",
@@ -8361,6 +7695,15 @@
     "rating": 7.8
   },
   {
+    "title": "National Lampoon's Christmas Vacation",
+    "start": "2026-12-07T16:45:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/national-lampoons-christmas-vacation-3",
+    "poster": "https://indy-systems.imgix.net/2jo8o7hv6hmm307al4rx3j0y6uwu?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0097958/",
+    "rating": 7.5
+  },
+  {
     "title": "GKIDS Presents \u2013 LOVE & POP",
     "start": "2026-12-07T18:00:00-08:00",
     "theater": "Hollywood Theatre",
@@ -8377,6 +7720,15 @@
     "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/ray-gunn1.jpg?fit=800%2C450&ssl=1",
     "imdb": "https://www.imdb.com/title/tt18270542/",
     "rating": 7.5
+  },
+  {
+    "title": "Gremlins",
+    "start": "2026-12-07T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/gremlins",
+    "poster": "https://indy-systems.imgix.net/h3j0efgk5mgkhsndtdka2t7cai5g?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0087363/",
+    "rating": 7.3
   },
   {
     "title": "Another Annette Bening Mug",
@@ -8451,6 +7803,15 @@
     "rating": 7.5
   },
   {
+    "title": "Black Christmas",
+    "start": "2026-12-07T21:20:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/black-christmas",
+    "poster": "https://indy-systems.imgix.net/cl1ootakg0paq1refbyjvpq7alxp?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0071222/",
+    "rating": 7.1
+  },
+  {
     "title": "FULL METAL JACKET (1987)",
     "start": "2026-12-08T13:00:00-08:00",
     "theater": "Academy Theater",
@@ -8475,6 +7836,15 @@
     "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
     "poster": "https://app.formovietickets.com/schedules/graphics/BC1E509B7E46411E7788E68F981BEDBB19243BFA5407B52D3EE0787E75E58882_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt37363222/",
+    "rating": 7.8
+  },
+  {
+    "title": "Tokyo Godfathers",
+    "start": "2026-12-08T16:50:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/tokyo-godfathers",
+    "poster": "https://indy-systems.imgix.net/iuawz7sj6kib4jyemv2i7i0o1ivi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0388473/",
     "rating": 7.8
   },
   {
@@ -8521,6 +7891,15 @@
     "poster": "https://omsi.edu/wp-content/uploads/2026/10/12.08.26-Snail-Hunters-2-scaled.jpg",
     "imdb": null,
     "rating": null
+  },
+  {
+    "title": "Home Alone",
+    "start": "2026-12-08T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/home-alone-2",
+    "poster": "https://indy-systems.imgix.net/f278mq1ao07mm3nt5wc9qn49vjsi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0099785/",
+    "rating": 7.8
   },
   {
     "title": "ELSINORE",
@@ -8586,6 +7965,15 @@
     "rating": 7.3
   },
   {
+    "title": "Home Alone",
+    "start": "2026-12-09T16:40:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/home-alone-2",
+    "poster": "https://indy-systems.imgix.net/f278mq1ao07mm3nt5wc9qn49vjsi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0099785/",
+    "rating": 7.8
+  },
+  {
     "title": "ELSINORE",
     "start": "2026-12-09T16:40:00-08:00",
     "theater": "Moreland Theater",
@@ -8619,6 +8007,15 @@
     "url": "https://pdx.livingroomtheaters.com/movie/coroner-to-the-stars",
     "poster": "https://indy-systems.imgix.net/dxl22troldn5grsgxdk63v0me82u?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt35186504/",
+    "rating": 7.8
+  },
+  {
+    "title": "Tokyo Godfathers",
+    "start": "2026-12-09T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/tokyo-godfathers",
+    "poster": "https://indy-systems.imgix.net/iuawz7sj6kib4jyemv2i7i0o1ivi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0388473/",
     "rating": 7.8
   },
   {
@@ -8685,6 +8082,15 @@
     "rating": 7.6
   },
   {
+    "title": "Gremlins",
+    "start": "2026-12-10T16:40:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/gremlins",
+    "poster": "https://indy-systems.imgix.net/h3j0efgk5mgkhsndtdka2t7cai5g?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0087363/",
+    "rating": 7.3
+  },
+  {
     "title": "RAY GUNN",
     "start": "2026-12-10T18:00:00-08:00",
     "theater": "Hollywood Theatre",
@@ -8712,6 +8118,15 @@
     "rating": 7.3
   },
   {
+    "title": "National Lampoon's Christmas Vacation",
+    "start": "2026-12-10T19:00:00-08:00",
+    "theater": "Cinemagic",
+    "url": "https://tickets.thecinemagictheater.com/movie/national-lampoons-christmas-vacation-3",
+    "poster": "https://indy-systems.imgix.net/2jo8o7hv6hmm307al4rx3j0y6uwu?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt0097958/",
+    "rating": 7.5
+  },
+  {
     "title": "Jamie Wolf \u2013 \u201cPsycho\u201d Live Taping",
     "start": "2026-12-10T19:00:00-08:00",
     "theater": "Clinton Street Theater",
@@ -8737,15 +8152,6 @@
     "poster": "https://indy-systems.imgix.net/2h0ltm9z35ftstjg17yhsni7fj0d?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
     "imdb": "https://www.imdb.com/title/tt0087056/",
     "rating": 7.8
-  },
-  {
-    "title": "Barbara Forever x Lesbian Cinema Club",
-    "start": "2026-12-10T19:00:00-08:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/barbara-forever-x-lesbian-cinema-club/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/10/08134441/kYjCmL8sg17zoKtm5Pb6Cn4H0nB-scaled.jpg",
-    "imdb": "https://www.imdb.com/title/tt39150008/",
-    "rating": 7.4
   },
   {
     "title": "PARIS WAS A WOMAN with Andrea Weiss + Book Signing",
@@ -9000,15 +8406,6 @@
     "rating": null
   },
   {
-    "title": "Home Alone: CineWhimsy \u2013 An Immersive 4D Holiday Extravaganza by Gosh Darn Delightful (12/12)",
-    "start": "2026-12-12T18:00:00-08:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/home-alone-cinewhimsy-an-immersive-4d-holiday-extravaganza-presented-by-gosh-darn-delightful-llc/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/08/17124306/IMG_4648.png",
-    "imdb": "https://www.imdb.com/title/tt0099785/",
-    "rating": 7.8
-  },
-  {
     "title": "George Michael: The Faith Tour",
     "start": "2026-12-12T18:45:00-08:00",
     "theater": "Living Room Theaters",
@@ -9114,7 +8511,7 @@
     "url": "https://cstpdx.com/event/christmas-pop-up-2/",
     "poster": "https://cstpdx.com/wp-content/uploads/2026/09/Christmas-Pop-Up-Movie.png",
     "imdb": "https://www.imdb.com/title/tt38574990/",
-    "rating": 9.4
+    "rating": 9.5
   },
   {
     "title": "WALLACE & GROMIT: THE CLASSIC SHORTS",
@@ -9490,7 +8887,7 @@
     "start": "2026-12-17T15:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19749?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -9625,7 +9022,7 @@
     "start": "2026-12-17T19:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19751?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -9733,7 +9130,7 @@
     "start": "2026-12-18T15:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19753?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -9895,7 +9292,7 @@
     "start": "2026-12-18T19:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19755?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -10030,7 +9427,7 @@
     "start": "2026-12-19T11:30:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19781?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -10165,7 +9562,7 @@
     "start": "2026-12-19T15:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19757?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -10269,15 +9666,6 @@
     "rating": null
   },
   {
-    "title": "Home Alone: CineWhimsy \u2013 An Immersive 4D Holiday Extravaganza by Gosh Darn Delightful (12/19)",
-    "start": "2026-12-19T18:00:00-08:00",
-    "theater": "Tomorrow Theater",
-    "url": "https://tomorrowtheater.org/movies/home-alone-cinewhimsy-an-immersive-4d-holiday-extravaganza-by-gosh-darn-delightful-12-19/",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/243/2026/08/17124306/IMG_4648.png",
-    "imdb": "https://www.imdb.com/title/tt0099785/",
-    "rating": 7.8
-  },
-  {
     "title": "IT'S A WONDERFUL LIFE (1946)",
     "start": "2026-12-19T18:15:00-08:00",
     "theater": "Academy Theater",
@@ -10318,7 +9706,7 @@
     "start": "2026-12-19T19:00:00-08:00",
     "theater": "Clinton Street Theater",
     "url": "https://cstpdx.com/event/sean-jordan-holiday-variety-show/",
-    "poster": "https://cstpdx.com/wp-content/uploads/2026/11/https___cdn1-scaled.jpeg",
+    "poster": "https://cstpdx.com/wp-content/uploads/2026/11/Sean-Jordan-Holiday.png",
     "imdb": null,
     "rating": null
   },
@@ -10336,7 +9724,7 @@
     "start": "2026-12-19T19:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19759?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -10498,7 +9886,7 @@
     "start": "2026-12-20T11:30:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19784?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -10642,7 +10030,7 @@
     "start": "2026-12-20T15:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19761?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -10831,7 +10219,7 @@
     "start": "2026-12-20T19:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19763?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -10957,7 +10345,7 @@
     "start": "2026-12-21T15:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19768?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -11137,7 +10525,7 @@
     "start": "2026-12-21T19:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19767?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -11272,7 +10660,7 @@
     "start": "2026-12-22T15:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19772?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -11425,7 +10813,7 @@
     "start": "2026-12-22T19:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19771?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -11533,7 +10921,7 @@
     "start": "2026-12-23T15:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19776?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -11695,7 +11083,7 @@
     "start": "2026-12-23T19:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19775?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -11848,7 +11236,7 @@
     "start": "2026-12-24T15:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19780?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -11992,7 +11380,7 @@
     "start": "2026-12-24T19:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19779?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -12028,7 +11416,7 @@
     "start": "2026-12-25T11:30:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19785?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -12136,7 +11524,7 @@
     "start": "2026-12-25T15:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19787?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -12334,7 +11722,7 @@
     "start": "2026-12-25T19:15:00-08:00",
     "theater": "St. Johns Cinema",
     "url": "https://ticketing.useast.veezi.com/purchase/19789?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
-    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001658&isHighRes=true",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
     "imdb": "https://www.imdb.com/title/tt21357150/",
     "rating": null
   },
@@ -12408,6 +11796,492 @@
     "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
     "poster": "https://app.formovietickets.com/schedules/graphics/1BCBCF26DE56025F33B742CBD236F386FF72E51085AC934DFD6A12FE5F45FE24_200_300_85.jpg",
     "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "DUNE PART THREE",
+    "start": "2026-12-26T09:00:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/1BCBCF26DE56025F33B742CBD236F386FF72E51085AC934DFD6A12FE5F45FE24_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "AVENGERS: DOOMSDAY",
+    "start": "2026-12-26T09:30:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/C8D9E8DBF7E3A535CA309E4F16A4971039BFFCCFA8B8DA2DEE2FBAD47F8BAED1_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21357150/",
+    "rating": null
+  },
+  {
+    "title": "Avengers: Doomsday",
+    "start": "2026-12-26T11:30:00-08:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19791?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt21357150/",
+    "rating": null
+  },
+  {
+    "title": "WERWULF",
+    "start": "2026-12-26T11:45:00-08:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F69866D03AD3227F2CCDC26197494A94DA0CC76EF16DAB6A201AB374643E3797_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "Dune: Part Three",
+    "start": "2026-12-26T12:00:00-08:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19792?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001656&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "Dune: Part Three",
+    "start": "2026-12-26T12:15:00-08:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/dune-part-three",
+    "poster": "https://indy-systems.imgix.net/9hj9px0aken5a9xfy5sy8m5mzcqi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "DUNE PART THREE",
+    "start": "2026-12-26T12:15:00-08:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/1BCBCF26DE56025F33B742CBD236F386FF72E51085AC934DFD6A12FE5F45FE24_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "DUNE PART THREE",
+    "start": "2026-12-26T12:15:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/1BCBCF26DE56025F33B742CBD236F386FF72E51085AC934DFD6A12FE5F45FE24_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "Werwulf",
+    "start": "2026-12-26T12:30:00-08:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/werwulf",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0c68180d-3b2a-4921-9977-58921a09174d.jpg",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "The Debut",
+    "start": "2026-12-26T13:00:00-08:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-debut",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_318a2cc2-20f0-4d73-b608-ed000f74fc59.jpg",
+    "imdb": "https://www.imdb.com/title/tt34718200/",
+    "rating": 7.8
+  },
+  {
+    "title": "WERWULF in 35mm",
+    "start": "2026-12-26T13:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/werwulf-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/werwulf.jpg?fit=1280%2C809&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "Fantasia (1940)",
+    "start": "2026-12-26T14:00:00-07:00",
+    "theater": "PAM CUT / Whitsell",
+    "url": "https://portlandartmuseum.org/event/fantasia-1940/",
+    "poster": "https://portlandartmuseum.org/wp-content/uploads/2026/10/Fantasia-scaled.jpg",
+    "imdb": "https://www.imdb.com/title/tt0032455/",
+    "rating": 7.7
+  },
+  {
+    "title": "AVENGERS: DOOMSDAY",
+    "start": "2026-12-26T13:30:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/C8D9E8DBF7E3A535CA309E4F16A4971039BFFCCFA8B8DA2DEE2FBAD47F8BAED1_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21357150/",
+    "rating": null
+  },
+  {
+    "title": "DUNE: PART 3 in 70mm",
+    "start": "2026-12-26T14:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/dune-part-3-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/dune33.jpg?fit=540%2C237&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "WERWULF",
+    "start": "2026-12-26T14:00:00-08:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/werwulf",
+    "poster": "https://indy-systems.imgix.net/emht4syqnpau8b81ovcyybodyvsx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "THE DEBUT",
+    "start": "2026-12-26T14:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-debut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/11/debut1.jpg?fit=1280%2C853&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt34718200/",
+    "rating": 7.8
+  },
+  {
+    "title": "The Big Lebowski",
+    "start": "2026-12-26T15:00:00-08:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/the-big-lebowski-38/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2024/10/big-lebowski.jpeg",
+    "imdb": "https://www.imdb.com/title/tt0118715/",
+    "rating": 8.1
+  },
+  {
+    "title": "WERWULF",
+    "start": "2026-12-26T15:15:00-08:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F69866D03AD3227F2CCDC26197494A94DA0CC76EF16DAB6A201AB374643E3797_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "Avengers: Doomsday",
+    "start": "2026-12-26T15:15:00-08:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19793?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt21357150/",
+    "rating": null
+  },
+  {
+    "title": "Werwulf",
+    "start": "2026-12-26T15:30:00-08:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/werwulf",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0c68180d-3b2a-4921-9977-58921a09174d.jpg",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "Dune: Part Three",
+    "start": "2026-12-26T15:30:00-08:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/dune-part-three",
+    "poster": "https://indy-systems.imgix.net/9hj9px0aken5a9xfy5sy8m5mzcqi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "DUNE PART THREE",
+    "start": "2026-12-26T15:30:00-08:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/1BCBCF26DE56025F33B742CBD236F386FF72E51085AC934DFD6A12FE5F45FE24_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "DUNE PART THREE",
+    "start": "2026-12-26T15:35:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/1BCBCF26DE56025F33B742CBD236F386FF72E51085AC934DFD6A12FE5F45FE24_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "Dune: Part Three",
+    "start": "2026-12-26T15:45:00-08:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19794?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001656&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "WERWULF in 35mm",
+    "start": "2026-12-26T16:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/werwulf-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/werwulf.jpg?fit=1280%2C809&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "The Debut",
+    "start": "2026-12-26T16:15:00-08:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-debut",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_318a2cc2-20f0-4d73-b608-ed000f74fc59.jpg",
+    "imdb": "https://www.imdb.com/title/tt34718200/",
+    "rating": 7.8
+  },
+  {
+    "title": "Werwulf",
+    "start": "2026-12-26T16:25:00-08:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/werwulf",
+    "poster": "https://indy-systems.imgix.net/wqqn0diq282zvxjowsisbo12tfbw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "WERWULF",
+    "start": "2026-12-26T16:50:00-08:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/werwulf",
+    "poster": "https://indy-systems.imgix.net/emht4syqnpau8b81ovcyybodyvsx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "THE DEBUT",
+    "start": "2026-12-26T17:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-debut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/11/debut1.jpg?fit=1280%2C853&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt34718200/",
+    "rating": 7.8
+  },
+  {
+    "title": "DUNE PART THREE",
+    "start": "2026-12-26T17:20:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/1BCBCF26DE56025F33B742CBD236F386FF72E51085AC934DFD6A12FE5F45FE24_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "DUNE: PART 3 in 70mm",
+    "start": "2026-12-26T18:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/dune-part-3-in-70mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/08/dune33.jpg?fit=540%2C237&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "AVENGERS: DOOMSDAY",
+    "start": "2026-12-26T18:00:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/C8D9E8DBF7E3A535CA309E4F16A4971039BFFCCFA8B8DA2DEE2FBAD47F8BAED1_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21357150/",
+    "rating": null
+  },
+  {
+    "title": "WERWULF",
+    "start": "2026-12-26T18:45:00-08:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F69866D03AD3227F2CCDC26197494A94DA0CC76EF16DAB6A201AB374643E3797_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "Werwulf",
+    "start": "2026-12-26T18:45:00-08:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/werwulf",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0c68180d-3b2a-4921-9977-58921a09174d.jpg",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "Dune: Part Three",
+    "start": "2026-12-26T18:45:00-08:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/dune-part-three",
+    "poster": "https://indy-systems.imgix.net/9hj9px0aken5a9xfy5sy8m5mzcqi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "DUNE PART THREE",
+    "start": "2026-12-26T18:45:00-08:00",
+    "theater": "Moreland Theater",
+    "url": "https://app.formovietickets.com/?id=moreland&rtn=697452",
+    "poster": "https://app.formovietickets.com/schedules/graphics/1BCBCF26DE56025F33B742CBD236F386FF72E51085AC934DFD6A12FE5F45FE24_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "The Debut",
+    "start": "2026-12-26T19:00:00-08:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-debut",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_318a2cc2-20f0-4d73-b608-ed000f74fc59.jpg",
+    "imdb": "https://www.imdb.com/title/tt34718200/",
+    "rating": 7.8
+  },
+  {
+    "title": "The Big Lebowski",
+    "start": "2026-12-26T19:00:00-08:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/the-big-lebowski-39/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2024/10/big-lebowski.jpeg",
+    "imdb": "https://www.imdb.com/title/tt0118715/",
+    "rating": 8.1
+  },
+  {
+    "title": "WERWULF in 35mm",
+    "start": "2026-12-26T19:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/werwulf-in-35mm/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/10/werwulf.jpg?fit=1280%2C809&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "Miniplex Rental \u2013 Specialty",
+    "start": "2026-12-26T19:00:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://moviemadness.org/show/miniplex-rental-specialty/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/04/therulesofattraction.jpg?fit=540%2C304&ssl=1",
+    "imdb": null,
+    "rating": null
+  },
+  {
+    "title": "Werwulf",
+    "start": "2026-12-26T19:00:00-08:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/werwulf",
+    "poster": "https://indy-systems.imgix.net/wqqn0diq282zvxjowsisbo12tfbw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "DUNE PART THREE",
+    "start": "2026-12-26T19:00:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/1BCBCF26DE56025F33B742CBD236F386FF72E51085AC934DFD6A12FE5F45FE24_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "Avengers: Doomsday",
+    "start": "2026-12-26T19:15:00-08:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19795?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001664&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt21357150/",
+    "rating": null
+  },
+  {
+    "title": "THE DEBUT",
+    "start": "2026-12-26T19:30:00-08:00",
+    "theater": "Hollywood Theatre",
+    "url": "https://hollywoodtheatre.org/show/the-debut/",
+    "poster": "https://i0.wp.com/hollywoodtheatre.org/wp-content/uploads/2026/11/debut1.jpg?fit=1280%2C853&ssl=1",
+    "imdb": "https://www.imdb.com/title/tt34718200/",
+    "rating": 7.8
+  },
+  {
+    "title": "WERWULF",
+    "start": "2026-12-26T19:30:00-08:00",
+    "theater": "Kiggins Theatre",
+    "url": "https://www.kigginstheatre.com/movie/werwulf",
+    "poster": "https://indy-systems.imgix.net/emht4syqnpau8b81ovcyybodyvsx?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "Dune: Part Three",
+    "start": "2026-12-26T19:45:00-08:00",
+    "theater": "St. Johns Cinema",
+    "url": "https://ticketing.useast.veezi.com/purchase/19796?siteToken=wa27tvhkay8eqf8wswr30vk6xg",
+    "poster": "https://ticketing.useast.veezi.com/Media/Poster?siteToken=wa27tvhkay8eqf8wswr30vk6xg&code=0000001656&isHighRes=true",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "AVENGERS: DOOMSDAY",
+    "start": "2026-12-26T20:45:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/C8D9E8DBF7E3A535CA309E4F16A4971039BFFCCFA8B8DA2DEE2FBAD47F8BAED1_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt21357150/",
+    "rating": null
+  },
+  {
+    "title": "WERWULF",
+    "start": "2026-12-26T21:25:00-08:00",
+    "theater": "Academy Theater",
+    "url": "https://app.formovietickets.com/?id=academytheater&rtn=862660",
+    "poster": "https://app.formovietickets.com/schedules/graphics/F69866D03AD3227F2CCDC26197494A94DA0CC76EF16DAB6A201AB374643E3797_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "The Debut",
+    "start": "2026-12-26T21:30:00-08:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/the-debut",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_318a2cc2-20f0-4d73-b608-ed000f74fc59.jpg",
+    "imdb": "https://www.imdb.com/title/tt34718200/",
+    "rating": 7.8
+  },
+  {
+    "title": "Dune: Part Three",
+    "start": "2026-12-26T21:40:00-08:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/dune-part-three",
+    "poster": "https://indy-systems.imgix.net/9hj9px0aken5a9xfy5sy8m5mzcqi?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "Werwulf",
+    "start": "2026-12-26T21:50:00-08:00",
+    "theater": "Cinema 21",
+    "url": "https://www.cinema21.com/movie/werwulf",
+    "poster": "https://img.vwassets.com/cinema21.com/vertical_0c68180d-3b2a-4921-9977-58921a09174d.jpg",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "Werwulf",
+    "start": "2026-12-26T22:00:00-08:00",
+    "theater": "Living Room Theaters",
+    "url": "https://pdx.livingroomtheaters.com/movie/werwulf",
+    "poster": "https://indy-systems.imgix.net/wqqn0diq282zvxjowsisbo12tfbw?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress",
+    "imdb": "https://www.imdb.com/title/tt35514120/",
+    "rating": null
+  },
+  {
+    "title": "DUNE PART THREE",
+    "start": "2026-12-26T22:15:00-08:00",
+    "theater": "Studio One",
+    "url": "https://app.formovietickets.com/?id=studioone&rtn=895645",
+    "poster": "https://app.formovietickets.com/schedules/graphics/1BCBCF26DE56025F33B742CBD236F386FF72E51085AC934DFD6A12FE5F45FE24_200_300_85.jpg",
+    "imdb": "https://www.imdb.com/title/tt31378509/",
+    "rating": null
+  },
+  {
+    "title": "The Rocky Horror Picture Show with Thom Hilton",
+    "start": "2026-12-26T23:00:00-08:00",
+    "theater": "Clinton Street Theater",
+    "url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-thom-hilton-23/",
+    "poster": "https://cstpdx.com/wp-content/uploads/2023/07/rhps-virgins.webp",
+    "imdb": null,
     "rating": null
   }
 ]
